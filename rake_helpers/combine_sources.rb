@@ -291,7 +291,7 @@ namespace :merge_sources do
 
       # Only calculate the gender if we don't already have it
       # TODO: warn if the GB data differs from the pre-existing version
-      merged_rows.select { |r| r[:gender].to_s.empty? }.each do |r|
+      merged_rows.each do |r|
         votes = (gender[ r[:uuid] ] or next).first
         next if votes[:total].to_i < min_selections
         winner = votes.reject { |k, _| %i(uuid total).include? k }.find { |k, v| (v.to_f / votes[:total].to_f) > vote_threshold } or begin
@@ -299,8 +299,14 @@ namespace :merge_sources do
           next
         end
         next if winner.first == :skip
-        r[:gender] = winner.first.to_s 
-        gb_votes += 1
+        if r[:gender].to_s.empty?
+          r[:gender] = winner.first.to_s 
+          gb_votes += 1
+        else
+          if r[:gender] != winner.first.to_s
+            warn "Gender difference for #{r[:name]} (#{r[:uuid]}) — source: #{r[:gender]} | GB: #{winner.first.to_s}"
+          end
+        end
       end
       puts "⚥ #{gb_votes}".cyan 
     end
