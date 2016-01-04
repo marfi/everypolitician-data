@@ -299,14 +299,11 @@ namespace :merge_sources do
           next
         end
         next if winner.first == :skip
-        if r[:gender].to_s.empty?
-          r[:gender] = winner.first.to_s 
-          gb_votes += 1
-        else
-          if r[:gender] != winner.first.to_s
-            warn "Gender difference for #{r[:name]} (#{r[:uuid]}) — source: #{r[:gender]} | GB: #{winner.first.to_s}"
-          end
+        if !r[:gender].to_s.empty? && r[:gender] != winner.first.to_s
+          warn "Gender difference for #{r[:name]} (#{r[:uuid]}) — source: #{r[:gender]} | GB: #{winner.first.to_s}"
         end
+        r[:gender] = winner.first.to_s 
+        gb_votes += 1
       end
       puts "⚥ #{gb_votes}".cyan 
     end
