@@ -1140,11 +1140,11 @@
         "slug": "Assembly",
         "sources_directory": "data/British_Virgin_Islands/Assembly/sources",
         "popolo": "data/British_Virgin_Islands/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dde8c54/data/British_Virgin_Islands/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8c44225/data/British_Virgin_Islands/Assembly/ep-popolo-v1.0.json",
         "names": "data/British_Virgin_Islands/Assembly/names.csv",
-        "lastmod": "1456589941",
+        "lastmod": "1456595492",
         "person_count": 23,
-        "sha": "dde8c54",
+        "sha": "8c44225",
         "legislative_periods": [
           {
             "id": "term/2015",
@@ -1152,7 +1152,7 @@
             "start_date": "2015",
             "slug": "2015",
             "csv": "data/British_Virgin_Islands/Assembly/term-2015.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dde8c54/data/British_Virgin_Islands/Assembly/term-2015.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8c44225/data/British_Virgin_Islands/Assembly/term-2015.csv"
           },
           {
             "end_date": "2015",
@@ -1161,7 +1161,7 @@
             "start_date": "2011",
             "slug": "2011",
             "csv": "data/British_Virgin_Islands/Assembly/term-2011.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dde8c54/data/British_Virgin_Islands/Assembly/term-2011.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8c44225/data/British_Virgin_Islands/Assembly/term-2011.csv"
           },
           {
             "end_date": "2011",
@@ -1170,7 +1170,7 @@
             "start_date": "2007",
             "slug": "2007",
             "csv": "data/British_Virgin_Islands/Assembly/term-2007.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dde8c54/data/British_Virgin_Islands/Assembly/term-2007.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8c44225/data/British_Virgin_Islands/Assembly/term-2007.csv"
           }
         ]
       },
@@ -8146,11 +8146,11 @@
         "slug": "National-Assembly",
         "sources_directory": "data/South_Korea/National_Assembly/sources",
         "popolo": "data/South_Korea/National_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5e1905a/data/South_Korea/National_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a0cde9a/data/South_Korea/National_Assembly/ep-popolo-v1.0.json",
         "names": "data/South_Korea/National_Assembly/names.csv",
-        "lastmod": "1456115725",
+        "lastmod": "1456596052",
         "person_count": 297,
-        "sha": "5e1905a",
+        "sha": "a0cde9a",
         "legislative_periods": [
           {
             "id": "term/19",
@@ -8158,7 +8158,7 @@
             "start_date": "2012-05-30",
             "slug": "19",
             "csv": "data/South_Korea/National_Assembly/term-19.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5e1905a/data/South_Korea/National_Assembly/term-19.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a0cde9a/data/South_Korea/National_Assembly/term-19.csv"
           }
         ]
       }
