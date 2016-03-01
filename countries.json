@@ -2394,11 +2394,11 @@
         "slug": "Riigikogu",
         "sources_directory": "data/Estonia/Riigikogu/sources",
         "popolo": "data/Estonia/Riigikogu/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/765cf39/data/Estonia/Riigikogu/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d87cee4/data/Estonia/Riigikogu/ep-popolo-v1.0.json",
         "names": "data/Estonia/Riigikogu/names.csv",
-        "lastmod": "1456819190",
+        "lastmod": "1456853494",
         "person_count": 192,
-        "sha": "765cf39",
+        "sha": "d87cee4",
         "legislative_periods": [
           {
             "id": "term/13",
@@ -2407,7 +2407,7 @@
             "wikidata": "Q20530392",
             "slug": "13",
             "csv": "data/Estonia/Riigikogu/term-13.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/765cf39/data/Estonia/Riigikogu/term-13.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d87cee4/data/Estonia/Riigikogu/term-13.csv"
           },
           {
             "end_date": "2015-03-23",
@@ -2417,7 +2417,7 @@
             "wikidata": "Q967549",
             "slug": "12",
             "csv": "data/Estonia/Riigikogu/term-12.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/765cf39/data/Estonia/Riigikogu/term-12.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d87cee4/data/Estonia/Riigikogu/term-12.csv"
           }
         ]
       }
@@ -8002,11 +8002,11 @@
         "slug": "National-Assembly",
         "sources_directory": "data/Slovenia/National_Assembly/sources",
         "popolo": "data/Slovenia/National_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1f712fa/data/Slovenia/National_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6827b9a/data/Slovenia/National_Assembly/ep-popolo-v1.0.json",
         "names": "data/Slovenia/National_Assembly/names.csv",
-        "lastmod": "1456635233",
+        "lastmod": "1456857879",
         "person_count": 90,
-        "sha": "1f712fa",
+        "sha": "6827b9a",
         "legislative_periods": [
           {
             "id": "term/7",
@@ -8014,7 +8014,7 @@
             "start_date": "2014-08-01",
             "slug": "7",
             "csv": "data/Slovenia/National_Assembly/term-7.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1f712fa/data/Slovenia/National_Assembly/term-7.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6827b9a/data/Slovenia/National_Assembly/term-7.csv"
           }
         ]
       }
@@ -10044,11 +10044,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Wales/Assembly/sources",
         "popolo": "data/Wales/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/34c40d2/data/Wales/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5608a35/data/Wales/Assembly/ep-popolo-v1.0.json",
         "names": "data/Wales/Assembly/names.csv",
-        "lastmod": "1456775519",
+        "lastmod": "1456853682",
         "person_count": 63,
-        "sha": "34c40d2",
+        "sha": "5608a35",
         "legislative_periods": [
           {
             "id": "term/4",
@@ -10056,7 +10056,7 @@
             "start_date": "2011-09-15",
             "slug": "4",
             "csv": "data/Wales/Assembly/term-4.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/34c40d2/data/Wales/Assembly/term-4.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5608a35/data/Wales/Assembly/term-4.csv"
           }
         ]
       }
