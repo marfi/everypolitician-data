@@ -2394,11 +2394,11 @@
         "slug": "Riigikogu",
         "sources_directory": "data/Estonia/Riigikogu/sources",
         "popolo": "data/Estonia/Riigikogu/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/765cf39/data/Estonia/Riigikogu/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d87cee4/data/Estonia/Riigikogu/ep-popolo-v1.0.json",
         "names": "data/Estonia/Riigikogu/names.csv",
-        "lastmod": "1456819190",
+        "lastmod": "1456853494",
         "person_count": 192,
-        "sha": "765cf39",
+        "sha": "d87cee4",
         "legislative_periods": [
           {
             "id": "term/13",
@@ -2407,7 +2407,7 @@
             "wikidata": "Q20530392",
             "slug": "13",
             "csv": "data/Estonia/Riigikogu/term-13.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/765cf39/data/Estonia/Riigikogu/term-13.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d87cee4/data/Estonia/Riigikogu/term-13.csv"
           },
           {
             "end_date": "2015-03-23",
@@ -2417,7 +2417,7 @@
             "wikidata": "Q967549",
             "slug": "12",
             "csv": "data/Estonia/Riigikogu/term-12.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/765cf39/data/Estonia/Riigikogu/term-12.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d87cee4/data/Estonia/Riigikogu/term-12.csv"
           }
         ]
       }
@@ -2545,19 +2545,28 @@
         "slug": "Logting",
         "sources_directory": "data/Faroe_Islands/Logting/sources",
         "popolo": "data/Faroe_Islands/Logting/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8bb682f/data/Faroe_Islands/Logting/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/491e40f/data/Faroe_Islands/Logting/ep-popolo-v1.0.json",
         "names": "data/Faroe_Islands/Logting/names.csv",
-        "lastmod": "1453302279",
-        "person_count": 98,
-        "sha": "8bb682f",
+        "lastmod": "1456860092",
+        "person_count": 105,
+        "sha": "491e40f",
         "legislative_periods": [
           {
+            "id": "term/2015",
+            "name": "Løgting 2015–",
+            "start_date": "2015",
+            "slug": "2015",
+            "csv": "data/Faroe_Islands/Logting/term-2015.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/491e40f/data/Faroe_Islands/Logting/term-2015.csv"
+          },
+          {
+            "end_date": "2015",
             "id": "term/2011",
-            "name": "Løgting 2011–",
+            "name": "Løgting 2011–2015",
             "start_date": "2011",
             "slug": "2011",
             "csv": "data/Faroe_Islands/Logting/term-2011.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8bb682f/data/Faroe_Islands/Logting/term-2011.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/491e40f/data/Faroe_Islands/Logting/term-2011.csv"
           },
           {
             "end_date": "2011",
@@ -2566,7 +2575,7 @@
             "start_date": "2008",
             "slug": "2008",
             "csv": "data/Faroe_Islands/Logting/term-2008.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8bb682f/data/Faroe_Islands/Logting/term-2008.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/491e40f/data/Faroe_Islands/Logting/term-2008.csv"
           },
           {
             "end_date": "2008",
@@ -2575,7 +2584,7 @@
             "start_date": "2004",
             "slug": "2004",
             "csv": "data/Faroe_Islands/Logting/term-2004.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8bb682f/data/Faroe_Islands/Logting/term-2004.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/491e40f/data/Faroe_Islands/Logting/term-2004.csv"
           },
           {
             "end_date": "2004",
@@ -2584,7 +2593,7 @@
             "start_date": "2002",
             "slug": "2002",
             "csv": "data/Faroe_Islands/Logting/term-2002.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8bb682f/data/Faroe_Islands/Logting/term-2002.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/491e40f/data/Faroe_Islands/Logting/term-2002.csv"
           },
           {
             "end_date": "2002",
@@ -2593,7 +2602,7 @@
             "start_date": "1998",
             "slug": "1998",
             "csv": "data/Faroe_Islands/Logting/term-1998.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8bb682f/data/Faroe_Islands/Logting/term-1998.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/491e40f/data/Faroe_Islands/Logting/term-1998.csv"
           },
           {
             "end_date": "1998",
@@ -2602,7 +2611,7 @@
             "start_date": "1994",
             "slug": "1994",
             "csv": "data/Faroe_Islands/Logting/term-1994.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8bb682f/data/Faroe_Islands/Logting/term-1994.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/491e40f/data/Faroe_Islands/Logting/term-1994.csv"
           },
           {
             "end_date": "1994",
@@ -2611,7 +2620,7 @@
             "start_date": "1990",
             "slug": "1990",
             "csv": "data/Faroe_Islands/Logting/term-1990.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8bb682f/data/Faroe_Islands/Logting/term-1990.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/491e40f/data/Faroe_Islands/Logting/term-1990.csv"
           }
         ]
       }
@@ -10044,11 +10053,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Wales/Assembly/sources",
         "popolo": "data/Wales/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/34c40d2/data/Wales/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5608a35/data/Wales/Assembly/ep-popolo-v1.0.json",
         "names": "data/Wales/Assembly/names.csv",
-        "lastmod": "1456775519",
+        "lastmod": "1456853682",
         "person_count": 63,
-        "sha": "34c40d2",
+        "sha": "5608a35",
         "legislative_periods": [
           {
             "id": "term/4",
@@ -10056,7 +10065,7 @@
             "start_date": "2011-09-15",
             "slug": "4",
             "csv": "data/Wales/Assembly/term-4.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/34c40d2/data/Wales/Assembly/term-4.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5608a35/data/Wales/Assembly/term-4.csv"
           }
         ]
       }
