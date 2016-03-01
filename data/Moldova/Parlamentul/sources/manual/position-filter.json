@@ -1,0 +1,45 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q18390049",
+        "name": "Member of the parliament of Moldova"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+      {
+        "id": "Q4376680",
+        "name": "President of the Moldovan Parliament"
+      }
+    ],
+    "other_legislatures": [
+
+    ],
+    "executive": [
+      {
+        "id": "Q1769526",
+        "name": "Prime Minister of Moldova"
+      },
+      {
+        "id": "Q312271",
+        "name": "President of Moldova"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "unknown": {
+    "unknown": [
+
+    ]
+  }
+}
