@@ -228,6 +228,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Alex Krieps",
+          "note": "multilingual"
+        },
+        {
           "lang": "nn",
           "name": "Alexandre Krieps",
           "note": "multilingual"
@@ -391,6 +396,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "André Bauler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
           "name": "André Bauler",
           "note": "multilingual"
         },
@@ -1033,6 +1043,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Claude_Wiseler"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Claude_Wiseler"
         },
@@ -1196,6 +1210,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fr",
+          "name": "Cécile Hemmen",
+          "note": "multilingual"
+        },
+        {
           "lang": "lb",
           "name": "Cécile Hemmen",
           "note": "multilingual"
@@ -1238,10 +1257,6 @@
       "name": "David Wagner",
       "other_names": [
         {
-          "name": "David Wagner (Politiker)",
-          "note": "alternate"
-        },
-        {
           "lang": "en",
           "name": "David Wagner",
           "note": "multilingual"
@@ -1253,7 +1268,7 @@
         },
         {
           "lang": "lb",
-          "name": "David Wagner (Politiker)",
+          "name": "David Wagner",
           "note": "multilingual"
         },
         {
@@ -1535,6 +1550,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fr",
+          "name": "Eugène Berger",
+          "note": "multilingual"
+        },
+        {
           "lang": "lb",
           "name": "Eugène Berger",
           "note": "multilingual"
@@ -1702,6 +1722,11 @@
         },
         {
           "lang": "en",
+          "name": "Fränk Arndt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
           "name": "Fränk Arndt",
           "note": "multilingual"
         },
@@ -1943,6 +1968,10 @@
         {
           "note": "Wikipedia (lb)",
           "url": "https://lb.wikipedia.org/wiki/Gaston_Gibéryen"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Gaston_Gibéryen"
         }
       ],
       "name": "Gast Gibéryen",
@@ -1993,6 +2022,11 @@
         },
         {
           "lang": "nn",
+          "name": "Gaston Gibéryen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
           "name": "Gaston Gibéryen",
           "note": "multilingual"
         },
@@ -2695,6 +2729,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fr",
+          "name": "Joëlle Elvinger",
+          "note": "multilingual"
+        },
+        {
           "lang": "lb",
           "name": "Joëlle Elvinger",
           "note": "multilingual"
@@ -3212,10 +3251,6 @@
       "name": "Marc Angel",
       "other_names": [
         {
-          "name": "Marc Angel (Politiker)",
-          "note": "alternate"
-        },
-        {
           "lang": "en",
           "name": "Marc Angel",
           "note": "multilingual"
@@ -3227,7 +3262,7 @@
         },
         {
           "lang": "lb",
-          "name": "Marc Angel (Politiker)",
+          "name": "Marc Angel",
           "note": "multilingual"
         },
         {
