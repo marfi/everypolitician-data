@@ -5200,6 +5200,10 @@
           "scheme": "riigikogu"
         },
         {
+          "identifier": "212543",
+          "scheme": "sfdb"
+        },
+        {
           "identifier": "Q3740790",
           "scheme": "wikidata"
         }
@@ -17719,6 +17723,11 @@
         },
         {
           "lang": "et",
+          "name": "Siret Kotka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
           "name": "Siret Kotka",
           "note": "multilingual"
         }
