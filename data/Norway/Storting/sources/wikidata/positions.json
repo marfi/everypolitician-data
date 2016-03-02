@@ -33,6 +33,10 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway"
+    },
+    {
+      "id": "Q6514745",
+      "label": "Minister of Transport and Communications"
     }
   ],
   "Q4969169": [
@@ -202,6 +206,10 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway"
+    },
+    {
+      "id": "Q6514745",
+      "label": "Minister of Transport and Communications"
     }
   ],
   "Q11995421": [
@@ -318,6 +326,10 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway"
+    },
+    {
+      "id": "Q6514745",
+      "label": "Minister of Transport and Communications"
     }
   ],
   "Q7845450": [
@@ -412,6 +424,10 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway"
+    },
+    {
+      "id": "Q6514745",
+      "label": "Minister of Transport and Communications"
     }
   ],
   "Q1538317": [
@@ -1149,6 +1165,10 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway"
+    },
+    {
+      "id": "Q6514745",
+      "label": "Minister of Transport and Communications"
     }
   ],
   "Q11979720": [
@@ -1199,6 +1219,10 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway"
+    },
+    {
+      "id": "Q6514745",
+      "label": "Minister of Transport and Communications"
     }
   ],
   "Q15079451": [
@@ -1912,6 +1936,10 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway"
+    },
+    {
+      "id": "Q6514745",
+      "label": "Minister of Transport and Communications"
     }
   ],
   "Q249156": [
@@ -2153,6 +2181,10 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway"
+    },
+    {
+      "id": "Q6514745",
+      "label": "Minister of Transport and Communications"
     }
   ],
   "Q15078687": [
@@ -3733,6 +3765,10 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway"
+    },
+    {
+      "id": "Q6514745",
+      "label": "Minister of Transport and Communications"
     }
   ],
   "Q1157171": [
@@ -4209,6 +4245,14 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway"
+    },
+    {
+      "id": "Q6514745",
+      "label": "Minister of Transport and Communications"
+    },
+    {
+      "id": "Q6514745",
+      "label": "Minister of Transport and Communications"
     }
   ],
   "Q11977297": [
@@ -4525,6 +4569,10 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway"
+    },
+    {
+      "id": "Q6514745",
+      "label": "Minister of Transport and Communications"
     }
   ],
   "Q14372548": [
@@ -4846,8 +4894,8 @@
   ],
   "Q329776": [
     {
-      "id": "Q1769657",
-      "label": "Ministry of Education and Research"
+      "id": "Q22981866",
+      "label": "Minister of Education and Research"
     },
     {
       "id": "Q9045502",
@@ -4918,6 +4966,10 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway"
+    },
+    {
+      "id": "Q6514745",
+      "label": "Minister of Transport and Communications"
     }
   ],
   "Q4753933": [
@@ -4942,6 +4994,10 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway"
+    },
+    {
+      "id": "Q6514745",
+      "label": "Minister of Transport and Communications"
     }
   ],
   "Q4803713": [
@@ -5516,6 +5572,10 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway"
+    },
+    {
+      "id": "Q6514745",
+      "label": "Minister of Transport and Communications"
     }
   ],
   "Q4585987": [
@@ -5620,6 +5680,14 @@
         "P1365": "V. J. Sukselainen",
         "P1366": "Olof Palme"
       }
+    },
+    {
+      "id": "Q6514745",
+      "label": "Minister of Transport and Communications"
+    },
+    {
+      "id": "Q6514745",
+      "label": "Minister of Transport and Communications"
     }
   ],
   "Q7796180": [
@@ -5794,6 +5862,10 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway"
+    },
+    {
+      "id": "Q6514745",
+      "label": "Minister of Transport and Communications"
     }
   ],
   "Q4768071": [
@@ -6160,6 +6232,10 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway"
+    },
+    {
+      "id": "Q6514745",
+      "label": "Minister of Transport and Communications"
     }
   ],
   "Q7166781": [
@@ -7054,6 +7130,10 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway"
+    },
+    {
+      "id": "Q6514745",
+      "label": "Minister of Transport and Communications"
     }
   ],
   "Q16760921": [
@@ -7170,8 +7250,8 @@
       "label": "member of the Parliament of Norway"
     },
     {
-      "id": "Q83307",
-      "label": "minister",
+      "id": "Q3437006",
+      "label": "Minister of Local Government and Regional Development",
       "qualifiers": {
         "P580": "2013-10-16"
       }
@@ -7321,6 +7401,10 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway"
+    },
+    {
+      "id": "Q6514745",
+      "label": "Minister of Transport and Communications"
     }
   ],
   "Q11983356": [
@@ -7379,6 +7463,10 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway"
+    },
+    {
+      "id": "Q6514745",
+      "label": "Minister of Transport and Communications"
     }
   ],
   "Q15230308": [
