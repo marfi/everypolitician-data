@@ -7112,11 +7112,11 @@
         "slug": "Duma",
         "sources_directory": "data/Russia/Duma/sources",
         "popolo": "data/Russia/Duma/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/70478a6/data/Russia/Duma/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/65006ee/data/Russia/Duma/ep-popolo-v1.0.json",
         "names": "data/Russia/Duma/names.csv",
         "lastmod": "1456897500",
         "person_count": 461,
-        "sha": "70478a6",
+        "sha": "65006ee",
         "legislative_periods": [
           {
             "id": "term/6",
@@ -7124,7 +7124,7 @@
             "start_date": "2011-12-04",
             "slug": "6",
             "csv": "data/Russia/Duma/term-6.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/70478a6/data/Russia/Duma/term-6.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/65006ee/data/Russia/Duma/term-6.csv"
           }
         ]
       }
@@ -9406,11 +9406,11 @@
         "slug": "Commons",
         "sources_directory": "data/UK/Commons/sources",
         "popolo": "data/UK/Commons/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2b056fc/data/UK/Commons/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a6f089e/data/UK/Commons/ep-popolo-v1.0.json",
         "names": "data/UK/Commons/names.csv",
-        "lastmod": "1456706783",
+        "lastmod": "1456901881",
         "person_count": 1338,
-        "sha": "2b056fc",
+        "sha": "a6f089e",
         "legislative_periods": [
           {
             "id": "term/56",
@@ -9419,7 +9419,7 @@
             "wikidata": "Q21084473",
             "slug": "56",
             "csv": "data/UK/Commons/term-56.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2b056fc/data/UK/Commons/term-56.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a6f089e/data/UK/Commons/term-56.csv"
           },
           {
             "end_date": "2015-03-30",
@@ -9429,7 +9429,7 @@
             "wikidata": "Q21084472",
             "slug": "55",
             "csv": "data/UK/Commons/term-55.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2b056fc/data/UK/Commons/term-55.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a6f089e/data/UK/Commons/term-55.csv"
           },
           {
             "end_date": "2010-04-12",
@@ -9439,7 +9439,7 @@
             "wikidata": "Q21084471",
             "slug": "54",
             "csv": "data/UK/Commons/term-54.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2b056fc/data/UK/Commons/term-54.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a6f089e/data/UK/Commons/term-54.csv"
           },
           {
             "end_date": "2005-04-11",
@@ -9449,7 +9449,7 @@
             "wikidata": "Q21084470",
             "slug": "53",
             "csv": "data/UK/Commons/term-53.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2b056fc/data/UK/Commons/term-53.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a6f089e/data/UK/Commons/term-53.csv"
           },
           {
             "end_date": "2001-05-14",
@@ -9459,7 +9459,7 @@
             "wikidata": "Q21084469",
             "slug": "52",
             "csv": "data/UK/Commons/term-52.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2b056fc/data/UK/Commons/term-52.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a6f089e/data/UK/Commons/term-52.csv"
           }
         ]
       }
