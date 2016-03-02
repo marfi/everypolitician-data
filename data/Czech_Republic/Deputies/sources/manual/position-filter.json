@@ -1,0 +1,199 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q19803234",
+        "name": "Member of the Chamber of Deputies of the Parliament of the Czech Republic"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+      {
+        "id": "Q5068060",
+        "name": "Chair of the Chamber of Deputies of the Parliament of the Czech Republic"
+      }
+    ],
+    "other_legislatures": [
+      {
+        "id": "Q17320547",
+        "name": "member of the Federal Assembly of Czechoslovakia"
+      },
+      {
+        "id": "Q27169",
+        "name": "member of the European Parliament"
+      },
+      {
+        "id": "Q18941264",
+        "name": "Member of the Senate of the Parliament of the Czech Republic"
+      }
+    ],
+    "executive": [
+      {
+        "id": "Q3409229",
+        "name": "Prime Minister of the Czech Republic"
+      },
+      {
+        "id": "Q20058795",
+        "name": "Minister of the Interior of the Czech Republic"
+      },
+      {
+        "id": "Q2501396",
+        "name": "Minister of Foreign Affairs"
+      },
+      {
+        "id": "Q2207925",
+        "name": "Finance Minister of the Czech Republic"
+      },
+      {
+        "id": "Q1819381",
+        "name": "President of the Czech Republic"
+      },
+      {
+        "id": "Q12052836",
+        "name": "Minister of Education, Youth and Sport of the Czech Republic"
+      },
+      {
+        "id": "Q17578116",
+        "name": "interior minister"
+      },
+      {
+        "id": "Q877955",
+        "name": "deputy prime minister"
+      },
+      {
+        "id": "Q12052805",
+        "name": "Czech Minister of Labour and Social Affairs"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+      {
+        "id": "Q17149373",
+        "name": "Mayor of Prague"
+      },
+      {
+        "id": "Q1161813",
+        "name": "President of the United Nations General Assembly"
+      },
+      {
+        "id": "Q1780183",
+        "name": "European Commissioner for Employment, Social Affairs and Inclusion"
+      }
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q140686",
+        "name": "chairperson",
+        "count": 6
+      },
+      {
+        "id": "Q708492",
+        "name": "councillor",
+        "count": 4
+      },
+      {
+        "id": "Q723682",
+        "name": "dean",
+        "count": 3
+      },
+      {
+        "id": "Q83307",
+        "name": "minister",
+        "count": 2
+      },
+      {
+        "id": "Q390415",
+        "name": "List of Prime Ministers of the Czech Republic",
+        "count": 2
+      },
+      {
+        "id": "Q212071",
+        "name": "rector",
+        "count": 2
+      },
+      {
+        "id": "Q30185",
+        "name": "mayor",
+        "count": 2
+      },
+      {
+        "id": "Q2113250",
+        "name": "Prorector",
+        "count": 2
+      },
+      {
+        "id": "Q2661677",
+        "name": "European Commissioner",
+        "count": 1
+      },
+      {
+        "id": "Q4657217",
+        "name": "municipal executive",
+        "count": 1
+      },
+      {
+        "id": "Q12053404",
+        "name": "Q12053404",
+        "count": 1
+      },
+      {
+        "id": "Q1162163",
+        "name": "director",
+        "count": 1
+      },
+      {
+        "id": "Q12047080",
+        "name": "Q12047080",
+        "count": 1
+      },
+      {
+        "id": "Q1055894",
+        "name": "deputy",
+        "count": 1
+      },
+      {
+        "id": "Q2529439",
+        "name": "Czech National Council",
+        "count": 1
+      },
+      {
+        "id": "Q12037736",
+        "name": "Ministry of Regional Development",
+        "count": 1
+      },
+      {
+        "id": "Q15712674",
+        "name": "Q15712674",
+        "count": 1
+      },
+      {
+        "id": "Q12052827",
+        "name": "Q12052827",
+        "count": 1
+      },
+      {
+        "id": "Q12053193",
+        "name": "Q12053193",
+        "count": 1
+      },
+      {
+        "id": "Q1346844",
+        "name": "List of Prime Ministers of Czechoslovakia",
+        "count": 1
+      },
+      {
+        "id": "Q1553961",
+        "name": "List of mayors of Prague",
+        "count": 1
+      }
+    ]
+  }
+}
