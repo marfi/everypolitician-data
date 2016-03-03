@@ -41,6 +41,12 @@
       "label": "member of the National Assembly of Hungary"
     }
   ],
+  "Q16194381": [
+    {
+      "id": "Q17590876",
+      "label": "member of the National Assembly of Hungary"
+    }
+  ],
   "Q16195353": [
     {
       "id": "Q17590876",
@@ -828,7 +834,7 @@
       "label": "member of the National Assembly of Hungary"
     }
   ],
-  "": [
+  "Q16195884": [
     {
       "id": "Q17590876",
       "label": "member of the National Assembly of Hungary"
@@ -845,6 +851,16 @@
     }
   ],
   "Q1033823": [
+    {
+      "id": "Q17590876",
+      "label": "member of the National Assembly of Hungary"
+    }
+  ],
+  "Q16186780": [
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament"
+    },
     {
       "id": "Q17590876",
       "label": "member of the National Assembly of Hungary"
