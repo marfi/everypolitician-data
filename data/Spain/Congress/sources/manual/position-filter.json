@@ -134,23 +134,8 @@
         "count": 1
       },
       {
-        "id": "Q11231196",
-        "name": "Ministry of Economy and Finance (Spain)",
-        "count": 1
-      },
-      {
-        "id": "Q7443629",
-        "name": "Second Vice President",
-        "count": 1
-      },
-      {
-        "id": "Q3058576",
-        "name": "Cabinet of Spain",
-        "count": 1
-      },
-      {
-        "id": "Q3798091",
-        "name": "List MP",
+        "id": "Q30461",
+        "name": "president",
         "count": 1
       },
       {
@@ -159,8 +144,23 @@
         "count": 1
       },
       {
-        "id": "Q30461",
-        "name": "president",
+        "id": "Q3058576",
+        "name": "Cabinet of Spain",
+        "count": 1
+      },
+      {
+        "id": "Q7443629",
+        "name": "Second Vice President",
+        "count": 1
+      },
+      {
+        "id": "Q11231196",
+        "name": "Ministry of Economy and Finance (Spain)",
+        "count": 1
+      },
+      {
+        "id": "Q3798091",
+        "name": "List MP",
         "count": 1
       },
       {
