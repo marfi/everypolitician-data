@@ -5200,6 +5200,10 @@
           "scheme": "riigikogu"
         },
         {
+          "identifier": "212543",
+          "scheme": "sfdb"
+        },
+        {
           "identifier": "Q3740790",
           "scheme": "wikidata"
         }
@@ -6966,6 +6970,12 @@
         {
           "identifier": "Q12364933",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/SDE_Jaan_Õunapuu.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/SDE_Jaan_Õunapuu.jpg"
         }
       ],
       "links": [
@@ -17719,6 +17729,11 @@
         },
         {
           "lang": "et",
+          "name": "Siret Kotka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
           "name": "Siret Kotka",
           "note": "multilingual"
         }
