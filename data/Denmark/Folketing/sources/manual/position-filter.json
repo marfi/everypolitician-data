@@ -97,13 +97,8 @@
         "count": 3
       },
       {
-        "id": "Q18913281",
-        "name": "Q18913281",
-        "count": 1
-      },
-      {
-        "id": "Q18913290",
-        "name": "Q18913290",
+        "id": "Q12336940",
+        "name": "Q12336940",
         "count": 1
       },
       {
@@ -112,8 +107,13 @@
         "count": 1
       },
       {
-        "id": "Q12336940",
-        "name": "Q12336940",
+        "id": "Q18913290",
+        "name": "Q18913290",
+        "count": 1
+      },
+      {
+        "id": "Q18913281",
+        "name": "Q18913281",
         "count": 1
       },
       {
@@ -133,7 +133,7 @@
       },
       {
         "id": "Q679997",
-        "name": "List of Prime Ministers of Greenland",
+        "name": "Prime Minister of Greenland",
         "count": 1
       }
     ]
