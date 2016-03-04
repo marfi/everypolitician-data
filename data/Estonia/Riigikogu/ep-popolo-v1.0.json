@@ -4398,6 +4398,11 @@
           "lang": "vro",
           "name": "Noolõ Erki",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "埃爾基·諾爾",
+          "note": "multilingual"
         }
       ]
     },
@@ -5198,6 +5203,10 @@
         {
           "identifier": "312dba1d-041b-4add-a41e-cebf0346434e",
           "scheme": "riigikogu"
+        },
+        {
+          "identifier": "212543",
+          "scheme": "sfdb"
         },
         {
           "identifier": "Q3740790",
@@ -6966,6 +6975,12 @@
         {
           "identifier": "Q12364933",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/SDE_Jaan_Õunapuu.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/SDE_Jaan_Õunapuu.jpg"
         }
       ],
       "links": [
@@ -17721,6 +17736,11 @@
           "lang": "et",
           "name": "Siret Kotka",
           "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Siret Kotka",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -23163,6 +23183,11 @@
         {
           "lang": "uk",
           "name": "Незалежний політик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sd",
+          "name": "آزاد",
           "note": "multilingual"
         }
       ]
