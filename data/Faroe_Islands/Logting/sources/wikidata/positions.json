@@ -9,17 +9,36 @@
       }
     }
   ],
+  "Q529900": [
+    {
+      "id": "Q21034786",
+      "label": "Prime Minister of the Faeroer"
+    }
+  ],
+  "Q272902": [
+    {
+      "id": "Q21034786",
+      "label": "Prime Minister of the Faeroer"
+    }
+  ],
+  "Q678236": [
+    {
+      "id": "Q21034786",
+      "label": "Prime Minister of the Faeroer"
+    }
+  ],
   "Q556712": [
     {
       "id": "Q21034786",
       "label": "Prime Minister of the Faeroer",
       "qualifiers": {
-        "P580": "2015-09"
+        "P580": "2015-09-15",
+        "P1365": "Kaj Leo Johannesen"
       }
     },
     {
       "id": "Q21034789",
-      "label": "Q21034789",
+      "label": "Finance Minister of the Faroe Islands",
       "qualifiers": {
         "P580": "2011-02-21",
         "P582": "2011-11-14"
@@ -27,11 +46,39 @@
     },
     {
       "id": "Q21034925",
-      "label": "Q21034925",
+      "label": "Health Minister of the Faroe Islands",
       "qualifiers": {
         "P580": "2009-07-16",
         "P582": "2011-02-21"
       }
+    }
+  ],
+  "Q757383": [
+    {
+      "id": "Q21034786",
+      "label": "Prime Minister of the Faeroer"
+    },
+    {
+      "id": "Q21034786",
+      "label": "Prime Minister of the Faeroer"
+    }
+  ],
+  "Q331931": [
+    {
+      "id": "Q21034786",
+      "label": "Prime Minister of the Faeroer"
+    }
+  ],
+  "Q763757": [
+    {
+      "id": "Q21034786",
+      "label": "Prime Minister of the Faeroer"
+    }
+  ],
+  "Q331786": [
+    {
+      "id": "Q21034786",
+      "label": "Prime Minister of the Faeroer"
     }
   ]
 }
