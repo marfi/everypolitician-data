@@ -1884,11 +1884,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Congo-Brazzaville/Assembly/sources",
         "popolo": "data/Congo-Brazzaville/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/863b8f0/data/Congo-Brazzaville/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5794cd9/data/Congo-Brazzaville/Assembly/ep-popolo-v1.0.json",
         "names": "data/Congo-Brazzaville/Assembly/names.csv",
-        "lastmod": "1450786881",
+        "lastmod": "1457188392",
         "person_count": 122,
-        "sha": "863b8f0",
+        "sha": "5794cd9",
         "legislative_periods": [
           {
             "id": "term/13",
@@ -1896,7 +1896,7 @@
             "start_date": "2012",
             "slug": "13",
             "csv": "data/Congo-Brazzaville/Assembly/term-13.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/863b8f0/data/Congo-Brazzaville/Assembly/term-13.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5794cd9/data/Congo-Brazzaville/Assembly/term-13.csv"
           }
         ]
       }
