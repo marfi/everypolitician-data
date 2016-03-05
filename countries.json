@@ -2306,11 +2306,11 @@
         "slug": "Diputados",
         "sources_directory": "data/Dominican_Republic/Diputados/sources",
         "popolo": "data/Dominican_Republic/Diputados/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/11e7b8a/data/Dominican_Republic/Diputados/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c01135e/data/Dominican_Republic/Diputados/ep-popolo-v1.0.json",
         "names": "data/Dominican_Republic/Diputados/names.csv",
-        "lastmod": "1457187836",
+        "lastmod": "1457192908",
         "person_count": 190,
-        "sha": "11e7b8a",
+        "sha": "c01135e",
         "legislative_periods": [
           {
             "id": "term/2010",
@@ -2318,7 +2318,7 @@
             "start_date": "2010",
             "slug": "2010",
             "csv": "data/Dominican_Republic/Diputados/term-2010.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/11e7b8a/data/Dominican_Republic/Diputados/term-2010.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c01135e/data/Dominican_Republic/Diputados/term-2010.csv"
           }
         ]
       }
