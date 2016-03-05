@@ -3820,11 +3820,11 @@
         "slug": "Deputies",
         "sources_directory": "data/Haiti/Deputies/sources",
         "popolo": "data/Haiti/Deputies/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/cae19ce/data/Haiti/Deputies/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5cdfe84/data/Haiti/Deputies/ep-popolo-v1.0.json",
         "names": "data/Haiti/Deputies/names.csv",
-        "lastmod": "1450787986",
+        "lastmod": "1457185256",
         "person_count": 99,
-        "sha": "cae19ce",
+        "sha": "5cdfe84",
         "legislative_periods": [
           {
             "end_date": "2015",
@@ -3833,7 +3833,7 @@
             "start_date": "2011",
             "slug": "2011",
             "csv": "data/Haiti/Deputies/term-2011.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/cae19ce/data/Haiti/Deputies/term-2011.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5cdfe84/data/Haiti/Deputies/term-2011.csv"
           }
         ]
       }
