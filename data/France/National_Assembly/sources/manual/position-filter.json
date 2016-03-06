@@ -30,44 +30,44 @@
     ],
     "executive": [
       {
-        "id": "Q1587677",
-        "name": "Prime Minister of France"
-      },
-      {
-        "id": "Q1408517",
-        "name": "Minister of Social Affairs"
-      },
-      {
-        "id": "Q20203006",
-        "name": "Minister of the Interior"
-      },
-      {
-        "id": "Q20202948",
-        "name": "Minister of the Economy, Finances and Industry"
-      },
-      {
-        "id": "Q736559",
-        "name": "Secretary of State"
-      },
-      {
-        "id": "Q3251880",
-        "name": "Minister of Health"
-      },
-      {
-        "id": "Q2726949",
-        "name": "Ministry of Higher Education and Research"
-      },
-      {
-        "id": "Q16260691",
-        "name": "Secretary of State for Digital"
-      },
-      {
         "id": "Q12436652",
         "name": "Minister of Culture"
       },
       {
         "id": "Q20203208",
         "name": "Minister of Foreign Affairs and International Development"
+      },
+      {
+        "id": "Q3251880",
+        "name": "Minister of Health"
+      },
+      {
+        "id": "Q1408517",
+        "name": "Minister of Social Affairs"
+      },
+      {
+        "id": "Q20202948",
+        "name": "Minister of the Economy, Finances and Industry"
+      },
+      {
+        "id": "Q20203006",
+        "name": "Minister of the Interior"
+      },
+      {
+        "id": "Q2726949",
+        "name": "Ministry of Higher Education and Research"
+      },
+      {
+        "id": "Q1587677",
+        "name": "Prime Minister of France"
+      },
+      {
+        "id": "Q736559",
+        "name": "Secretary of State"
+      },
+      {
+        "id": "Q16260691",
+        "name": "Secretary of State for Digital"
       }
     ],
     "party": [
@@ -75,8 +75,12 @@
     ],
     "other": [
       {
-        "id": "Q382617",
-        "name": "maire"
+        "id": "Q1433970",
+        "name": "Keeper of the Seals of France"
+      },
+      {
+        "id": "Q19822522",
+        "name": "Mayor of Nantes"
       },
       {
         "id": "Q16886136",
@@ -87,16 +91,12 @@
         "name": "councillor"
       },
       {
+        "id": "Q382617",
+        "name": "maire"
+      },
+      {
         "id": "Q30185",
         "name": "mayor"
-      },
-      {
-        "id": "Q1433970",
-        "name": "Keeper of the Seals of France"
-      },
-      {
-        "id": "Q19822522",
-        "name": "Mayor of Nantes"
       },
       {
         "id": "Q17741514",
@@ -107,38 +107,18 @@
   "unknown": {
     "unknown": [
       {
-        "id": "Q1055894",
-        "name": "deputy",
-        "count": 2
-      },
-      {
-        "id": "Q83307",
-        "name": "minister",
-        "count": 1
-      },
-      {
-        "id": "Q509816",
-        "name": "Ministry of Justice",
-        "count": 1
-      },
-      {
         "id": "Q3398872",
         "name": "Government spokesman",
         "count": 1
       },
       {
-        "id": "Q30461",
-        "name": "president",
-        "count": 1
-      },
-      {
-        "id": "Q2994376",
-        "name": "Q2994376",
-        "count": 1
-      },
-      {
         "id": "Q2602778",
         "name": "Ministry of Ecology, Sustainable Development and Energy",
+        "count": 1
+      },
+      {
+        "id": "Q509816",
+        "name": "Ministry of Justice",
         "count": 1
       },
       {
@@ -152,8 +132,28 @@
         "count": 1
       },
       {
+        "id": "Q2994376",
+        "name": "Q2994376",
+        "count": 1
+      },
+      {
         "id": "Q1398920",
         "name": "departmental council",
+        "count": 1
+      },
+      {
+        "id": "Q1055894",
+        "name": "deputy",
+        "count": 2
+      },
+      {
+        "id": "Q83307",
+        "name": "minister",
+        "count": 1
+      },
+      {
+        "id": "Q30461",
+        "name": "president",
         "count": 1
       }
     ]
