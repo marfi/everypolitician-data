@@ -39,11 +39,11 @@
         "slug": "Wolesi-Jirga",
         "sources_directory": "data/Afghanistan/Wolesi_Jirga/sources",
         "popolo": "data/Afghanistan/Wolesi_Jirga/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/207f4b4/data/Afghanistan/Wolesi_Jirga/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/73f3672/data/Afghanistan/Wolesi_Jirga/ep-popolo-v1.0.json",
         "names": "data/Afghanistan/Wolesi_Jirga/names.csv",
-        "lastmod": "1457001771",
+        "lastmod": "1457253550",
         "person_count": 228,
-        "sha": "207f4b4",
+        "sha": "73f3672",
         "legislative_periods": [
           {
             "end_date": "2015-06-22",
@@ -52,7 +52,7 @@
             "start_date": "2010",
             "slug": "2010",
             "csv": "data/Afghanistan/Wolesi_Jirga/term-2010.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/207f4b4/data/Afghanistan/Wolesi_Jirga/term-2010.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/73f3672/data/Afghanistan/Wolesi_Jirga/term-2010.csv"
           }
         ]
       }
@@ -4445,11 +4445,11 @@
         "slug": "House-of-Representatives",
         "sources_directory": "data/Jamaica/House_of_Representatives/sources",
         "popolo": "data/Jamaica/House_of_Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3e02472/data/Jamaica/House_of_Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/403998e/data/Jamaica/House_of_Representatives/ep-popolo-v1.0.json",
         "names": "data/Jamaica/House_of_Representatives/names.csv",
-        "lastmod": "1456927101",
+        "lastmod": "1457253013",
         "person_count": 63,
-        "sha": "3e02472",
+        "sha": "403998e",
         "legislative_periods": [
           {
             "id": "term/2011",
@@ -4457,7 +4457,7 @@
             "start_date": "2011",
             "slug": "2011",
             "csv": "data/Jamaica/House_of_Representatives/term-2011.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3e02472/data/Jamaica/House_of_Representatives/term-2011.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/403998e/data/Jamaica/House_of_Representatives/term-2011.csv"
           }
         ]
       }
