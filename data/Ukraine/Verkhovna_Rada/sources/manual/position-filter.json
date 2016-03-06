@@ -22,16 +22,16 @@
     ],
     "executive": [
       {
+        "id": "Q3099723",
+        "name": "Minister-President"
+      },
+      {
         "id": "Q579677",
         "name": "President of Ukraine"
       },
       {
         "id": "Q1145714",
         "name": "Prime Minister of Ukraine"
-      },
-      {
-        "id": "Q3099723",
-        "name": "Minister-President"
       }
     ],
     "party": [
@@ -54,13 +54,13 @@
         "count": 1
       },
       {
-        "id": "Q30185",
-        "name": "mayor",
+        "id": "Q2445140",
+        "name": "Ministry of Internal Affairs",
         "count": 1
       },
       {
-        "id": "Q2445140",
-        "name": "Ministry of Internal Affairs",
+        "id": "Q30185",
+        "name": "mayor",
         "count": 1
       }
     ]
