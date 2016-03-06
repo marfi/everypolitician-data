@@ -40,16 +40,7 @@
   },
   "unknown": {
     "unknown": [
-      {
-        "id": "Q82955",
-        "name": "politician",
-        "count": 1
-      },
-      {
-        "id": "Q188094",
-        "name": "economist",
-        "count": 1
-      }
+
     ]
   }
 }
