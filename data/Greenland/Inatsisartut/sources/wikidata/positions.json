@@ -21,6 +21,16 @@
       }
     }
   ],
+  "Q10566620": [
+    {
+      "id": "Q679997",
+      "label": "Prime Minister of Greenland",
+      "qualifiers": {
+        "P580": "2014-12-10",
+        "P1365": "Aleqa Hammond"
+      }
+    }
+  ],
   "Q310653": [
     {
       "id": "Q679997",
