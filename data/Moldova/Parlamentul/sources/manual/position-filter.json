@@ -22,12 +22,12 @@
     ],
     "executive": [
       {
-        "id": "Q1769526",
-        "name": "Prime Minister of Moldova"
-      },
-      {
         "id": "Q312271",
         "name": "President of Moldova"
+      },
+      {
+        "id": "Q1769526",
+        "name": "Prime Minister of Moldova"
       }
     ],
     "party": [
