@@ -17,10 +17,8 @@
     "executive": [
       {
         "id": "Q7240355",
-        "name": "Premier of Nevis",
-        "count": 1
+        "name": "Premier of Nevis"
       }
-
     ],
     "party": [
 
@@ -31,6 +29,7 @@
   },
   "unknown": {
     "unknown": [
+
     ]
   }
 }
