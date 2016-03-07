@@ -16,12 +16,12 @@
     ],
     "executive": [
       {
-        "id": "Q903751",
-        "name": "Prime Minister of Mongolia"
-      },
-      {
         "id": "Q756265",
         "name": "President of Mongolia"
+      },
+      {
+        "id": "Q903751",
+        "name": "Prime Minister of Mongolia"
       }
     ],
     "party": [
