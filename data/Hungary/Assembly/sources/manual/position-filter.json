@@ -22,6 +22,14 @@
     ],
     "executive": [
       {
+        "id": "Q18325108",
+        "name": "Minister of Defence"
+      },
+      {
+        "id": "Q17278782",
+        "name": "Minister of Youth Affairs and Sports"
+      },
+      {
         "id": "Q520765",
         "name": "President of Hungary"
       },
@@ -32,14 +40,6 @@
       {
         "id": "Q736559",
         "name": "Secretary of State"
-      },
-      {
-        "id": "Q18325108",
-        "name": "Minister of Defence"
-      },
-      {
-        "id": "Q17278782",
-        "name": "Minister of Youth Affairs and Sports"
       }
     ],
     "party": [
