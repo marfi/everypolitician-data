@@ -13,12 +13,12 @@
   "include": {
     "self": [
       {
-        "id": "Q20967973",
-        "name": "Speaker of the Parliament of Singapore"
-      },
-      {
         "id": "Q6508558",
         "name": "Leader of the Opposition"
+      },
+      {
+        "id": "Q20967973",
+        "name": "Speaker of the Parliament of Singapore"
       }
     ],
     "other_legislatures": [
@@ -26,8 +26,8 @@
     ],
     "executive": [
       {
-        "id": "Q866756",
-        "name": "Prime Minister of Singapore"
+        "id": "Q5137493",
+        "name": "Co-ordinating Minister for National Security"
       },
       {
         "id": "Q5261072",
@@ -38,20 +38,12 @@
         "name": "Emeritus Senior Minister"
       },
       {
-        "id": "Q4294509",
-        "name": "Ministry of Defence"
+        "id": "Q6118636",
+        "name": "Minister for Finance"
       },
       {
         "id": "Q256213",
         "name": "Minister for Foreign Affairs"
-      },
-      {
-        "id": "Q5137493",
-        "name": "Co-ordinating Minister for National Security"
-      },
-      {
-        "id": "Q6118636",
-        "name": "Minister for Finance"
       },
       {
         "id": "Q11393870",
@@ -60,6 +52,14 @@
       {
         "id": "Q6865922",
         "name": "Minister for Manpower"
+      },
+      {
+        "id": "Q4294509",
+        "name": "Ministry of Defence"
+      },
+      {
+        "id": "Q866756",
+        "name": "Prime Minister of Singapore"
       }
     ],
     "party": [
@@ -72,21 +72,6 @@
   "unknown": {
     "unknown": [
       {
-        "id": "Q4383964",
-        "name": "Ministry of Health",
-        "count": 1
-      },
-      {
-        "id": "Q4294727",
-        "name": "Ministry of Trade and Industry",
-        "count": 1
-      },
-      {
-        "id": "Q4294530",
-        "name": "Ministry of Education",
-        "count": 1
-      },
-      {
         "id": "Q3024268",
         "name": "Ministry of Communications and Information",
         "count": 1
@@ -97,13 +82,28 @@
         "count": 1
       },
       {
-        "id": "Q2289041",
-        "name": "Singapore Democratic Party",
+        "id": "Q4294530",
+        "name": "Ministry of Education",
+        "count": 1
+      },
+      {
+        "id": "Q4383964",
+        "name": "Ministry of Health",
         "count": 1
       },
       {
         "id": "Q15151135",
         "name": "Ministry of Social and Family Development",
+        "count": 1
+      },
+      {
+        "id": "Q4294727",
+        "name": "Ministry of Trade and Industry",
+        "count": 1
+      },
+      {
+        "id": "Q2289041",
+        "name": "Singapore Democratic Party",
         "count": 1
       }
     ]
