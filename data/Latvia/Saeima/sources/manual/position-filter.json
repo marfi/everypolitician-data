@@ -22,12 +22,12 @@
     ],
     "executive": [
       {
-        "id": "Q369500",
-        "name": "Prime Minister of Latvia"
-      },
-      {
         "id": "Q16361623",
         "name": "Minister of Agriculture"
+      },
+      {
+        "id": "Q369500",
+        "name": "Prime Minister of Latvia"
       }
     ],
     "party": [
