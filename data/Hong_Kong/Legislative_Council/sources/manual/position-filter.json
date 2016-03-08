@@ -16,12 +16,12 @@
     ],
     "other_legislatures": [
       {
-        "id": "Q13416334",
-        "name": "member of the Provisional Legislative Council"
-      },
-      {
         "id": "Q10891456",
         "name": "member of the National People's Congress"
+      },
+      {
+        "id": "Q13416334",
+        "name": "member of the Provisional Legislative Council"
       }
     ],
     "executive": [
