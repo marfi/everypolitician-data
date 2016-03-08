@@ -1,7 +1,13 @@
 {
   "persons": [
     {
-      "id": "7efbb621-7f13-47a7-9db5-735c7d83b73c",
+      "id": "fd8abb07-04bf-4bc3-89ba-33609fa12cdd",
+      "identifiers": [
+        {
+          "identifier": "adrian-v.-anamayah",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "image": "http://parliament.gov.gy/images/member_photos/4026/adrian.jpg",
       "images": [
         {
@@ -12,27 +18,6 @@
       "sources": [
         {
           "url": "http://parliament.gov.gy/about-parliament/parliamentarian/adrian-v-anamayah/"
-        }
-      ]
-    },
-    {
-      "id": "fd8abb07-04bf-4bc3-89ba-33609fa12cdd",
-      "identifiers": [
-        {
-          "identifier": "adrian-v.-anamayah",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/assets/images/no-image-person.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/assets/images/no-image-person.jpg"
-        }
-      ],
-      "name": "Adrian V. Anamayah",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/adrian-v.-anamayah/"
         }
       ]
     },
@@ -60,21 +45,6 @@
       ]
     },
     {
-      "id": "35663003-25a7-46d6-9f91-31391597333a",
-      "image": "http://parliament.gov.gy/images/member_photos/4025/mr._alister_s._charlie_m.p..jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/4025/mr._alister_s._charlie_m.p..jpg"
-        }
-      ],
-      "name": "Alister S. Charlie",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/alister-s-charlie/"
-        }
-      ]
-    },
-    {
       "id": "6d2f785f-0205-471a-830f-2d8977b40047",
       "identifiers": [
         {
@@ -91,7 +61,7 @@
       "name": "Alister S. Charlie",
       "sources": [
         {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/alister-s.-charlie/"
+          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/alister-s-charlie/"
         }
       ]
     },
@@ -144,7 +114,13 @@
     {
       "gender": "male",
       "honorific_prefix": "Mr",
-      "id": "fc8fcad2-140d-4550-bade-626fce54d743",
+      "id": "6e8d9733-022a-4836-8652-3c840778540e",
+      "identifiers": [
+        {
+          "identifier": "mr-audwin-rutherford-m.p",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "image": "http://parliament.gov.gy/images/member_photos/3896/audwyn.jpg",
       "images": [
         {
@@ -300,21 +276,6 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://parliament.gov.gy/assets/images/no-image-person.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/assets/images/no-image-person.jpg"
-        }
-      ],
-      "name": "Charles S. Ramson",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/charles-s.-ramson/"
-        }
-      ]
-    },
-    {
-      "id": "a43dd2f4-19b6-4722-9992-ef626137d5c1",
       "image": "http://parliament.gov.gy/images/member_photos/4032/charles-ramson.jpg",
       "images": [
         {
@@ -375,27 +336,6 @@
       ]
     },
     {
-      "id": "2e062152-3c11-4af3-be84-c9282d29bbed",
-      "identifiers": [
-        {
-          "identifier": "clive-r.-jagan",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/4030/dr._clive_r._jagan,_m.p..jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/4030/dr._clive_r._jagan,_m.p..jpg"
-        }
-      ],
-      "name": "Clive R. Jagan",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/clive-r.-jagan/"
-        }
-      ]
-    },
-    {
       "id": "516316a2-d035-4e76-bd27-75480056b91c",
       "identifiers": [
         {
@@ -403,21 +343,6 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://parliament.gov.gy/images/member_photos/4022/mr._collin_d._croal,_m.p..jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/4022/mr._collin_d._croal,_m.p..jpg"
-        }
-      ],
-      "name": "Collin D. Croal",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/collin-d.-croal/"
-        }
-      ]
-    },
-    {
-      "id": "8265306d-5c63-405e-b3e6-584f5922fcbf",
       "image": "http://parliament.gov.gy/images/member_photos/4022/mr._collin_d._croal,_m.p..jpg",
       "images": [
         {
@@ -501,7 +426,13 @@
     {
       "gender": "male",
       "honorific_prefix": "Mr.",
-      "id": "c33aa593-5a2e-48ba-babd-d814d9b5b449",
+      "id": "a81c2030-dc7d-4639-acc7-00939fb166a4",
+      "identifiers": [
+        {
+          "identifier": "hon-mr.-dominic-gaskin",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "image": "http://parliament.gov.gy/images/member_photos/3878/dominic-2.jpg",
       "images": [
         {
@@ -561,21 +492,6 @@
       ]
     },
     {
-      "id": "0376c28b-adb9-4b2c-b368-1d2ec64191b7",
-      "image": "http://parliament.gov.gy/images/member_photos/4023/ms._gillian_r._persaud,_m.p..jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/4023/ms._gillian_r._persaud,_m.p..jpg"
-        }
-      ],
-      "name": "Gillian R. Persaud",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/gillian-r-persaud/"
-        }
-      ]
-    },
-    {
       "id": "6db2c684-e256-4b7b-83fd-49a9c7cdaf10",
       "identifiers": [
         {
@@ -592,7 +508,7 @@
       "name": "Gillian R. Persaud",
       "sources": [
         {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/gillian-r.-persaud/"
+          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/gillian-r-persaud/"
         }
       ]
     },
@@ -688,7 +604,13 @@
     {
       "gender": "male",
       "honorific_prefix": "Mr",
-      "id": "f5b22b76-bcd5-41ee-97b2-98e1a426cfc7",
+      "id": "4543a12e-0d76-4c5f-acd7-e21ddc4b3ee0",
+      "identifiers": [
+        {
+          "identifier": "mr-jermaine-figueira-m.p",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "image": "http://parliament.gov.gy/images/member_photos/3892/jermain.jpg",
       "images": [
         {
@@ -903,126 +825,6 @@
       ]
     },
     {
-      "id": "6e8d9733-022a-4836-8652-3c840778540e",
-      "identifiers": [
-        {
-          "identifier": "mr-audwin-rutherford-m.p",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/3896/audwyn.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/3896/audwyn.jpg"
-        }
-      ],
-      "name": "Mr Audwin Rutherford",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/mr-audwin-rutherford-m.p/"
-        }
-      ]
-    },
-    {
-      "id": "4543a12e-0d76-4c5f-acd7-e21ddc4b3ee0",
-      "identifiers": [
-        {
-          "identifier": "mr-jermaine-figueira-m.p",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/3892/jermain.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/3892/jermain.jpg"
-        }
-      ],
-      "name": "Mr Jermaine Figueira",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/mr-jermaine-figueira-m.p/"
-        }
-      ]
-    },
-    {
-      "id": "a81c2030-dc7d-4639-acc7-00939fb166a4",
-      "identifiers": [
-        {
-          "identifier": "hon-mr.-dominic-gaskin",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/3878/dominic-2.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/3878/dominic-2.jpg"
-        }
-      ],
-      "name": "Mr. Dominic Gaskin",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/hon-mr.-dominic-gaskin/"
-        }
-      ]
-    },
-    {
-      "id": "b0a565e3-46df-40ce-94f7-817a333d7da1",
-      "identifiers": [
-        {
-          "identifier": "hon-mr.-winston-dacosta-jordan",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/3881/jordan.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/3881/jordan.jpg"
-        }
-      ],
-      "name": "Mr. Winston DaCosta Jordan",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/hon-mr.-winston-dacosta-jordan/"
-        }
-      ]
-    },
-    {
-      "id": "a797da0b-10b8-4532-b498-427a076ae9ab",
-      "identifiers": [
-        {
-          "identifier": "ms.-rajcoomarie-bancroft",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://parliament.gov.gy/images/member_photos/3890/bancroft.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/3890/bancroft.jpg"
-        }
-      ],
-      "name": "Ms. Rajcoomarie Bancroft",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/ms.-rajcoomarie-bancroft/"
-        }
-      ]
-    },
-    {
-      "id": "04771e7f-25e1-4a24-ab8e-2080a0262ffc",
-      "image": "http://parliament.gov.gy/images/member_photos/3889/nicolette.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/3889/nicolette.jpg"
-        }
-      ],
-      "name": "Nicolette O. Henry",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/hon-nicolette-o-henry-mp/"
-        }
-      ]
-    },
-    {
       "id": "146db39d-9ebb-413c-8aaa-43efd4f40896",
       "identifiers": [
         {
@@ -1039,7 +841,7 @@
       "name": "Nicolette O. Henry",
       "sources": [
         {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/hon.-nicolette-o.-henry-m.p/"
+          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/hon-nicolette-o-henry-mp/"
         }
       ]
     },
@@ -1136,7 +938,13 @@
     {
       "gender": "female",
       "honorific_prefix": "Ms.",
-      "id": "82920cff-2ed1-4e37-8f7c-550ef0ae0eb0",
+      "id": "a797da0b-10b8-4532-b498-427a076ae9ab",
+      "identifiers": [
+        {
+          "identifier": "ms.-rajcoomarie-bancroft",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "image": "http://parliament.gov.gy/images/member_photos/3890/bancroft.jpg",
       "images": [
         {
@@ -1234,21 +1042,6 @@
       ]
     },
     {
-      "id": "45696ce0-7366-4cd7-9ede-63b0d654b3db",
-      "image": "http://parliament.gov.gy/images/member_photos/3888/simona.jpg",
-      "images": [
-        {
-          "url": "http://parliament.gov.gy/images/member_photos/3888/simona.jpg"
-        }
-      ],
-      "name": "Simona Broomes",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/hon-simona-broomes-mp/"
-        }
-      ]
-    },
-    {
       "id": "ad5c508f-3ecf-4456-b8e9-e7900a76d0c0",
       "identifiers": [
         {
@@ -1265,7 +1058,7 @@
       "name": "Simona Broomes",
       "sources": [
         {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/hon.-simona-broomes-m.p/"
+          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/hon-simona-broomes-mp/"
         }
       ]
     },
@@ -1364,7 +1157,13 @@
     {
       "gender": "male",
       "honorific_prefix": "Mr.",
-      "id": "dd7e823d-0ec8-4696-90cb-f3f4589c8795",
+      "id": "b0a565e3-46df-40ce-94f7-817a333d7da1",
+      "identifiers": [
+        {
+          "identifier": "hon-mr.-winston-dacosta-jordan",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
       "image": "http://parliament.gov.gy/images/member_photos/3881/jordan.jpg",
       "images": [
         {
@@ -1438,21 +1237,6 @@
   },
   "memberships": [
     {
-      "area_id": "4",
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "PPP-Civic",
-      "organization_id": "legislature",
-      "person_id": "0376c28b-adb9-4b2c-b368-1d2ec64191b7",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "APNU-AFC",
-      "organization_id": "legislature",
-      "person_id": "04771e7f-25e1-4a24-ab8e-2080a0262ffc",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "APNU-AFC",
       "organization_id": "legislature",
@@ -1518,21 +1302,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "unkown",
-      "organization_id": "legislature",
-      "person_id": "2e062152-3c11-4af3-be84-c9282d29bbed",
-      "role": "member"
-    },
-    {
-      "area_id": "9",
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "PPP-Civic",
-      "organization_id": "legislature",
-      "person_id": "35663003-25a7-46d6-9f91-31391597333a",
-      "role": "member"
-    },
-    {
       "area_id": "3",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "PPP-Civic",
@@ -1553,13 +1322,6 @@
       "on_behalf_of_id": "APNU-AFC",
       "organization_id": "legislature",
       "person_id": "4543a12e-0d76-4c5f-acd7-e21ddc4b3ee0",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "unkown",
-      "organization_id": "legislature",
-      "person_id": "45696ce0-7366-4cd7-9ede-63b0d654b3db",
       "role": "member"
     },
     {
@@ -1695,13 +1457,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "PPP-Civic",
-      "organization_id": "legislature",
-      "person_id": "7efbb621-7f13-47a7-9db5-735c7d83b73c",
-      "role": "member"
-    },
-    {
       "area_id": "5",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "PPP-Civic",
@@ -1722,22 +1477,6 @@
       "on_behalf_of_id": "PPP-Civic",
       "organization_id": "legislature",
       "person_id": "81274e1d-c3d1-43b1-8dde-9159f1dbe30a",
-      "role": "member"
-    },
-    {
-      "area_id": "1",
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "PPP-Civic",
-      "organization_id": "legislature",
-      "person_id": "8265306d-5c63-405e-b3e6-584f5922fcbf",
-      "role": "member"
-    },
-    {
-      "area_id": "8",
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "APNU-AFC",
-      "organization_id": "legislature",
-      "person_id": "82920cff-2ed1-4e37-8f7c-550ef0ae0eb0",
       "role": "member"
     },
     {
@@ -1783,13 +1522,6 @@
       "on_behalf_of_id": "APNU-AFC",
       "organization_id": "legislature",
       "person_id": "a2b5eed6-b238-4189-8342-9bdbe38a7469",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "PPP-Civic",
-      "organization_id": "legislature",
-      "person_id": "a43dd2f4-19b6-4722-9992-ef626137d5c1",
       "role": "member"
     },
     {
@@ -1839,13 +1571,6 @@
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "APNU-AFC",
       "organization_id": "legislature",
-      "person_id": "c33aa593-5a2e-48ba-babd-d814d9b5b449",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "APNU-AFC",
-      "organization_id": "legislature",
       "person_id": "ccf3509f-d3d8-42ed-9b34-9bcf5246e304",
       "role": "member"
     },
@@ -1855,13 +1580,6 @@
       "on_behalf_of_id": "unkown",
       "organization_id": "legislature",
       "person_id": "dc7716ce-be97-4465-b1c2-790d7e135720",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "APNU-AFC",
-      "organization_id": "legislature",
-      "person_id": "dd7e823d-0ec8-4696-90cb-f3f4589c8795",
       "role": "member"
     },
     {
@@ -1887,25 +1605,10 @@
       "role": "member"
     },
     {
-      "area_id": "10",
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "APNU-AFC",
-      "organization_id": "legislature",
-      "person_id": "f5b22b76-bcd5-41ee-97b2-98e1a426cfc7",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "PPP-Civic",
       "organization_id": "legislature",
       "person_id": "fb6be5bb-c05a-423f-ab9a-fac707b277e3",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "APNU-AFC",
-      "organization_id": "legislature",
-      "person_id": "fc8fcad2-140d-4550-bade-626fce54d743",
       "role": "member"
     },
     {
