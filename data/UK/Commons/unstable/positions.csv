@@ -20,6 +20,8 @@ b5218527-3731-4f70-ad27-8d5b38182d58,Alan Johnson,Secretary of State for Work an
 b6808ba6-7a72-41be-a0d4-fbc7be6dee72,Alan Milburn,Secretary of State for Health,1999-10-11,2003-06-13
 b6808ba6-7a72-41be-a0d4-fbc7be6dee72,Alan Milburn,Chief Secretary to the Treasury,1998-12-23,1999-10-11
 b6808ba6-7a72-41be-a0d4-fbc7be6dee72,Alan Milburn,Minister for the Cabinet Office,2004-09-08,2005-05-06
+524f1f1e-2237-4618-911f-3804233862cf,Alan Williams,Father of the House,2005-05-05,2010-05-06
+524f1f1e-2237-4618-911f-3804233862cf,Alan Williams,Shadow Secretary of State for Wales,1987-07-13,1989-01-09
 4ff778e8-547e-49b9-83a7-f8711154df84,Alasdair McDonnell,Member of the Legislative Assembly of Northern Ireland,,
 5e8b274c-67b3-4568-a0a1-8f3acb7184aa,Alasdair Morgan,Member of the Scottish Parliament,,
 76f849a8-2349-4c87-8e5c-beb24d5ec8e6,Alastair Goodlad,Shadow Leader of the House of Commons,1997-05-02,1997-06-30
@@ -519,9 +521,17 @@ e8c49ab4-99b3-4b26-87aa-344468e50884,Jeremy Hunt,"Shadow Secretary of State for 
 78d92074-f26d-42de-8ea7-a36b12a244af,Jim Murphy,Minister of State for Europe,2007-06-28,2008-10-03
 78d92074-f26d-42de-8ea7-a36b12a244af,Jim Murphy,Minister for the Cabinet Office,2005-11-02,2006-05-05
 40eaf82a-57c1-4536-a4b7-e342a70bc417,Jim Shannon,Member of the Legislative Assembly of Northern Ireland,,
+0bd40fce-62f6-40d7-99f5-0f845540c11f,Jim Wallace,Advocate General for Scotland,2010-05-14,2015-05-08
+0bd40fce-62f6-40d7-99f5-0f845540c11f,Jim Wallace,Minister for Enterprise and Lifelong Learning,2003-05-21,2005-06-27
+0bd40fce-62f6-40d7-99f5-0f845540c11f,Jim Wallace,Member of the Scottish Parliament,1999-05-06,2007-05-03
+0bd40fce-62f6-40d7-99f5-0f845540c11f,Jim Wallace,First Minister of Scotland,2001-11-08,2001-11-22
+0bd40fce-62f6-40d7-99f5-0f845540c11f,Jim Wallace,Deputy First Minister of Scotland,1999-05-17,2005-06-23
+0bd40fce-62f6-40d7-99f5-0f845540c11f,Jim Wallace,Member of the House of Lords,,
+0bd40fce-62f6-40d7-99f5-0f845540c11f,Jim Wallace,First Minister of Scotland,2000-10-11,2000-10-26
 b205bacb-eecf-4a72-ba52-3ab330318c39,John Bercow,Speaker of the House of Commons,2009-06-22,
 b205bacb-eecf-4a72-ba52-3ab330318c39,John Bercow,Shadow Secretary of State for International Development,2003-11-10,2004-09-08
 b205bacb-eecf-4a72-ba52-3ab330318c39,John Bercow,Shadow Chief Secretary to the Treasury,2001-09-18,2002-07-23
+f3c9106b-5815-4e5c-81d3-cdfdd1877217,John Burnett,Member of the House of Lords,,
 693136f0-7886-4cea-b912-ae7d8cc41007,John Denham,"Shadow Secretary of State for Business, Innovation and Skills",2010-10-08,2011-10-06
 693136f0-7886-4cea-b912-ae7d8cc41007,John Denham,Secretary of State for Communities and Local Government,2010-05-11,2010-10-08
 693136f0-7886-4cea-b912-ae7d8cc41007,John Denham,Secretary of State for Communities and Local Government,2009-06-05,2010-05-11
@@ -551,6 +561,10 @@ b205bacb-eecf-4a72-ba52-3ab330318c39,John Bercow,Shadow Chief Secretary to the T
 214b88b3-53ac-4f82-bc56-23dba1c65179,John Major,Chief Secretary to the Treasury,1987-06-13,1989-07-24
 214b88b3-53ac-4f82-bc56-23dba1c65179,John Major,Secretary of State for Foreign and Commonwealth Affairs,1989-07-24,1989-10-26
 214b88b3-53ac-4f82-bc56-23dba1c65179,John Major,Shadow Foreign Secretary,1997-05-07,1997-06-11
+5191c573-2db0-4261-96a6-4e0a2feca2cc,John Maples,Shadow Foreign Secretary,1999-06-15,2000-02-02
+5191c573-2db0-4261-96a6-4e0a2feca2cc,John Maples,Shadow Secretary of State for Health,1997-06-19,1998-06-01
+5191c573-2db0-4261-96a6-4e0a2feca2cc,John Maples,Shadow Secretary of State for Defence,1998-06-01,1999-06-15
+5191c573-2db0-4261-96a6-4e0a2feca2cc,John Maples,Economic Secretary to the Treasury,1989-10-26,1992-04-09
 cf191189-4d6f-403d-b595-b610f7743728,John Marek,Presiding Officer of the National Assembly for Wales,2000-05-02,2007-05-07
 cf191189-4d6f-403d-b595-b610f7743728,John Marek,Member of the National Assembly for Wales,1999-05-06,2007-05-03
 f0130dc7-ee89-4d2b-a3bc-253a0a226cd4,John Mason,Member of the Scottish Parliament,,
@@ -590,6 +604,7 @@ a492d475-f69c-4f15-878c-dd1a4a450985,John Prescott,Shadow Secretary of State for
 4d5a42c8-f522-4161-99ba-57b68cdb516c,John Taylor,Member of the Legislative Assembly of Northern Ireland,,
 4d5a42c8-f522-4161-99ba-57b68cdb516c,John Taylor,Member of the House of Lords,,
 4d5a42c8-f522-4161-99ba-57b68cdb516c,John Taylor,Member of the Parliament of Northern Ireland,1965-11-25,1972-03-30
+6dc45c40-b45a-427d-a79c-4334f35cf737,John Taylor,member of the European Parliament,,
 6fb6f7f3-e719-4969-bbd1-e827408bf66e,John Whittingdale,"Shadow Secretary of State for Culture, Media and Sport",2004-06-19,2005-05-06
 6fb6f7f3-e719-4969-bbd1-e827408bf66e,John Whittingdale,"Secretary of State for Business, Innovation and Skills",,
 6fb6f7f3-e719-4969-bbd1-e827408bf66e,John Whittingdale,"Secretary of State for Culture, Media and Sport",2015-05-11,
@@ -598,6 +613,10 @@ bb8c96c8-95c6-48e8-92b1-6a68e062f6a0,Jon Trickett,Minister for the Cabinet Offic
 bb8c96c8-95c6-48e8-92b1-6a68e062f6a0,Jon Trickett,Parliamentary Private Secretary to the Prime Minister,2008-10-04,2010-05-11
 36c6ab70-1e3a-414c-b99e-7b1c84169d9f,Jonathan Evans,member of the European Parliament,1999-06-10,2009-06-04
 36c6ab70-1e3a-414c-b99e-7b1c84169d9f,Jonathan Evans,"Secretary of State for Business, Innovation and Skills",1994-10-25,1995-11-29
+95c421a9-5a53-4720-a059-2e929af8f136,Joyce Quin,Minister of State for Europe,1998-07-28,1999-07-28
+95c421a9-5a53-4720-a059-2e929af8f136,Joyce Quin,member of the European Parliament,,
+95c421a9-5a53-4720-a059-2e929af8f136,Joyce Quin,Member of the House of Lords,,
+95c421a9-5a53-4720-a059-2e929af8f136,Joyce Quin,Under-Secretary of State for the Home Department,1997-05-02,1998-07-28
 fcad8e40-d7dc-4c71-9883-cf180301585e,Julie Kirkbride,"Shadow Secretary of State for Culture, Media and Sport",2003-11-06,2005-12-08
 5b73b387-9c6d-4067-ad54-f8f587423798,Julie Morgan,Member of the National Assembly for Wales,,
 767250a1-8dda-4c7c-b17c-8e0de6c731f2,Justine Greening,Secretary of State for International Development,,
@@ -743,6 +762,9 @@ e88f15fe-72fb-4ff9-a29e-9dd59f78be51,Mickey Brady,Member of the Legislative Asse
 330100e1-1dbf-4cdb-97e7-f8e1e8648609,Mo Mowlam,Chancellor of the Duchy of Lancaster,1992-07-18,1992-09-29
 b7082a5f-ebd5-4372-b7b6-ca14d0f354fa,Naomi Long,Member of the Legislative Assembly of Northern Ireland,,
 3c3ced63-9f37-4512-9504-1bc9f3d39d5c,Neil Parish,member of the European Parliament,,
+559bc673-3dd9-4e03-8ce5-5f8f8c733016,Nicholas Lyell,Solicitor General for England and Wales,1987-06-13,1992-04-10
+559bc673-3dd9-4e03-8ce5-5f8f8c733016,Nicholas Lyell,Attorney General for England and Wales,1997-05-02,1997-06-19
+559bc673-3dd9-4e03-8ce5-5f8f8c733016,Nicholas Lyell,Attorney General for England and Wales,1992-04-10,1997-05-02
 61b114a6-4465-48ba-b644-8a3971382a8b,Nicholas Soames,Secretary of State for Defence,,
 61b114a6-4465-48ba-b644-8a3971382a8b,Nicholas Soames,Shadow Secretary of State for Defence,2003-11-06,2005-05-10
 61b114a6-4465-48ba-b644-8a3971382a8b,Nicholas Soames,Minister of State for the Armed Forces,1994-06-14,1997-05-02
@@ -843,6 +865,7 @@ ceaa75aa-69fa-49e7-9c39-2ac6f48c3504,Peter Robinson,First Minister of Northern I
 77c9d15f-98c7-45b4-89a8-6f21ab07157d,Philip Hammond,Secretary of State for Foreign and Commonwealth Affairs,2014-07-15,
 509d1a93-fff9-430e-94ec-c30087678368,Quentin Davies,"Minister for Defence Equipment, Support and Technology",2008-10-05,2010-05-11
 509d1a93-fff9-430e-94ec-c30087678368,Quentin Davies,Shadow Secretary of State for Northern Ireland,2001-09-14,2003-11-11
+1ab9a1a7-39bb-46da-9372-6950b9599037,Ray Michie,Member of the House of Lords,,
 915128a8-edfc-4e37-b7b8-0a465033196d,Rhodri Morgan,First Minister of Wales,2000-02-09,2009-12-10
 915128a8-edfc-4e37-b7b8-0a465033196d,Rhodri Morgan,Member of the National Assembly for Wales,1999-05-06,2011-05-05
 ffdfc5f1-332b-4919-9452-571c01ce8c7a,Richard Caborn,member of the European Parliament,1979-06-07,1984-06-14
@@ -956,6 +979,7 @@ beaab9b4-7dd7-43a1-9339-3b8e3b442514,Tim Yeo,"Minister of Agriculture, Fisheries
 1bade13c-affd-485f-9b52-df22ee76aa3b,Tom King,Shadow Secretary of State for Energy and Climate Change,1976-11-19,1979-05-04
 7f40e896-bd3b-441e-8fd5-4f61d7224c31,Tom Watson,Parliamentary Secretary,2008-01-25,2009-06-05
 7f40e896-bd3b-441e-8fd5-4f61d7224c31,Tom Watson,Parliamentary Under-Secretary of State,2006-05-05,""
+20e5905d-d24a-4a88-9c9e-994d196a4d65,Tony Banks,Minister for Sport and the Olympics,1997-05-02,1999-10-20
 14297f22-111a-414d-8b65-30748063fc53,Tony Benn,"Secretary of State for Business, Innovation and Skills",1974-03-05,1975-06-10
 14297f22-111a-414d-8b65-30748063fc53,Tony Benn,Minister of Technology,1966-07-04,1970-06-19
 14297f22-111a-414d-8b65-30748063fc53,Tony Benn,Postmaster General of the United Kingdom,1964-10-15,1966-07-04

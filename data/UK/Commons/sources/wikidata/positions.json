@@ -895,6 +895,100 @@
       }
     }
   ],
+  "Q333807": [
+    {
+      "id": "Q2928362",
+      "label": "Advocate General for Scotland",
+      "qualifiers": {
+        "P580": "2010-05-14",
+        "P582": "2015-05-08",
+        "P1365": "Neil Davidson, Baron Davidson of Glen Clova",
+        "P1366": "Richard Keen"
+      }
+    },
+    {
+      "id": "Q6865814",
+      "label": "Minister for Enterprise and Lifelong Learning",
+      "qualifiers": {
+        "P580": "2003-05-21",
+        "P582": "2005-06-27",
+        "P1365": "Iain Gray",
+        "P1366": "Nicol Stephen, Baron Stephen"
+      }
+    },
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "qualifiers": {
+        "P580": "1983-06-09",
+        "P582": "2001-06-07",
+        "P1365": "Jo Grimond",
+        "P1366": "Alistair Carmichael"
+      }
+    },
+    {
+      "id": "Q1711695",
+      "label": "Member of the Scottish Parliament",
+      "qualifiers": {
+        "P580": "1999-05-06",
+        "P582": "2007-05-03",
+        "P1365": "Scotland Act 1998",
+        "P1366": "Scottish Parliament general election, 2007"
+      }
+    },
+    {
+      "id": "Q2012061",
+      "label": "Leader of the House of Lords",
+      "qualifiers": {
+        "P580": "2013-10-15",
+        "P582": "2015-05-08",
+        "P1365": "Tom McNally, Baron McNally",
+        "P1366": "Frederick Curzon, 7th Earl Howe"
+      }
+    },
+    {
+      "id": "Q1362216",
+      "label": "First Minister of Scotland",
+      "qualifiers": {
+        "P582": "2001-11-22",
+        "P1365": "Henry McLeish",
+        "P1366": "Jack McConnell",
+        "P580": "2001-11-08"
+      }
+    },
+    {
+      "id": "Q5261035",
+      "label": "Deputy First Minister of Scotland",
+      "qualifiers": {
+        "P580": "1999-05-17",
+        "P582": "2005-06-23",
+        "P1366": "Nicol Stephen, Baron Stephen"
+      }
+    },
+    {
+      "id": "Q5015480",
+      "label": "Cabinet Secretary for Justice",
+      "qualifiers": {
+        "P580": "1999-05-07",
+        "P582": "2003-05-21",
+        "P1366": "Cathy Jamieson"
+      }
+    },
+    {
+      "id": "Q18952564",
+      "label": "Member of the House of Lords"
+    },
+    {
+      "id": "Q1362216",
+      "label": "First Minister of Scotland",
+      "qualifiers": {
+        "P580": "2000-10-11",
+        "P582": "2000-10-26",
+        "P1365": "Donald Dewar",
+        "P1366": "Henry McLeish"
+      }
+    }
+  ],
   "Q1189028": [
     {
       "id": "Q16707842",
@@ -2024,6 +2118,16 @@
       }
     }
   ],
+  "Q1716798": [
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom"
+    },
+    {
+      "id": "Q18952564",
+      "label": "Member of the House of Lords"
+    }
+  ],
   "Q1507362": [
     {
       "id": "Q16707842",
@@ -2573,6 +2677,22 @@
     }
   ],
   "Q576890": [
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom"
+    }
+  ],
+  "Q333584": [
+    {
+      "id": "Q6865965",
+      "label": "Minister for Sport and the Olympics",
+      "qualifiers": {
+        "P580": "1997-05-02",
+        "P582": "1999-10-20",
+        "P1365": "Iain Sproat",
+        "P1366": "Kate Hoey"
+      }
+    },
     {
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom"
@@ -4177,6 +4297,18 @@
       }
     }
   ],
+  "Q5522982": [
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "qualifiers": {
+        "P580": "1997-05-01",
+        "P582": "2005-05-05",
+        "P1365": "Boundary Commissions",
+        "P1366": "David Jones"
+      }
+    }
+  ],
   "Q332979": [
     {
       "id": "Q2982287",
@@ -4311,6 +4443,12 @@
         "P1365": "Neil Hamilton",
         "P1366": "John Mark Taylor"
       }
+    }
+  ],
+  "Q2158815": [
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom"
     }
   ],
   "Q689239": [
@@ -6243,6 +6381,58 @@
       "label": "Member of Parliament in the United Kingdom"
     }
   ],
+  "Q333007": [
+    {
+      "id": "Q7460514",
+      "label": "Shadow Foreign Secretary",
+      "qualifiers": {
+        "P580": "1999-06-15",
+        "P582": "2000-02-02",
+        "P1365": "Michael Howard",
+        "P1366": "Francis Maude"
+      }
+    },
+    {
+      "id": "Q7460596",
+      "label": "Shadow Secretary of State for Health",
+      "qualifiers": {
+        "P580": "1997-06-19",
+        "P582": "1998-06-01",
+        "P1365": "Stephen Dorrell",
+        "P1366": "Ann Widdecombe"
+      }
+    },
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "qualifiers": {
+        "P580": "1997-05-02",
+        "P582": "2010-04-12",
+        "P1365": "Alan Howarth, Baron Howarth of Newport",
+        "P1366": "Nadhim Zahawi"
+      }
+    },
+    {
+      "id": "Q13625987",
+      "label": "Shadow Secretary of State for Defence",
+      "qualifiers": {
+        "P580": "1998-06-01",
+        "P582": "1999-06-15",
+        "P1365": "Sir George Young",
+        "P1366": "Iain Duncan Smith"
+      }
+    },
+    {
+      "id": "Q5333410",
+      "label": "Economic Secretary to the Treasury",
+      "qualifiers": {
+        "P580": "1989-10-26",
+        "P582": "1992-04-09",
+        "P1365": "Richard Ryder, Baron Ryder of Wensum",
+        "P1366": "Anthony Nelson"
+      }
+    }
+  ],
   "Q392101": [
     {
       "id": "Q16707842",
@@ -6277,6 +6467,38 @@
         "P582": "2005-05-09",
         "P1365": "Ben Bradshaw",
         "P1366": "Nigel Griffiths"
+      }
+    }
+  ],
+  "Q337590": [
+    {
+      "id": "Q314264",
+      "label": "Father of the House",
+      "qualifiers": {
+        "P580": "2005-05-05",
+        "P582": "2010-05-06",
+        "P1365": "Tam Dalyell",
+        "P1366": "Peter Tapsell"
+      }
+    },
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "qualifiers": {
+        "P580": "1964-10-16",
+        "P582": "2010-04-12",
+        "P1365": "Hugh Rees",
+        "P1366": "Geraint Davies"
+      }
+    },
+    {
+      "id": "Q16323054",
+      "label": "Shadow Secretary of State for Wales",
+      "qualifiers": {
+        "P580": "1987-07-13",
+        "P582": "1989-01-09",
+        "P1365": "Barry Jones, Baron Jones",
+        "P1366": "Barry Jones, Baron Jones"
       }
     }
   ],
@@ -6715,6 +6937,42 @@
         "P582": "2010-06-14",
         "P1365": "Michael Morris, Baron Naseby",
         "P1366": "Lindsay Hoyle"
+      }
+    }
+  ],
+  "Q334638": [
+    {
+      "id": "Q583809",
+      "label": "Solicitor General for England and Wales",
+      "qualifiers": {
+        "P580": "1987-06-13",
+        "P582": "1992-04-10",
+        "P1365": "Patrick Mayhew, Baron Mayhew of Twysden",
+        "P1366": "Derek Spencer"
+      }
+    },
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom"
+    },
+    {
+      "id": "Q2631987",
+      "label": "Attorney General for England and Wales",
+      "qualifiers": {
+        "P580": "1997-05-02",
+        "P582": "1997-06-19",
+        "P1365": "Edward Garnier",
+        "P1366": "John Morris, Baron Morris of Aberavon"
+      }
+    },
+    {
+      "id": "Q2631987",
+      "label": "Attorney General for England and Wales",
+      "qualifiers": {
+        "P580": "1992-04-10",
+        "P582": "1997-05-02",
+        "P1365": "Patrick Mayhew, Baron Mayhew of Twysden",
+        "P1366": "John Morris, Baron Morris of Aberavon"
       }
     }
   ],
@@ -8319,6 +8577,16 @@
       }
     }
   ],
+  "Q12731414": [
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom"
+    },
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament"
+    }
+  ],
   "Q263875": [
     {
       "id": "Q16707842",
@@ -9452,6 +9720,12 @@
     }
   ],
   "Q266033": [
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom"
+    }
+  ],
+  "Q7701942": [
     {
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom"
@@ -11577,6 +11851,40 @@
     {
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom"
+    }
+  ],
+  "Q137911": [
+    {
+      "id": "Q6865827",
+      "label": "Minister of State for Europe",
+      "qualifiers": {
+        "P580": "1998-07-28",
+        "P582": "1999-07-28",
+        "P1365": "Doug Henderson",
+        "P1366": "Geoff Hoon"
+      }
+    },
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom"
+    },
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament"
+    },
+    {
+      "id": "Q18952564",
+      "label": "Member of the House of Lords"
+    },
+    {
+      "id": "Q7883053",
+      "label": "Under-Secretary of State for the Home Department",
+      "qualifiers": {
+        "P580": "1997-05-02",
+        "P582": "1998-07-28",
+        "P1365": "Ann Widdecombe",
+        "P1366": "Gareth Williams, Baron Williams of Mostyn"
+      }
     }
   ],
   "Q6831544": [
@@ -14723,15 +15031,6 @@
       }
     }
   ],
-  "Q337556": [
-    {
-      "id": "Q16707842",
-      "label": "Member of Parliament in the United Kingdom",
-      "qualifiers": {
-        "P768": "Great Yarmouth"
-      }
-    }
-  ],
   "Q7175494": [
     {
       "id": "Q16707842",
@@ -14821,6 +15120,15 @@
     {
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom"
+    }
+  ],
+  "Q337556": [
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "qualifiers": {
+        "P768": "Great Yarmouth"
+      }
     }
   ],
   "Q19871819": [
@@ -15135,6 +15443,18 @@
     {
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom"
+    }
+  ],
+  "Q6831647": [
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "qualifiers": {
+        "P580": "1997-05-01",
+        "P582": "2010-04-12",
+        "P1365": "Peter Luff",
+        "P1366": "Robin Walker"
+      }
     }
   ],
   "Q4899014": [
@@ -15810,6 +16130,12 @@
         "P1365": "Edwina Currie",
         "P1366": "Heather Wheeler"
       }
+    }
+  ],
+  "Q4708112": [
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom"
     }
   ],
   "Q333036": [
@@ -18186,6 +18512,12 @@
       "label": "Member of Parliament in the United Kingdom"
     }
   ],
+  "Q333882": [
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom"
+    }
+  ],
   "Q296920": [
     {
       "id": "Q16707842",
@@ -18194,6 +18526,12 @@
     {
       "id": "Q3406079",
       "label": "Member of the National Assembly for Wales"
+    }
+  ],
+  "Q2159745": [
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom"
     }
   ],
   "Q328953": [
@@ -18570,6 +18908,16 @@
     {
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom"
+    }
+  ],
+  "Q336866": [
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom"
+    },
+    {
+      "id": "Q18952564",
+      "label": "Member of the House of Lords"
     }
   ],
   "Q6236465": [
@@ -19560,6 +19908,12 @@
       }
     }
   ],
+  "Q4966571": [
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom"
+    }
+  ],
   "Q575669": [
     {
       "id": "Q16707842",
@@ -19673,6 +20027,18 @@
         "P580": "1997-05-02",
         "P582": "2010-04-12",
         "P1365": "Roland Boyes"
+      }
+    }
+  ],
+  "Q4768656": [
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "qualifiers": {
+        "P580": "2001-06-08",
+        "P582": "2010-04-12",
+        "P1365": "John Home Robertson",
+        "P1366": "Fiona O'Donnell"
       }
     }
   ]
