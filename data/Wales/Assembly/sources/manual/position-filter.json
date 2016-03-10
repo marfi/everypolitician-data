@@ -29,12 +29,12 @@
     ],
     "executive": [
       {
-        "id": "Q5261031",
-        "name": "Deputy First Minister for Wales"
-      },
-      {
         "id": "Q5176615",
         "name": "Counsel General for Wales"
+      },
+      {
+        "id": "Q5261031",
+        "name": "Deputy First Minister for Wales"
       },
       {
         "id": "Q18996",
@@ -48,14 +48,14 @@
   "unknown": {
     "unknown": [
       {
-        "id": "Q3112646",
-        "name": "Welsh Government",
-        "count": 3
-      },
-      {
         "id": "Q5260116",
         "name": "Department for Education and Skills",
         "count": 1
+      },
+      {
+        "id": "Q3112646",
+        "name": "Welsh Government",
+        "count": 3
       },
       {
         "id": "Q7981939",
