@@ -22,24 +22,40 @@
     ],
     "executive": [
       {
-        "id": "Q6866148",
-        "name": "Minister of Foreign Affairs"
+        "id": "Q5261068",
+        "name": "Deputy Prime Minister of New Zealand"
+      },
+      {
+        "id": "Q6866068",
+        "name": "Minister of Conservation"
+      },
+      {
+        "id": "Q10330337",
+        "name": "Minister of Defence"
       },
       {
         "id": "Q6866108",
         "name": "Minister of Education"
       },
       {
-        "id": "Q6866227",
-        "name": "Minister of Justice"
+        "id": "Q6866148",
+        "name": "Minister of Foreign Affairs"
       },
       {
-        "id": "Q5261068",
-        "name": "Deputy Prime Minister of New Zealand"
+        "id": "Q6866167",
+        "name": "Minister of Health"
       },
       {
         "id": "Q6866214",
         "name": "Minister of Infrastructure"
+      },
+      {
+        "id": "Q6866227",
+        "name": "Minister of Justice"
+      },
+      {
+        "id": "Q991876",
+        "name": "Minister of Māori Affairs"
       },
       {
         "id": "Q6866129",
@@ -48,22 +64,6 @@
       {
         "id": "Q1071117",
         "name": "Prime Minister of New Zealand"
-      },
-      {
-        "id": "Q6866068",
-        "name": "Minister of Conservation"
-      },
-      {
-        "id": "Q6866167",
-        "name": "Minister of Health"
-      },
-      {
-        "id": "Q10330337",
-        "name": "Minister of Defence"
-      },
-      {
-        "id": "Q991876",
-        "name": "Minister of Māori Affairs"
       }
     ],
     "party": [
