@@ -30,14 +30,14 @@
   "unknown": {
     "unknown": [
       {
-        "id": "Q382617",
-        "name": "maire",
-        "count": 5
-      },
-      {
         "id": "Q1055894",
         "name": "deputy",
         "count": 1
+      },
+      {
+        "id": "Q382617",
+        "name": "maire",
+        "count": 5
       }
     ]
   }
