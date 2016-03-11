@@ -46,22 +46,6 @@
     },
     {
       "birth_date": "1976-04-18",
-      "id": "8a4af210-ad10-4e48-935d-c81f4415d480",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44450",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44450"
-        }
-      ],
-      "name": "ANA KOMPARIĆ DEVČIĆ",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6322"
-        }
-      ]
-    },
-    {
-      "birth_date": "1976-04-18",
       "id": "e09352ec-d388-43bd-a136-37f63e8b7072",
       "identifiers": [
         {
@@ -84,7 +68,7 @@
     },
     {
       "birth_date": "1969-05-13",
-      "id": "05fd28ec-26a2-49e1-bfd5-535fac65798d",
+      "id": "c1e5b788-4089-46e3-969b-24454c291905",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44468",
       "images": [
         {
@@ -100,7 +84,7 @@
     },
     {
       "birth_date": "1959-11-24",
-      "id": "1dd782d4-a4b9-41d4-9f65-524b47e0c37b",
+      "id": "2a6b12aa-4330-4556-b12b-224c63d757e1",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44647",
       "images": [
         {
@@ -182,22 +166,6 @@
     },
     {
       "birth_date": "1960-05-17",
-      "id": "c9f72f69-f607-4384-a67f-82f08a9b7686",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44486",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44486"
-        }
-      ],
-      "name": "ANTE SANADER",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6484"
-        }
-      ]
-    },
-    {
-      "birth_date": "1960-05-17",
       "id": "e8e0430a-45a7-4fad-94d0-8bb6640d3505",
       "identifiers": [
         {
@@ -220,7 +188,7 @@
     },
     {
       "birth_date": "1948-05-26",
-      "id": "fe00c20d-b281-42d8-a088-4104de56f419",
+      "id": "d33a6dc2-c32e-400c-ad5b-4807bc759e20",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44503",
       "images": [
         {
@@ -236,7 +204,7 @@
     },
     {
       "birth_date": "1954-05-09",
-      "id": "07a569a1-7bdf-4694-b92f-052a65bf2087",
+      "id": "cdac25cc-8df2-4d39-bebb-18ed51d6e26f",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44574",
       "images": [
         {
@@ -252,7 +220,7 @@
     },
     {
       "birth_date": "1973-06-18",
-      "id": "6880a7b8-d875-4d1c-83bd-aede50e188ba",
+      "id": "5fa8c424-3dc8-4a57-a866-4648236be57e",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44493",
       "images": [
         {
@@ -268,101 +236,13 @@
     },
     {
       "birth_date": "1973-02-07",
-      "gender": "male",
-      "given_name": "Arsen",
-      "id": "6a304134-0843-4115-89f7-461c442668d0",
-      "identifiers": [
-        {
-          "identifier": "/m/0hrhwzp",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q2351745",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Arsen_Bauk.jpg",
+      "id": "4cb6d1e3-3a28-4755-b7e3-3603afd21d4a",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Arsen_Bauk.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Arsen_Bauk"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Баук,_Арсен"
-        },
-        {
-          "note": "Wikipedia (sr)",
-          "url": "https://sr.wikipedia.org/wiki/Арсен_Баук"
-        },
-        {
-          "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Арсен_Баук"
+          "url": ""
         }
       ],
       "name": "ARSEN BAUK",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Arsen Bauk",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Arsen Bauk",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Arsen Bauk",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Arsen Bauk",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hr",
-          "name": "Arsen Bauk",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Arsen Bauk",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Арсен Баук",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr",
-          "name": "Арсен Баук",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr-ec",
-          "name": "Арсен Баук",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr-el",
-          "name": "Arsen Bauk",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uk",
-          "name": "Арсен Баук",
-          "note": "multilingual"
-        }
-      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6190"
@@ -371,7 +251,7 @@
     },
     {
       "birth_date": "1960-08-27",
-      "id": "69195d8f-9f20-4ecc-b87f-ecb6dee80942",
+      "id": "39c8b56a-268a-4d30-bee1-b79be08ac13f",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44546",
       "images": [
         {
@@ -431,7 +311,7 @@
     },
     {
       "birth_date": "1976-11-16",
-      "id": "5cfc0daf-6585-4789-b987-6b3dadd9be08",
+      "id": "6d2167b5-8c84-4f04-bb66-7ac8e33052fc",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44558",
       "images": [
         {
@@ -447,7 +327,7 @@
     },
     {
       "birth_date": "1975-10-02",
-      "id": "9c401840-738e-420c-9f1f-34ee40d28ca0",
+      "id": "9add99ba-6ec2-44a0-9cb6-17528b8fe167",
       "images": [
         {
           "url": ""
@@ -484,7 +364,7 @@
     },
     {
       "birth_date": "1959-11-12",
-      "id": "073a77b4-82ff-402e-8c49-65cdf513ab63",
+      "id": "350d66bf-1fff-43b9-85f9-783e323ad601",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44462",
       "images": [
         {
@@ -500,7 +380,7 @@
     },
     {
       "birth_date": "1949-09-30",
-      "id": "71ae5b55-3e5c-4c8d-b058-6e852b70f283",
+      "id": "b05ab147-2038-42c4-b366-1fb2cef78b8f",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44459",
       "images": [
         {
@@ -516,7 +396,7 @@
     },
     {
       "birth_date": "1956-09-23",
-      "id": "2c4ecba7-baed-46b9-b8e3-d8618020d784",
+      "id": "046a663d-305f-4b11-a285-46f0df60847f",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44550",
       "images": [
         {
@@ -575,141 +455,15 @@
       ]
     },
     {
-      "birth_date": "1959-06-07",
-      "id": "a9c6a1ad-e085-4496-a8b7-8b340fc8a29d",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44416",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44416"
-        }
-      ],
-      "name": "BRANKO BAČIĆ",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6184"
-        }
-      ]
-    },
-    {
       "birth_date": "1964-04-16",
-      "gender": "male",
-      "given_name": "Branko",
-      "id": "e8314715-b778-4885-95c7-922777d2fef2",
-      "identifiers": [
-        {
-          "identifier": "/m/0hr1g4t",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "171608119",
-          "scheme": "gnd"
-        },
-        {
-          "identifier": "197294679",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q165463",
-          "scheme": "wikidata"
-        }
-      ],
+      "id": "8b622434-8d07-4aed-b73d-0aa1f4373802",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44638",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44638"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Branko_Grčić"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Branko_Grčić"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Branko_Grčić"
-        },
-        {
-          "note": "Wikipedia (hr)",
-          "url": "https://hr.wikipedia.org/wiki/Branko_Grčić"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Branko_Grčić"
-        },
-        {
-          "note": "Wikipedia (sh)",
-          "url": "https://sh.wikipedia.org/wiki/Branko_Grčić"
-        },
-        {
-          "note": "Wikipedia (sr)",
-          "url": "https://sr.wikipedia.org/wiki/Бранко_Грчић"
-        },
-        {
-          "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Бранко_Грчич"
-        }
-      ],
       "name": "BRANKO GRČIĆ",
-      "other_names": [
-        {
-          "name": "Branko Grčić",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Branko Grčić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Branko Grčić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Branko Grčić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Branko Grčić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hr",
-          "name": "Branko Grčić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Branko Grčić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Branko Grčić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sh",
-          "name": "Branko Grčić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr",
-          "name": "Бранко Грчић",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uk",
-          "name": "Бранко Грчич",
-          "note": "multilingual"
-        }
-      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6262"
@@ -735,22 +489,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=5472"
-        }
-      ]
-    },
-    {
-      "birth_date": "1961-09-26",
-      "id": "e8a01792-4541-4904-9243-2138b36ebbc3",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44441",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44441"
-        }
-      ],
-      "name": "BRANKO HRG",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6278"
         }
       ]
     },
@@ -800,7 +538,7 @@
     },
     {
       "birth_date": "1965-04-08",
-      "id": "0d5e76df-2a16-41b2-b9dd-ffd2e6ed179a",
+      "id": "0a2b9206-fe71-4d95-84b1-0c06bfc73889",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44432",
       "images": [
         {
@@ -899,7 +637,7 @@
     },
     {
       "birth_date": "1969-07-01",
-      "id": "f887e063-3a6f-4e38-b34f-1eb517dd077a",
+      "id": "770478aa-4206-4f32-b1c2-b3cc481d68fc",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44456",
       "images": [
         {
@@ -910,22 +648,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6336"
-        }
-      ]
-    },
-    {
-      "birth_date": "1970-11-26",
-      "id": "0626343e-7e63-45fa-8ee9-892703c89860",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44466",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44466"
-        }
-      ],
-      "name": "DAMIR MATELJAN",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6387"
         }
       ]
     },
@@ -1018,22 +740,6 @@
       ]
     },
     {
-      "birth_date": "1970-03-22",
-      "id": "96fa9c0e-79e8-489a-9ea2-ebe6f5526136",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44496",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44496"
-        }
-      ],
-      "name": "DAMIR TOMIĆ",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6524"
-        }
-      ]
-    },
-    {
       "birth_date": "1978-11-09",
       "id": "ff5365e5-d7e7-4d32-bf21-891b5db3fc3b",
       "identifiers": [
@@ -1057,7 +763,7 @@
     },
     {
       "birth_date": "1965-03-14",
-      "id": "f57c4c0e-af2f-4812-ac7f-e06853079811",
+      "id": "67298a36-a090-44a2-93b2-fb41ac79ee29",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44556",
       "images": [
         {
@@ -1073,7 +779,7 @@
     },
     {
       "birth_date": "1981-09-11",
-      "id": "5a6fd4f5-238b-4eed-9f52-2da1d5d928fc",
+      "id": "c8984d1c-6d19-44c9-92da-6c6ce4adc937",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44439",
       "images": [
         {
@@ -1106,22 +812,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=5664"
-        }
-      ]
-    },
-    {
-      "birth_date": "1963-04-25",
-      "id": "87983b26-9436-4b6b-aea2-474eef473053",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44562",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44562"
-        }
-      ],
-      "name": "DARKO MILINOVIĆ",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6404"
         }
       ]
     },
@@ -1195,7 +885,7 @@
     },
     {
       "birth_date": "1977-03-28",
-      "id": "581fb536-2868-4b16-9a15-9cc26e771efc",
+      "id": "2958932c-c397-4736-9dfa-a5d19ae3e75a",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44472",
       "images": [
         {
@@ -1405,7 +1095,7 @@
     },
     {
       "birth_date": "1957-12-19",
-      "id": "af00934f-2a62-4c46-8613-9674475fb1b8",
+      "id": "c2fed7e4-f43d-4ee1-ae21-06adfea72402",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44474",
       "images": [
         {
@@ -1421,7 +1111,7 @@
     },
     {
       "birth_date": "1963-07-31",
-      "id": "2ef880f2-7fb7-4119-a81b-bab7512fea65",
+      "id": "a3cb597b-bd19-4896-ba16-5c0fb176d943",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44771",
       "images": [
         {
@@ -1432,22 +1122,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6737"
-        }
-      ]
-    },
-    {
-      "birth_date": "1958-12-30",
-      "id": "3d122970-e8cf-4c55-9d6f-c8c58c3b6540",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44470",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44470"
-        }
-      ],
-      "name": "DAVORIN MLAKAR",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6412"
         }
       ]
     },
@@ -1514,38 +1188,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=5051"
-        }
-      ]
-    },
-    {
-      "birth_date": "1981-06-04",
-      "id": "d7852d23-1000-4933-9b76-736cc7d3a735",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44666",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44666"
-        }
-      ],
-      "name": "DOMAGOJ HAJDUKOVIĆ",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6268"
-        }
-      ]
-    },
-    {
-      "birth_date": "1970-01-05",
-      "id": "0b9a5601-cc05-437e-b86d-a9945e248a25",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44563",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44563"
-        }
-      ],
-      "name": "DOMAGOJ IVAN MILOŠEVIĆ",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6406"
         }
       ]
     },
@@ -1641,22 +1283,6 @@
     },
     {
       "birth_date": "1950-06-24",
-      "id": "37480ddf-6ff0-4dba-93c0-d55e8ec4a6c0",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44502",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44502"
-        }
-      ],
-      "name": "DRAGICA ZGREBEC",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6544"
-        }
-      ]
-    },
-    {
-      "birth_date": "1950-06-24",
       "id": "b67335d6-815e-43b8-9b24-03ce03479ed2",
       "identifiers": [
         {
@@ -1678,7 +1304,7 @@
       ]
     },
     {
-      "id": "1bf11030-bb39-49ae-8956-e91b010ceb7c",
+      "id": "79920bf0-e1a0-47ee-bdfd-cbd4a874c45f",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44478",
       "images": [
         {
@@ -1812,7 +1438,7 @@
     },
     {
       "birth_date": "1969-03-17",
-      "id": "6d1ad687-c3b6-46a5-abec-8384aec18312",
+      "id": "319f27bc-08e1-4468-b0ce-6c813525bdb8",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44631",
       "images": [
         {
@@ -1828,7 +1454,7 @@
     },
     {
       "birth_date": "1961-01-06",
-      "id": "25ecbdaa-25b9-4c16-87d3-f7c10d7da112",
+      "id": "81524490-ba75-46fa-bfc9-7cb494f977f3",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44633",
       "images": [
         {
@@ -1954,7 +1580,7 @@
     },
     {
       "birth_date": "1971-07-15",
-      "id": "fa87d7aa-8a9e-443e-bedf-ddf139df7f9b",
+      "id": "15c75de0-f9f0-4ab4-91a1-9b5fc9aae128",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44559",
       "images": [
         {
@@ -1987,22 +1613,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=4800"
-        }
-      ]
-    },
-    {
-      "birth_date": "1958-09-09",
-      "id": "fcf248a5-2742-4719-8135-e02837800846",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44643",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44643"
-        }
-      ],
-      "name": "FRANJO LUCIĆ",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6352"
         }
       ]
     },
@@ -2073,37 +1683,6 @@
       ]
     },
     {
-      "birth_date": "1950-06-01",
-      "id": "e08f91f3-247d-45be-9791-eee69c054beb",
-      "images": [
-        {
-          "url": ""
-        }
-      ],
-      "name": "FURIO RADIN",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6464"
-        }
-      ]
-    },
-    {
-      "birth_date": "1963-08-17",
-      "id": "2277fe6e-8b93-4c83-898c-46032cfeaaa5",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44572",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44572"
-        }
-      ],
-      "name": "GIOVANNI SPONZA",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6494"
-        }
-      ]
-    },
-    {
       "birth_date": "1963-08-17",
       "id": "76b65e2d-f99c-4cb0-82e1-6a361f2ea243",
       "identifiers": [
@@ -2122,22 +1701,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=4854"
-        }
-      ]
-    },
-    {
-      "birth_date": "1965-07-31",
-      "id": "18067b86-536d-4ad8-b982-f3708d2e22a0",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44418",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44418"
-        }
-      ],
-      "name": "GORAN BEUS RICHEMBERGH",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6194"
         }
       ]
     },
@@ -2165,7 +1728,7 @@
     },
     {
       "birth_date": "1947-05-26",
-      "id": "bb99a663-f17d-4d23-859e-3581e45aff16",
+      "id": "de27c4d7-13eb-443b-a620-b6c508fbcd77",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44635",
       "images": [
         {
@@ -2198,38 +1761,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=5607"
-        }
-      ]
-    },
-    {
-      "birth_date": "1959-09-05",
-      "id": "639969a0-bb68-406e-ae12-37eacd23a3e0",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44464",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44464"
-        }
-      ],
-      "name": "GORAN MARIĆ",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6366"
-        }
-      ]
-    },
-    {
-      "birth_date": "1967-08-02",
-      "id": "6b5c9949-3dd9-436b-8ac4-7677945b7baf",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44443",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44443"
-        }
-      ],
-      "name": "GORDAN JANDROKOVIĆ",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6292"
         }
       ]
     },
@@ -2369,7 +1900,7 @@
     },
     {
       "birth_date": "1974-06-13",
-      "id": "2fa689c9-9101-45ed-b0d9-ac02be190ea0",
+      "id": "46a19428-37b6-4ba2-894e-3d47f07adc0b",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44560",
       "images": [
         {
@@ -2385,7 +1916,7 @@
     },
     {
       "birth_date": "1964-05-10",
-      "id": "9cc16eeb-4839-47eb-b7f5-97199d9844fd",
+      "id": "2105af4e-8221-4f1f-a122-3b1707834ea3",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44483",
       "images": [
         {
@@ -2396,22 +1927,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6478"
-        }
-      ]
-    },
-    {
-      "birth_date": "1961-09-12",
-      "id": "2e703cd4-03b9-4529-87ee-aba2140f84d7",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44489",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44489"
-        }
-      ],
-      "name": "GORDANA SOBOL",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6490"
         }
       ]
     },
@@ -2505,22 +2020,6 @@
       ]
     },
     {
-      "birth_date": "1968-07-04",
-      "id": "f776606b-0a27-4834-bee9-2b181ccb8ca9",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44636",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44636"
-        }
-      ],
-      "name": "IGOR DRAGOVAN",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6238"
-        }
-      ]
-    },
-    {
       "birth_date": "1979-05-18",
       "id": "d569b241-c88f-498c-a0c7-405328cffa88",
       "identifiers": [
@@ -2588,7 +2087,7 @@
     },
     {
       "birth_date": "1965-09-04",
-      "id": "41a51be7-368f-452e-84c1-699540f6a111",
+      "id": "60369306-95b8-4878-8137-8c609c9a50ce",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44492",
       "images": [
         {
@@ -2625,24 +2124,8 @@
       ]
     },
     {
-      "birth_date": "1957-10-04",
-      "id": "f5800322-6e90-4c16-8191-b660a3b6375e",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44415",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44415"
-        }
-      ],
-      "name": "INGRID ANTIČEVIĆ MARINOVIĆ",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6174"
-        }
-      ]
-    },
-    {
       "birth_date": "1978-03-09",
-      "id": "a3cfbba8-a2a3-4328-ba66-31bca5a6d653",
+      "id": "9c91f6fe-7d9c-455d-9d0f-8419827297d7",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44476",
       "images": [
         {
@@ -2658,7 +2141,7 @@
     },
     {
       "birth_date": "1973-10-13",
-      "id": "6c520695-5441-4dc8-89c9-1e727fbb4e3f",
+      "id": "f202d9ba-d0ca-495b-b8bd-55b1d0430443",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44630",
       "images": [
         {
@@ -2814,7 +2297,7 @@
     },
     {
       "birth_date": "1951-01-01",
-      "id": "86f0931a-c8f6-4769-bfb6-ef67c298c68e",
+      "id": "b5af2c24-b455-4d09-89fe-68fd1e701421",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44448",
       "images": [
         {
@@ -2825,21 +2308,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6310"
-        }
-      ]
-    },
-    {
-      "birth_date": "1985-07-16",
-      "id": "570e2fd3-043f-4076-962a-8c2041147fee",
-      "images": [
-        {
-          "url": ""
-        }
-      ],
-      "name": "IVAN KLARIN",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6312"
         }
       ]
     },
@@ -2867,7 +2335,7 @@
     },
     {
       "birth_date": "1974-04-25",
-      "id": "36058c6b-8e41-4ff7-9c29-04bf99fd29c5",
+      "id": "962a2203-61e8-4200-97ca-85f8e2d60a09",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44452",
       "images": [
         {
@@ -2883,7 +2351,7 @@
     },
     {
       "birth_date": "1960-03-07",
-      "id": "b47da2a0-af1a-4217-ae94-101f65287397",
+      "id": "659717ed-24e0-40cb-b7a7-2a097ace7dfd",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44460",
       "images": [
         {
@@ -2899,7 +2367,7 @@
     },
     {
       "birth_date": "1987-06-15",
-      "id": "7edbebac-3193-4cdb-80a1-a8fcb9583bc2",
+      "id": "0963b288-3209-41d4-8b88-0bb96f4e4081",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44480",
       "images": [
         {
@@ -2937,7 +2405,7 @@
     },
     {
       "birth_date": "1990-08-28",
-      "id": "2c1433ac-4d88-4fd9-a39c-de24dc4721da",
+      "id": "c0b179c7-81d9-4f8f-b800-f88fda606e22",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44569",
       "images": [
         {
@@ -2953,7 +2421,7 @@
     },
     {
       "birth_date": "1980-08-08",
-      "id": "6cff2dd3-0035-460e-b72b-ba6808c5c5ea",
+      "id": "65d0972f-ab59-417c-921c-50a420a7cb65",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44495",
       "images": [
         {
@@ -2969,7 +2437,7 @@
     },
     {
       "birth_date": "1972-06-22",
-      "id": "84674716-3ea8-46f0-bef4-8bcca9d569e9",
+      "id": "201cabf1-7f7b-46aa-83cb-0a5da808b4ca",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44657",
       "images": [
         {
@@ -3028,7 +2496,7 @@
     },
     {
       "birth_date": "1974-06-24",
-      "id": "c2753611-9774-4d2f-9f05-7d77b2d0d986",
+      "id": "0e7746ae-e9e6-4f41-940f-60e305953953",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44570",
       "images": [
         {
@@ -3039,22 +2507,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6504"
-        }
-      ]
-    },
-    {
-      "birth_date": "1957-11-12",
-      "id": "03d39f9d-24fb-4776-99b5-c150a4fdeb85",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44494",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44494"
-        }
-      ],
-      "name": "IVAN ŠUKER",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6516"
         }
       ]
     },
@@ -3235,7 +2687,7 @@
     },
     {
       "birth_date": "1955-02-23",
-      "id": "3882f00c-c759-4f95-8a7d-9901279604ba",
+      "id": "db4e3fc9-77cb-405a-a3f3-8486f30a6568",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44469",
       "images": [
         {
@@ -3268,22 +2720,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=4722"
-        }
-      ]
-    },
-    {
-      "birth_date": "1960-10-10",
-      "id": "78f5af88-8b0c-488b-873e-6a3897ac3542",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44444",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44444"
-        }
-      ],
-      "name": "IVO JELUŠIĆ",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6296"
         }
       ]
     },
@@ -3756,7 +3192,7 @@
       ]
     },
     {
-      "id": "d438bdb9-6ec4-4208-93e8-d18b69b9602b",
+      "id": "88c557af-2f52-4da5-aa11-cc3117ac1ff2",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44473",
       "images": [
         {
@@ -3767,22 +3203,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6432"
-        }
-      ]
-    },
-    {
-      "birth_date": "1972-06-11",
-      "id": "b1dd20c2-1760-4c5b-81f4-0e54b1d3cc85",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44467",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44467"
-        }
-      ],
-      "name": "JASEN MESIĆ",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6393"
         }
       ]
     },
@@ -3919,7 +3339,7 @@
     },
     {
       "birth_date": "1959-07-01",
-      "id": "69e18eef-1b78-4b41-9183-f5cd2ad64c66",
+      "id": "834a4c8f-e763-48a0-975a-094b078af53d",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44561",
       "images": [
         {
@@ -3935,7 +3355,7 @@
     },
     {
       "birth_date": "1986-04-04",
-      "id": "463c0dc8-2f31-4a84-9a9f-8518684c8a63",
+      "id": "dfddd8b0-4cd0-4b36-99f9-f01a174077c0",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44419",
       "images": [
         {
@@ -3972,24 +3392,8 @@
       ]
     },
     {
-      "birth_date": "1972-10-23",
-      "id": "e70a7a2b-ac7d-4ce0-a8ef-6be8aef0de77",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44547",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44547"
-        }
-      ],
-      "name": "JOSIP BORIĆ",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6683"
-        }
-      ]
-    },
-    {
       "birth_date": "1969-01-20",
-      "id": "2cac6c43-eded-47eb-8cf3-2aee8447f7df",
+      "id": "d7c64d3a-340f-4a6f-9fca-7b67b9bde287",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44447",
       "images": [
         {
@@ -4051,7 +3455,7 @@
     },
     {
       "birth_date": "1968-02-07",
-      "id": "7fc8cdd1-130c-4df2-a49a-71c6740c502b",
+      "id": "477ac747-4b2b-4c82-b2ab-955e3c165079",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44454",
       "images": [
         {
@@ -4084,22 +3488,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=5955"
-        }
-      ]
-    },
-    {
-      "birth_date": "1948-09-19",
-      "id": "c6934b9c-3fa6-4521-b886-d146d29c792f",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44458",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44458"
-        }
-      ],
-      "name": "JOSIP LEKO",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6346"
         }
       ]
     },
@@ -4251,22 +3639,6 @@
       ]
     },
     {
-      "birth_date": "1976-03-13",
-      "id": "ccae2b12-e78e-4cb0-abab-6e6a3044650b",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44568",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44568"
-        }
-      ],
-      "name": "JOSIP SALAPIĆ",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6480"
-        }
-      ]
-    },
-    {
       "birth_date": "1946-07-30",
       "id": "4f160f0c-dfd1-48a3-b324-cd46296e947a",
       "identifiers": [
@@ -4311,24 +3683,8 @@
       ]
     },
     {
-      "birth_date": "1960-11-02",
-      "id": "7c2c51f3-5a2b-4571-a26e-621189a14f47",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44634",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44634"
-        }
-      ],
-      "name": "JOSIP ĐAKIĆ",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6240"
-        }
-      ]
-    },
-    {
       "birth_date": "1980-02-25",
-      "id": "b65956bb-02f6-4fcf-b69a-57cec18bef3f",
+      "id": "f8e3eaf9-ba4d-44dd-ad97-a979f4c863a8",
       "images": [
         {
           "url": ""
@@ -4343,7 +3699,7 @@
     },
     {
       "birth_date": "1968-08-26",
-      "id": "f456e989-652a-46a5-8dec-fa3ed59cc9f2",
+      "id": "dfa05c7c-e767-4b5b-b9cb-be0ed71e4a66",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44642",
       "images": [
         {
@@ -4359,7 +3715,7 @@
     },
     {
       "birth_date": "1956-11-07",
-      "id": "8d123ac6-f06e-47e7-bf1c-28f60ee4ab56",
+      "id": "a6c7c4ea-f2d4-4707-af89-73a02d8803cd",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44465",
       "images": [
         {
@@ -4475,7 +3831,7 @@
     },
     {
       "birth_date": "1970-08-04",
-      "id": "1f5a1b6d-c23c-4b3d-bb9d-986b5d49bf2e",
+      "id": "38c0be75-786c-422f-8810-155a7b9f57bd",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44442",
       "images": [
         {
@@ -4491,7 +3847,7 @@
     },
     {
       "birth_date": "1978-11-25",
-      "id": "030b7ded-919b-4d97-86e1-06cdc92346cf",
+      "id": "39e8b198-e6e3-4ddd-a4f6-75482be3d591",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44772",
       "images": [
         {
@@ -4530,7 +3886,7 @@
     },
     {
       "birth_date": "1965-02-03",
-      "id": "cd140416-f8a4-4e89-bd2f-8107ee5d1ef1",
+      "id": "a50831f5-a46d-4e46-af3e-ac28be1463eb",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44414",
       "images": [
         {
@@ -4546,7 +3902,7 @@
     },
     {
       "birth_date": "1973-11-24",
-      "id": "6e03c27c-4793-4abe-a0c7-77c6a0a574df",
+      "id": "350f4b6e-8cd0-47ba-9ffb-a5f092634f4d",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44463",
       "images": [
         {
@@ -4562,7 +3918,7 @@
     },
     {
       "birth_date": "1963-01-26",
-      "id": "87d42ce4-896d-4e6b-a62b-20aff62efe58",
+      "id": "41a3cd00-5c0e-437e-9678-61c5797f704c",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44500",
       "images": [
         {
@@ -4600,7 +3956,7 @@
     },
     {
       "birth_date": "1977-07-02",
-      "id": "cd9124f1-7154-4e58-9722-47b3946f76b9",
+      "id": "0893cee8-4449-4eae-9f5c-400f7a0e871d",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44461",
       "images": [
         {
@@ -4616,7 +3972,7 @@
     },
     {
       "birth_date": "1972-01-15",
-      "id": "d810bc3b-ebb2-41d9-85bf-b724c360fd50",
+      "id": "682fad2c-af13-4a49-9ea8-b0f41343ea53",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44421",
       "images": [
         {
@@ -4653,22 +4009,6 @@
       ]
     },
     {
-      "birth_date": "1945-02-19",
-      "id": "50b4f28c-f06e-49fc-8e3c-4c53b06181fd",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44552",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44552"
-        }
-      ],
-      "name": "MARIJA ILIĆ",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6284"
-        }
-      ]
-    },
-    {
       "birth_date": "1978-06-05",
       "id": "330cea4d-3b2f-469f-95e1-c8c2e52da5c6",
       "identifiers": [
@@ -4692,7 +4032,7 @@
     },
     {
       "birth_date": "1985-12-05",
-      "id": "d5f43c78-38fb-4b9b-a33c-d1e596f33c48",
+      "id": "9b9efc40-d781-446a-badb-ee915acaf036",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44479",
       "images": [
         {
@@ -4729,7 +4069,7 @@
     },
     {
       "birth_date": "1975-02-10",
-      "id": "9aae037b-d994-45ba-8a61-0af6f8c65914",
+      "id": "94960c97-c13f-4f15-819a-d76c08edb76d",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44557",
       "images": [
         {
@@ -4811,22 +4151,6 @@
     },
     {
       "birth_date": "1972-05-16",
-      "id": "3212e57d-0f4c-4e34-a6b0-f1cbe3d58e64",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44437",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44437"
-        }
-      ],
-      "name": "MARIO HABEK",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6264"
-        }
-      ]
-    },
-    {
-      "birth_date": "1972-05-16",
       "id": "93cf99ea-0362-4ea3-a6e1-4beb7dc666d8",
       "identifiers": [
         {
@@ -4849,7 +4173,7 @@
     },
     {
       "birth_date": "1981-02-10",
-      "id": "efd075da-68cb-430e-8065-0c6e73ed64c9",
+      "id": "d7f07ff0-7bed-4129-ae0c-54b836db12e5",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44449",
       "images": [
         {
@@ -4887,7 +4211,7 @@
     },
     {
       "birth_date": "1973-04-25",
-      "id": "bc87110a-4d1d-457b-9423-fa267ec443fd",
+      "id": "90f7c788-57f2-4fc4-b79c-32f749ce54cb",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44488",
       "images": [
         {
@@ -4903,7 +4227,7 @@
     },
     {
       "birth_date": "1979-05-26",
-      "id": "ab2a4aef-bede-49cb-a9aa-7ab5d0d7ac04",
+      "id": "58793ebc-ebc4-4e04-bdb9-c82669ac030d",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44453",
       "images": [
         {
@@ -4963,71 +4287,14 @@
     },
     {
       "birth_date": "1978-01-19",
-      "gender": "male",
-      "given_name": "Mihael",
-      "id": "8250a692-c2ae-4e79-8bca-cea7abdd84f1",
-      "identifiers": [
-        {
-          "identifier": "Q12958427",
-          "scheme": "wikidata"
-        }
-      ],
+      "id": "546ff6a3-753b-420a-9d1b-aa4e31d83208",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44659",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44659"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Mihael_Zmajlović"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Mihael_Zmajlović"
-        },
-        {
-          "note": "Wikipedia (sh)",
-          "url": "https://sh.wikipedia.org/wiki/Mihael_Zmajlović"
-        },
-        {
-          "note": "Wikipedia (sr)",
-          "url": "https://sr.wikipedia.org/wiki/Михаел_Змајловић"
-        }
-      ],
       "name": "MIHAEL ZMAJLOVIĆ",
-      "other_names": [
-        {
-          "name": "Mihael Zmajlović",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Mihael Zmajlović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Mihael Zmajlović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Mihael Zmajlović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sh",
-          "name": "Mihael Zmajlović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr",
-          "name": "Михаел Змајловић",
-          "note": "multilingual"
-        }
-      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6546"
@@ -5058,144 +4325,17 @@
     },
     {
       "birth_date": "1968-04-17",
-      "gender": "female",
-      "id": "ba6767cc-61cd-415c-bbd5-aeaea4bee0f7",
-      "identifiers": [
-        {
-          "identifier": "/m/0cp0b_2",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q2986845",
-          "scheme": "wikidata"
-        }
-      ],
+      "id": "109802a3-6024-4782-86cd-293511d6f50a",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44649",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44649"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Milanka_Opačić"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Milanka_Opačić"
-        },
-        {
-          "note": "Wikipedia (hr)",
-          "url": "https://hr.wikipedia.org/wiki/Milanka_Opačić"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Milanka_Opačić"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Опачич,_Миланка"
-        },
-        {
-          "note": "Wikipedia (sh)",
-          "url": "https://sh.wikipedia.org/wiki/Milanka_Opačić"
-        },
-        {
-          "note": "Wikipedia (sr)",
-          "url": "https://sr.wikipedia.org/wiki/Миланка_Опачић"
-        },
-        {
-          "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Міланка_Опачич"
-        }
-      ],
       "name": "MILANKA OPAČIĆ",
-      "other_names": [
-        {
-          "name": "Milanka Opačić",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Milanka Opačić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Milanka Opačić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Milanka Opačić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hr",
-          "name": "Milanka Opačić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Milanka Opačić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Milanka Opačić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Опачич, Миланка",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sh",
-          "name": "Milanka Opačić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr",
-          "name": "Миланка Опачић",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr-ec",
-          "name": "Миланка Опачић",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr-el",
-          "name": "Milanka Opačić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uk",
-          "name": "Міланка Опачич",
-          "note": "multilingual"
-        }
-      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6420"
-        }
-      ]
-    },
-    {
-      "birth_date": "1959-05-16",
-      "id": "43575869-30ad-43e3-b7b8-37c3e01ececa",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44551",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44551"
-        }
-      ],
-      "name": "MILE HORVAT",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6272"
         }
       ]
     },
@@ -5223,7 +4363,7 @@
     },
     {
       "birth_date": "1959-04-04",
-      "id": "b39b170e-c1db-4628-8c59-9336c05dac34",
+      "id": "93af2c6b-bbe2-4803-86d8-be54759bab1d",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44490",
       "images": [
         {
@@ -5256,37 +4396,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=4981"
-        }
-      ]
-    },
-    {
-      "birth_date": "1957-09-07",
-      "id": "aca2d900-7f74-4a05-b4ee-22ec14e9b5c8",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44417",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44417"
-        }
-      ],
-      "name": "MILORAD BATINIĆ",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6188"
-        }
-      ]
-    },
-    {
-      "birth_date": "1955-11-05",
-      "id": "3f687caa-6cbd-4d94-80f2-1fb8e1d70d81",
-      "images": [
-        {
-          "url": ""
-        }
-      ],
-      "name": "MILORAD PUPOVAC",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6456"
         }
       ]
     },
@@ -5436,7 +4545,7 @@
     },
     {
       "birth_date": "1967-07-25",
-      "id": "5edbc7c9-18ad-4839-9452-6f085ec9daa5",
+      "id": "a50e4162-e77d-4ddd-bf90-6df372d4e904",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44548",
       "images": [
         {
@@ -5452,70 +4561,14 @@
     },
     {
       "birth_date": "1959-10-14",
-      "gender": "male",
-      "id": "6bbad636-12cd-42fd-a698-866353a88994",
-      "identifiers": [
-        {
-          "identifier": "Q10853815",
-          "scheme": "wikidata"
-        }
-      ],
+      "id": "260b8597-f4ec-4151-a609-95f3312e3f65",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44648",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44648"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Mirando_Mrsić"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Mirando_Mrsić"
-        },
-        {
-          "note": "Wikipedia (hr)",
-          "url": "https://hr.wikipedia.org/wiki/Mirando_Mrsić"
-        },
-        {
-          "note": "Wikipedia (sh)",
-          "url": "https://sh.wikipedia.org/wiki/Mirando_Mrsić"
-        }
-      ],
       "name": "MIRANDO MRSIĆ",
-      "other_names": [
-        {
-          "name": "Mirando Mrsić",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Mirando Mrsić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Mirando Mrsić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Mirando Mrsić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hr",
-          "name": "Mirando Mrsić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sh",
-          "name": "Mirando Mrsić",
-          "note": "multilingual"
-        }
-      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6416"
@@ -5646,7 +4699,7 @@
     },
     {
       "birth_date": "1952-11-09",
-      "id": "8da80b30-d5c1-492d-b85d-a6481503a099",
+      "id": "bb356585-ab16-4335-b7ec-8b2f84a78d7f",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44567",
       "images": [
         {
@@ -5662,7 +4715,7 @@
     },
     {
       "birth_date": "1972-03-11",
-      "id": "3515787c-9928-4efa-a410-f9e7f4799722",
+      "id": "a1f21601-6831-488b-b4f7-37d170f28fb3",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44422",
       "images": [
         {
@@ -5678,7 +4731,7 @@
     },
     {
       "birth_date": "1971-11-20",
-      "id": "ed139b6a-71a7-4e25-9e60-b7aced820b4a",
+      "id": "8e92aa3c-916a-4906-9750-67a01f55932b",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44654",
       "images": [
         {
@@ -5837,24 +4890,8 @@
       ]
     },
     {
-      "birth_date": "1946-05-25",
-      "id": "bca2c10a-0970-4620-83a6-c48de63c89ee",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44655",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44655"
-        }
-      ],
-      "name": "MIROSLAV TUĐMAN",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6526"
-        }
-      ]
-    },
-    {
       "birth_date": "1975-10-04",
-      "id": "4b2df4eb-ba75-4fae-81cf-98da384ff149",
+      "id": "648c8692-74d4-4a85-ac2d-871dbf362b04",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44487",
       "images": [
         {
@@ -5914,22 +4951,6 @@
     },
     {
       "birth_date": "1958-01-14",
-      "id": "a0b81e79-8031-49e9-b341-22d576bd442d",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44471",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44471"
-        }
-      ],
-      "name": "NADA MURGANIĆ",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6679"
-        }
-      ]
-    },
-    {
-      "birth_date": "1958-01-14",
       "id": "d5de12d4-1c22-454a-9edf-e5f71e59a47a",
       "identifiers": [
         {
@@ -5947,22 +4968,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=5779"
-        }
-      ]
-    },
-    {
-      "birth_date": "1964-07-11",
-      "id": "0c0f25a4-091e-4ea5-ae38-24d20c01f94f",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44497",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44497"
-        }
-      ],
-      "name": "NADA TURINA-ĐURIĆ",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6528"
         }
       ]
     },
@@ -6055,22 +5060,6 @@
       ]
     },
     {
-      "birth_date": "1965-02-26",
-      "id": "b5d4c489-7984-4d32-b25e-7a6a86aa2933",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44573",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44573"
-        }
-      ],
-      "name": "NANSI TIRELI",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6520"
-        }
-      ]
-    },
-    {
       "birth_date": "1975-05-01",
       "id": "38bab199-86df-4b1c-a7bc-22a3ab0e05ba",
       "identifiers": [
@@ -6111,22 +5100,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=5053"
-        }
-      ]
-    },
-    {
-      "birth_date": "1957-07-13",
-      "id": "2f9d63f4-d1ed-429b-8c08-de836afd9d29",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44491",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44491"
-        }
-      ],
-      "name": "NENAD STAZIĆ",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6496"
         }
       ]
     },
@@ -6310,7 +5283,7 @@
     },
     {
       "birth_date": "1968-09-15",
-      "id": "d407055e-beea-4487-a649-021d4f8b4ec2",
+      "id": "8978674f-e8b1-4c48-af47-c8858785cf80",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44646",
       "images": [
         {
@@ -6348,7 +5321,7 @@
     },
     {
       "birth_date": "1962-04-28",
-      "id": "89593a34-efd4-4e79-9545-f3d494a9b244",
+      "id": "268c623e-1603-4c5d-961a-67ed4ed2b3eb",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44425",
       "images": [
         {
@@ -6364,7 +5337,7 @@
     },
     {
       "birth_date": "1959-10-27",
-      "id": "8c96937d-883b-486c-af7f-c240f4e90339",
+      "id": "5d5d051f-629e-48d6-ad22-e25aa8523a89",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44426",
       "images": [
         {
@@ -6402,7 +5375,7 @@
     },
     {
       "birth_date": "1972-05-01",
-      "id": "f67d7ef1-8f66-464f-b9f0-18d1b9c2932a",
+      "id": "0a377348-c72c-4c35-abea-707e18f6db13",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44571",
       "images": [
         {
@@ -6439,24 +5412,8 @@
       ]
     },
     {
-      "birth_date": "1979-05-24",
-      "id": "fcc19e62-ce5c-40e8-8910-0df525180456",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44436",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44436"
-        }
-      ],
-      "name": "PEĐA GRBIN",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6260"
-        }
-      ]
-    },
-    {
       "birth_date": "1962-06-02",
-      "id": "b951ca36-8dd6-4ce7-a181-9be4c37a2a4b",
+      "id": "712d3c6b-ad25-47e9-b265-faa5ca21fcf3",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44644",
       "images": [
         {
@@ -6472,175 +5429,17 @@
     },
     {
       "birth_date": "1949-05-11",
-      "gender": "male",
-      "id": "0f76190b-487d-4c20-95e9-780dcca88542",
-      "identifiers": [
-        {
-          "identifier": "/m/068zlv",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "305564397",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q1285099",
-          "scheme": "wikidata"
-        }
-      ],
+      "id": "c487863f-634e-4a0e-a32a-a7ec1835dd19",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44691",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44691"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Radimir_Čačić"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Radimir_Čačić"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Radimir_Čačić"
-        },
-        {
-          "note": "Wikipedia (hr)",
-          "url": "https://hr.wikipedia.org/wiki/Radimir_Čačić"
-        },
-        {
-          "note": "Wikipedia (hrwikiquote)",
-          "url": "https://hrwikiquote.wikipedia.org/wiki/Radimir_Čačić"
-        },
-        {
-          "note": "Wikipedia (it)",
-          "url": "https://it.wikipedia.org/wiki/Radimir_Čačić"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Radimir_Čačić"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Чачич,_Радимир"
-        },
-        {
-          "note": "Wikipedia (sh)",
-          "url": "https://sh.wikipedia.org/wiki/Radimir_Čačić"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Radimir_Čačić"
-        },
-        {
-          "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Радимир_Чачич"
-        }
-      ],
       "name": "RADIMIR ČAČIĆ",
-      "other_names": [
-        {
-          "name": "Radimir Čačić",
-          "note": "alternate"
-        },
-        {
-          "lang": "da",
-          "name": "Radimir Čačić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Radimir Čačić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Radimir Čačić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Radimir Čačić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Radimir Čačić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hr",
-          "name": "Radimir Čačić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Radimir Čačić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Radimir Čačić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Radimir Čačić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "Radimir Čačić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Radimir Čačić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Чачич, Радимир",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sh",
-          "name": "Radimir Čačić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Radimir Čačić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uk",
-          "name": "Радимир Чачич",
-          "note": "multilingual"
-        }
-      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6218"
-        }
-      ]
-    },
-    {
-      "birth_date": "1962-01-19",
-      "id": "705674d6-9d54-414c-8c56-b5e78b8d68ab",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=40372",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=40372"
-        }
-      ],
-      "name": "RAJKO OSTOJIĆ",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6422"
         }
       ]
     },
@@ -6781,7 +5580,7 @@
     },
     {
       "birth_date": "1962-10-03",
-      "id": "1bc4dcab-5f24-4d61-a752-9489254a547d",
+      "id": "82f98c2d-675c-4b52-8da4-74c273f0c210",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44650",
       "images": [
         {
@@ -6797,7 +5596,7 @@
     },
     {
       "birth_date": "1958-06-03",
-      "id": "430fc1a7-6388-40ed-a297-aa87f9045c67",
+      "id": "17c216fe-63d1-4fa5-a56b-697823fa2cca",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44652",
       "images": [
         {
@@ -6835,7 +5634,7 @@
     },
     {
       "birth_date": "1975-06-16",
-      "id": "a7fef2ec-c493-4d6b-9c21-a1297d5afd47",
+      "id": "335755aa-de36-414b-85c6-f4560b98315c",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44501",
       "images": [
         {
@@ -6851,7 +5650,7 @@
     },
     {
       "birth_date": "1978-05-20",
-      "id": "7d939bb5-fd6e-4ddf-ae6a-31683f6c715e",
+      "id": "917ee940-83c3-4c22-adda-fc00f0ebc450",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44637",
       "images": [
         {
@@ -6867,7 +5666,7 @@
     },
     {
       "birth_date": "1974-04-05",
-      "id": "baf259af-5217-44e3-a362-d5fe15c9edf5",
+      "id": "7f614a21-3c47-4509-9bd4-abd98f36d3dd",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44455",
       "images": [
         {
@@ -6883,7 +5682,7 @@
     },
     {
       "birth_date": "1990-06-21",
-      "id": "b48d06c4-ed06-4535-9bf4-3b1f8590c43e",
+      "id": "8e59ba90-659f-4d57-9183-73dda67cd28a",
       "images": [
         {
           "url": ""
@@ -6898,7 +5697,7 @@
     },
     {
       "birth_date": "1979-01-22",
-      "id": "f34a700e-c25e-49e0-a3bb-72d139a230f4",
+      "id": "5a951457-0f01-4cb0-b8ce-5fa323e33bdc",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44566",
       "images": [
         {
@@ -6936,22 +5735,6 @@
     },
     {
       "birth_date": "1958-03-14",
-      "id": "48cdefef-7901-447c-b6d0-fcda78ae6347",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44440",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44440"
-        }
-      ],
-      "name": "SILVANO HRELJA",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6276"
-        }
-      ]
-    },
-    {
-      "birth_date": "1958-03-14",
       "id": "6fcb6fcb-1aa9-4d9a-bfb5-5f819088a917",
       "identifiers": [
         {
@@ -6974,7 +5757,7 @@
     },
     {
       "birth_date": "1974-06-29",
-      "id": "21c3d8db-26d5-4430-8815-fe027112fb96",
+      "id": "c26c5a7b-1dce-4100-ab1f-868a1df85f6d",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44639",
       "images": [
         {
@@ -6990,7 +5773,7 @@
     },
     {
       "birth_date": "1965-08-24",
-      "id": "05772656-4704-445c-b8ae-e5949824f1d2",
+      "id": "d94ba728-6747-4745-9dd8-634fa0283e6a",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44656",
       "images": [
         {
@@ -7072,7 +5855,7 @@
     },
     {
       "birth_date": "1964-08-10",
-      "id": "0dfb8cbd-f1af-4ec9-94e7-fa94cc0bec21",
+      "id": "22d60900-d008-4f25-94ad-5475c6ea4ffe",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44427",
       "images": [
         {
@@ -7088,7 +5871,7 @@
     },
     {
       "birth_date": "1954-10-05",
-      "id": "56356b3d-2393-4d07-8097-60e8720cb23e",
+      "id": "1e24f625-ac7e-40d2-ac93-eea82c56149e",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44564",
       "images": [
         {
@@ -7126,7 +5909,7 @@
     },
     {
       "birth_date": "1965-09-24",
-      "id": "b3700975-124a-477c-89f9-6711f4e05c97",
+      "id": "bac4163d-50e7-4633-9d47-419e88774451",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44651",
       "images": [
         {
@@ -7185,22 +5968,6 @@
       ]
     },
     {
-      "birth_date": "1979-06-18",
-      "id": "24aae48c-e3f5-40f0-81c9-48545f4728b9",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44575",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44575"
-        }
-      ],
-      "name": "TANJA VRBAT GRGIĆ",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6540"
-        }
-      ]
-    },
-    {
       "birth_date": "1957-09-29",
       "id": "e1be347f-47ae-436e-b765-4a017e0fb359",
       "identifiers": [
@@ -7224,40 +5991,14 @@
     },
     {
       "birth_date": "1967-06-21",
-      "gender": "male",
-      "given_name": "Tihomir",
-      "id": "f6bdf660-b355-4516-8ae0-d59b37079e56",
-      "identifiers": [
-        {
-          "identifier": "Q11143940",
-          "scheme": "wikidata"
-        }
-      ],
+      "id": "0929f789-4396-4dfc-bbdf-c1e6f1290116",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44770",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44770"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (sh)",
-          "url": "https://sh.wikipedia.org/wiki/Tihomir_Jakovina"
-        }
-      ],
       "name": "TIHOMIR JAKOVINA",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Tihomir Jakovina",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sh",
-          "name": "Tihomir Jakovina",
-          "note": "multilingual"
-        }
-      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6290"
@@ -7532,7 +6273,7 @@
     },
     {
       "birth_date": "1970-06-06",
-      "id": "5b7f9e64-c42d-4cab-818e-900b93b7b555",
+      "id": "99ea6ed9-4f8d-4111-bb1f-c6824ca3a0f1",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44451",
       "images": [
         {
@@ -7548,7 +6289,7 @@
     },
     {
       "birth_date": "1980-06-12",
-      "id": "b6d5b126-406b-4294-a607-29c720b71015",
+      "id": "dea52390-c785-4909-845d-8c20bb0d2d5c",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44653",
       "images": [
         {
@@ -7581,38 +6322,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=5013"
-        }
-      ]
-    },
-    {
-      "birth_date": "1958-11-16",
-      "id": "649b386a-ad2b-41a4-9951-ad45c9c2a3ab",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44428",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44428"
-        }
-      ],
-      "name": "TOMISLAV ČULJAK",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6220"
-        }
-      ]
-    },
-    {
-      "birth_date": "1969-12-10",
-      "id": "6cf17a02-2dea-4469-b19e-e74fa3e4203d",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44658",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44658"
-        }
-      ],
-      "name": "TOMISLAV ŽAGAR",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6548"
         }
       ]
     },
@@ -7684,7 +6393,7 @@
     },
     {
       "birth_date": "1958-05-13",
-      "id": "8fbe0548-ef12-4260-8dec-83d68ec42752",
+      "id": "7d98ba2c-c818-42e6-85f2-798ed8e51048",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44430",
       "images": [
         {
@@ -7765,38 +6474,6 @@
       ]
     },
     {
-      "birth_date": "1976-12-10",
-      "id": "f6d12306-25c8-4119-9193-10e4b0de7f58",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44544",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44544"
-        }
-      ],
-      "name": "VEDRAN BABIĆ",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6183"
-        }
-      ]
-    },
-    {
-      "birth_date": "1960-02-14",
-      "id": "209644b9-80f4-42af-82d4-77e5bb693b65",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44446",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44446"
-        }
-      ],
-      "name": "VELJKO KAJTAZI",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6302"
-        }
-      ]
-    },
-    {
       "birth_date": "1960-02-14",
       "id": "5255cfb7-f24e-4cd1-89ae-95590742aadc",
       "identifiers": [
@@ -7820,231 +6497,14 @@
     },
     {
       "birth_date": "1953-03-25",
-      "gender": "female",
-      "given_name": "Vesna",
-      "id": "cb579388-b90c-4692-bdf1-3d1b01291ff4",
-      "identifiers": [
-        {
-          "identifier": "/m/050x_l",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "no91010322",
-          "scheme": "lcauth"
-        },
-        {
-          "identifier": "66032720",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q58191",
-          "scheme": "wikidata"
-        }
-      ],
+      "id": "a7df20ac-5fdc-4f08-bd95-ccf839e515a5",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44565",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44565"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (bg)",
-          "url": "https://bg.wikipedia.org/wiki/Весна_Пусич"
-        },
-        {
-          "note": "Wikipedia (bswikiquote)",
-          "url": "https://bswikiquote.wikipedia.org/wiki/Vesna_Pusić"
-        },
-        {
-          "note": "Wikipedia (ca)",
-          "url": "https://ca.wikipedia.org/wiki/Vesna_Pusić"
-        },
-        {
-          "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Vesna_Pusić"
-        },
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Vesna_Pusić"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Vesna_Pusić"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Vesna_Pusić"
-        },
-        {
-          "note": "Wikipedia (hr)",
-          "url": "https://hr.wikipedia.org/wiki/Vesna_Pusić"
-        },
-        {
-          "note": "Wikipedia (ie)",
-          "url": "https://ie.wikipedia.org/wiki/Vesna_Pusić"
-        },
-        {
-          "note": "Wikipedia (it)",
-          "url": "https://it.wikipedia.org/wiki/Vesna_Pusić"
-        },
-        {
-          "note": "Wikipedia (ka)",
-          "url": "https://ka.wikipedia.org/wiki/ვესნა_პუსიჩი"
-        },
-        {
-          "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/베스나_푸시치"
-        },
-        {
-          "note": "Wikipedia (la)",
-          "url": "https://la.wikipedia.org/wiki/Vesna_Pusić"
-        },
-        {
-          "note": "Wikipedia (nl)",
-          "url": "https://nl.wikipedia.org/wiki/Vesna_Pusić"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Vesna_Pusić"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Пусич,_Весна"
-        },
-        {
-          "note": "Wikipedia (sh)",
-          "url": "https://sh.wikipedia.org/wiki/Vesna_Pusić"
-        },
-        {
-          "note": "Wikipedia (sr)",
-          "url": "https://sr.wikipedia.org/wiki/Весна_Пусић"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Vesna_Pusić"
-        },
-        {
-          "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Весна_Пусич"
-        },
-        {
-          "note": "website",
-          "url": "http://vesna-pusic.hns.hr/"
-        }
-      ],
       "name": "VESNA PUSIĆ",
-      "other_names": [
-        {
-          "name": "Vesna Pusić",
-          "note": "alternate"
-        },
-        {
-          "lang": "bg",
-          "name": "Весна Пусич",
-          "note": "multilingual"
-        },
-        {
-          "lang": "bs",
-          "name": "Vesna Pusić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ca",
-          "name": "Vesna Pusić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Vesna Pusić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Vesna Pusić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Vesna Pusić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Vesna Pusić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hr",
-          "name": "Vesna Pusić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ie",
-          "name": "Vesna Pusić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Vesna Pusić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ka",
-          "name": "ვესნა პუსიჩი",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ko",
-          "name": "베스나 푸시치",
-          "note": "multilingual"
-        },
-        {
-          "lang": "la",
-          "name": "Vesna Pusić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Vesna Pusić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "oc",
-          "name": "Vesna Pusić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Vesna Pusić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Пусич, Весна",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sh",
-          "name": "Vesna Pusić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr",
-          "name": "Весна Пусић",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Vesna Pusić",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uk",
-          "name": "Весна Пусич",
-          "note": "multilingual"
-        }
-      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6458"
@@ -8210,22 +6670,6 @@
     },
     {
       "birth_date": "1979-07-10",
-      "id": "8373a3d9-7032-4d79-af1b-0f1daf8b3974",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44545",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44545"
-        }
-      ],
-      "name": "VLADIMIR BILEK",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6198"
-        }
-      ]
-    },
-    {
-      "birth_date": "1979-07-10",
       "id": "f79e7534-110b-407c-8cce-be5db682fc7e",
       "identifiers": [
         {
@@ -8243,22 +6687,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=4991"
-        }
-      ]
-    },
-    {
-      "birth_date": "1949-09-10",
-      "id": "10e9baca-6d6d-48ad-9d8e-e394023fcb40",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44482",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44482"
-        }
-      ],
-      "name": "ZDRAVKO RONKO",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6476"
         }
       ]
     },
@@ -8309,384 +6737,14 @@
     },
     {
       "birth_date": "1966-10-30",
-      "gender": "male",
-      "given_name": "Zoran",
-      "id": "792ecafa-2061-45d8-975b-50534c73c185",
-      "identifiers": [
-        {
-          "identifier": "/m/02rj3p1",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "1027200524",
-          "scheme": "gnd"
-        },
-        {
-          "identifier": "nb2012019791",
-          "scheme": "lcauth"
-        },
-        {
-          "identifier": "00000028994",
-          "scheme": "munzinger"
-        },
-        {
-          "identifier": "277708121",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q57687",
-          "scheme": "wikidata"
-        }
-      ],
+      "id": "d61c8b98-f15e-4631-8f85-69823f66c199",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44645",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44645"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ar)",
-          "url": "https://ar.wikipedia.org/wiki/زوران_ميلانوفيتش"
-        },
-        {
-          "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Зоран_Міланавіч"
-        },
-        {
-          "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (cs)",
-          "url": "https://cs.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (cswikiquote)",
-          "url": "https://cswikiquote.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (el)",
-          "url": "https://el.wikipedia.org/wiki/Ζόραν_Μιλάνοβιτς"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (eo)",
-          "url": "https://eo.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (et)",
-          "url": "https://et.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (he)",
-          "url": "https://he.wikipedia.org/wiki/זוראן_מילנוביץ'"
-        },
-        {
-          "note": "Wikipedia (hr)",
-          "url": "https://hr.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (hrwikiquote)",
-          "url": "https://hrwikiquote.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (hu)",
-          "url": "https://hu.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (hy)",
-          "url": "https://hy.wikipedia.org/wiki/Զորան_Միլանովիչ"
-        },
-        {
-          "note": "Wikipedia (id)",
-          "url": "https://id.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (ie)",
-          "url": "https://ie.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (it)",
-          "url": "https://it.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (la)",
-          "url": "https://la.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (lb)",
-          "url": "https://lb.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (lmo)",
-          "url": "https://lmo.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (no)",
-          "url": "https://no.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (pt)",
-          "url": "https://pt.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Миланович,_Зоран"
-        },
-        {
-          "note": "Wikipedia (sh)",
-          "url": "https://sh.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (simple)",
-          "url": "https://simple.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (sr)",
-          "url": "https://sr.wikipedia.org/wiki/Зоран_Милановић_(политичар)"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Зоран_Міланович"
-        },
-        {
-          "note": "Wikipedia (vi)",
-          "url": "https://vi.wikipedia.org/wiki/Zoran_Milanović"
-        },
-        {
-          "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/佐兰·米拉诺维奇"
-        }
-      ],
       "name": "ZORAN MILANOVIĆ",
-      "other_names": [
-        {
-          "name": "Zoran Milanović",
-          "note": "alternate"
-        },
-        {
-          "lang": "ar",
-          "name": "زوران ميلانوفيتش",
-          "note": "multilingual"
-        },
-        {
-          "lang": "be",
-          "name": "Зоран Міланавіч",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ca",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cs",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "da",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "el",
-          "name": "Ζόραν Μιλάνοβιτς",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eo",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "et",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "he",
-          "name": "זוראן מילנוביץ'",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hr",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hy",
-          "name": "Զորան Միլանովիչ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "id",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ie",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "la",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "lb",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "lmo",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "oc",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt-br",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Зоран Миланович",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sh",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr",
-          "name": "Зоран Милановић",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tr",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uk",
-          "name": "Зоран Міланович",
-          "note": "multilingual"
-        },
-        {
-          "lang": "vi",
-          "name": "Zoran Milanović",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "佐兰·米拉诺维奇",
-          "note": "multilingual"
-        }
-      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6398"
@@ -8695,7 +6753,7 @@
     },
     {
       "birth_date": "1976-04-09",
-      "id": "5f79a14d-1504-426a-9361-0aadb9224b35",
+      "id": "3d8b9b67-f31c-4f47-8dbe-b2cb329e2db7",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44499",
       "images": [
         {
@@ -8800,22 +6858,6 @@
     },
     {
       "birth_date": "1954-07-12",
-      "id": "25d832a2-66b3-400f-90e4-100554522c30",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44640",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44640"
-        }
-      ],
-      "name": "ŠANDOR JUHAS",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6300"
-        }
-      ]
-    },
-    {
-      "birth_date": "1954-07-12",
       "id": "44d6d2e2-3c37-49a6-87de-64a9faa16c3a",
       "identifiers": [
         {
@@ -8882,7 +6924,7 @@
     },
     {
       "birth_date": "1957-10-31",
-      "id": "d32d7c2d-bb9a-4fb9-bc87-ae36c8c8fb80",
+      "id": "e5c38368-d1b4-4e44-9aeb-db14d54b1047",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44429",
       "images": [
         {
@@ -8898,7 +6940,7 @@
     },
     {
       "birth_date": "1981-09-10",
-      "id": "a1629dea-e112-47c2-8596-cc9fc0b10b00",
+      "id": "398bcdfd-b099-4898-bcbd-3a70084748e0",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44498",
       "images": [
         {
@@ -8914,7 +6956,7 @@
     },
     {
       "birth_date": "1955-02-02",
-      "id": "37655e25-ad15-4106-8ecc-b0a2b3e08395",
+      "id": "2239aae2-5d2e-4e84-bfce-13319e6dca6e",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44431",
       "images": [
         {
@@ -8930,7 +6972,7 @@
     },
     {
       "birth_date": "1959-06-21",
-      "id": "c0451d98-f730-4758-8dca-4be9e8fc750f",
+      "id": "b3685bf0-3e61-4459-ba31-5b0ad0d30f37",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44433",
       "images": [
         {
@@ -8946,7 +6988,7 @@
     },
     {
       "birth_date": "1954-02-24",
-      "id": "fa1f69f2-329e-450a-952d-b648cb8bd1c6",
+      "id": "524f49d0-9504-4156-8597-51036fe78cf5",
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44435",
       "images": [
         {
@@ -8957,22 +6999,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6254"
-        }
-      ]
-    },
-    {
-      "birth_date": "1965-11-26",
-      "id": "30050966-a733-443a-a20d-bddb83523f47",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44445",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44445"
-        }
-      ],
-      "name": "ŽELJKO JOVANOVIĆ",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6298"
         }
       ]
     },
@@ -9483,22 +7509,6 @@
     },
     {
       "birth_date": "1953-05-28",
-      "id": "5848201d-6b21-468d-be1b-f1ea599c93ea",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44481",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44481"
-        }
-      ],
-      "name": "ŽELJKO REINER",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=6470"
-        }
-      ]
-    },
-    {
-      "birth_date": "1953-05-28",
       "id": "c8bd4b16-71ab-4086-babe-0666d97707f5",
       "identifiers": [
         {
@@ -9719,15 +7729,6 @@
   },
   "memberships": [
     {
-      "area_id": "area/4th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "legislature",
-      "person_id": "030b7ded-919b-4d97-86e1-06cdc92346cf",
-      "role": "member",
-      "start_date": "2016-02-05"
-    },
-    {
       "area_id": "area/2nd",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/sdp",
@@ -9737,43 +7738,11 @@
       "start_date": "2012-01-18"
     },
     {
-      "area_id": "area/11th",
+      "area_id": "area/4th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
+      "on_behalf_of_id": "party/hdssb",
       "organization_id": "legislature",
-      "person_id": "03d39f9d-24fb-4776-99b5-c150a4fdeb85",
-      "role": "member"
-    },
-    {
-      "area_id": "area/1st",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "legislature",
-      "person_id": "05772656-4704-445c-b8ae-e5949824f1d2",
-      "role": "member"
-    },
-    {
-      "area_id": "area/2nd",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "legislature",
-      "person_id": "05fd28ec-26a2-49e1-bfd5-535fac65798d",
-      "role": "member"
-    },
-    {
-      "area_id": "area/7th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "legislature",
-      "person_id": "0626343e-7e63-45fa-8ee9-892703c89860",
-      "role": "member"
-    },
-    {
-      "area_id": "area/3rd",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hns",
-      "organization_id": "legislature",
-      "person_id": "073a77b4-82ff-402e-8c49-65cdf513ab63",
+      "person_id": "046a663d-305f-4b11-a285-46f0df60847f",
       "role": "member"
     },
     {
@@ -9785,11 +7754,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/6th",
+      "area_id": "area/1st",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
+      "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
-      "person_id": "07a569a1-7bdf-4694-b92f-052a65bf2087",
+      "person_id": "078e2f4b-256c-4eb7-a6d8-9bb7017becc6",
       "role": "member"
     },
     {
@@ -9802,6 +7771,30 @@
       "start_date": "2013-07-01"
     },
     {
+      "area_id": "area/1st",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "legislature",
+      "person_id": "0893cee8-4449-4eae-9f5c-400f7a0e871d",
+      "role": "member"
+    },
+    {
+      "area_id": "area/5th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/sdp",
+      "organization_id": "legislature",
+      "person_id": "0929f789-4396-4dfc-bbdf-c1e6f1290116",
+      "role": "member"
+    },
+    {
+      "area_id": "area/4th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "legislature",
+      "person_id": "0963b288-3209-41d4-8b88-0bb96f4e4081",
+      "role": "member"
+    },
+    {
       "area_id": "area/7th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/hdz",
@@ -9811,19 +7804,27 @@
       "start_date": "2013-05-24"
     },
     {
-      "area_id": "area/7th",
+      "area_id": "area/6th",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
-      "person_id": "0b9a5601-cc05-437e-b86d-a9945e248a25",
+      "person_id": "0a1bb041-4048-4561-9eea-a5480862f6d8",
       "role": "member"
     },
     {
-      "area_id": "area/7th",
+      "area_id": "area/2nd",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hns",
+      "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
-      "person_id": "0c0f25a4-091e-4ea5-ae38-24d20c01f94f",
+      "person_id": "0a2b9206-fe71-4d95-84b1-0c06bfc73889",
+      "role": "member"
+    },
+    {
+      "area_id": "area/10th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "legislature",
+      "person_id": "0a377348-c72c-4c35-abea-707e18f6db13",
       "role": "member"
     },
     {
@@ -9844,16 +7845,16 @@
       "start_date": "2012-10-10"
     },
     {
-      "area_id": "area/2nd",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
+      "area_id": "area/4th",
+      "legislative_period_id": "term/7",
+      "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
-      "person_id": "0d5e76df-2a16-41b2-b9dd-ffd2e6ed179a",
+      "person_id": "0da051b8-7f4e-48c8-89a0-a9c3a0ef334b",
       "role": "member"
     },
     {
       "area_id": "area/4th",
-      "legislative_period_id": "term/7",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
       "person_id": "0da051b8-7f4e-48c8-89a0-a9c3a0ef334b",
@@ -9868,11 +7869,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/5th",
+      "area_id": "area/9th",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
-      "person_id": "0dfb8cbd-f1af-4ec9-94e7-fa94cc0bec21",
+      "person_id": "0e7746ae-e9e6-4f41-940f-60e305953953",
       "role": "member"
     },
     {
@@ -9884,11 +7885,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/3rd",
+      "area_id": "area/2nd",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/reformists",
+      "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
-      "person_id": "0f76190b-487d-4c20-95e9-780dcca88542",
+      "person_id": "0f137d95-4a90-4ee1-bff0-d3d694cfbb63",
       "role": "member"
     },
     {
@@ -9900,6 +7901,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/7th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/sdp",
+      "organization_id": "legislature",
+      "person_id": "109802a3-6024-4782-86cd-293511d6f50a",
+      "role": "member"
+    },
+    {
       "area_id": "area/6th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/orah",
@@ -9908,19 +7917,19 @@
       "role": "member"
     },
     {
-      "area_id": "area/5th",
+      "area_id": "area/12th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
-      "person_id": "10e9baca-6d6d-48ad-9d8e-e394023fcb40",
+      "person_id": "15c75de0-f9f0-4ab4-91a1-9b5fc9aae128",
       "role": "member"
     },
     {
-      "area_id": "area/6th",
+      "area_id": "area/3rd",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hns",
+      "on_behalf_of_id": "party/most",
       "organization_id": "legislature",
-      "person_id": "18067b86-536d-4ad8-b982-f3708d2e22a0",
+      "person_id": "17c216fe-63d1-4fa5-a56b-697823fa2cca",
       "role": "member"
     },
     {
@@ -9933,11 +7942,11 @@
       "start_date": "2013-12-13"
     },
     {
-      "area_id": "area/9th",
+      "area_id": "area/5th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
+      "on_behalf_of_id": "party/hsu",
       "organization_id": "legislature",
-      "person_id": "1bc4dcab-5f24-4d61-a752-9489254a547d",
+      "person_id": "1ad49b61-e653-4ee9-8420-9d742382a01c",
       "role": "member"
     },
     {
@@ -9949,11 +7958,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/1st",
+      "area_id": "area/2nd",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hrid",
+      "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
-      "person_id": "1bf11030-bb39-49ae-8956-e91b010ceb7c",
+      "person_id": "1bcff30d-5611-4262-9fc9-ac4781041f7e",
       "role": "member"
     },
     {
@@ -9965,19 +7974,19 @@
       "role": "member"
     },
     {
-      "area_id": "area/2nd",
+      "area_id": "area/4th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hns",
+      "on_behalf_of_id": "party/hdssb",
       "organization_id": "legislature",
-      "person_id": "1dd782d4-a4b9-41d4-9f65-524b47e0c37b",
+      "person_id": "1c9e4353-a193-4b2e-a290-072cc2f82928",
       "role": "member"
     },
     {
-      "area_id": "area/3rd",
+      "area_id": "area/9th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hrast",
+      "on_behalf_of_id": "party/nlsp",
       "organization_id": "legislature",
-      "person_id": "1f5a1b6d-c23c-4b3d-bb9d-986b5d49bf2e",
+      "person_id": "1e24f625-ac7e-40d2-ac93-eea82c56149e",
       "role": "member"
     },
     {
@@ -9989,27 +7998,43 @@
       "role": "member"
     },
     {
-      "area_id": "area/12th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/independent",
-      "organization_id": "legislature",
-      "person_id": "209644b9-80f4-42af-82d4-77e5bb693b65",
-      "role": "member"
-    },
-    {
-      "area_id": "area/3rd",
+      "area_id": "area/8th",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
-      "person_id": "21c3d8db-26d5-4430-8815-fe027112fb96",
+      "person_id": "1f635e73-3673-47f7-853d-51871a6475e1",
       "role": "member"
     },
     {
-      "area_id": "area/8th",
+      "area_id": "area/4th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/ids",
+      "on_behalf_of_id": "party/hns",
       "organization_id": "legislature",
-      "person_id": "2277fe6e-8b93-4c83-898c-46032cfeaaa5",
+      "person_id": "201cabf1-7f7b-46aa-83cb-0a5da808b4ca",
+      "role": "member"
+    },
+    {
+      "area_id": "area/1st",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "2105af4e-8221-4f1f-a122-3b1707834ea3",
+      "role": "member"
+    },
+    {
+      "area_id": "area/7th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "legislature",
+      "person_id": "2239aae2-5d2e-4e84-bfce-13319e6dca6e",
+      "role": "member"
+    },
+    {
+      "area_id": "area/5th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "legislature",
+      "person_id": "22d60900-d008-4f25-94ad-5475c6ea4ffe",
       "role": "member"
     },
     {
@@ -10021,27 +8046,27 @@
       "role": "member"
     },
     {
-      "area_id": "area/8th",
+      "area_id": "area/6th",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
-      "person_id": "24aae48c-e3f5-40f0-81c9-48545f4728b9",
+      "person_id": "260b8597-f4ec-4151-a609-95f3312e3f65",
       "role": "member"
     },
     {
-      "area_id": "area/12th",
+      "area_id": "area/5th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/hsp_as",
       "organization_id": "legislature",
-      "person_id": "25d832a2-66b3-400f-90e4-100554522c30",
+      "person_id": "268c623e-1603-4c5d-961a-67ed4ed2b3eb",
       "role": "member"
     },
     {
-      "area_id": "area/6th",
+      "area_id": "area/10th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
+      "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
-      "person_id": "25ecbdaa-25b9-4c16-87d3-f7c10d7da112",
+      "person_id": "2958932c-c397-4736-9dfa-a5d19ae3e75a",
       "role": "member"
     },
     {
@@ -10063,6 +8088,14 @@
       "start_date": "2013-09-24"
     },
     {
+      "area_id": "area/2nd",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hns",
+      "organization_id": "legislature",
+      "person_id": "2a6b12aa-4330-4556-b12b-224c63d757e1",
+      "role": "member"
+    },
+    {
       "area_id": "area/9th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/sdp",
@@ -10079,76 +8112,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/7th",
+      "area_id": "area/6th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/human_shield",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
-      "person_id": "2c1433ac-4d88-4fd9-a39c-de24dc4721da",
-      "role": "member"
-    },
-    {
-      "area_id": "area/4th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdssb",
-      "organization_id": "legislature",
-      "person_id": "2c4ecba7-baed-46b9-b8e3-d8618020d784",
-      "role": "member"
-    },
-    {
-      "area_id": "area/7th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/most",
-      "organization_id": "legislature",
-      "person_id": "2cac6c43-eded-47eb-8cf3-2aee8447f7df",
-      "role": "member"
-    },
-    {
-      "area_id": "area/2nd",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "legislature",
-      "person_id": "2e703cd4-03b9-4529-87ee-aba2140f84d7",
-      "role": "member"
-    },
-    {
-      "area_id": "area/5th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hss",
-      "organization_id": "legislature",
-      "person_id": "2ef880f2-7fb7-4119-a81b-bab7512fea65",
-      "role": "member",
-      "start_date": "2016-02-05"
-    },
-    {
-      "area_id": "area/7th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "legislature",
-      "person_id": "2f9d63f4-d1ed-429b-8c08-de836afd9d29",
-      "role": "member"
-    },
-    {
-      "area_id": "area/2nd",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "legislature",
-      "person_id": "2fa689c9-9101-45ed-b0d9-ac02be190ea0",
-      "role": "member"
-    },
-    {
-      "area_id": "area/8th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "legislature",
-      "person_id": "30050966-a733-443a-a20d-bddb83523f47",
-      "role": "member"
-    },
-    {
-      "area_id": "area/3rd",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "legislature",
-      "person_id": "3212e57d-0f4c-4e34-a6b0-f1cbe3d58e64",
+      "person_id": "319f27bc-08e1-4468-b0ce-6c813525bdb8",
       "role": "member"
     },
     {
@@ -10168,6 +8136,15 @@
       "role": "member"
     },
     {
+      "area_id": "area/5th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/most",
+      "organization_id": "legislature",
+      "person_id": "335755aa-de36-414b-85c6-f4560b98315c",
+      "role": "member",
+      "start_date": "2016-01-22"
+    },
+    {
       "area_id": "area/1st",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/sdp",
@@ -10177,35 +8154,19 @@
       "start_date": "2013-07-12"
     },
     {
-      "area_id": "area/9th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/most",
-      "organization_id": "legislature",
-      "person_id": "3515787c-9928-4efa-a410-f9e7f4799722",
-      "role": "member"
-    },
-    {
-      "area_id": "area/10th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/most",
-      "organization_id": "legislature",
-      "person_id": "36058c6b-8e41-4ff7-9c29-04bf99fd29c5",
-      "role": "member"
-    },
-    {
       "area_id": "area/3rd",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
+      "on_behalf_of_id": "party/hns",
       "organization_id": "legislature",
-      "person_id": "37480ddf-6ff0-4dba-93c0-d55e8ec4a6c0",
+      "person_id": "350d66bf-1fff-43b9-85f9-783e323ad601",
       "role": "member"
     },
     {
-      "area_id": "area/7th",
+      "area_id": "area/5th",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
-      "person_id": "37655e25-ad15-4106-8ecc-b0a2b3e08395",
+      "person_id": "350f4b6e-8cd0-47ba-9ffb-a5f092634f4d",
       "role": "member"
     },
     {
@@ -10218,19 +8179,19 @@
       "start_date": "2013-06-21"
     },
     {
-      "area_id": "area/5th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/most",
-      "organization_id": "legislature",
-      "person_id": "3882f00c-c759-4f95-8a7d-9901279604ba",
-      "role": "member"
-    },
-    {
       "area_id": "area/3rd",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/reformisti",
       "organization_id": "legislature",
       "person_id": "38bab199-86df-4b1c-a7bc-22a3ab0e05ba",
+      "role": "member"
+    },
+    {
+      "area_id": "area/3rd",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hrast",
+      "organization_id": "legislature",
+      "person_id": "38c0be75-786c-422f-8810-155a7b9f57bd",
       "role": "member"
     },
     {
@@ -10242,12 +8203,29 @@
       "role": "member"
     },
     {
-      "area_id": "area/1st",
+      "area_id": "area/3rd",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
-      "person_id": "3d122970-e8cf-4c55-9d6f-c8c58c3b6540",
+      "person_id": "398bcdfd-b099-4898-bcbd-3a70084748e0",
       "role": "member"
+    },
+    {
+      "area_id": "area/10th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "legislature",
+      "person_id": "39c8b56a-268a-4d30-bee1-b79be08ac13f",
+      "role": "member"
+    },
+    {
+      "area_id": "area/4th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "legislature",
+      "person_id": "39e8b198-e6e3-4ddd-a4f6-75482be3d591",
+      "role": "member",
+      "start_date": "2016-02-05"
     },
     {
       "area_id": "area/7th",
@@ -10257,6 +8235,14 @@
       "person_id": "3d159252-0ba0-47b0-88aa-e8f30722b586",
       "role": "member",
       "start_date": "2015-07-15"
+    },
+    {
+      "area_id": "area/6th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/sdp",
+      "organization_id": "legislature",
+      "person_id": "3d8b9b67-f31c-4f47-8dbe-b2cb329e2db7",
+      "role": "member"
     },
     {
       "area_id": "area/10th",
@@ -10276,20 +8262,13 @@
       "role": "member"
     },
     {
-      "area_id": "area/12th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdss",
-      "organization_id": "legislature",
-      "person_id": "3f687caa-6cbd-4d94-80f2-1fb8e1d70d81",
-      "role": "member"
-    },
-    {
       "area_id": "area/8th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/most",
+      "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
-      "person_id": "41a51be7-368f-452e-84c1-699540f6a111",
-      "role": "member"
+      "person_id": "41a3cd00-5c0e-437e-9678-61c5797f704c",
+      "role": "member",
+      "start_date": "2016-01-22"
     },
     {
       "area_id": "area/8th",
@@ -10300,19 +8279,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/3rd",
+      "area_id": "area/7th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/most",
+      "on_behalf_of_id": "party/hns",
       "organization_id": "legislature",
-      "person_id": "430fc1a7-6388-40ed-a297-aa87f9045c67",
-      "role": "member"
-    },
-    {
-      "area_id": "area/12th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdss",
-      "organization_id": "legislature",
-      "person_id": "43575869-30ad-43e3-b7b8-37c3e01ececa",
+      "person_id": "430ce6bf-ce00-4b42-8d93-338447ce2fb7",
       "role": "member"
     },
     {
@@ -10325,11 +8296,19 @@
       "start_date": "2014-04-04"
     },
     {
-      "area_id": "area/9th",
+      "area_id": "area/12th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
-      "person_id": "463c0dc8-2f31-4a84-9a9f-8518684c8a63",
+      "person_id": "44d6d2e2-3c37-49a6-87de-64a9faa16c3a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/2nd",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/sdp",
+      "organization_id": "legislature",
+      "person_id": "46a19428-37b6-4ba2-894e-3d47f07adc0b",
       "role": "member"
     },
     {
@@ -10341,6 +8320,23 @@
       "role": "member"
     },
     {
+      "area_id": "area/5th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "legislature",
+      "person_id": "46f3bd6e-1a22-49ba-9988-4a102a3df696",
+      "role": "member"
+    },
+    {
+      "area_id": "area/3rd",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "legislature",
+      "person_id": "477ac747-4b2b-4c82-b2ab-955e3c165079",
+      "role": "member",
+      "start_date": "2016-01-22"
+    },
+    {
       "area_id": "area/1st",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/sdp",
@@ -10350,24 +8346,16 @@
       "start_date": "2014-07-11"
     },
     {
-      "area_id": "area/8th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hsu",
+      "area_id": "area/7th",
+      "legislative_period_id": "term/7",
+      "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
-      "person_id": "48cdefef-7901-447c-b6d0-fcda78ae6347",
-      "role": "member"
-    },
-    {
-      "area_id": "area/4th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "legislature",
-      "person_id": "4b2df4eb-ba75-4fae-81cf-98da384ff149",
+      "person_id": "4c9e1eef-8640-4a4f-b2f1-cbe6c49c5ce3",
       "role": "member"
     },
     {
       "area_id": "area/7th",
-      "legislative_period_id": "term/7",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
       "person_id": "4c9e1eef-8640-4a4f-b2f1-cbe6c49c5ce3",
@@ -10382,19 +8370,27 @@
       "role": "member"
     },
     {
+      "area_id": "area/8th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/sdp",
+      "organization_id": "legislature",
+      "person_id": "4ca1a50c-84d0-4535-8f67-90ec6206c919",
+      "role": "member"
+    },
+    {
+      "area_id": "area/10th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/sdp",
+      "organization_id": "legislature",
+      "person_id": "4cb6d1e3-3a28-4755-b7e3-3603afd21d4a",
+      "role": "member"
+    },
+    {
       "area_id": "area/5th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
       "person_id": "4f160f0c-dfd1-48a3-b324-cd46296e947a",
-      "role": "member"
-    },
-    {
-      "area_id": "area/5th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hsu",
-      "organization_id": "legislature",
-      "person_id": "50b4f28c-f06e-49fc-8e3c-4c53b06181fd",
       "role": "member"
     },
     {
@@ -10406,8 +8402,32 @@
       "role": "member"
     },
     {
+      "area_id": "area/5th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "legislature",
+      "person_id": "52165273-dcda-4812-a2a7-a8e1df1450de",
+      "role": "member"
+    },
+    {
+      "area_id": "area/11th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "legislature",
+      "person_id": "524f49d0-9504-4156-8597-51036fe78cf5",
+      "role": "member"
+    },
+    {
       "area_id": "area/12th",
       "legislative_period_id": "term/7",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "5255cfb7-f24e-4cd1-89ae-95590742aadc",
+      "role": "member"
+    },
+    {
+      "area_id": "area/12th",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "5255cfb7-f24e-4cd1-89ae-95590742aadc",
@@ -10439,6 +8459,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/7th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/sdp",
+      "organization_id": "legislature",
+      "person_id": "546ff6a3-753b-420a-9d1b-aa4e31d83208",
+      "role": "member"
+    },
+    {
       "area_id": "area/6th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/sdp",
@@ -10455,14 +8483,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/9th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/nlsp",
-      "organization_id": "legislature",
-      "person_id": "56356b3d-2393-4d07-8097-60e8720cb23e",
-      "role": "member"
-    },
-    {
       "area_id": "area/8th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/sdp",
@@ -10471,11 +8491,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/9th",
+      "area_id": "area/8th",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
-      "person_id": "570e2fd3-043f-4076-962a-8c2041147fee",
+      "person_id": "56b40582-55b8-4606-b6a4-73698f8c382a",
       "role": "member"
     },
     {
@@ -10487,22 +8507,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/10th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "legislature",
-      "person_id": "581fb536-2868-4b16-9a15-9cc26e771efc",
-      "role": "member"
-    },
-    {
-      "area_id": "area/1st",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "legislature",
-      "person_id": "5848201d-6b21-468d-be1b-f1ea599c93ea",
-      "role": "member"
-    },
-    {
       "area_id": "area/7th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/independent",
@@ -10511,27 +8515,20 @@
       "role": "member"
     },
     {
-      "area_id": "area/2nd",
+      "area_id": "area/10th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hsls",
+      "on_behalf_of_id": "party/most",
       "organization_id": "legislature",
-      "person_id": "5a6fd4f5-238b-4eed-9f52-2da1d5d928fc",
-      "role": "member"
+      "person_id": "58793ebc-ebc4-4e04-bdb9-c82669ac030d",
+      "role": "member",
+      "start_date": "2016-01-22"
     },
     {
-      "area_id": "area/3rd",
+      "area_id": "area/10th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/labourists",
+      "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
-      "person_id": "5b7f9e64-c42d-4cab-818e-900b93b7b555",
-      "role": "member"
-    },
-    {
-      "area_id": "area/6th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "legislature",
-      "person_id": "5cfc0daf-6585-4789-b987-6b3dadd9be08",
+      "person_id": "5a951457-0f01-4cb0-b8ce-5fa323e33bdc",
       "role": "member"
     },
     {
@@ -10540,6 +8537,22 @@
       "on_behalf_of_id": "party/hns",
       "organization_id": "legislature",
       "person_id": "5d57d36c-35f0-4c70-b271-24a4e84af7f0",
+      "role": "member"
+    },
+    {
+      "area_id": "area/6th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hns",
+      "organization_id": "legislature",
+      "person_id": "5d57d36c-35f0-4c70-b271-24a4e84af7f0",
+      "role": "member"
+    },
+    {
+      "area_id": "area/5th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "legislature",
+      "person_id": "5d5d051f-629e-48d6-ad22-e25aa8523a89",
       "role": "member"
     },
     {
@@ -10553,17 +8566,17 @@
     {
       "area_id": "area/6th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/bm_365",
+      "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
-      "person_id": "5edbc7c9-18ad-4839-9452-6f085ec9daa5",
+      "person_id": "5df9ac41-c5a5-48f5-8c2e-1ab5c5e1b474",
       "role": "member"
     },
     {
-      "area_id": "area/6th",
+      "area_id": "area/3rd",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
+      "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
-      "person_id": "5f79a14d-1504-426a-9361-0aadb9224b35",
+      "person_id": "5fa8c424-3dc8-4a57-a866-4648236be57e",
       "role": "member"
     },
     {
@@ -10572,6 +8585,14 @@
       "on_behalf_of_id": "party/hdssb",
       "organization_id": "legislature",
       "person_id": "5fb0fb4e-aec4-4141-abdf-b8e9d4840700",
+      "role": "member"
+    },
+    {
+      "area_id": "area/8th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/most",
+      "organization_id": "legislature",
+      "person_id": "60369306-95b8-4878-8137-8c609c9a50ce",
       "role": "member"
     },
     {
@@ -10600,19 +8621,43 @@
       "role": "member"
     },
     {
-      "area_id": "area/6th",
+      "area_id": "area/12th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
+      "on_behalf_of_id": "party/nz",
       "organization_id": "legislature",
-      "person_id": "639969a0-bb68-406e-ae12-37eacd23a3e0",
+      "person_id": "6378d3dd-3605-47b3-be49-0f76f81a83d3",
       "role": "member"
     },
     {
-      "area_id": "area/5th",
+      "area_id": "area/4th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
-      "person_id": "649b386a-ad2b-41a4-9951-ad45c9c2a3ab",
+      "person_id": "648c8692-74d4-4a85-ac2d-871dbf362b04",
+      "role": "member"
+    },
+    {
+      "area_id": "area/2nd",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/most",
+      "organization_id": "legislature",
+      "person_id": "659717ed-24e0-40cb-b7a7-2a097ace7dfd",
+      "role": "member"
+    },
+    {
+      "area_id": "area/4th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hsp_as",
+      "organization_id": "legislature",
+      "person_id": "65d0972f-ab59-417c-921c-50a420a7cb65",
+      "role": "member"
+    },
+    {
+      "area_id": "area/1st",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hsls",
+      "organization_id": "legislature",
+      "person_id": "67298a36-a090-44a2-93b2-fb41ac79ee29",
       "role": "member"
     },
     {
@@ -10624,11 +8669,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/3rd",
+      "area_id": "area/5th",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
-      "person_id": "6880a7b8-d875-4d1c-83bd-aede50e188ba",
+      "person_id": "682fad2c-af13-4a49-9ea8-b0f41343ea53",
       "role": "member"
     },
     {
@@ -10641,38 +8686,6 @@
       "start_date": "2011-12-23"
     },
     {
-      "area_id": "area/10th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "legislature",
-      "person_id": "69195d8f-9f20-4ecc-b87f-ecb6dee80942",
-      "role": "member"
-    },
-    {
-      "area_id": "area/6th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/most",
-      "organization_id": "legislature",
-      "person_id": "69e18eef-1b78-4b41-9183-f5cd2ad64c66",
-      "role": "member"
-    },
-    {
-      "area_id": "area/10th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "legislature",
-      "person_id": "6a304134-0843-4115-89f7-461c442668d0",
-      "role": "member"
-    },
-    {
-      "area_id": "area/6th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "legislature",
-      "person_id": "6b5c9949-3dd9-436b-8ac4-7677945b7baf",
-      "role": "member"
-    },
-    {
       "area_id": "area/3rd",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/hns",
@@ -10683,22 +8696,6 @@
     },
     {
       "area_id": "area/6th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "legislature",
-      "person_id": "6bbad636-12cd-42fd-a698-866353a88994",
-      "role": "member"
-    },
-    {
-      "area_id": "area/4th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "legislature",
-      "person_id": "6c520695-5441-4dc8-89c9-1e727fbb4e3f",
-      "role": "member"
-    },
-    {
-      "area_id": "area/6th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/dc",
       "organization_id": "legislature",
@@ -10706,35 +8703,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/4th",
+      "area_id": "area/6th",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
-      "person_id": "6cf17a02-2dea-4469-b19e-e74fa3e4203d",
-      "role": "member"
-    },
-    {
-      "area_id": "area/4th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hsp_as",
-      "organization_id": "legislature",
-      "person_id": "6cff2dd3-0035-460e-b72b-ba6808c5c5ea",
-      "role": "member"
-    },
-    {
-      "area_id": "area/6th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "legislature",
-      "person_id": "6d1ad687-c3b6-46a5-abec-8384aec18312",
-      "role": "member"
-    },
-    {
-      "area_id": "area/5th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "legislature",
-      "person_id": "6e03c27c-4793-4abe-a0c7-77c6a0a574df",
+      "person_id": "6d2167b5-8c84-4f04-bb66-7ac8e33052fc",
       "role": "member"
     },
     {
@@ -10746,24 +8719,32 @@
       "role": "member"
     },
     {
-      "area_id": "area/6th",
+      "area_id": "area/8th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
+      "on_behalf_of_id": "party/hsu",
       "organization_id": "legislature",
-      "person_id": "705674d6-9d54-414c-8c56-b5e78b8d68ab",
+      "person_id": "6fcb6fcb-1aa9-4d9a-bfb5-5f819088a917",
       "role": "member"
     },
     {
-      "area_id": "area/11th",
+      "area_id": "area/5th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
+      "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
-      "person_id": "71ae5b55-3e5c-4c8d-b058-6e852b70f283",
+      "person_id": "712d3c6b-ad25-47e9-b265-faa5ca21fcf3",
       "role": "member"
     },
     {
       "area_id": "area/9th",
       "legislative_period_id": "term/7",
+      "on_behalf_of_id": "party/sdp",
+      "organization_id": "legislature",
+      "person_id": "74c2131c-72bf-4482-975b-b52240c300d1",
+      "role": "member"
+    },
+    {
+      "area_id": "area/9th",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
       "person_id": "74c2131c-72bf-4482-975b-b52240c300d1",
@@ -10778,6 +8759,22 @@
       "role": "member"
     },
     {
+      "area_id": "area/8th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/ids",
+      "organization_id": "legislature",
+      "person_id": "76b65e2d-f99c-4cb0-82e1-6a361f2ea243",
+      "role": "member"
+    },
+    {
+      "area_id": "area/10th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "legislature",
+      "person_id": "770478aa-4206-4f32-b1c2-b3cc481d68fc",
+      "role": "member"
+    },
+    {
       "area_id": "area/10th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/hdz",
@@ -10786,19 +8783,19 @@
       "role": "member"
     },
     {
-      "area_id": "area/6th",
+      "area_id": "area/10th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
+      "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
-      "person_id": "78f5af88-8b0c-488b-873e-6a3897ac3542",
+      "person_id": "782fb17f-b4c5-48d0-a2e7-71fedc80892b",
       "role": "member"
     },
     {
       "area_id": "area/1st",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
+      "on_behalf_of_id": "party/hrid",
       "organization_id": "legislature",
-      "person_id": "792ecafa-2061-45d8-975b-50534c73c185",
+      "person_id": "79920bf0-e1a0-47ee-bdfd-cbd4a874c45f",
       "role": "member"
     },
     {
@@ -10813,6 +8810,14 @@
     {
       "area_id": "area/7th",
       "legislative_period_id": "term/7",
+      "on_behalf_of_id": "party/sdp",
+      "organization_id": "legislature",
+      "person_id": "79db4778-8890-43a5-a794-8a912b1fbb23",
+      "role": "member"
+    },
+    {
+      "area_id": "area/7th",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
       "person_id": "79db4778-8890-43a5-a794-8a912b1fbb23",
@@ -10839,7 +8844,7 @@
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
-      "person_id": "7c2c51f3-5a2b-4571-a26e-621189a14f47",
+      "person_id": "7bcded3f-e241-4a42-85a3-c170aa23106d",
       "role": "member"
     },
     {
@@ -10859,36 +8864,27 @@
       "role": "member"
     },
     {
-      "area_id": "area/9th",
+      "area_id": "area/8th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
+      "on_behalf_of_id": "party/ids",
       "organization_id": "legislature",
-      "person_id": "7d939bb5-fd6e-4ddf-ae6a-31683f6c715e",
+      "person_id": "7d98ba2c-c818-42e6-85f2-798ed8e51048",
       "role": "member"
     },
     {
-      "area_id": "area/4th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "legislature",
-      "person_id": "7edbebac-3193-4cdb-80a1-a8fcb9583bc2",
-      "role": "member"
-    },
-    {
-      "area_id": "area/3rd",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "legislature",
-      "person_id": "7fc8cdd1-130c-4df2-a49a-71c6740c502b",
-      "role": "member",
-      "start_date": "2016-01-22"
-    },
-    {
-      "area_id": "area/7th",
+      "area_id": "area/8th",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
-      "person_id": "8250a692-c2ae-4e79-8bca-cea7abdd84f1",
+      "person_id": "7f614a21-3c47-4509-9bd4-abd98f36d3dd",
+      "role": "member"
+    },
+    {
+      "area_id": "area/6th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "legislature",
+      "person_id": "81524490-ba75-46fa-bfc9-7cb494f977f3",
       "role": "member"
     },
     {
@@ -10909,25 +8905,33 @@
       "role": "member"
     },
     {
-      "area_id": "area/12th",
+      "area_id": "area/9th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
-      "person_id": "8373a3d9-7032-4d79-af1b-0f1daf8b3974",
+      "person_id": "82f98c2d-675c-4b52-8da4-74c273f0c210",
       "role": "member"
     },
     {
-      "area_id": "area/4th",
+      "area_id": "area/6th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hns",
+      "on_behalf_of_id": "party/most",
       "organization_id": "legislature",
-      "person_id": "84674716-3ea8-46f0-bef4-8bcca9d569e9",
+      "person_id": "834a4c8f-e763-48a0-975a-094b078af53d",
       "role": "member"
     },
     {
       "area_id": "area/8th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/croatian_labourists_–_labour_party",
+      "organization_id": "legislature",
+      "person_id": "85a67031-2cea-4755-bd19-7a9a17456629",
+      "role": "member"
+    },
+    {
+      "area_id": "area/8th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/labourists",
       "organization_id": "legislature",
       "person_id": "85a67031-2cea-4755-bd19-7a9a17456629",
       "role": "member"
@@ -10949,19 +8953,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/8th",
+      "area_id": "area/4th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hsp_as",
+      "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
-      "person_id": "86f0931a-c8f6-4769-bfb6-ef67c298c68e",
-      "role": "member"
-    },
-    {
-      "area_id": "area/9th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "legislature",
-      "person_id": "87983b26-9436-4b6b-aea2-474eef473053",
+      "person_id": "85ea0d2b-75b5-48b8-b227-ec6a250eb44c",
       "role": "member"
     },
     {
@@ -10974,15 +8970,6 @@
       "start_date": "2011-12-23"
     },
     {
-      "area_id": "area/8th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "legislature",
-      "person_id": "87d42ce4-896d-4e6b-a62b-20aff62efe58",
-      "role": "member",
-      "start_date": "2016-01-22"
-    },
-    {
       "area_id": "area/4th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/hdz",
@@ -10992,19 +8979,19 @@
       "start_date": "2015-05-08"
     },
     {
-      "area_id": "area/5th",
+      "area_id": "area/4th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hsp_as",
+      "on_behalf_of_id": "party/labourists",
       "organization_id": "legislature",
-      "person_id": "89593a34-efd4-4e79-9545-f3d494a9b244",
+      "person_id": "88c557af-2f52-4da5-aa11-cc3117ac1ff2",
       "role": "member"
     },
     {
-      "area_id": "area/8th",
+      "area_id": "area/1st",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
-      "person_id": "8a4af210-ad10-4e48-935d-c81f4415d480",
+      "person_id": "8978674f-e8b1-4c48-af47-c8858785cf80",
       "role": "member"
     },
     {
@@ -11016,28 +9003,38 @@
       "role": "member"
     },
     {
-      "area_id": "area/5th",
+      "area_id": "area/8th",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
-      "person_id": "8c96937d-883b-486c-af7f-c240f4e90339",
+      "person_id": "8abb96f0-5086-4014-bcee-fc93eb93b981",
+      "role": "member",
+      "start_date": "2016-01-22"
+    },
+    {
+      "area_id": "area/10th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/sdp",
+      "organization_id": "legislature",
+      "person_id": "8b622434-8d07-4aed-b73d-0aa1f4373802",
       "role": "member"
     },
     {
-      "area_id": "area/6th",
+      "area_id": "area/2nd",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/most",
+      "on_behalf_of_id": "party/bm_365",
       "organization_id": "legislature",
-      "person_id": "8d123ac6-f06e-47e7-bf1c-28f60ee4ab56",
+      "person_id": "8e59ba90-659f-4d57-9183-73dda67cd28a",
       "role": "member"
     },
     {
-      "area_id": "area/12th",
+      "area_id": "area/2nd",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
-      "person_id": "8da80b30-d5c1-492d-b85d-a6481503a099",
-      "role": "member"
+      "person_id": "8e92aa3c-916a-4906-9750-67a01f55932b",
+      "role": "member",
+      "start_date": "2016-01-22"
     },
     {
       "area_id": "area/5th",
@@ -11048,12 +9045,13 @@
       "role": "member"
     },
     {
-      "area_id": "area/8th",
+      "area_id": "area/7th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/ids",
+      "on_behalf_of_id": "party/most",
       "organization_id": "legislature",
-      "person_id": "8fbe0548-ef12-4260-8dec-83d68ec42752",
-      "role": "member"
+      "person_id": "90f7c788-57f2-4fc4-b79c-32f749ce54cb",
+      "role": "member",
+      "start_date": "2016-01-22"
     },
     {
       "area_id": "area/9th",
@@ -11072,6 +9070,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/9th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/sdp",
+      "organization_id": "legislature",
+      "person_id": "917ee940-83c3-4c22-adda-fc00f0ebc450",
+      "role": "member"
+    },
+    {
       "area_id": "area/2nd",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/hss",
@@ -11079,6 +9085,14 @@
       "person_id": "91f5a54c-8ac6-4772-a561-4634e2b27ac2",
       "role": "member",
       "start_date": "2012-10-12"
+    },
+    {
+      "area_id": "area/2nd",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hss",
+      "organization_id": "legislature",
+      "person_id": "91f5a54c-8ac6-4772-a561-4634e2b27ac2",
+      "role": "member"
     },
     {
       "area_id": "area/9th",
@@ -11107,6 +9121,14 @@
       "start_date": "2011-12-23"
     },
     {
+      "area_id": "area/10th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/buz",
+      "organization_id": "legislature",
+      "person_id": "93af2c6b-bbe2-4803-86d8-be54759bab1d",
+      "role": "member"
+    },
+    {
       "area_id": "area/3rd",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/sdp",
@@ -11115,11 +9137,28 @@
       "role": "member"
     },
     {
-      "area_id": "area/4th",
+      "area_id": "area/3rd",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
-      "person_id": "96fa9c0e-79e8-489a-9ea2-ebe6f5526136",
+      "person_id": "93cf99ea-0362-4ea3-a6e1-4beb7dc666d8",
+      "role": "member"
+    },
+    {
+      "area_id": "area/9th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "legislature",
+      "person_id": "94960c97-c13f-4f15-819a-d76c08edb76d",
+      "role": "member",
+      "start_date": "2016-02-05"
+    },
+    {
+      "area_id": "area/10th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/most",
+      "organization_id": "legislature",
+      "person_id": "962a2203-61e8-4200-97ca-85f8e2d60a09",
       "role": "member"
     },
     {
@@ -11140,6 +9179,14 @@
     },
     {
       "area_id": "area/3rd",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/labourists",
+      "organization_id": "legislature",
+      "person_id": "99ea6ed9-4f8d-4111-bb1f-c6824ca3a0f1",
+      "role": "member"
+    },
+    {
+      "area_id": "area/3rd",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/hns",
       "organization_id": "legislature",
@@ -11147,13 +9194,28 @@
       "role": "member"
     },
     {
-      "area_id": "area/9th",
+      "area_id": "area/3rd",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
+      "on_behalf_of_id": "party/hns",
       "organization_id": "legislature",
-      "person_id": "9aae037b-d994-45ba-8a61-0af6f8c65914",
-      "role": "member",
-      "start_date": "2016-02-05"
+      "person_id": "9a9bba7c-077e-4c92-906c-4597faa35dea",
+      "role": "member"
+    },
+    {
+      "area_id": "area/8th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/ids",
+      "organization_id": "legislature",
+      "person_id": "9add99ba-6ec2-44a0-9cb6-17528b8fe167",
+      "role": "member"
+    },
+    {
+      "area_id": "area/3rd",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hns",
+      "organization_id": "legislature",
+      "person_id": "9b9efc40-d781-446a-badb-ee915acaf036",
+      "role": "member"
     },
     {
       "area_id": "area/10th",
@@ -11164,19 +9226,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/8th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/ids",
-      "organization_id": "legislature",
-      "person_id": "9c401840-738e-420c-9f1f-34ee40d28ca0",
-      "role": "member"
-    },
-    {
       "area_id": "area/1st",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/independent",
+      "on_behalf_of_id": "party/hrid",
       "organization_id": "legislature",
-      "person_id": "9cc16eeb-4839-47eb-b7f5-97199d9844fd",
+      "person_id": "9c91f6fe-7d9c-455d-9d0f-8419827297d7",
       "role": "member"
     },
     {
@@ -11185,23 +9239,6 @@
       "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
       "person_id": "9dd3a207-0edc-46b9-b81d-40367f3701fd",
-      "role": "member"
-    },
-    {
-      "area_id": "area/7th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "legislature",
-      "person_id": "a0b81e79-8031-49e9-b341-22d576bd442d",
-      "role": "member",
-      "start_date": "2016-01-22"
-    },
-    {
-      "area_id": "area/3rd",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "legislature",
-      "person_id": "a1629dea-e112-47c2-8596-cc9fc0b10b00",
       "role": "member"
     },
     {
@@ -11214,6 +9251,14 @@
     },
     {
       "area_id": "area/9th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/most",
+      "organization_id": "legislature",
+      "person_id": "a1f21601-6831-488b-b4f7-37d170f28fb3",
+      "role": "member"
+    },
+    {
+      "area_id": "area/9th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
@@ -11221,11 +9266,28 @@
       "role": "member"
     },
     {
-      "area_id": "area/1st",
+      "area_id": "area/5th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hrid",
+      "on_behalf_of_id": "party/hss",
       "organization_id": "legislature",
-      "person_id": "a3cfbba8-a2a3-4328-ba66-31bca5a6d653",
+      "person_id": "a3cb597b-bd19-4896-ba16-5c0fb176d943",
+      "role": "member",
+      "start_date": "2016-02-05"
+    },
+    {
+      "area_id": "area/2nd",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/most",
+      "organization_id": "legislature",
+      "person_id": "a50831f5-a46d-4e46-af3e-ac28be1463eb",
+      "role": "member"
+    },
+    {
+      "area_id": "area/6th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/bm_365",
+      "organization_id": "legislature",
+      "person_id": "a50e4162-e77d-4ddd-bf90-6df372d4e904",
       "role": "member"
     },
     {
@@ -11237,20 +9299,27 @@
       "role": "member"
     },
     {
-      "area_id": "area/5th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/most",
-      "organization_id": "legislature",
-      "person_id": "a7fef2ec-c493-4d6b-9c21-a1297d5afd47",
-      "role": "member",
-      "start_date": "2016-01-22"
-    },
-    {
-      "area_id": "area/10th",
+      "area_id": "area/9th",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
-      "person_id": "a9c6a1ad-e085-4496-a8b7-8b340fc8a29d",
+      "person_id": "a607d2ac-7473-4c86-b738-b607e7e1fc9e",
+      "role": "member"
+    },
+    {
+      "area_id": "area/6th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/most",
+      "organization_id": "legislature",
+      "person_id": "a6c7c4ea-f2d4-4707-af89-73a02d8803cd",
+      "role": "member"
+    },
+    {
+      "area_id": "area/1st",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hns",
+      "organization_id": "legislature",
+      "person_id": "a7df20ac-5fdc-4f08-bd95-ccf839e515a5",
       "role": "member"
     },
     {
@@ -11262,36 +9331,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/10th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/most",
-      "organization_id": "legislature",
-      "person_id": "ab2a4aef-bede-49cb-a9aa-7ab5d0d7ac04",
-      "role": "member",
-      "start_date": "2016-01-22"
-    },
-    {
-      "area_id": "area/3rd",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hns",
-      "organization_id": "legislature",
-      "person_id": "aca2d900-7f74-4a05-b4ee-22ec14e9b5c8",
-      "role": "member"
-    },
-    {
       "area_id": "area/7th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
       "person_id": "ad4c330b-29d0-4d31-84fd-5d130d70410f",
-      "role": "member"
-    },
-    {
-      "area_id": "area/10th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "legislature",
-      "person_id": "af00934f-2a62-4c46-8613-9674475fb1b8",
       "role": "member"
     },
     {
@@ -11302,6 +9346,22 @@
       "person_id": "af86339e-c795-4642-a58a-dd790777571c",
       "role": "member",
       "start_date": "2011-12-23"
+    },
+    {
+      "area_id": "area/9th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/sdp",
+      "organization_id": "legislature",
+      "person_id": "af86339e-c795-4642-a58a-dd790777571c",
+      "role": "member"
+    },
+    {
+      "area_id": "area/11th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "legislature",
+      "person_id": "b05ab147-2038-42c4-b366-1fb2cef78b8f",
+      "role": "member"
     },
     {
       "area_id": "area/7th",
@@ -11322,14 +9382,6 @@
       "start_date": "2011-12-23"
     },
     {
-      "area_id": "area/7th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "legislature",
-      "person_id": "b1dd20c2-1760-4c5b-81f4-0e54b1d3cc85",
-      "role": "member"
-    },
-    {
       "area_id": "area/4th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/hdssb",
@@ -11346,20 +9398,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/4th",
+      "area_id": "area/7th",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
-      "person_id": "b3700975-124a-477c-89f9-6711f4e05c97",
-      "role": "member",
-      "start_date": "2016-01-22"
-    },
-    {
-      "area_id": "area/10th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/buz",
-      "organization_id": "legislature",
-      "person_id": "b39b170e-c1db-4628-8c59-9336c05dac34",
+      "person_id": "b3685bf0-3e61-4459-ba31-5b0ad0d30f37",
       "role": "member"
     },
     {
@@ -11368,22 +9411,6 @@
       "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "b41d5647-8d29-4444-95d4-41029475d7b0",
-      "role": "member"
-    },
-    {
-      "area_id": "area/2nd",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/most",
-      "organization_id": "legislature",
-      "person_id": "b47da2a0-af1a-4217-ae94-101f65287397",
-      "role": "member"
-    },
-    {
-      "area_id": "area/2nd",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/bm_365",
-      "organization_id": "legislature",
-      "person_id": "b48d06c4-ed06-4535-9bf4-3b1f8590c43e",
       "role": "member"
     },
     {
@@ -11398,22 +9425,22 @@
     {
       "area_id": "area/8th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/labourists",
+      "on_behalf_of_id": "party/hsp_as",
       "organization_id": "legislature",
-      "person_id": "b5d4c489-7984-4d32-b25e-7a6a86aa2933",
-      "role": "member"
-    },
-    {
-      "area_id": "area/9th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "legislature",
-      "person_id": "b65956bb-02f6-4fcf-b69a-57cec18bef3f",
+      "person_id": "b5af2c24-b455-4d09-89fe-68fd1e701421",
       "role": "member"
     },
     {
       "area_id": "area/2nd",
       "legislative_period_id": "term/7",
+      "on_behalf_of_id": "party/sdp",
+      "organization_id": "legislature",
+      "person_id": "b67335d6-815e-43b8-9b24-03ce03479ed2",
+      "role": "member"
+    },
+    {
+      "area_id": "area/3rd",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
       "person_id": "b67335d6-815e-43b8-9b24-03ce03479ed2",
@@ -11427,14 +9454,6 @@
       "person_id": "b67dc3b9-a25b-40b2-baac-6eac61cf11c6",
       "role": "member",
       "start_date": "2013-07-05"
-    },
-    {
-      "area_id": "area/7th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "legislature",
-      "person_id": "b6d5b126-406b-4294-a607-29c720b71015",
-      "role": "member"
     },
     {
       "area_id": "area/5th",
@@ -11462,52 +9481,20 @@
       "start_date": "2011-12-23"
     },
     {
-      "area_id": "area/5th",
+      "area_id": "area/4th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
+      "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
-      "person_id": "b951ca36-8dd6-4ce7-a181-9be4c37a2a4b",
-      "role": "member"
-    },
-    {
-      "area_id": "area/7th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "legislature",
-      "person_id": "ba6767cc-61cd-415c-bbd5-aeaea4bee0f7",
-      "role": "member"
-    },
-    {
-      "area_id": "area/8th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "legislature",
-      "person_id": "baf259af-5217-44e3-a362-d5fe15c9edf5",
-      "role": "member"
-    },
-    {
-      "area_id": "area/10th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hds",
-      "organization_id": "legislature",
-      "person_id": "bb99a663-f17d-4d23-859e-3581e45aff16",
-      "role": "member"
-    },
-    {
-      "area_id": "area/7th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/most",
-      "organization_id": "legislature",
-      "person_id": "bc87110a-4d1d-457b-9423-fa267ec443fd",
+      "person_id": "bac4163d-50e7-4633-9d47-419e88774451",
       "role": "member",
       "start_date": "2016-01-22"
     },
     {
-      "area_id": "area/2nd",
+      "area_id": "area/12th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
-      "person_id": "bca2c10a-0970-4620-83a6-c48de63c89ee",
+      "person_id": "bb356585-ab16-4335-b7ec-8b2f84a78d7f",
       "role": "member"
     },
     {
@@ -11530,17 +9517,25 @@
     {
       "area_id": "area/7th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
+      "on_behalf_of_id": "party/human_shield",
       "organization_id": "legislature",
-      "person_id": "c0451d98-f730-4758-8dca-4be9e8fc750f",
+      "person_id": "c0b179c7-81d9-4f8f-b800-f88fda606e22",
       "role": "member"
     },
     {
-      "area_id": "area/9th",
+      "area_id": "area/2nd",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
-      "person_id": "c2753611-9774-4d2f-9f05-7d77b2d0d986",
+      "person_id": "c1e5b788-4089-46e3-969b-24454c291905",
+      "role": "member"
+    },
+    {
+      "area_id": "area/3rd",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/sdp",
+      "organization_id": "legislature",
+      "person_id": "c26c5a7b-1dce-4100-ab1f-868a1df85f6d",
       "role": "member"
     },
     {
@@ -11553,6 +9548,14 @@
     },
     {
       "area_id": "area/10th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/sdp",
+      "organization_id": "legislature",
+      "person_id": "c2fed7e4-f43d-4ee1-ae21-06adfea72402",
+      "role": "member"
+    },
+    {
+      "area_id": "area/10th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
@@ -11560,11 +9563,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/2nd",
+      "area_id": "area/3rd",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
+      "on_behalf_of_id": "party/reformists",
       "organization_id": "legislature",
-      "person_id": "c6934b9c-3fa6-4521-b886-d146d29c792f",
+      "person_id": "c487863f-634e-4a0e-a32a-a7ec1835dd19",
       "role": "member"
     },
     {
@@ -11585,6 +9588,14 @@
       "start_date": "2011-12-23"
     },
     {
+      "area_id": "area/2nd",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hsls",
+      "organization_id": "legislature",
+      "person_id": "c8984d1c-6d19-44c9-92da-6c6ce4adc937",
+      "role": "member"
+    },
+    {
       "area_id": "area/1st",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/hdz",
@@ -11593,11 +9604,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/9th",
+      "area_id": "area/1st",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
-      "person_id": "c9f72f69-f607-4384-a67f-82f08a9b7686",
+      "person_id": "c8bd4b16-71ab-4086-babe-0666d97707f5",
       "role": "member"
     },
     {
@@ -11609,11 +9620,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/1st",
+      "area_id": "area/7th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hns",
+      "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
-      "person_id": "cb579388-b90c-4692-bdf1-3d1b01291ff4",
+      "person_id": "ca01573d-f89b-475a-aab5-b47528fbda8e",
       "role": "member"
     },
     {
@@ -11622,22 +9633,6 @@
       "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
       "person_id": "cb9f288c-e8bf-468b-8b3e-c63cdcb90ab0",
-      "role": "member"
-    },
-    {
-      "area_id": "area/4th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdssb",
-      "organization_id": "legislature",
-      "person_id": "ccae2b12-e78e-4cb0-abab-6e6a3044650b",
-      "role": "member"
-    },
-    {
-      "area_id": "area/2nd",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/most",
-      "organization_id": "legislature",
-      "person_id": "cd140416-f8a4-4e89-bd2f-8107ee5d1ef1",
       "role": "member"
     },
     {
@@ -11657,11 +9652,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/1st",
+      "area_id": "area/6th",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
-      "person_id": "cd9124f1-7154-4e58-9722-47b3946f76b9",
+      "person_id": "cdac25cc-8df2-4d39-bebb-18ed51d6e26f",
       "role": "member"
     },
     {
@@ -11676,6 +9671,14 @@
     {
       "area_id": "area/4th",
       "legislative_period_id": "term/7",
+      "on_behalf_of_id": "party/sdp",
+      "organization_id": "legislature",
+      "person_id": "cf710cc3-92ac-4af1-82e4-dcc712b11182",
+      "role": "member"
+    },
+    {
+      "area_id": "area/4th",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
       "person_id": "cf710cc3-92ac-4af1-82e4-dcc712b11182",
@@ -11698,28 +9701,21 @@
       "role": "member"
     },
     {
-      "area_id": "area/3rd",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hns",
-      "organization_id": "legislature",
-      "person_id": "d32d7c2d-bb9a-4fb9-bc87-ae36c8c8fb80",
-      "role": "member"
-    },
-    {
-      "area_id": "area/1st",
+      "area_id": "area/5th",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
-      "person_id": "d407055e-beea-4487-a649-021d4f8b4ec2",
+      "person_id": "d2cd90cf-4fdc-4632-8e0f-0fa5ec2a80ca",
       "role": "member"
     },
     {
-      "area_id": "area/4th",
+      "area_id": "area/9th",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/labourists",
+      "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
-      "person_id": "d438bdb9-6ec4-4208-93e8-d18b69b9602b",
-      "role": "member"
+      "person_id": "d33a6dc2-c32e-400c-ad5b-4807bc759e20",
+      "role": "member",
+      "start_date": "2016-01-22"
     },
     {
       "area_id": "area/1st",
@@ -11749,32 +9745,49 @@
       "start_date": "2014-01-31"
     },
     {
-      "area_id": "area/3rd",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hns",
-      "organization_id": "legislature",
-      "person_id": "d5f43c78-38fb-4b9b-a33c-d1e596f33c48",
-      "role": "member"
-    },
-    {
-      "area_id": "area/4th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "legislature",
-      "person_id": "d7852d23-1000-4933-9b76-736cc7d3a735",
-      "role": "member"
-    },
-    {
-      "area_id": "area/5th",
+      "area_id": "area/7th",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
-      "person_id": "d810bc3b-ebb2-41d9-85bf-b724c360fd50",
+      "person_id": "d5de12d4-1c22-454a-9edf-e5f71e59a47a",
+      "role": "member",
+      "start_date": "2016-01-22"
+    },
+    {
+      "area_id": "area/1st",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/sdp",
+      "organization_id": "legislature",
+      "person_id": "d61c8b98-f15e-4631-8f85-69823f66c199",
+      "role": "member"
+    },
+    {
+      "area_id": "area/7th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/most",
+      "organization_id": "legislature",
+      "person_id": "d7c64d3a-340f-4a6f-9fca-7b67b9bde287",
+      "role": "member"
+    },
+    {
+      "area_id": "area/10th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/most",
+      "organization_id": "legislature",
+      "person_id": "d7f07ff0-7bed-4129-ae0c-54b836db12e5",
       "role": "member"
     },
     {
       "area_id": "area/3rd",
       "legislative_period_id": "term/7",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "legislature",
+      "person_id": "d8c1783a-8411-4ae5-aa79-06cfe26b8abf",
+      "role": "member"
+    },
+    {
+      "area_id": "area/7th",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
       "person_id": "d8c1783a-8411-4ae5-aa79-06cfe26b8abf",
@@ -11789,11 +9802,43 @@
       "role": "member"
     },
     {
+      "area_id": "area/6th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "legislature",
+      "person_id": "d8c75e06-cc84-47a1-be77-efb37f376e4c",
+      "role": "member"
+    },
+    {
+      "area_id": "area/1st",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/sdp",
+      "organization_id": "legislature",
+      "person_id": "d94ba728-6747-4745-9dd8-634fa0283e6a",
+      "role": "member"
+    },
+    {
       "area_id": "area/12th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/sdss",
       "organization_id": "legislature",
       "person_id": "d9a9eb80-843c-4599-b33c-a925631fac81",
+      "role": "member"
+    },
+    {
+      "area_id": "area/12th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/sdss",
+      "organization_id": "legislature",
+      "person_id": "d9a9eb80-843c-4599-b33c-a925631fac81",
+      "role": "member"
+    },
+    {
+      "area_id": "area/5th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/most",
+      "organization_id": "legislature",
+      "person_id": "db4e3fc9-77cb-405a-a3f3-8486f30a6568",
       "role": "member"
     },
     {
@@ -11805,6 +9850,22 @@
       "role": "member"
     },
     {
+      "area_id": "area/10th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hds",
+      "organization_id": "legislature",
+      "person_id": "de27c4d7-13eb-443b-a620-b6c508fbcd77",
+      "role": "member"
+    },
+    {
+      "area_id": "area/7th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/sdp",
+      "organization_id": "legislature",
+      "person_id": "dea52390-c785-4909-845d-8c20bb0d2d5c",
+      "role": "member"
+    },
+    {
       "area_id": "area/2nd",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/independent",
@@ -11813,16 +9874,32 @@
       "role": "member"
     },
     {
-      "area_id": "area/12th",
+      "area_id": "area/1st",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/nz",
+      "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
-      "person_id": "e08f91f3-247d-45be-9791-eee69c054beb",
+      "person_id": "dfa05c7c-e767-4b5b-b9cb-be0ed71e4a66",
+      "role": "member"
+    },
+    {
+      "area_id": "area/9th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "legislature",
+      "person_id": "dfddd8b0-4cd0-4b36-99f9-f01a174077c0",
       "role": "member"
     },
     {
       "area_id": "area/8th",
       "legislative_period_id": "term/7",
+      "on_behalf_of_id": "party/sdp",
+      "organization_id": "legislature",
+      "person_id": "e09352ec-d388-43bd-a136-37f63e8b7072",
+      "role": "member"
+    },
+    {
+      "area_id": "area/8th",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
       "person_id": "e09352ec-d388-43bd-a136-37f63e8b7072",
@@ -11853,21 +9930,28 @@
       "role": "member"
     },
     {
+      "area_id": "area/11th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "legislature",
+      "person_id": "e4fc5801-e7ae-4db3-8c7c-5576aa4deaae",
+      "role": "member"
+    },
+    {
+      "area_id": "area/3rd",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hns",
+      "organization_id": "legislature",
+      "person_id": "e5c38368-d1b4-4e44-9aeb-db14d54b1047",
+      "role": "member"
+    },
+    {
       "area_id": "area/4th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/hdssb",
       "organization_id": "legislature",
       "person_id": "e6afca76-ecd0-41fc-9f68-bd52c6e085b6",
       "role": "member"
-    },
-    {
-      "area_id": "area/8th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "legislature",
-      "person_id": "e70a7a2b-ac7d-4ce0-a8ef-6be8aef0de77",
-      "role": "member",
-      "start_date": "2016-01-22"
     },
     {
       "area_id": "area/1st",
@@ -11878,24 +9962,24 @@
       "role": "member"
     },
     {
-      "area_id": "area/10th",
+      "area_id": "area/2nd",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
-      "person_id": "e8314715-b778-4885-95c7-922777d2fef2",
-      "role": "member"
-    },
-    {
-      "area_id": "area/2nd",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hss",
-      "organization_id": "legislature",
-      "person_id": "e8a01792-4541-4904-9243-2138b36ebbc3",
+      "person_id": "e7c0f78d-352a-45cd-9e55-e673d0ea8dee",
       "role": "member"
     },
     {
       "area_id": "area/9th",
       "legislative_period_id": "term/7",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "legislature",
+      "person_id": "e8e0430a-45a7-4fad-94d0-8bb6640d3505",
+      "role": "member"
+    },
+    {
+      "area_id": "area/9th",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
       "person_id": "e8e0430a-45a7-4fad-94d0-8bb6640d3505",
@@ -11918,28 +10002,19 @@
       "role": "member"
     },
     {
+      "area_id": "area/1st",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "legislature",
+      "person_id": "e9d1410b-ed75-4735-92f8-75d94ca95639",
+      "role": "member"
+    },
+    {
       "area_id": "area/2nd",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
       "person_id": "ed031b16-8fc9-4412-a216-71f71c679064",
-      "role": "member"
-    },
-    {
-      "area_id": "area/2nd",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "legislature",
-      "person_id": "ed139b6a-71a7-4e25-9e60-b7aced820b4a",
-      "role": "member",
-      "start_date": "2016-01-22"
-    },
-    {
-      "area_id": "area/10th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/most",
-      "organization_id": "legislature",
-      "person_id": "efd075da-68cb-430e-8065-0c6e73ed64c9",
       "role": "member"
     },
     {
@@ -11951,6 +10026,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/4th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "legislature",
+      "person_id": "f202d9ba-d0ca-495b-b8bd-55b1d0430443",
+      "role": "member"
+    },
+    {
       "area_id": "area/2nd",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/hsu",
@@ -11959,40 +10042,16 @@
       "role": "member"
     },
     {
-      "area_id": "area/10th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "legislature",
-      "person_id": "f34a700e-c25e-49e0-a3bb-72d139a230f4",
-      "role": "member"
-    },
-    {
-      "area_id": "area/1st",
-      "legislative_period_id": "term/8",
+      "area_id": "area/6th",
+      "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
-      "person_id": "f456e989-652a-46a5-8dec-fa3ed59cc9f2",
-      "role": "member"
-    },
-    {
-      "area_id": "area/1st",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hsls",
-      "organization_id": "legislature",
-      "person_id": "f57c4c0e-af2f-4812-ac7f-e06853079811",
-      "role": "member"
-    },
-    {
-      "area_id": "area/9th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "legislature",
-      "person_id": "f5800322-6e90-4c16-8191-b660a3b6375e",
+      "person_id": "f5f8279b-350e-450c-adc5-f57cd54ab17d",
       "role": "member"
     },
     {
       "area_id": "area/6th",
-      "legislative_period_id": "term/7",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/sdp",
       "organization_id": "legislature",
       "person_id": "f5f8279b-350e-450c-adc5-f57cd54ab17d",
@@ -12015,41 +10074,17 @@
       "role": "member"
     },
     {
-      "area_id": "area/10th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
+      "area_id": "area/12th",
+      "legislative_period_id": "term/7",
+      "on_behalf_of_id": "party/hns",
       "organization_id": "legislature",
-      "person_id": "f67d7ef1-8f66-464f-b9f0-18d1b9c2932a",
-      "role": "member"
-    },
-    {
-      "area_id": "area/5th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "legislature",
-      "person_id": "f6bdf660-b355-4516-8ae0-d59b37079e56",
-      "role": "member"
-    },
-    {
-      "area_id": "area/2nd",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "legislature",
-      "person_id": "f6d12306-25c8-4119-9193-10e4b0de7f58",
-      "role": "member"
-    },
-    {
-      "area_id": "area/1st",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "legislature",
-      "person_id": "f776606b-0a27-4834-bee9-2b181ccb8ca9",
+      "person_id": "f79e7534-110b-407c-8cce-be5db682fc7e",
       "role": "member"
     },
     {
       "area_id": "area/12th",
-      "legislative_period_id": "term/7",
-      "on_behalf_of_id": "party/hns",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "legislature",
       "person_id": "f79e7534-110b-407c-8cce-be5db682fc7e",
       "role": "member"
@@ -12063,11 +10098,19 @@
       "role": "member"
     },
     {
-      "area_id": "area/10th",
+      "area_id": "area/2nd",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/sdp",
+      "organization_id": "legislature",
+      "person_id": "f8558cb1-a75e-4f1d-9531-939901ce874e",
+      "role": "member"
+    },
+    {
+      "area_id": "area/9th",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
-      "person_id": "f887e063-3a6f-4e38-b34f-1eb517dd077a",
+      "person_id": "f8e3eaf9-ba4d-44dd-ad97-a979f4c863a8",
       "role": "member"
     },
     {
@@ -12076,22 +10119,6 @@
       "on_behalf_of_id": "party/hdz",
       "organization_id": "legislature",
       "person_id": "f90d3094-051a-44d6-a0e3-d1f809c5522e",
-      "role": "member"
-    },
-    {
-      "area_id": "area/11th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "legislature",
-      "person_id": "fa1f69f2-329e-450a-952d-b648cb8bd1c6",
-      "role": "member"
-    },
-    {
-      "area_id": "area/12th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/independent",
-      "organization_id": "legislature",
-      "person_id": "fa87d7aa-8a9e-443e-bedf-ddf139df7f9b",
       "role": "member"
     },
     {
@@ -12112,31 +10139,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/8th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "legislature",
-      "person_id": "fcc19e62-ce5c-40e8-8910-0df525180456",
-      "role": "member"
-    },
-    {
-      "area_id": "area/5th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "legislature",
-      "person_id": "fcf248a5-2742-4719-8135-e02837800846",
-      "role": "member"
-    },
-    {
-      "area_id": "area/9th",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "legislature",
-      "person_id": "fe00c20d-b281-42d8-a088-4104de56f419",
-      "role": "member",
-      "start_date": "2016-01-22"
-    },
-    {
       "area_id": "area/12th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/sdss",
@@ -12144,6 +10146,14 @@
       "person_id": "ff1c3b38-8684-4c7a-ab79-8a59a5c2decb",
       "role": "member",
       "start_date": "2012-10-01"
+    },
+    {
+      "area_id": "area/12th",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/sdss",
+      "organization_id": "legislature",
+      "person_id": "ff1c3b38-8684-4c7a-ab79-8a59a5c2decb",
+      "role": "member"
     },
     {
       "area_id": "area/6th",
