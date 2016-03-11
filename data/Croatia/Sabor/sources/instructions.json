@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
+      "file": "morph/sabor-7.csv",
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/croatia-parliament",
