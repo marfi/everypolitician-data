@@ -31,6 +31,7 @@ BRANKO HRG,91f5a54c-8ac6-4772-a561-4634e2b27ac2
 BRANKO HRG,e8a01792-4541-4904-9243-2138b36ebbc3
 BRANKO KUTIJA,ff57ac47-7015-455a-96ed-9baae495ce2f
 BRANKO VUKŠIĆ,f662b6ae-13d5-45a2-b00b-a69f28419c52
+Branko Grčić,e8314715-b778-4885-95c7-922777d2fef2
 DAMIR FELAK,0d5e76df-2a16-41b2-b9dd-ffd2e6ed179a
 DAMIR KAJIN,5351031d-1470-4256-ad6a-2665a15145a6
 DAMIR KRSTIČEVIĆ,f887e063-3a6f-4e38-b34f-1eb517dd077a
@@ -208,6 +209,9 @@ MIROSLAV TUĐMAN,bca2c10a-0970-4620-83a6-c48de63c89ee
 MIROSLAV ŠIMIĆ,4b2df4eb-ba75-4fae-81cf-98da384ff149
 MLADEN MARELIĆ,69090f9e-9d4c-4af0-8475-f55f1e2dbb6d
 MLADEN NOVAK,10b9f57a-777e-43b0-9c8a-802a23abdae3
+Mihael Zmajlović,8250a692-c2ae-4e79-8bca-cea7abdd84f1
+Milanka Opačić,ba6767cc-61cd-415c-bbd5-aeaea4bee0f7
+Mirando Mrsić,6bbad636-12cd-42fd-a698-866353a88994
 Mirela Holi,b846bd6a-d046-4523-ae89-caeaba1bb3bc
 Miroslav Tuđman,1bcff30d-5611-4262-9fc9-ac4781041f7e
 NADA MURGANIĆ,a0b81e79-8031-49e9-b341-22d576bd442d
@@ -242,6 +246,7 @@ RANKO OSTOJIĆ,1bc4dcab-5f24-4d61-a752-9489254a547d
 ROBERT PODOLNJAK,430fc1a7-6388-40ed-a297-aa87f9045c67
 ROMANA JERKOVIĆ,0f884fb3-d704-4a5e-811b-4c8275e24bcd
 RUŽICA VUKOVAC,a7fef2ec-c493-4d6b-9c21-a1297d5afd47
+Radimir Čačić,0f76190b-487d-4c20-95e9-780dcca88542
 Rajko Ostojić,f5f8279b-350e-450c-adc5-f57cd54ab17d
 Ranko Ostojić,f5f8279b-350e-450c-adc5-f57cd54ab17d
 SABINA GLASOVAC,7d939bb5-fd6e-4ddf-ae6a-31683f6c715e
@@ -289,6 +294,7 @@ VESNA ŠKARE OŽBOLT,6c61aeda-7538-480e-8a79-97e653c32b91
 VESNA ŽELJEŽNJAK,03674614-a527-4841-a30c-c6ae73fbaae6
 VLADIMIR BILEK,8373a3d9-7032-4d79-af1b-0f1daf8b3974
 VLADIMIR BILEK,f79e7534-110b-407c-8cce-be5db682fc7e
+Vesna Pusić,cb579388-b90c-4692-bdf1-3d1b01291ff4
 Vesna Škare-Ožbolt,6c61aeda-7538-480e-8a79-97e653c32b91
 ZDRAVKO RONKO,10e9baca-6d6d-48ad-9d8e-e394023fcb40
 ZDRAVKO RONKO,d2cd90cf-4fdc-4632-8e0f-0fa5ec2a80ca
@@ -296,6 +302,7 @@ ZLATKO TUŠAK,deb589ef-b2b4-4f06-810a-cd86fdbfc390
 ZORAN MILANOVIĆ,792ecafa-2061-45d8-975b-50534c73c185
 ZORAN VASIĆ,5f79a14d-1504-426a-9361-0aadb9224b35
 ZVONKO MILAS,dd0440bc-1fac-42d1-bb71-db7a7dd0c7fc
+Zoran Milanović,792ecafa-2061-45d8-975b-50534c73c185
 ĐURO POPIJAČ,aad6600d-b6e8-4916-882c-4dedd70753ea
 ĐURĐICA PLANČIĆ,3e077804-88dd-4c1c-b346-03a8c35345e9
 ĐURĐICA SUMRAK,fb160bed-6613-41c4-a945-e1c2273ee328
@@ -318,35 +325,58 @@ ZVONKO MILAS,dd0440bc-1fac-42d1-bb71-db7a7dd0c7fc
 ŽELJKO ŠEMPER,f33d41c7-06f1-48e9-bcf1-489ec08feed5
 Željko Jovanović,56b40582-55b8-4606-b6a4-73698f8c382a
 Γιάντρανκα Κόσορ,8f1e4c65-e43f-4ce4-be39-ff24de0be952
+Ζόραν Μιλάνοβιτς,792ecafa-2061-45d8-975b-50534c73c185
 Іван Шукер,e4fc5801-e7ae-4db3-8c7c-5576aa4deaae
 Јадранка Косор,8f1e4c65-e43f-4ce4-be39-ff24de0be952
 Јосип Леко,f8558cb1-a75e-4f1d-9531-939901ce874e
+Арсен Баук,6a304134-0843-4115-89f7-461c442668d0
+Бранко Грчич,e8314715-b778-4885-95c7-922777d2fef2
+Бранко Грчић,e8314715-b778-4885-95c7-922777d2fef2
+Весна Пусич,cb579388-b90c-4692-bdf1-3d1b01291ff4
+Весна Пусић,cb579388-b90c-4692-bdf1-3d1b01291ff4
 Гордан Яндрокович,d8c75e06-cc84-47a1-be77-efb37f376e4c
 Давор Божинович,bd0075d7-a8cd-4ccc-adba-2d939dab6e57
 Домагој Иван Милошевић,d8c1783a-8411-4ae5-aa79-06cfe26b8abf
 Драгутин Лесар,7d1593e0-6165-425e-91c8-d032f04a64e3
 Жељко Јовановић,56b40582-55b8-4606-b6a4-73698f8c382a
+Зоран Миланович,792ecafa-2061-45d8-975b-50534c73c185
+Зоран Милановић,792ecafa-2061-45d8-975b-50534c73c185
+Зоран Міланавіч,792ecafa-2061-45d8-975b-50534c73c185
+Зоран Міланович,792ecafa-2061-45d8-975b-50534c73c185
 Иван Грубишић,a188141a-1a5d-4e88-b0a4-5d1963e84458
 Йосип Леко,f8558cb1-a75e-4f1d-9531-939901ce874e
 "Карамарко, Томислав",244e86a6-6a0c-4932-b186-b15956dc1643
 "Косор, Ядранка",8f1e4c65-e43f-4ce4-be39-ff24de0be952
+Миланка Опачић,ba6767cc-61cd-415c-bbd5-aeaea4bee0f7
 Милорад Пуповац,d9a9eb80-843c-4599-b33c-a925631fac81
 Мирела Холи,b846bd6a-d046-4523-ae89-caeaba1bb3bc
 Мирослав Туджман,1bcff30d-5611-4262-9fc9-ac4781041f7e
+Михаел Змајловић,8250a692-c2ae-4e79-8bca-cea7abdd84f1
+Міланка Опачич,ba6767cc-61cd-415c-bbd5-aeaea4bee0f7
+"Опачич, Миланка",ba6767cc-61cd-415c-bbd5-aeaea4bee0f7
 "Остоич, Ранко",f5f8279b-350e-450c-adc5-f57cd54ab17d
 "Пуповац, Милорад",d9a9eb80-843c-4599-b33c-a925631fac81
+"Пусич, Весна",cb579388-b90c-4692-bdf1-3d1b01291ff4
+Радимир Чачич,0f76190b-487d-4c20-95e9-780dcca88542
 Ранко Остоїч,f5f8279b-350e-450c-adc5-f57cd54ab17d
 Томислав Карамарко,244e86a6-6a0c-4932-b186-b15956dc1643
 Томіслав Карамарко,244e86a6-6a0c-4932-b186-b15956dc1643
+"Чачич, Радимир",0f76190b-487d-4c20-95e9-780dcca88542
 Ядранка Косар,8f1e4c65-e43f-4ce4-be39-ff24de0be952
 Ядранка Косор,8f1e4c65-e43f-4ce4-be39-ff24de0be952
 "Яндрокович, Гордан",d8c75e06-cc84-47a1-be77-efb37f376e4c
+Զորան Միլանովիչ,792ecafa-2061-45d8-975b-50534c73c185
+זוראן מילנוביץ',792ecafa-2061-45d8-975b-50534c73c185
 جوزپ لکو,f8558cb1-a75e-4f1d-9531-939901ce874e
+زوران ميلانوفيتش,792ecafa-2061-45d8-975b-50534c73c185
 يادرانكا كوسور,8f1e4c65-e43f-4ce4-be39-ff24de0be952
 یادرانکا کوسور,8f1e4c65-e43f-4ce4-be39-ff24de0be952
+ვესნა პუსიჩი,cb579388-b90c-4692-bdf1-3d1b01291ff4
 იადრანკა კოსორი,8f1e4c65-e43f-4ce4-be39-ff24de0be952
 ヤドランカ・コソル,8f1e4c65-e43f-4ce4-be39-ff24de0be952
 ヴェスナ・シュカレ＝オジュボルト,6c61aeda-7538-480e-8a79-97e653c32b91
 亚德兰卡·科索尔,8f1e4c65-e43f-4ce4-be39-ff24de0be952
+佐兰·米拉诺维奇,792ecafa-2061-45d8-975b-50534c73c185
 托米斯拉夫·卡拉馬爾科,244e86a6-6a0c-4932-b186-b15956dc1643
+베스나 푸시치,cb579388-b90c-4692-bdf1-3d1b01291ff4
 야드란카 코소르,8f1e4c65-e43f-4ce4-be39-ff24de0be952

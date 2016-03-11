@@ -268,13 +268,101 @@
     },
     {
       "birth_date": "1973-02-07",
+      "gender": "male",
+      "given_name": "Arsen",
       "id": "6a304134-0843-4115-89f7-461c442668d0",
+      "identifiers": [
+        {
+          "identifier": "/m/0hrhwzp",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q2351745",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Arsen_Bauk.jpg",
       "images": [
         {
-          "url": ""
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Arsen_Bauk.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Arsen_Bauk"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Баук,_Арсен"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Арсен_Баук"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Арсен_Баук"
         }
       ],
       "name": "ARSEN BAUK",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Arsen Bauk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Arsen Bauk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Arsen Bauk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Arsen Bauk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Arsen Bauk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Arsen Bauk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Арсен Баук",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Арсен Баук",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Арсен Баук",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Arsen Bauk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Арсен Баук",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6190"
@@ -504,14 +592,124 @@
     },
     {
       "birth_date": "1964-04-16",
+      "gender": "male",
+      "given_name": "Branko",
       "id": "e8314715-b778-4885-95c7-922777d2fef2",
+      "identifiers": [
+        {
+          "identifier": "/m/0hr1g4t",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "171608119",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "197294679",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q165463",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44638",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44638"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Branko_Grčić"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Branko_Grčić"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Branko_Grčić"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Branko_Grčić"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Branko_Grčić"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Branko_Grčić"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Бранко_Грчић"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Бранко_Грчич"
+        }
+      ],
       "name": "BRANKO GRČIĆ",
+      "other_names": [
+        {
+          "name": "Branko Grčić",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Branko Grčić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Branko Grčić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Branko Grčić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Branko Grčić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Branko Grčić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Branko Grčić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Branko Grčić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Branko Grčić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Бранко Грчић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Бранко Грчич",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6262"
@@ -4765,14 +4963,71 @@
     },
     {
       "birth_date": "1978-01-19",
+      "gender": "male",
+      "given_name": "Mihael",
       "id": "8250a692-c2ae-4e79-8bca-cea7abdd84f1",
+      "identifiers": [
+        {
+          "identifier": "Q12958427",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44659",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44659"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mihael_Zmajlović"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mihael_Zmajlović"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Mihael_Zmajlović"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Михаел_Змајловић"
+        }
+      ],
       "name": "MIHAEL ZMAJLOVIĆ",
+      "other_names": [
+        {
+          "name": "Mihael Zmajlović",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Mihael Zmajlović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mihael Zmajlović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mihael Zmajlović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Mihael Zmajlović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Михаел Змајловић",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6546"
@@ -4803,14 +5058,125 @@
     },
     {
       "birth_date": "1968-04-17",
+      "gender": "female",
       "id": "ba6767cc-61cd-415c-bbd5-aeaea4bee0f7",
+      "identifiers": [
+        {
+          "identifier": "/m/0cp0b_2",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q2986845",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44649",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44649"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Milanka_Opačić"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Milanka_Opačić"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Milanka_Opačić"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Milanka_Opačić"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Опачич,_Миланка"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Milanka_Opačić"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Миланка_Опачић"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Міланка_Опачич"
+        }
+      ],
       "name": "MILANKA OPAČIĆ",
+      "other_names": [
+        {
+          "name": "Milanka Opačić",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Milanka Opačić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Milanka Opačić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Milanka Opačić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Milanka Opačić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Milanka Opačić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Milanka Opačić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Опачич, Миланка",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Milanka Opačić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Миланка Опачић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Миланка Опачић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Milanka Opačić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Міланка Опачич",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6420"
@@ -5086,14 +5452,70 @@
     },
     {
       "birth_date": "1959-10-14",
+      "gender": "male",
       "id": "6bbad636-12cd-42fd-a698-866353a88994",
+      "identifiers": [
+        {
+          "identifier": "Q10853815",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44648",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44648"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mirando_Mrsić"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mirando_Mrsić"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Mirando_Mrsić"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Mirando_Mrsić"
+        }
+      ],
       "name": "MIRANDO MRSIĆ",
+      "other_names": [
+        {
+          "name": "Mirando Mrsić",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Mirando Mrsić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mirando Mrsić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mirando Mrsić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Mirando Mrsić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Mirando Mrsić",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6416"
@@ -6050,14 +6472,156 @@
     },
     {
       "birth_date": "1949-05-11",
+      "gender": "male",
       "id": "0f76190b-487d-4c20-95e9-780dcca88542",
+      "identifiers": [
+        {
+          "identifier": "/m/068zlv",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "305564397",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1285099",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44691",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44691"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Radimir_Čačić"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Radimir_Čačić"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Radimir_Čačić"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Radimir_Čačić"
+        },
+        {
+          "note": "Wikipedia (hrwikiquote)",
+          "url": "https://hrwikiquote.wikipedia.org/wiki/Radimir_Čačić"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Radimir_Čačić"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Radimir_Čačić"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Чачич,_Радимир"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Radimir_Čačić"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Radimir_Čačić"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Радимир_Чачич"
+        }
+      ],
       "name": "RADIMIR ČAČIĆ",
+      "other_names": [
+        {
+          "name": "Radimir Čačić",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Radimir Čačić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Radimir Čačić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Radimir Čačić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Radimir Čačić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Radimir Čačić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Radimir Čačić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Radimir Čačić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Radimir Čačić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Radimir Čačić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Radimir Čačić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Radimir Čačić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Чачич, Радимир",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Radimir Čačić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Radimir Čačić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Радимир Чачич",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6218"
@@ -6660,14 +7224,40 @@
     },
     {
       "birth_date": "1967-06-21",
+      "gender": "male",
+      "given_name": "Tihomir",
       "id": "f6bdf660-b355-4516-8ae0-d59b37079e56",
+      "identifiers": [
+        {
+          "identifier": "Q11143940",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44770",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44770"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Tihomir_Jakovina"
+        }
+      ],
       "name": "TIHOMIR JAKOVINA",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Tihomir Jakovina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Tihomir Jakovina",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6290"
@@ -7230,14 +7820,231 @@
     },
     {
       "birth_date": "1953-03-25",
+      "gender": "female",
+      "given_name": "Vesna",
       "id": "cb579388-b90c-4692-bdf1-3d1b01291ff4",
+      "identifiers": [
+        {
+          "identifier": "/m/050x_l",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "no91010322",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "66032720",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q58191",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44565",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44565"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Весна_Пусич"
+        },
+        {
+          "note": "Wikipedia (bswikiquote)",
+          "url": "https://bswikiquote.wikipedia.org/wiki/Vesna_Pusić"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Vesna_Pusić"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Vesna_Pusić"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Vesna_Pusić"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Vesna_Pusić"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Vesna_Pusić"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Vesna_Pusić"
+        },
+        {
+          "note": "Wikipedia (ie)",
+          "url": "https://ie.wikipedia.org/wiki/Vesna_Pusić"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Vesna_Pusić"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/ვესნა_პუსიჩი"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/베스나_푸시치"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Vesna_Pusić"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Vesna_Pusić"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Vesna_Pusić"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Пусич,_Весна"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Vesna_Pusić"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Весна_Пусић"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Vesna_Pusić"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Весна_Пусич"
+        },
+        {
+          "note": "website",
+          "url": "http://vesna-pusic.hns.hr/"
+        }
+      ],
       "name": "VESNA PUSIĆ",
+      "other_names": [
+        {
+          "name": "Vesna Pusić",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Весна Пусич",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Vesna Pusić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Vesna Pusić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Vesna Pusić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Vesna Pusić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Vesna Pusić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Vesna Pusić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Vesna Pusić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Vesna Pusić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Vesna Pusić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ვესნა პუსიჩი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "베스나 푸시치",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Vesna Pusić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Vesna Pusić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Vesna Pusić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Vesna Pusić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Пусич, Весна",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Vesna Pusić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Весна Пусић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vesna Pusić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Весна Пусич",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6458"
@@ -7502,14 +8309,384 @@
     },
     {
       "birth_date": "1966-10-30",
+      "gender": "male",
+      "given_name": "Zoran",
       "id": "792ecafa-2061-45d8-975b-50534c73c185",
+      "identifiers": [
+        {
+          "identifier": "/m/02rj3p1",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "1027200524",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "nb2012019791",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "00000028994",
+          "scheme": "munzinger"
+        },
+        {
+          "identifier": "277708121",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q57687",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44645",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44645"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/زوران_ميلانوفيتش"
+        },
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Зоран_Міланавіч"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (cswikiquote)",
+          "url": "https://cswikiquote.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Ζόραν_Μιλάνοβιτς"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/זוראן_מילנוביץ'"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (hrwikiquote)",
+          "url": "https://hrwikiquote.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Զորան_Միլանովիչ"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (ie)",
+          "url": "https://ie.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (lb)",
+          "url": "https://lb.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (lmo)",
+          "url": "https://lmo.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Миланович,_Зоран"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Зоран_Милановић_(политичар)"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Зоран_Міланович"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Zoran_Milanović"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/佐兰·米拉诺维奇"
+        }
+      ],
       "name": "ZORAN MILANOVIĆ",
+      "other_names": [
+        {
+          "name": "Zoran Milanović",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "زوران ميلانوفيتش",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Зоран Міланавіч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ζόραν Μιλάνοβιτς",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "זוראן מילנוביץ'",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Զորան Միլանովիչ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lmo",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Зоран Миланович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Зоран Милановић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Зоран Міланович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Zoran Milanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "佐兰·米拉诺维奇",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6398"
