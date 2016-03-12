@@ -3,10 +3,8 @@
     "self": [
       {
         "id": "Q21290847",
-        "name": "Member of the National Assembly of Botswana",
-        "count": 9
-      },
-
+        "name": "Member of the National Assembly of Botswana"
+      }
     ],
     "other": [
 
@@ -22,10 +20,8 @@
     "executive": [
       {
         "id": "Q19056310",
-        "name": "President of Botswana",
-        "count": 1
+        "name": "President of Botswana"
       }
-
     ],
     "party": [
 
@@ -36,6 +32,7 @@
   },
   "unknown": {
     "unknown": [
+
     ]
   }
 }
