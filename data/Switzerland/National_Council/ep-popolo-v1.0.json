@@ -4003,6 +4003,11 @@
           "lang": "fr",
           "name": "Barbara Gurtner",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Barbara Gurtner",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Gurtner, Barbara"
@@ -13715,6 +13720,7 @@
     },
     {
       "birth_date": "1915-08-31",
+      "death_date": "1990-11-29",
       "family_name": "Salzmann",
       "gender": "male",
       "given_name": "Friedrich",
@@ -13723,9 +13729,96 @@
         {
           "identifier": "3110",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1046873091",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "6569",
+          "scheme": "hds"
+        },
+        {
+          "identifier": "n2014047162",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "281173180",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3087758",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Friedrich_Salzmann"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Friedrich_Salzmann"
         }
       ],
       "name": "Friedrich Salzmann",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Friedrich Salzmann",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Friedrich Salzmann",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Friedrich Salzmann",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Friedrich Salzmann",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Friedrich Salzmann",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Friedrich Salzmann",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Friedrich Salzmann",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Friedrich Salzmann",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Friedrich Salzmann",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Friedrich Salzmann",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Friedrich Salzmann",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Salzmann, Friedrich"
     },
     {
@@ -14416,17 +14509,278 @@
     },
     {
       "birth_date": "1915-02-07",
+      "death_date": "2002-09-08",
       "family_name": "Chevallaz",
       "gender": "male",
       "given_name": "Georges-André",
       "id": "b8cbed87-b482-4c38-9a81-712caac3c4be",
       "identifiers": [
         {
+          "identifier": "332",
+          "scheme": "ads"
+        },
+        {
+          "identifier": "12053665f",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "1790",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "12982",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/014fkk",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "139602240",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "4730",
+          "scheme": "hds"
+        },
+        {
+          "identifier": "0000 0001 0859 5860",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n50038007",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "073095869",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "028768868",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "100962609",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q118201",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Georges-André_Chevallaz.gif",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Georges-André_Chevallaz.gif"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (als)",
+          "url": "https://als.wikipedia.org/wiki/Georges-André_Chevallaz"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Georges-André_Chevallaz"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Georges-André_Chevallaz"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Georges-André_Chevallaz"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Georges-André_Chevallaz"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Georges-André_Chevallaz"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Georges-André_Chevallaz"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Georges-André_Chevallaz"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Georgius-Andreas_Chevallaz"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Georges-André_Chevallaz"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Georges-André_Chevallaz"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Georges-André_Chevallaz"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Шевалла,_Жорж-Андре"
         }
       ],
       "name": "Georges-André Chevallaz",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Georgius-Andreas Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Шевалла, Жорж-Андре",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Georges-André Chevallaz",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Chevallaz, Georges-André"
     },
     {
@@ -20966,11 +21320,106 @@
       "id": "66417e77-fede-42b4-8404-2d64be78f553",
       "identifiers": [
         {
+          "identifier": "12305891h",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "620",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "119452707",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "6026",
+          "scheme": "hds"
+        },
+        {
+          "identifier": "nb2013005246",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "031934897",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "34524113",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q19502703",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Jean-François_Aubert"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jean-François_Aubert"
         }
       ],
       "name": "Jean-François Aubert",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Jean-François Aubert",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Jean-François Aubert",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jean-François Aubert",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jean-François Aubert",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jean-François Aubert",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Jean-François Aubert",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Jean-François Aubert",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jean-François Aubert",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Jean-François Aubert",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Jean-François Aubert",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Jean-François Aubert",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Aubert, Jean-François"
     },
     {
@@ -29200,6 +29649,7 @@
     },
     {
       "birth_date": "1914-01-02",
+      "death_date": "2009-02-28",
       "family_name": "Aebischer",
       "gender": "male",
       "given_name": "Max",
@@ -29208,9 +29658,121 @@
         {
           "identifier": "1172",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "12601924X",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "5877",
+          "scheme": "hds"
+        },
+        {
+          "identifier": "0000 0000 8015 1095",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "1172",
+          "scheme": "parlamentdotch"
+        },
+        {
+          "identifier": "190997150",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q119921",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Max_Aebischer.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Max_Aebischer.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Max_Aebischer"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Max_Aebischer"
         }
       ],
       "name": "Max Aebischer",
+      "other_names": [
+        {
+          "lang": "cy",
+          "name": "Max Aebischer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Max Aebischer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Max Aebischer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Max Aebischer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Max Aebischer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Max Aebischer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Max Aebischer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Max Aebischer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Max Aebischer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Max Aebischer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Max Aebischer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Max Aebischer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Max Aebischer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Max Aebischer",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Aebischer, Max"
     },
     {
@@ -30686,6 +31248,7 @@
     },
     {
       "birth_date": "1914-02-12",
+      "death_date": "1995-12-29",
       "family_name": "Celio",
       "gender": "male",
       "given_name": "Nello",
@@ -30694,9 +31257,226 @@
         {
           "identifier": "1763",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/014fnq",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "1046349074",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "4725",
+          "scheme": "hds"
+        },
+        {
+          "identifier": "306324630",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q118196",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Nello_Celio.gif",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Nello_Celio.gif"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (als)",
+          "url": "https://als.wikipedia.org/wiki/Nello_Celio"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Nello_Celio"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Nello_Celio"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nello_Celio"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nello_Celio"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Nello_Celio"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Nello_Celio"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Nellus_Celio"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Nello_Celio"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Nello_Celio"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Nello_Celio"
+        },
+        {
+          "note": "Wikipedia (rm)",
+          "url": "https://rm.wikipedia.org/wiki/Nello_Celio"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Челио,_Нелло"
         }
       ],
       "name": "Nello Celio",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Nellus Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Челио, Нелло",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Nello Celio",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Celio, Nello"
     },
     {
@@ -32385,6 +33165,7 @@
     },
     {
       "birth_date": "1916-10-10",
+      "death_date": "1992-01-08",
       "family_name": "Genoud",
       "gender": "male",
       "given_name": "Paul",
@@ -32393,9 +33174,103 @@
         {
           "identifier": "2138",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1054288305",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "5880",
+          "scheme": "hds"
+        },
+        {
+          "identifier": "309648770",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3371296",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Paul_Genoud.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Paul_Genoud.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Paul_Genoud"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Paul_Genoud"
         }
       ],
       "name": "Paul Genoud",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Paul Genoud",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Paul Genoud",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Paul Genoud",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Paul Genoud",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Paul Genoud",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Paul Genoud",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Paul Genoud",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Paul Genoud",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Paul Genoud",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Paul Genoud",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Paul Genoud",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Paul Genoud",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Genoud, Paul"
     },
     {
@@ -38149,6 +39024,7 @@
     },
     {
       "birth_date": "1917-08-03",
+      "death_date": "1985-04-20",
       "family_name": "Gnägi",
       "gender": "male",
       "given_name": "Rudolf",
@@ -38157,9 +39033,234 @@
         {
           "identifier": "2171",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/014flc",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "1017076022",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "4724",
+          "scheme": "hds"
+        },
+        {
+          "identifier": "00000011269",
+          "scheme": "munzinger"
+        },
+        {
+          "identifier": "196806947",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q115533",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Rudolf_Gnägi.gif",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Rudolf_Gnägi.gif"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (als)",
+          "url": "https://als.wikipedia.org/wiki/Rudolf_Gnägi"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Rudolf_Gnägi"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Rudolf_Gnägi"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rudolf_Gnägi"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Rudolf_Gnägi"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Rudolf_Gnägi"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Rudolf_Gnägi"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Rudolf_Gnägi"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Rudolphus_Gnägi"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Rudolf_Gnägi"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Rudolf_Gnägi"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Rudolf_Gnägi"
+        },
+        {
+          "note": "Wikipedia (rm)",
+          "url": "https://rm.wikipedia.org/wiki/Rudolf_Gnägi"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Гнеги,_Рудольф"
         }
       ],
       "name": "Rudolf Gnägi",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Rudolphus Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Гнеги, Рудольф",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Rudolf Gnägi",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Gnägi, Rudolf"
     },
     {
@@ -42026,6 +43127,7 @@
     },
     {
       "birth_date": "1923-05-02",
+      "death_date": "2008-06-27",
       "family_name": "Frey",
       "gender": "female",
       "given_name": "Tilo",
@@ -42034,9 +43136,125 @@
         {
           "identifier": "1197",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1052025501",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "6042",
+          "scheme": "hds"
+        },
+        {
+          "identifier": "1197",
+          "scheme": "parlamentdotch"
+        },
+        {
+          "identifier": "309561633",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q120576",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Tilo_Frey"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tilo_Frey"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Tilo_Frey"
         }
       ],
       "name": "Tilo Frey",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Tilo Frey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Tilo Frey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Tilo Frey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Tilo Frey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tilo Frey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Tilo Frey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tilo Frey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Tilo Frey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Tilo Frey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Tilo Frey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Tilo Frey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tilo Frey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Tilo Frey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Tilo Frey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Tilo Frey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Tilo Frey",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Frey, Tilo"
     },
     {
