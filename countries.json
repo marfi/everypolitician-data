@@ -7537,11 +7537,11 @@
         "slug": "Council",
         "sources_directory": "data/San_Marino/Council/sources",
         "popolo": "data/San_Marino/Council/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2f040e0/data/San_Marino/Council/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1b0c349/data/San_Marino/Council/ep-popolo-v1.0.json",
         "names": "data/San_Marino/Council/names.csv",
-        "lastmod": "1457739033",
+        "lastmod": "1457868830",
         "person_count": 60,
-        "sha": "2f040e0",
+        "sha": "1b0c349",
         "legislative_periods": [
           {
             "id": "term/2012",
@@ -7549,7 +7549,7 @@
             "start_date": "2012-12-26",
             "slug": "2012",
             "csv": "data/San_Marino/Council/term-2012.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2f040e0/data/San_Marino/Council/term-2012.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1b0c349/data/San_Marino/Council/term-2012.csv"
           }
         ]
       }
@@ -9446,11 +9446,11 @@
         "slug": "Verkhovna-Rada",
         "sources_directory": "data/Ukraine/Verkhovna_Rada/sources",
         "popolo": "data/Ukraine/Verkhovna_Rada/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5f810ab/data/Ukraine/Verkhovna_Rada/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1f078fc/data/Ukraine/Verkhovna_Rada/ep-popolo-v1.0.json",
         "names": "data/Ukraine/Verkhovna_Rada/names.csv",
-        "lastmod": "1457799706",
+        "lastmod": "1457826697",
         "person_count": 443,
-        "sha": "5f810ab",
+        "sha": "1f078fc",
         "legislative_periods": [
           {
             "id": "term/8",
@@ -9458,7 +9458,7 @@
             "start_date": "2014-11-27",
             "slug": "8",
             "csv": "data/Ukraine/Verkhovna_Rada/term-8.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5f810ab/data/Ukraine/Verkhovna_Rada/term-8.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1f078fc/data/Ukraine/Verkhovna_Rada/term-8.csv"
           }
         ]
       }
