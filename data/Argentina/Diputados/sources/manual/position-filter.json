@@ -48,6 +48,11 @@
   "unknown": {
     "unknown": [
       {
+        "id": "Q4122443",
+        "name": "Governor of La Rioja Province",
+        "count": 1
+      },
+      {
         "id": "Q11027134",
         "name": "List of Governors of Chubut",
         "count": 1
@@ -55,6 +60,21 @@
       {
         "id": "Q2914766",
         "name": "List of Vice Presidents of Argentina",
+        "count": 1
+      },
+      {
+        "id": "Q2601742",
+        "name": "Ministry of Defense",
+        "count": 1
+      },
+      {
+        "id": "Q16186017",
+        "name": "Q16186017",
+        "count": 1
+      },
+      {
+        "id": "Q6352206",
+        "name": "Q6352206",
         "count": 1
       },
       {

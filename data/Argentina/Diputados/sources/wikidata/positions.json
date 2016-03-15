@@ -63,6 +63,25 @@
       }
     }
   ],
+  "Q20012995": [
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P768": "Salta Province",
+        "P580": "2015-12-10"
+      }
+    },
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P580": "2009-12-10",
+        "P582": "2013-12-09",
+        "P768": "Salta Province"
+      }
+    }
+  ],
   "Q21074953": [
     {
       "id": "Q18229570",
@@ -234,6 +253,29 @@
       }
     }
   ],
+  "Q4838458": [
+    {
+      "id": "Q6352206",
+      "label": "Q6352206"
+    },
+    {
+      "id": "Q18711738",
+      "label": "Member of the Argentine Chamber of Senators",
+      "qualifiers": {
+        "P768": "Misiones Province",
+        "P580": "2005-12-10",
+        "P582": "2007-12-09"
+      }
+    },
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P768": "Misiones Province",
+        "P580": "2015-12-10"
+      }
+    }
+  ],
   "Q1710644": [
     {
       "id": "Q18229570",
@@ -248,6 +290,34 @@
     {
       "id": "Q18229570",
       "label": "Member of the Argentine Chamber of Deputies"
+    }
+  ],
+  "Q5818962": [
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P768": "Buenos Aires Province",
+        "P580": "2015-12-10"
+      }
+    },
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P580": "2009-12-10",
+        "P582": "2013-12-09",
+        "P768": "Buenos Aires Province"
+      }
+    },
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P580": "1991-12-10",
+        "P582": "1994-08-01",
+        "P768": "Buenos Aires Province"
+      }
     }
   ],
   "Q1261399": [
@@ -269,6 +339,43 @@
       }
     }
   ],
+  "Q4137510": [
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P768": "San Juan Province",
+        "P580": "2015-12-10"
+      }
+    },
+    {
+      "id": "Q18711738",
+      "label": "Member of the Argentine Chamber of Senators",
+      "qualifiers": {
+        "P768": "San Juan Province",
+        "P580": "1995-12-10",
+        "P582": "2001-12-09"
+      }
+    },
+    {
+      "id": "Q18711738",
+      "label": "Member of the Argentine Chamber of Senators",
+      "qualifiers": {
+        "P580": "2001-12-10",
+        "P582": "2003-12-04",
+        "P768": "San Juan Province"
+      }
+    },
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P580": "1991-12-10",
+        "P582": "1995-12-09",
+        "P768": "San Juan Province"
+      }
+    }
+  ],
   "Q18224934": [
     {
       "id": "Q18229570",
@@ -285,6 +392,16 @@
         "P580": "2011-12-10",
         "P582": "2015-12-09",
         "P768": "Buenos Aires"
+      }
+    }
+  ],
+  "Q6309576": [
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P768": "Buenos Aires Province",
+        "P580": "2015-12-10"
       }
     }
   ],
@@ -308,6 +425,25 @@
       "label": "Member of the Argentine Chamber of Deputies"
     }
   ],
+  "Q12164058": [
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P768": "Buenos Aires Province",
+        "P580": "2015-12-10"
+      }
+    },
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P580": "2011-12-10",
+        "P582": "2015-02-26",
+        "P768": "Buenos Aires Province"
+      }
+    }
+  ],
   "Q5948039": [
     {
       "id": "Q18229570",
@@ -322,6 +458,16 @@
     {
       "id": "Q18229570",
       "label": "Member of the Argentine Chamber of Deputies"
+    }
+  ],
+  "Q21614815": [
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P768": "Buenos Aires Province",
+        "P580": "2015-12-10"
+      }
     }
   ],
   "Q5271125": [
@@ -418,6 +564,16 @@
       }
     }
   ],
+  "Q5665422": [
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P768": "Santa Fe Province",
+        "P580": "2015-12-10"
+      }
+    }
+  ],
   "Q6131515": [
     {
       "id": "Q18229570",
@@ -471,6 +627,26 @@
       }
     }
   ],
+  "Q7071481": [
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P768": "Buenos Aires Province",
+        "P580": "2013-12-10",
+        "P582": "2015-06-10",
+        "P1366": "Myriam Bregman"
+      }
+    },
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P580": "2015-12-10",
+        "P768": "Buenos Aires Province"
+      }
+    }
+  ],
   "Q6553522": [
     {
       "id": "Q18229570",
@@ -497,6 +673,16 @@
         "P580": "2009-12-10",
         "P582": "2013-12-09",
         "P768": "Buenos Aires"
+      }
+    }
+  ],
+  "Q5906402": [
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P768": "Santa Cruz Province",
+        "P580": "2015-12-10"
       }
     }
   ],
@@ -571,6 +757,56 @@
       "label": "Governor of Mendoza"
     }
   ],
+  "Q3052342": [
+    {
+      "id": "Q2601742",
+      "label": "Ministry of Defense"
+    },
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P768": "Buenos Aires",
+        "P580": "2015-12-10"
+      }
+    },
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P580": "1973-05-03",
+        "P582": "1976-03-24",
+        "P768": "Buenos Aires"
+      }
+    },
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P580": "1995-12-10",
+        "P582": "1999-12-09",
+        "P768": "Buenos Aires"
+      }
+    },
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P580": "1999-12-10",
+        "P582": "2003-12-09",
+        "P768": "Buenos Aires"
+      }
+    },
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P580": "2001-12-10",
+        "P582": "2005-06-25",
+        "P768": "Buenos Aires"
+      }
+    }
+  ],
   "Q270025": [
     {
       "id": "Q18229570",
@@ -617,6 +853,16 @@
       }
     }
   ],
+  "Q5274589": [
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P768": "Buenos Aires Province",
+        "P580": "2015-12-10"
+      }
+    }
+  ],
   "Q6764548": [
     {
       "id": "Q18229570",
@@ -624,6 +870,16 @@
       "qualifiers": {
         "P768": "Santa Fe Province",
         "P580": "2013-12-10"
+      }
+    }
+  ],
+  "Q3754443": [
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P768": "Buenos Aires",
+        "P580": "2015-12-10"
       }
     }
   ],
@@ -755,6 +1011,17 @@
       }
     }
   ],
+  "Q6056500": [
+    {
+      "id": "Q18711738",
+      "label": "Member of the Argentine Chamber of Senators",
+      "qualifiers": {
+        "P768": "Buenos Aires Province",
+        "P580": "1928-06-22",
+        "P582": "1930-09-06"
+      }
+    }
+  ],
   "Q981624": [
     {
       "id": "Q5589713",
@@ -829,6 +1096,26 @@
       }
     }
   ],
+  "Q15719117": [
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P768": "Santa Cruz Province",
+        "P580": "2015-12-10"
+      }
+    }
+  ],
+  "Q5889685": [
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P768": "Buenos Aires Province",
+        "P580": "2015-12-10"
+      }
+    }
+  ],
   "Q16566094": [
     {
       "id": "Q18229570",
@@ -844,6 +1131,25 @@
       "qualifiers": {
         "P580": "2011-12-10",
         "P582": "2015-12-09",
+        "P768": "Buenos Aires Province"
+      }
+    }
+  ],
+  "Q7348343": [
+    {
+      "id": "Q16186017",
+      "label": "Q16186017",
+      "qualifiers": {
+        "P580": "1999-12-10",
+        "P582": "2015-12-09",
+        "P1366": "Javier Ulises Reynoso"
+      }
+    },
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P580": "2015-12-10",
         "P768": "Buenos Aires Province"
       }
     }
@@ -991,6 +1297,16 @@
       }
     }
   ],
+  "Q5041910": [
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P768": "Buenos Aires Province",
+        "P580": "2015-12-10"
+      }
+    }
+  ],
   "Q5667299": [
     {
       "id": "Q18229570",
@@ -1035,6 +1351,16 @@
         "P580": "2011-12-10",
         "P582": "2015-12-09",
         "P768": "Entre Ríos Provinces"
+      }
+    }
+  ],
+  "Q20644683": [
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P768": "Tucumán Province",
+        "P580": "2015-12-10"
       }
     }
   ],
@@ -1123,6 +1449,48 @@
       "qualifiers": {
         "P768": "Córdoba Province",
         "P580": "2013-12-10"
+      }
+    }
+  ],
+  "Q4838522": [
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P768": "San Luis Province",
+        "P580": "2015-12-10"
+      }
+    },
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P580": "2005-12-10",
+        "P582": "2009-07-13",
+        "P768": "San Luis Province"
+      }
+    },
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P580": "2003-12-10",
+        "P582": "2005-12-09",
+        "P768": "San Luis Province"
+      }
+    }
+  ],
+  "Q4122381": [
+    {
+      "id": "Q4122443",
+      "label": "Governor of La Rioja Province"
+    },
+    {
+      "id": "Q18229570",
+      "label": "Member of the Argentine Chamber of Deputies",
+      "qualifiers": {
+        "P768": "La Rioja Province",
+        "P580": "2015-12-10"
       }
     }
   ],
