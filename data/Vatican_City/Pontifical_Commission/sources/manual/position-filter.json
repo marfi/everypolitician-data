@@ -22,6 +22,10 @@
     ],
     "other": [
       {
+        "id": "Q339477",
+        "name": "Camerlengo of the Holy Roman Church"
+      },
+      {
         "id": "Q2387238",
         "name": "President of the Pontifical Commission for Vatican City State"
       },
@@ -40,10 +44,6 @@
       {
         "id": "Q157037",
         "name": "nuncio"
-      },
-      {
-        "id": "Q339477",
-        "name": "Camerlengo of the Holy Roman Church"
       },
       {
         "id": "Q19823475",
