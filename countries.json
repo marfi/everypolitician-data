@@ -24,7 +24,8 @@
             "csv": "data/Abkhazia/Assembly/term-5.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/38c71c8/data/Abkhazia/Assembly/term-5.csv"
           }
-        ]
+        ],
+        "statement_count": 597
       }
     ]
   },
@@ -54,7 +55,8 @@
             "csv": "data/Afghanistan/Wolesi_Jirga/term-2010.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3a12410/data/Afghanistan/Wolesi_Jirga/term-2010.csv"
           }
-        ]
+        ],
+        "statement_count": 3402
       }
     ]
   },
@@ -92,7 +94,8 @@
             "csv": "data/Albania/Assembly/term-7.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0bdb662/data/Albania/Assembly/term-7.csv"
           }
-        ]
+        ],
+        "statement_count": 7616
       }
     ]
   },
@@ -122,7 +125,8 @@
             "csv": "data/Alderney/States/term-2014.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/99d752b/data/Alderney/States/term-2014.csv"
           }
-        ]
+        ],
+        "statement_count": 145
       }
     ]
   },
@@ -151,7 +155,8 @@
             "csv": "data/Algeria/Majlis/term-7.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4edc327/data/Algeria/Majlis/term-7.csv"
           }
-        ]
+        ],
+        "statement_count": 7519
       }
     ]
   },
@@ -180,7 +185,8 @@
             "csv": "data/American_Samoa/House/term-2014.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/cc1ee60/data/American_Samoa/House/term-2014.csv"
           }
-        ]
+        ],
+        "statement_count": 268
       }
     ]
   },
@@ -209,7 +215,8 @@
             "csv": "data/Andorra/General_Council/term-2015.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a8438a2/data/Andorra/General_Council/term-2015.csv"
           }
-        ]
+        ],
+        "statement_count": 707
       }
     ]
   },
@@ -238,7 +245,8 @@
             "csv": "data/Angola/National_Assembly/term-3.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8d31b7f/data/Angola/National_Assembly/term-3.csv"
           }
-        ]
+        ],
+        "statement_count": 3487
       }
     ]
   },
@@ -322,7 +330,8 @@
             "csv": "data/Anguilla/Assembly/term-1989.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9dcf1ea/data/Anguilla/Assembly/term-1989.csv"
           }
-        ]
+        ],
+        "statement_count": 748
       }
     ]
   },
@@ -433,7 +442,8 @@
             "csv": "data/Antigua_and_Barbuda/Representatives/term-1971.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2d15f66/data/Antigua_and_Barbuda/Representatives/term-1971.csv"
           }
-        ]
+        ],
+        "statement_count": 1686
       }
     ]
   },
@@ -462,7 +472,8 @@
             "csv": "data/Argentina/Diputados/term-133.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/20e91f6/data/Argentina/Diputados/term-133.csv"
           }
-        ]
+        ],
+        "statement_count": 10889
       }
     ]
   },
@@ -491,7 +502,8 @@
             "csv": "data/Armenia/Assembly/term-5.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0a818e5/data/Armenia/Assembly/term-5.csv"
           }
-        ]
+        ],
+        "statement_count": 4988
       }
     ]
   },
@@ -520,7 +532,8 @@
             "csv": "data/Aruba/Estates/term-7.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0640fac/data/Aruba/Estates/term-7.csv"
           }
-        ]
+        ],
+        "statement_count": 510
       }
     ]
   },
@@ -630,7 +643,8 @@
             "csv": "data/Australia/Representatives/term-35.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/eace41f/data/Australia/Representatives/term-35.csv"
           }
-        ]
+        ],
+        "statement_count": 34520
       },
       {
         "name": "Senate",
@@ -651,7 +665,8 @@
             "csv": "data/Australia/Senate/term-44.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/40c7952/data/Australia/Senate/term-44.csv"
           }
-        ]
+        ],
+        "statement_count": 1880
       }
     ]
   },
@@ -680,7 +695,8 @@
             "csv": "data/Austria/Nationalrat/term-25.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/da2223c/data/Austria/Nationalrat/term-25.csv"
           }
-        ]
+        ],
+        "statement_count": 9884
       }
     ]
   },
@@ -718,7 +734,8 @@
             "csv": "data/Azerbaijan/National_Assembly/term-4.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3f0f4eb/data/Azerbaijan/National_Assembly/term-4.csv"
           }
-        ]
+        ],
+        "statement_count": 4844
       }
     ]
   },
@@ -747,7 +764,8 @@
             "csv": "data/Bahamas/House_of_Assembly/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/99f3460/data/Bahamas/House_of_Assembly/term-2012.csv"
           }
-        ]
+        ],
+        "statement_count": 1076
       }
     ]
   },
@@ -776,7 +794,8 @@
             "csv": "data/Bahrain/Council_of_Representatives/term-2014.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/79f0dcc/data/Bahrain/Council_of_Representatives/term-2014.csv"
           }
-        ]
+        ],
+        "statement_count": 493
       }
     ]
   },
@@ -814,7 +833,8 @@
             "csv": "data/Bangladesh/House/term-9.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0a63094/data/Bangladesh/House/term-9.csv"
           }
-        ]
+        ],
+        "statement_count": 9271
       }
     ]
   },
@@ -843,7 +863,8 @@
             "csv": "data/Barbados/House_of_Assembly/term-2013.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f48eaa4/data/Barbados/House_of_Assembly/term-2013.csv"
           }
-        ]
+        ],
+        "statement_count": 646
       }
     ]
   },
@@ -872,7 +893,8 @@
             "csv": "data/Belarus/Chamber/term-5.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9c39363/data/Belarus/Chamber/term-5.csv"
           }
-        ]
+        ],
+        "statement_count": 3018
       }
     ]
   },
@@ -901,7 +923,8 @@
             "csv": "data/Belgium/Representatives/term-54.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7916945/data/Belgium/Representatives/term-54.csv"
           }
-        ]
+        ],
+        "statement_count": 9620
       }
     ]
   },
@@ -931,7 +954,8 @@
             "csv": "data/Belize/Representatives/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0d48672/data/Belize/Representatives/term-2012.csv"
           }
-        ]
+        ],
+        "statement_count": 1072
       }
     ]
   },
@@ -960,7 +984,8 @@
             "csv": "data/Benin/National_Assembly/term-6.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fd19803/data/Benin/National_Assembly/term-6.csv"
           }
-        ]
+        ],
+        "statement_count": 1432
       }
     ]
   },
@@ -989,7 +1014,8 @@
             "csv": "data/Bermuda/Assembly/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0573e41/data/Bermuda/Assembly/term-2012.csv"
           }
-        ]
+        ],
+        "statement_count": 559
       }
     ]
   },
@@ -1018,7 +1044,8 @@
             "csv": "data/Bhutan/Assembly/term-2.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4a4b9d1/data/Bhutan/Assembly/term-2.csv"
           }
-        ]
+        ],
+        "statement_count": 816
       }
     ]
   },
@@ -1047,7 +1074,8 @@
             "csv": "data/Bolivia/Deputies/term-2015.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b6cf4e7/data/Bolivia/Deputies/term-2015.csv"
           }
-        ]
+        ],
+        "statement_count": 2046
       }
     ]
   },
@@ -1076,7 +1104,8 @@
             "csv": "data/Bosnia_and_Herzegovina/House_of_Representatives/term-7.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/88202ac/data/Bosnia_and_Herzegovina/House_of_Representatives/term-7.csv"
           }
-        ]
+        ],
+        "statement_count": 688
       }
     ]
   },
@@ -1105,7 +1134,8 @@
             "csv": "data/Botswana/Assembly/term-2014.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/98d6d3e/data/Botswana/Assembly/term-2014.csv"
           }
-        ]
+        ],
+        "statement_count": 1489
       }
     ]
   },
@@ -1134,7 +1164,8 @@
             "csv": "data/Brazil/Deputies/term-55.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5c0fb6f/data/Brazil/Deputies/term-55.csv"
           }
-        ]
+        ],
+        "statement_count": 10365
       }
     ]
   },
@@ -1181,7 +1212,8 @@
             "csv": "data/British_Virgin_Islands/Assembly/term-2007.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/02d862a/data/British_Virgin_Islands/Assembly/term-2007.csv"
           }
-        ]
+        ],
+        "statement_count": 702
       },
       {
         "name": "Legislative Council",
@@ -1275,7 +1307,8 @@
             "csv": "data/British_Virgin_Islands/Council/term-1971.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/080d748/data/British_Virgin_Islands/Council/term-1971.csv"
           }
-        ]
+        ],
+        "statement_count": 1239
       }
     ]
   },
@@ -1305,7 +1338,8 @@
             "csv": "data/Brunei/Legislative_Council/term-11.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2974d8e/data/Brunei/Legislative_Council/term-11.csv"
           }
-        ]
+        ],
+        "statement_count": 292
       }
     ]
   },
@@ -1371,7 +1405,8 @@
             "csv": "data/Bulgaria/National_Assembly/term-39.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3093d50/data/Bulgaria/National_Assembly/term-39.csv"
           }
-        ]
+        ],
+        "statement_count": 33565
       }
     ]
   },
@@ -1400,7 +1435,8 @@
             "csv": "data/Burkina_Faso/Assembly/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/486bc8c/data/Burkina_Faso/Assembly/term-2012.csv"
           }
-        ]
+        ],
+        "statement_count": 1931
       }
     ]
   },
@@ -1438,7 +1474,8 @@
             "csv": "data/Burundi/Assembly/term-2010.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b280ca0/data/Burundi/Assembly/term-2010.csv"
           }
-        ]
+        ],
+        "statement_count": 2724
       }
     ]
   },
@@ -1467,7 +1504,8 @@
             "csv": "data/Cabo_Verde/Assembly/term-8.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6883083/data/Cabo_Verde/Assembly/term-8.csv"
           }
-        ]
+        ],
+        "statement_count": 885
       }
     ]
   },
@@ -1496,7 +1534,8 @@
             "csv": "data/Cambodia/National_Assembly/term-5.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2b37ee1/data/Cambodia/National_Assembly/term-5.csv"
           }
-        ]
+        ],
+        "statement_count": 2878
       }
     ]
   },
@@ -1588,7 +1627,8 @@
             "csv": "data/Cameroon/Assembly/term-1.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/455b500/data/Cameroon/Assembly/term-1.csv"
           }
-        ]
+        ],
+        "statement_count": 11345
       },
       {
         "name": "Sénat",
@@ -1609,7 +1649,8 @@
             "csv": "data/Cameroon/Senate/term-9.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/cae5581/data/Cameroon/Senate/term-9.csv"
           }
-        ]
+        ],
+        "statement_count": 1162
       }
     ]
   },
@@ -1649,7 +1690,8 @@
             "csv": "data/Canada/Commons/term-41.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d531f23/data/Canada/Commons/term-41.csv"
           }
-        ]
+        ],
+        "statement_count": 31922
       }
     ]
   },
@@ -1678,7 +1720,8 @@
             "csv": "data/Cayman_Islands/Legislative_Assembly/term-2013.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/cfcbd1c/data/Cayman_Islands/Legislative_Assembly/term-2013.csv"
           }
-        ]
+        ],
+        "statement_count": 303
       }
     ]
   },
@@ -1707,7 +1750,8 @@
             "csv": "data/Chad/Assembly/term-3.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/021accf/data/Chad/Assembly/term-3.csv"
           }
-        ]
+        ],
+        "statement_count": 2416
       }
     ]
   },
@@ -1791,7 +1835,8 @@
             "csv": "data/Chile/Deputies/term-1.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/df4b2bc/data/Chile/Deputies/term-1.csv"
           }
-        ]
+        ],
+        "statement_count": 16133
       }
     ]
   },
@@ -1820,7 +1865,8 @@
             "csv": "data/China/Congress/term-12.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0640fac/data/China/Congress/term-12.csv"
           }
-        ]
+        ],
+        "statement_count": 29864
       }
     ]
   },
@@ -1849,7 +1895,8 @@
             "csv": "data/Colombia/Representatives/term-2014.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0640fac/data/Colombia/Representatives/term-2014.csv"
           }
-        ]
+        ],
+        "statement_count": 3675
       }
     ]
   },
@@ -1878,7 +1925,8 @@
             "csv": "data/Comoros/Assembly/term-2015.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/264c6c4/data/Comoros/Assembly/term-2015.csv"
           }
-        ]
+        ],
+        "statement_count": 343
       }
     ]
   },
@@ -1907,7 +1955,8 @@
             "csv": "data/Congo-Brazzaville/Assembly/term-13.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5794cd9/data/Congo-Brazzaville/Assembly/term-13.csv"
           }
-        ]
+        ],
+        "statement_count": 2110
       }
     ]
   },
@@ -1936,7 +1985,8 @@
             "csv": "data/Congo-Kinshasa/Assembly/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6658a6e/data/Congo-Kinshasa/Assembly/term-2012.csv"
           }
-        ]
+        ],
+        "statement_count": 6492
       }
     ]
   },
@@ -1983,7 +2033,8 @@
             "csv": "data/Cook_Islands/Parliament/term-12.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bbded17/data/Cook_Islands/Parliament/term-12.csv"
           }
-        ]
+        ],
+        "statement_count": 1756
       }
     ]
   },
@@ -2013,7 +2064,8 @@
             "csv": "data/Costa_Rica/Assembly/term-2014.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6b2db13/data/Costa_Rica/Assembly/term-2014.csv"
           }
-        ]
+        ],
+        "statement_count": 1648
       }
     ]
   },
@@ -2051,7 +2103,8 @@
             "csv": "data/Croatia/Sabor/term-7.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bb539d6/data/Croatia/Sabor/term-7.csv"
           }
-        ]
+        ],
+        "statement_count": 5258
       }
     ]
   },
@@ -2080,7 +2133,8 @@
             "csv": "data/Curacao/Estates/term-2.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0640fac/data/Curacao/Estates/term-2.csv"
           }
-        ]
+        ],
+        "statement_count": 433
       }
     ]
   },
@@ -2109,7 +2163,8 @@
             "csv": "data/Cyprus/House_of_Representatives/term-2011.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/946d259/data/Cyprus/House_of_Representatives/term-2011.csv"
           }
-        ]
+        ],
+        "statement_count": 2287
       }
     ]
   },
@@ -2192,7 +2247,8 @@
             "csv": "data/Czech_Republic/Deputies/term-1.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6737c85/data/Czech_Republic/Deputies/term-1.csv"
           }
-        ]
+        ],
+        "statement_count": 141697
       }
     ]
   },
@@ -2221,7 +2277,8 @@
             "csv": "data/Ivory_Coast/Assembly/term-2.2.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8438544/data/Ivory_Coast/Assembly/term-2.2.csv"
           }
-        ]
+        ],
+        "statement_count": 3672
       }
     ]
   },
@@ -2250,7 +2307,8 @@
             "csv": "data/Denmark/Folketing/term-2015.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3bc11ab/data/Denmark/Folketing/term-2015.csv"
           }
-        ]
+        ],
+        "statement_count": 12347
       }
     ]
   },
@@ -2279,7 +2337,8 @@
             "csv": "data/Djibouti/Assembly/term-6.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f4a9fa6/data/Djibouti/Assembly/term-6.csv"
           }
-        ]
+        ],
+        "statement_count": 749
       }
     ]
   },
@@ -2308,7 +2367,8 @@
             "csv": "data/Dominica/House_of_Assembly/term-2014.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/df9012f/data/Dominica/House_of_Assembly/term-2014.csv"
           }
-        ]
+        ],
+        "statement_count": 331
       }
     ]
   },
@@ -2323,11 +2383,11 @@
         "slug": "Diputados",
         "sources_directory": "data/Dominican_Republic/Diputados/sources",
         "popolo": "data/Dominican_Republic/Diputados/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/efa4ea1/data/Dominican_Republic/Diputados/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/43e0435/data/Dominican_Republic/Diputados/ep-popolo-v1.0.json",
         "names": "data/Dominican_Republic/Diputados/names.csv",
-        "lastmod": "1458253345",
+        "lastmod": "1458283043",
         "person_count": 190,
-        "sha": "efa4ea1",
+        "sha": "43e0435",
         "legislative_periods": [
           {
             "id": "term/2010",
@@ -2335,9 +2395,10 @@
             "start_date": "2010",
             "slug": "2010",
             "csv": "data/Dominican_Republic/Diputados/term-2010.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/efa4ea1/data/Dominican_Republic/Diputados/term-2010.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/43e0435/data/Dominican_Republic/Diputados/term-2010.csv"
           }
-        ]
+        ],
+        "statement_count": 3094
       }
     ]
   },
@@ -2366,7 +2427,8 @@
             "csv": "data/Ecuador/Asamblea/term-2013.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f1b5f62/data/Ecuador/Asamblea/term-2013.csv"
           }
-        ]
+        ],
+        "statement_count": 3786
       }
     ]
   },
@@ -2395,7 +2457,8 @@
             "csv": "data/Egypt/Parliament/term-2015.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/092ea83/data/Egypt/Parliament/term-2015.csv"
           }
-        ]
+        ],
+        "statement_count": 6691
       }
     ]
   },
@@ -2425,7 +2488,8 @@
             "csv": "data/El_Salvador/Legislative_Assembly/term-2015-2018.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/eb068fd/data/El_Salvador/Legislative_Assembly/term-2015-2018.csv"
           }
-        ]
+        ],
+        "statement_count": 1451
       }
     ]
   },
@@ -2465,7 +2529,8 @@
             "csv": "data/Estonia/Riigikogu/term-12.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a83c5e9/data/Estonia/Riigikogu/term-12.csv"
           }
-        ]
+        ],
+        "statement_count": 14431
       }
     ]
   },
@@ -2576,7 +2641,8 @@
             "csv": "data/Falkland_Islands/Assembly/term-1977.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b2bf41c/data/Falkland_Islands/Assembly/term-1977.csv"
           }
-        ]
+        ],
+        "statement_count": 1567
       }
     ]
   },
@@ -2668,7 +2734,8 @@
             "csv": "data/Faroe_Islands/Logting/term-1990.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/139951a/data/Faroe_Islands/Logting/term-1990.csv"
           }
-        ]
+        ],
+        "statement_count": 5846
       }
     ]
   },
@@ -2697,7 +2764,8 @@
             "csv": "data/Fiji/Parliament/term-2014.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8cd212e/data/Fiji/Parliament/term-2014.csv"
           }
-        ]
+        ],
+        "statement_count": 804
       }
     ]
   },
@@ -2835,7 +2903,8 @@
             "csv": "data/Finland/Eduskunta/term-25.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ce93ff/data/Finland/Eduskunta/term-25.csv"
           }
-        ]
+        ],
+        "statement_count": 34764
       }
     ]
   },
@@ -2864,7 +2933,8 @@
             "csv": "data/France/National_Assembly/term-14.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5423cc6/data/France/National_Assembly/term-14.csv"
           }
-        ]
+        ],
+        "statement_count": 46510
       }
     ]
   },
@@ -2893,7 +2963,8 @@
             "csv": "data/French_Polynesia/Assembly/term-2013.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ec43fb7/data/French_Polynesia/Assembly/term-2013.csv"
           }
-        ]
+        ],
+        "statement_count": 901
       }
     ]
   },
@@ -2922,7 +2993,8 @@
             "csv": "data/Gabon/Assembly/term-12.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/670bab1/data/Gabon/Assembly/term-12.csv"
           }
-        ]
+        ],
+        "statement_count": 1642
       }
     ]
   },
@@ -2951,7 +3023,8 @@
             "csv": "data/Gambia/National_Assembly/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dc53903/data/Gambia/National_Assembly/term-2012.csv"
           }
-        ]
+        ],
+        "statement_count": 843
       }
     ]
   },
@@ -2981,7 +3054,8 @@
             "csv": "data/Georgia/Parliament/term-8.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c8771ea/data/Georgia/Parliament/term-8.csv"
           }
-        ]
+        ],
+        "statement_count": 3436
       }
     ]
   },
@@ -3181,7 +3255,8 @@
             "csv": "data/Germany/Bundestag/term-1.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/74d4f01/data/Germany/Bundestag/term-1.csv"
           }
-        ]
+        ],
+        "statement_count": 288955
       }
     ]
   },
@@ -3210,7 +3285,8 @@
             "csv": "data/Ghana/Parliament/term-6.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c32596a/data/Ghana/Parliament/term-6.csv"
           }
-        ]
+        ],
+        "statement_count": 5253
       }
     ]
   },
@@ -3339,7 +3415,8 @@
             "csv": "data/Gibraltar/Parliament/term-1.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7a765d9/data/Gibraltar/Parliament/term-1.csv"
           }
-        ]
+        ],
+        "statement_count": 2657
       }
     ]
   },
@@ -3512,7 +3589,8 @@
             "csv": "data/Greece/Parliament/term-1.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5637407/data/Greece/Parliament/term-1.csv"
           }
-        ]
+        ],
+        "statement_count": 41730
       }
     ]
   },
@@ -3649,7 +3727,8 @@
             "csv": "data/Greenland/Inatsisartut/term-1979-05-01.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2df1207/data/Greenland/Inatsisartut/term-1979-05-01.csv"
           }
-        ]
+        ],
+        "statement_count": 4094
       }
     ]
   },
@@ -3678,7 +3757,8 @@
             "csv": "data/Grenada/House_of_Representatives/term-2013.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/681a50e/data/Grenada/House_of_Representatives/term-2013.csv"
           }
-        ]
+        ],
+        "statement_count": 253
       }
     ]
   },
@@ -3734,7 +3814,8 @@
             "csv": "data/Guam/Parliament/term-30.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5fe32a5/data/Guam/Parliament/term-30.csv"
           }
-        ]
+        ],
+        "statement_count": 1007
       }
     ]
   },
@@ -3775,7 +3856,8 @@
             "csv": "data/Guatemala/Congress/term-7.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7bc4abe/data/Guatemala/Congress/term-7.csv"
           }
-        ]
+        ],
+        "statement_count": 4662
       }
     ]
   },
@@ -3804,7 +3886,8 @@
             "csv": "data/Guernsey/States/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6c6ce2a/data/Guernsey/States/term-2012.csv"
           }
-        ]
+        ],
+        "statement_count": 661
       }
     ]
   },
@@ -3833,7 +3916,8 @@
             "csv": "data/Guinea-Bissau/Assembly/term-2014.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ec6bc26/data/Guinea-Bissau/Assembly/term-2014.csv"
           }
-        ]
+        ],
+        "statement_count": 1215
       }
     ]
   },
@@ -3862,7 +3946,8 @@
             "csv": "data/Guyana/National_Assembly/term-11.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e7cdc8a/data/Guyana/National_Assembly/term-11.csv"
           }
-        ]
+        ],
+        "statement_count": 799
       }
     ]
   },
@@ -3892,7 +3977,8 @@
             "csv": "data/Haiti/Deputies/term-2011.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5cdfe84/data/Haiti/Deputies/term-2011.csv"
           }
-        ]
+        ],
+        "statement_count": 1451
       }
     ]
   },
@@ -3922,7 +4008,8 @@
             "csv": "data/Honduras/Congreso_Nacional/term-8.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/483694d/data/Honduras/Congreso_Nacional/term-8.csv"
           }
-        ]
+        ],
+        "statement_count": 1663
       }
     ]
   },
@@ -3951,7 +4038,8 @@
             "csv": "data/Hong_Kong/Legislative_Council/term-5.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/69660d9/data/Hong_Kong/Legislative_Council/term-5.csv"
           }
-        ]
+        ],
+        "statement_count": 4465
       }
     ]
   },
@@ -3980,7 +4068,8 @@
             "csv": "data/Hungary/Assembly/term-40.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/82b1a29/data/Hungary/Assembly/term-40.csv"
           }
-        ]
+        ],
+        "statement_count": 8536
       }
     ]
   },
@@ -4054,7 +4143,8 @@
             "csv": "data/Iceland/Assembly/term-1995.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/29c7f47/data/Iceland/Assembly/term-1995.csv"
           }
-        ]
+        ],
+        "statement_count": 10356
       }
     ]
   },
@@ -4083,7 +4173,8 @@
             "csv": "data/India/Lok_Sabha/term-16.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2f42c82/data/India/Lok_Sabha/term-16.csv"
           }
-        ]
+        ],
+        "statement_count": 30668
       }
     ]
   },
@@ -4112,7 +4203,8 @@
             "csv": "data/Indonesia/Council/term-18.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6576c99/data/Indonesia/Council/term-18.csv"
           }
-        ]
+        ],
+        "statement_count": 10744
       }
     ]
   },
@@ -4141,7 +4233,8 @@
             "csv": "data/Iran/Assembly/term-9.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/16aab1f/data/Iran/Assembly/term-9.csv"
           }
-        ]
+        ],
+        "statement_count": 4659
       }
     ]
   },
@@ -4170,7 +4263,8 @@
             "csv": "data/Iraq/Majlis/term-2014.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4751ae1/data/Iraq/Majlis/term-2014.csv"
           }
-        ]
+        ],
+        "statement_count": 4036
       }
     ]
   },
@@ -4208,7 +4302,8 @@
             "csv": "data/Ireland/Dail/term-31.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2e0841b/data/Ireland/Dail/term-31.csv"
           }
-        ]
+        ],
+        "statement_count": 12148
       }
     ]
   },
@@ -4237,7 +4332,8 @@
             "csv": "data/Isle_of_Man/House_of_Keys/term-2011.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a125e8d/data/Isle_of_Man/House_of_Keys/term-2011.csv"
           }
-        ]
+        ],
+        "statement_count": 896
       }
     ]
   },
@@ -4437,7 +4533,8 @@
             "csv": "data/Israel/Knesset/term-1.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b6df274/data/Israel/Knesset/term-1.csv"
           }
-        ]
+        ],
+        "statement_count": 71217
       }
     ]
   },
@@ -4466,7 +4563,8 @@
             "csv": "data/Italy/House/term-17.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2170238/data/Italy/House/term-17.csv"
           }
-        ]
+        ],
+        "statement_count": 37916
       },
       {
         "name": "Senate",
@@ -4487,7 +4585,8 @@
             "csv": "data/Italy/Senate/term-17.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0640fac/data/Italy/Senate/term-17.csv"
           }
-        ]
+        ],
+        "statement_count": 6261
       }
     ]
   },
@@ -4516,7 +4615,8 @@
             "csv": "data/Jamaica/House_of_Representatives/term-2011.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/44870f9/data/Jamaica/House_of_Representatives/term-2011.csv"
           }
-        ]
+        ],
+        "statement_count": 2346
       }
     ]
   },
@@ -4545,7 +4645,8 @@
             "csv": "data/Japan/House_of_Representatives/term-46.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/cb52026/data/Japan/House_of_Representatives/term-46.csv"
           }
-        ]
+        ],
+        "statement_count": 20735
       }
     ]
   },
@@ -4574,7 +4675,8 @@
             "csv": "data/Jersey/States/term-6.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b4e2c2c/data/Jersey/States/term-6.csv"
           }
-        ]
+        ],
+        "statement_count": 1027
       }
     ]
   },
@@ -4603,7 +4705,8 @@
             "csv": "data/Jordan/House_of_Representatives/term-2013.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d38ff4b/data/Jordan/House_of_Representatives/term-2013.csv"
           }
-        ]
+        ],
+        "statement_count": 1938
       }
     ]
   },
@@ -4632,7 +4735,8 @@
             "csv": "data/Kazakhstan/Assembly/term-5.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8c532aa/data/Kazakhstan/Assembly/term-5.csv"
           }
-        ]
+        ],
+        "statement_count": 1523
       }
     ]
   },
@@ -4661,7 +4765,8 @@
             "csv": "data/Kenya/Assembly/term-11.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0f6a1e8/data/Kenya/Assembly/term-11.csv"
           }
-        ]
+        ],
+        "statement_count": 7978
       }
     ]
   },
@@ -4700,7 +4805,8 @@
             "csv": "data/Kiribati/Parliament/term-9.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d489dc5/data/Kiribati/Parliament/term-9.csv"
           }
-        ]
+        ],
+        "statement_count": 1451
       }
     ]
   },
@@ -4765,7 +4871,8 @@
             "csv": "data/Kosovo/Assembly/term-chamber_2001-11-17.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a10c264/data/Kosovo/Assembly/term-chamber_2001-11-17.csv"
           }
-        ]
+        ],
+        "statement_count": 7263
       }
     ]
   },
@@ -4794,7 +4901,8 @@
             "csv": "data/Kuwait/National_Assembly/term-14.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/46da350/data/Kuwait/National_Assembly/term-14.csv"
           }
-        ]
+        ],
+        "statement_count": 872
       }
     ]
   },
@@ -4832,7 +4940,8 @@
             "csv": "data/Kyrgyzstan/Council/term-5.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4d3547b/data/Kyrgyzstan/Council/term-5.csv"
           }
-        ]
+        ],
+        "statement_count": 3354
       }
     ]
   },
@@ -4861,7 +4970,8 @@
             "csv": "data/Laos/Assembly/term-2011.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ad63fe4/data/Laos/Assembly/term-2011.csv"
           }
-        ]
+        ],
+        "statement_count": 1516
       }
     ]
   },
@@ -4890,7 +5000,8 @@
             "csv": "data/Latvia/Saeima/term-12.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/090fb7d/data/Latvia/Saeima/term-12.csv"
           }
-        ]
+        ],
+        "statement_count": 12060
       }
     ]
   },
@@ -4920,7 +5031,8 @@
             "csv": "data/Lebanon/Parliament/term-2009.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/06bb267/data/Lebanon/Parliament/term-2009.csv"
           }
-        ]
+        ],
+        "statement_count": 4931
       }
     ]
   },
@@ -4949,7 +5061,8 @@
             "csv": "data/Lesotho/Assembly/term-9.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9ee94cc/data/Lesotho/Assembly/term-9.csv"
           }
-        ]
+        ],
+        "statement_count": 1685
       }
     ]
   },
@@ -4978,7 +5091,8 @@
             "csv": "data/Liberia/House/term-53.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/525ef15/data/Liberia/House/term-53.csv"
           }
-        ]
+        ],
+        "statement_count": 1483
       }
     ]
   },
@@ -5007,7 +5121,8 @@
             "csv": "data/Libya/House_of_Representatives/term-1.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a4efadf/data/Libya/House_of_Representatives/term-1.csv"
           }
-        ]
+        ],
+        "statement_count": 2694
       }
     ]
   },
@@ -5055,7 +5170,8 @@
             "csv": "data/Liechtenstein/Landtag/term-2005.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1cd12ef/data/Liechtenstein/Landtag/term-2005.csv"
           }
-        ]
+        ],
+        "statement_count": 2123
       }
     ]
   },
@@ -5084,7 +5200,8 @@
             "csv": "data/Lithuania/Seimas/term-11.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3495ee0/data/Lithuania/Seimas/term-11.csv"
           }
-        ]
+        ],
+        "statement_count": 14311
       }
     ]
   },
@@ -5113,7 +5230,8 @@
             "csv": "data/Luxembourg/Chamber/term-2013.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e137f34/data/Luxembourg/Chamber/term-2013.csv"
           }
-        ]
+        ],
+        "statement_count": 3422
       }
     ]
   },
@@ -5143,7 +5261,8 @@
             "csv": "data/Macao/Assembly/term-10.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/51c1f6b/data/Macao/Assembly/term-10.csv"
           }
-        ]
+        ],
+        "statement_count": 953
       }
     ]
   },
@@ -5172,7 +5291,8 @@
             "csv": "data/Macedonia/Sobranie/term-2014.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/cd902c4/data/Macedonia/Sobranie/term-2014.csv"
           }
-        ]
+        ],
+        "statement_count": 1786
       }
     ]
   },
@@ -5202,7 +5322,8 @@
             "csv": "data/Madagascar/Assembly/term-2013.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3b67ce8/data/Madagascar/Assembly/term-2013.csv"
           }
-        ]
+        ],
+        "statement_count": 2444
       }
     ]
   },
@@ -5231,7 +5352,8 @@
             "csv": "data/Malawi/Assembly/term-2014.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/96e56da/data/Malawi/Assembly/term-2014.csv"
           }
-        ]
+        ],
+        "statement_count": 2722
       }
     ]
   },
@@ -5368,7 +5490,8 @@
             "csv": "data/Malaysia/Dewan_Rakyat/term-1.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/db8846f/data/Malaysia/Dewan_Rakyat/term-1.csv"
           }
-        ]
+        ],
+        "statement_count": 45413
       }
     ]
   },
@@ -5397,7 +5520,8 @@
             "csv": "data/Maldives/Majlis/term-2014.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8ca0508/data/Maldives/Majlis/term-2014.csv"
           }
-        ]
+        ],
+        "statement_count": 1127
       }
     ]
   },
@@ -5426,7 +5550,8 @@
             "csv": "data/Mali/Assembly/term-2014.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/041f8ff/data/Mali/Assembly/term-2014.csv"
           }
-        ]
+        ],
+        "statement_count": 1806
       }
     ]
   },
@@ -5455,7 +5580,8 @@
             "csv": "data/Malta/Assembly/term-12.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6954275/data/Malta/Assembly/term-12.csv"
           }
-        ]
+        ],
+        "statement_count": 2230
       }
     ]
   },
@@ -5484,7 +5610,8 @@
             "csv": "data/Marshall_Islands/Nitijela/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a61d818/data/Marshall_Islands/Nitijela/term-2012.csv"
           }
-        ]
+        ],
+        "statement_count": 507
       }
     ]
   },
@@ -5513,7 +5640,8 @@
             "csv": "data/Mauritania/National_Assembly/term-12.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a84bfb0/data/Mauritania/National_Assembly/term-12.csv"
           }
-        ]
+        ],
+        "statement_count": 1859
       }
     ]
   },
@@ -5542,7 +5670,8 @@
             "csv": "data/Mauritius/National_Assembly/term-2014.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9f64009/data/Mauritius/National_Assembly/term-2014.csv"
           }
-        ]
+        ],
+        "statement_count": 888
       }
     ]
   },
@@ -5580,7 +5709,8 @@
             "csv": "data/Mexico/Deputies/term-62.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/724063c/data/Mexico/Deputies/term-62.csv"
           }
-        ]
+        ],
+        "statement_count": 25889
       }
     ]
   },
@@ -5627,7 +5757,8 @@
             "csv": "data/Micronesia/Congress/term-17.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c2a0905/data/Micronesia/Congress/term-17.csv"
           }
-        ]
+        ],
+        "statement_count": 436
       }
     ]
   },
@@ -5656,7 +5787,8 @@
             "csv": "data/Moldova/Parlamentul/term-2014.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/57e64a0/data/Moldova/Parlamentul/term-2014.csv"
           }
-        ]
+        ],
+        "statement_count": 5021
       }
     ]
   },
@@ -5704,7 +5836,8 @@
             "csv": "data/Monaco/Council/term-2003.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b35fa99/data/Monaco/Council/term-2003.csv"
           }
-        ]
+        ],
+        "statement_count": 837
       }
     ]
   },
@@ -5742,7 +5875,8 @@
             "csv": "data/Mongolia/Assembly/term-2008.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5b8f9bc/data/Mongolia/Assembly/term-2008.csv"
           }
-        ]
+        ],
+        "statement_count": 4375
       }
     ]
   },
@@ -5772,7 +5906,8 @@
             "csv": "data/Montenegro/Assembly/term-25.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b28f5a7/data/Montenegro/Assembly/term-25.csv"
           }
-        ]
+        ],
+        "statement_count": 1482
       }
     ]
   },
@@ -5801,7 +5936,8 @@
             "csv": "data/Montserrat/Assembly/term-1.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/13c0ac6/data/Montserrat/Assembly/term-1.csv"
           }
-        ]
+        ],
+        "statement_count": 124
       }
     ]
   },
@@ -5831,7 +5967,8 @@
             "csv": "data/Morocco/House/term-9.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/af3b18a/data/Morocco/House/term-9.csv"
           }
-        ]
+        ],
+        "statement_count": 4778
       }
     ]
   },
@@ -5860,7 +5997,8 @@
             "csv": "data/Mozambique/Assembly/term-8.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7deb361/data/Mozambique/Assembly/term-8.csv"
           }
-        ]
+        ],
+        "statement_count": 3064
       }
     ]
   },
@@ -5889,7 +6027,8 @@
             "csv": "data/Myanmar/House_of_Representatives/term-1.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/74119ac/data/Myanmar/House_of_Representatives/term-1.csv"
           }
-        ]
+        ],
+        "statement_count": 5085
       }
     ]
   },
@@ -5918,7 +6057,8 @@
             "csv": "data/Nagorno_Karabakh/Assembly/term-6.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ed3bb60/data/Nagorno_Karabakh/Assembly/term-6.csv"
           }
-        ]
+        ],
+        "statement_count": 843
       }
     ]
   },
@@ -5933,11 +6073,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Namibia/Assembly/sources",
         "popolo": "data/Namibia/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1e777db/data/Namibia/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a077804/data/Namibia/Assembly/ep-popolo-v1.0.json",
         "names": "data/Namibia/Assembly/names.csv",
-        "lastmod": "1458209458",
+        "lastmod": "1458286982",
         "person_count": 270,
-        "sha": "1e777db",
+        "sha": "a077804",
         "legislative_periods": [
           {
             "end_date": "2020",
@@ -5946,7 +6086,7 @@
             "start_date": "2015",
             "slug": "6",
             "csv": "data/Namibia/Assembly/term-6.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1e777db/data/Namibia/Assembly/term-6.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a077804/data/Namibia/Assembly/term-6.csv"
           },
           {
             "end_date": "2020",
@@ -5955,7 +6095,7 @@
             "start_date": "2015",
             "slug": "5",
             "csv": "data/Namibia/Assembly/term-5.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1e777db/data/Namibia/Assembly/term-5.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a077804/data/Namibia/Assembly/term-5.csv"
           },
           {
             "end_date": "2015",
@@ -5964,7 +6104,7 @@
             "start_date": "2010",
             "slug": "4",
             "csv": "data/Namibia/Assembly/term-4.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1e777db/data/Namibia/Assembly/term-4.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a077804/data/Namibia/Assembly/term-4.csv"
           },
           {
             "end_date": "2010",
@@ -5973,7 +6113,7 @@
             "start_date": "2004",
             "slug": "3",
             "csv": "data/Namibia/Assembly/term-3.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1e777db/data/Namibia/Assembly/term-3.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a077804/data/Namibia/Assembly/term-3.csv"
           },
           {
             "end_date": "2004",
@@ -5982,7 +6122,7 @@
             "start_date": "1998",
             "slug": "2",
             "csv": "data/Namibia/Assembly/term-2.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1e777db/data/Namibia/Assembly/term-2.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a077804/data/Namibia/Assembly/term-2.csv"
           },
           {
             "end_date": "1998",
@@ -5991,7 +6131,7 @@
             "start_date": "1993",
             "slug": "1",
             "csv": "data/Namibia/Assembly/term-1.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1e777db/data/Namibia/Assembly/term-1.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a077804/data/Namibia/Assembly/term-1.csv"
           },
           {
             "end_date": "1990",
@@ -6000,9 +6140,10 @@
             "start_date": "1989",
             "slug": "0",
             "csv": "data/Namibia/Assembly/term-0.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1e777db/data/Namibia/Assembly/term-0.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a077804/data/Namibia/Assembly/term-0.csv"
           }
-        ]
+        ],
+        "statement_count": 9233
       },
       {
         "name": "National Council",
@@ -6051,7 +6192,8 @@
             "csv": "data/Namibia/Council/term-1.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9242885/data/Namibia/Council/term-1.csv"
           }
-        ]
+        ],
+        "statement_count": 1181
       }
     ]
   },
@@ -6098,7 +6240,8 @@
             "csv": "data/Nauru/Parliament/term-19.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0e07552/data/Nauru/Parliament/term-19.csv"
           }
-        ]
+        ],
+        "statement_count": 1787
       }
     ]
   },
@@ -6127,7 +6270,8 @@
             "csv": "data/Nepal/Assembly/term-ca2.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b3d5dd5/data/Nepal/Assembly/term-ca2.csv"
           }
-        ]
+        ],
+        "statement_count": 9392
       }
     ]
   },
@@ -6156,7 +6300,8 @@
             "csv": "data/Netherlands/House_of_Representatives/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4c8e971/data/Netherlands/House_of_Representatives/term-2012.csv"
           }
-        ]
+        ],
+        "statement_count": 8842
       }
     ]
   },
@@ -6185,7 +6330,8 @@
             "csv": "data/New_Caledonia/Congress/term-4.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1c0e6c0/data/New_Caledonia/Congress/term-4.csv"
           }
-        ]
+        ],
+        "statement_count": 1451
       }
     ]
   },
@@ -6214,7 +6360,8 @@
             "csv": "data/New_Zealand/House/term-51.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ce71e90/data/New_Zealand/House/term-51.csv"
           }
-        ]
+        ],
+        "statement_count": 7112
       }
     ]
   },
@@ -6243,7 +6390,8 @@
             "csv": "data/Nicaragua/Asamblea/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/03cf3ee/data/Nicaragua/Asamblea/term-2012.csv"
           }
-        ]
+        ],
+        "statement_count": 1005
       }
     ]
   },
@@ -6272,7 +6420,8 @@
             "csv": "data/Niger/Assembly/term-7.1.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/cde3086/data/Niger/Assembly/term-7.1.csv"
           }
-        ]
+        ],
+        "statement_count": 1268
       }
     ]
   },
@@ -6301,7 +6450,8 @@
             "csv": "data/Nigeria/Assembly/term-2015.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f8cb6ee/data/Nigeria/Assembly/term-2015.csv"
           }
-        ]
+        ],
+        "statement_count": 5873
       }
     ]
   },
@@ -6330,7 +6480,8 @@
             "csv": "data/Niue/Assembly/term-15.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d5180f0/data/Niue/Assembly/term-15.csv"
           }
-        ]
+        ],
+        "statement_count": 518
       }
     ]
   },
@@ -6360,7 +6511,8 @@
             "csv": "data/Norfolk_Island/Assembly/term-14.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d1eb4c7/data/Norfolk_Island/Assembly/term-14.csv"
           }
-        ]
+        ],
+        "statement_count": 104
       }
     ]
   },
@@ -6389,7 +6541,8 @@
             "csv": "data/North_Korea/National_Assembly/term-13.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7c1c1fa/data/North_Korea/National_Assembly/term-13.csv"
           }
-        ]
+        ],
+        "statement_count": 12434
       }
     ]
   },
@@ -6418,7 +6571,8 @@
             "csv": "data/Northern_Cyprus/Assembly/term-14.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fe0ffd4/data/Northern_Cyprus/Assembly/term-14.csv"
           }
-        ]
+        ],
+        "statement_count": 1269
       }
     ]
   },
@@ -6478,7 +6632,8 @@
             "csv": "data/Northern_Ireland/Assembly/term-1.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e083214/data/Northern_Ireland/Assembly/term-1.csv"
           }
-        ]
+        ],
+        "statement_count": 13388
       }
     ]
   },
@@ -6507,7 +6662,8 @@
             "csv": "data/Northern_Mariana_Islands/House/term-19.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ea59c4d/data/Northern_Mariana_Islands/House/term-19.csv"
           }
-        ]
+        ],
+        "statement_count": 377
       }
     ]
   },
@@ -6690,7 +6846,8 @@
             "csv": "data/Norway/Storting/term-1945-49.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ca402b0/data/Norway/Storting/term-1945-49.csv"
           }
-        ]
+        ],
+        "statement_count": 71568
       }
     ]
   },
@@ -6719,7 +6876,8 @@
             "csv": "data/Oman/Majlis/term-7.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1026e93/data/Oman/Majlis/term-7.csv"
           }
-        ]
+        ],
+        "statement_count": 1120
       }
     ]
   },
@@ -6748,7 +6906,8 @@
             "csv": "data/Pakistan/Assembly/term-14.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c646af4/data/Pakistan/Assembly/term-14.csv"
           }
-        ]
+        ],
+        "statement_count": 11858
       }
     ]
   },
@@ -6777,7 +6936,8 @@
             "csv": "data/Palau/House_of_Delegates/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/cca32b2/data/Palau/House_of_Delegates/term-2012.csv"
           }
-        ]
+        ],
+        "statement_count": 221
       }
     ]
   },
@@ -6806,7 +6966,8 @@
             "csv": "data/Panama/Assembly/term-2014.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4b2e187/data/Panama/Assembly/term-2014.csv"
           }
-        ]
+        ],
+        "statement_count": 1355
       }
     ]
   },
@@ -6836,7 +6997,8 @@
             "csv": "data/Papua_New_Guinea/Parliament/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/107e2a2/data/Papua_New_Guinea/Parliament/term-2012.csv"
           }
-        ]
+        ],
+        "statement_count": 2126
       }
     ]
   },
@@ -6865,7 +7027,8 @@
             "csv": "data/Paraguay/Deputies/term-2013.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/aac2850/data/Paraguay/Deputies/term-2013.csv"
           }
-        ]
+        ],
+        "statement_count": 1704
       }
     ]
   },
@@ -6895,7 +7058,8 @@
             "csv": "data/Peru/Congreso/term-2011.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/782725a/data/Peru/Congreso/term-2011.csv"
           }
-        ]
+        ],
+        "statement_count": 4886
       }
     ]
   },
@@ -6925,7 +7089,8 @@
             "csv": "data/Philippines/House/term-16.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/285db69/data/Philippines/House/term-16.csv"
           }
-        ]
+        ],
+        "statement_count": 6782
       }
     ]
   },
@@ -6972,7 +7137,8 @@
             "csv": "data/Pitcairn/Island_Council/term-2009.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/812add4/data/Pitcairn/Island_Council/term-2009.csv"
           }
-        ]
+        ],
+        "statement_count": 155
       }
     ]
   },
@@ -7064,7 +7230,8 @@
             "csv": "data/Poland/Sejm/term-1.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/296bc3f/data/Poland/Sejm/term-1.csv"
           }
-        ]
+        ],
+        "statement_count": 111024
       }
     ]
   },
@@ -7148,7 +7315,8 @@
             "csv": "data/Portugal/Assembly/term-6.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6e3d12c/data/Portugal/Assembly/term-6.csv"
           }
-        ]
+        ],
+        "statement_count": 7142
       }
     ]
   },
@@ -7178,7 +7346,8 @@
             "csv": "data/Puerto_Rico/House_of_Representatives/term-29.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d526379/data/Puerto_Rico/House_of_Representatives/term-29.csv"
           }
-        ]
+        ],
+        "statement_count": 2818
       }
     ]
   },
@@ -7207,7 +7376,8 @@
             "csv": "data/Romania/Deputies/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/172eb10/data/Romania/Deputies/term-2012.csv"
           }
-        ]
+        ],
+        "statement_count": 20095
       }
     ]
   },
@@ -7236,7 +7406,8 @@
             "csv": "data/Russia/Duma/term-6.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/84315b0/data/Russia/Duma/term-6.csv"
           }
-        ]
+        ],
+        "statement_count": 17192
       }
     ]
   },
@@ -7265,7 +7436,8 @@
             "csv": "data/Rwanda/Deputies/term-3.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/84b6c9d/data/Rwanda/Deputies/term-3.csv"
           }
-        ]
+        ],
+        "statement_count": 1380
       }
     ]
   },
@@ -7294,7 +7466,8 @@
             "csv": "data/Saint_Barthelemy/Council/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6896529/data/Saint_Barthelemy/Council/term-2012.csv"
           }
-        ]
+        ],
+        "statement_count": 302
       }
     ]
   },
@@ -7323,7 +7496,8 @@
             "csv": "data/Saint_Helena/Legislative_Council/term-2013.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/381d8d9/data/Saint_Helena/Legislative_Council/term-2013.csv"
           }
-        ]
+        ],
+        "statement_count": 166
       }
     ]
   },
@@ -7415,7 +7589,8 @@
             "csv": "data/Saint_Kitts_and_Nevis/Assembly/term-1984.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a854f6d/data/Saint_Kitts_and_Nevis/Assembly/term-1984.csv"
           }
-        ]
+        ],
+        "statement_count": 1448
       }
     ]
   },
@@ -7453,7 +7628,8 @@
             "csv": "data/Saint_Lucia/Assembly/term-8.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ffe63d8/data/Saint_Lucia/Assembly/term-8.csv"
           }
-        ]
+        ],
+        "statement_count": 1150
       }
     ]
   },
@@ -7482,7 +7658,8 @@
             "csv": "data/Saint_Martin/Council/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5e13138/data/Saint_Martin/Council/term-2012.csv"
           }
-        ]
+        ],
+        "statement_count": 341
       }
     ]
   },
@@ -7521,7 +7698,8 @@
             "csv": "data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2006.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2436aac/data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2006.csv"
           }
-        ]
+        ],
+        "statement_count": 554
       }
     ]
   },
@@ -7550,7 +7728,8 @@
             "csv": "data/Saint_Vincent_and_the_Grenadines/Assembly/term-8.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/98d6caf/data/Saint_Vincent_and_the_Grenadines/Assembly/term-8.csv"
           }
-        ]
+        ],
+        "statement_count": 256
       }
     ]
   },
@@ -7579,7 +7758,8 @@
             "csv": "data/Samoa/Parliament/term-15.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/26496a2/data/Samoa/Parliament/term-15.csv"
           }
-        ]
+        ],
+        "statement_count": 1183
       }
     ]
   },
@@ -7608,7 +7788,8 @@
             "csv": "data/San_Marino/Council/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/405e2cd/data/San_Marino/Council/term-2012.csv"
           }
-        ]
+        ],
+        "statement_count": 2605
       }
     ]
   },
@@ -7665,7 +7846,8 @@
             "csv": "data/Sark/Chief_Pleas/term-2009.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7a345ad/data/Sark/Chief_Pleas/term-2009.csv"
           }
-        ]
+        ],
+        "statement_count": 822
       }
     ]
   },
@@ -7694,7 +7876,8 @@
             "csv": "data/Saudi_Arabia/Shura/term-6.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/aabb322/data/Saudi_Arabia/Shura/term-6.csv"
           }
-        ]
+        ],
+        "statement_count": 1696
       }
     ]
   },
@@ -7750,7 +7933,8 @@
             "csv": "data/Scotland/Parliament/term-1.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c26800c/data/Scotland/Parliament/term-1.csv"
           }
-        ]
+        ],
+        "statement_count": 15586
       }
     ]
   },
@@ -7779,7 +7963,8 @@
             "csv": "data/Senegal/Assembly/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1059eda/data/Senegal/Assembly/term-2012.csv"
           }
-        ]
+        ],
+        "statement_count": 2046
       }
     ]
   },
@@ -7808,7 +7993,8 @@
             "csv": "data/Serbia/National_Assembly/term-10.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0640fac/data/Serbia/National_Assembly/term-10.csv"
           }
-        ]
+        ],
+        "statement_count": 4707
       }
     ]
   },
@@ -7837,7 +8023,8 @@
             "csv": "data/Seychelles/Assembly/term-2011.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6814a15/data/Seychelles/Assembly/term-2011.csv"
           }
-        ]
+        ],
+        "statement_count": 574
       }
     ]
   },
@@ -7866,7 +8053,8 @@
             "csv": "data/Sierra_Leone/Parliament/term-2-4.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c74eb2f/data/Sierra_Leone/Parliament/term-2-4.csv"
           }
-        ]
+        ],
+        "statement_count": 1579
       }
     ]
   },
@@ -8003,7 +8191,8 @@
             "csv": "data/Singapore/Parliament/term-1.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ef2848c/data/Singapore/Parliament/term-1.csv"
           }
-        ]
+        ],
+        "statement_count": 14618
       }
     ]
   },
@@ -8032,7 +8221,8 @@
             "csv": "data/Sint_Maarten/Estates/term-2.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b66ac25/data/Sint_Maarten/Estates/term-2.csv"
           }
-        ]
+        ],
+        "statement_count": 205
       }
     ]
   },
@@ -8097,7 +8287,8 @@
             "csv": "data/Slovakia/National_Council/term-2.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/199fe12/data/Slovakia/National_Council/term-2.csv"
           }
-        ]
+        ],
+        "statement_count": 28087
       }
     ]
   },
@@ -8126,7 +8317,8 @@
             "csv": "data/Slovenia/National_Assembly/term-7.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/815e4a0/data/Slovenia/National_Assembly/term-7.csv"
           }
-        ]
+        ],
+        "statement_count": 6667
       }
     ]
   },
@@ -8155,7 +8347,8 @@
             "csv": "data/Solomon_Islands/Parliament/term-10.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2465285/data/Solomon_Islands/Parliament/term-10.csv"
           }
-        ]
+        ],
+        "statement_count": 1848
       }
     ]
   },
@@ -8184,7 +8377,8 @@
             "csv": "data/Somalia/Lower/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/271117a/data/Somalia/Lower/term-2012.csv"
           }
-        ]
+        ],
+        "statement_count": 2065
       }
     ]
   },
@@ -8213,7 +8407,8 @@
             "csv": "data/Somaliland/Representatives/term-2005.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b029acf/data/Somaliland/Representatives/term-2005.csv"
           }
-        ]
+        ],
+        "statement_count": 936
       }
     ]
   },
@@ -8242,7 +8437,8 @@
             "csv": "data/South_Africa/Assembly/term-26.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ac2cfb1/data/South_Africa/Assembly/term-26.csv"
           }
-        ]
+        ],
+        "statement_count": 10015
       }
     ]
   },
@@ -8271,7 +8467,8 @@
             "csv": "data/South_Korea/National_Assembly/term-19.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3e336c9/data/South_Korea/National_Assembly/term-19.csv"
           }
-        ]
+        ],
+        "statement_count": 13764
       }
     ]
   },
@@ -8300,7 +8497,8 @@
             "csv": "data/South_Ossetia/Parliament/term-2014.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a33f60f/data/South_Ossetia/Parliament/term-2014.csv"
           }
-        ]
+        ],
+        "statement_count": 362
       }
     ]
   },
@@ -8329,7 +8527,8 @@
             "csv": "data/South_Sudan/Assembly/term-1.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e35a65d/data/South_Sudan/Assembly/term-1.csv"
           }
-        ]
+        ],
+        "statement_count": 1889
       }
     ]
   },
@@ -8367,7 +8566,8 @@
             "csv": "data/Spain/Congress/term-10.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6dbc327/data/Spain/Congress/term-10.csv"
           }
-        ]
+        ],
+        "statement_count": 27156
       }
     ]
   },
@@ -8396,7 +8596,8 @@
             "csv": "data/Sri_Lanka/Parliament/term-15.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/cc57005/data/Sri_Lanka/Parliament/term-15.csv"
           }
-        ]
+        ],
+        "statement_count": 7990
       }
     ]
   },
@@ -8434,7 +8635,8 @@
             "csv": "data/Suriname/Assembly/term-2010.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f7e61a0/data/Suriname/Assembly/term-2010.csv"
           }
-        ]
+        ],
+        "statement_count": 1954
       }
     ]
   },
@@ -8472,7 +8674,8 @@
             "csv": "data/Swaziland/Assembly/term-9.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/44c58bd/data/Swaziland/Assembly/term-9.csv"
           }
-        ]
+        ],
+        "statement_count": 1195
       }
     ]
   },
@@ -8547,7 +8750,8 @@
             "csv": "data/Sweden/Riksdag/term-1994.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c9eba8b/data/Sweden/Riksdag/term-1994.csv"
           }
-        ]
+        ],
+        "statement_count": 70131
       }
     ]
   },
@@ -8694,7 +8898,8 @@
             "csv": "data/Switzerland/National_Council/term-37.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fcf495c/data/Switzerland/National_Council/term-37.csv"
           }
-        ]
+        ],
+        "statement_count": 42768
       }
     ]
   },
@@ -8723,7 +8928,8 @@
             "csv": "data/Syria/Majlis/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/585eef9/data/Syria/Majlis/term-2012.csv"
           }
-        ]
+        ],
+        "statement_count": 3967
       }
     ]
   },
@@ -8761,7 +8967,8 @@
             "csv": "data/Taiwan/Legislative_Yuan/term-8.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dec5b79/data/Taiwan/Legislative_Yuan/term-8.csv"
           }
-        ]
+        ],
+        "statement_count": 6436
       }
     ]
   },
@@ -8790,7 +8997,8 @@
             "csv": "data/Tajikistan/Representatives/term-2015.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5516776/data/Tajikistan/Representatives/term-2015.csv"
           }
-        ]
+        ],
+        "statement_count": 943
       }
     ]
   },
@@ -8837,7 +9045,8 @@
             "csv": "data/Tanzania/Assembly/term-2.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6134705/data/Tanzania/Assembly/term-2.csv"
           }
-        ]
+        ],
+        "statement_count": 19733
       }
     ]
   },
@@ -8866,7 +9075,8 @@
             "csv": "data/Thailand/National_Legislative_Assembly/term-2557.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c13a2d1/data/Thailand/National_Legislative_Assembly/term-2557.csv"
           }
-        ]
+        ],
+        "statement_count": 3018
       }
     ]
   },
@@ -8895,7 +9105,8 @@
             "csv": "data/Timor_Leste/Parlamento/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1cce9eb/data/Timor_Leste/Parlamento/term-2012.csv"
           }
-        ]
+        ],
+        "statement_count": 896
       }
     ]
   },
@@ -8924,7 +9135,8 @@
             "csv": "data/Togo/Assembly/term-2013.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9aeb8d6/data/Togo/Assembly/term-2013.csv"
           }
-        ]
+        ],
+        "statement_count": 1329
       }
     ]
   },
@@ -8954,7 +9166,8 @@
             "csv": "data/Tonga/Assembly/term-2015.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0b5af3c/data/Tonga/Assembly/term-2015.csv"
           }
-        ]
+        ],
+        "statement_count": 451
       }
     ]
   },
@@ -8992,7 +9205,8 @@
             "csv": "data/Transnistria/Supreme_Council/term-5.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1c624d7/data/Transnistria/Supreme_Council/term-5.csv"
           }
-        ]
+        ],
+        "statement_count": 1061
       }
     ]
   },
@@ -9021,7 +9235,8 @@
             "csv": "data/Trinidad_and_Tobago/Representatives/term-11.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/557e3fb/data/Trinidad_and_Tobago/Representatives/term-11.csv"
           }
-        ]
+        ],
+        "statement_count": 826
       },
       {
         "name": "Senate",
@@ -9042,7 +9257,8 @@
             "csv": "data/Trinidad_and_Tobago/Senate/term-11.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2d1653f/data/Trinidad_and_Tobago/Senate/term-11.csv"
           }
-        ]
+        ],
+        "statement_count": 511
       }
     ]
   },
@@ -9071,7 +9287,8 @@
             "csv": "data/Tunisia/Majlis/term-1.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b5c811e/data/Tunisia/Majlis/term-1.csv"
           }
-        ]
+        ],
+        "statement_count": 3386
       }
     ]
   },
@@ -9325,7 +9542,8 @@
             "csv": "data/Turkey/Assembly/term-1.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/27bd888/data/Turkey/Assembly/term-1.csv"
           }
-        ]
+        ],
+        "statement_count": 205347
       }
     ]
   },
@@ -9363,7 +9581,8 @@
             "csv": "data/Turkmenistan/Mejlis/term-4.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ad50ea7/data/Turkmenistan/Mejlis/term-4.csv"
           }
-        ]
+        ],
+        "statement_count": 3991
       }
     ]
   },
@@ -9392,7 +9611,8 @@
             "csv": "data/Turks_and_Caicos_Islands/Assembly/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/701b4b6/data/Turks_and_Caicos_Islands/Assembly/term-2012.csv"
           }
-        ]
+        ],
+        "statement_count": 476
       }
     ]
   },
@@ -9439,7 +9659,8 @@
             "csv": "data/Tuvalu/Parliament/term-9.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d2b79c1/data/Tuvalu/Parliament/term-9.csv"
           }
-        ]
+        ],
+        "statement_count": 1385
       }
     ]
   },
@@ -9468,7 +9689,8 @@
             "csv": "data/US_Virgin_Islands/Legislature/term-2014.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/20f8a5e/data/US_Virgin_Islands/Legislature/term-2014.csv"
           }
-        ]
+        ],
+        "statement_count": 245
       }
     ]
   },
@@ -9497,7 +9719,8 @@
             "csv": "data/Uganda/Parliament/term-9.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d707cb4/data/Uganda/Parliament/term-9.csv"
           }
-        ]
+        ],
+        "statement_count": 7993
       }
     ]
   },
@@ -9526,7 +9749,8 @@
             "csv": "data/Ukraine/Verkhovna_Rada/term-8.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/428f40f/data/Ukraine/Verkhovna_Rada/term-8.csv"
           }
-        ]
+        ],
+        "statement_count": 19771
       }
     ]
   },
@@ -9556,7 +9780,8 @@
             "csv": "data/United_Arab_Emirates/Federal_National_Council/term-2011.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0b0664c/data/United_Arab_Emirates/Federal_National_Council/term-2011.csv"
           }
-        ]
+        ],
+        "statement_count": 614
       }
     ]
   },
@@ -9571,11 +9796,11 @@
         "slug": "Commons",
         "sources_directory": "data/UK/Commons/sources",
         "popolo": "data/UK/Commons/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e14c901/data/UK/Commons/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/19d075a/data/UK/Commons/ep-popolo-v1.0.json",
         "names": "data/UK/Commons/names.csv",
-        "lastmod": "1458273283",
+        "lastmod": "1458282440",
         "person_count": 1338,
-        "sha": "e14c901",
+        "sha": "19d075a",
         "legislative_periods": [
           {
             "id": "term/56",
@@ -9584,7 +9809,7 @@
             "wikidata": "Q21084473",
             "slug": "56",
             "csv": "data/UK/Commons/term-56.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e14c901/data/UK/Commons/term-56.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/19d075a/data/UK/Commons/term-56.csv"
           },
           {
             "end_date": "2015-03-30",
@@ -9594,7 +9819,7 @@
             "wikidata": "Q21084472",
             "slug": "55",
             "csv": "data/UK/Commons/term-55.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e14c901/data/UK/Commons/term-55.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/19d075a/data/UK/Commons/term-55.csv"
           },
           {
             "end_date": "2010-04-12",
@@ -9604,7 +9829,7 @@
             "wikidata": "Q21084471",
             "slug": "54",
             "csv": "data/UK/Commons/term-54.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e14c901/data/UK/Commons/term-54.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/19d075a/data/UK/Commons/term-54.csv"
           },
           {
             "end_date": "2005-04-11",
@@ -9614,7 +9839,7 @@
             "wikidata": "Q21084470",
             "slug": "53",
             "csv": "data/UK/Commons/term-53.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e14c901/data/UK/Commons/term-53.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/19d075a/data/UK/Commons/term-53.csv"
           },
           {
             "end_date": "2001-05-14",
@@ -9624,9 +9849,10 @@
             "wikidata": "Q21084469",
             "slug": "52",
             "csv": "data/UK/Commons/term-52.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e14c901/data/UK/Commons/term-52.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/19d075a/data/UK/Commons/term-52.csv"
           }
-        ]
+        ],
+        "statement_count": 117994
       }
     ]
   },
@@ -9826,7 +10052,8 @@
             "csv": "data/United_States_of_America/House/term-97.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fd0ed68/data/United_States_of_America/House/term-97.csv"
           }
-        ]
+        ],
+        "statement_count": 192189
       },
       {
         "name": "Senate",
@@ -10018,7 +10245,8 @@
             "csv": "data/United_States_of_America/Senate/term-97.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bf540ae/data/United_States_of_America/Senate/term-97.csv"
           }
-        ]
+        ],
+        "statement_count": 53776
       }
     ]
   },
@@ -10047,7 +10275,8 @@
             "csv": "data/Uruguay/Deputies/term-48.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7ced540/data/Uruguay/Deputies/term-48.csv"
           }
-        ]
+        ],
+        "statement_count": 1816
       }
     ]
   },
@@ -10076,7 +10305,8 @@
             "csv": "data/Uzbekistan/Legislative_Chamber/term-5.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/cc97604/data/Uzbekistan/Legislative_Chamber/term-5.csv"
           }
-        ]
+        ],
+        "statement_count": 2417
       }
     ]
   },
@@ -10105,7 +10335,8 @@
             "csv": "data/Vanuatu/Parliament/term-10.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/cfce748/data/Vanuatu/Parliament/term-10.csv"
           }
-        ]
+        ],
+        "statement_count": 763
       }
     ]
   },
@@ -10134,7 +10365,8 @@
             "csv": "data/Vatican_City/Pontifical_Commission/term-2011.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/61539aa/data/Vatican_City/Pontifical_Commission/term-2011.csv"
           }
-        ]
+        ],
+        "statement_count": 913
       }
     ]
   },
@@ -10172,7 +10404,8 @@
             "csv": "data/Venezuela/Assembly/term-2011.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8a33117/data/Venezuela/Assembly/term-2011.csv"
           }
-        ]
+        ],
+        "statement_count": 5185
       }
     ]
   },
@@ -10202,7 +10435,8 @@
             "csv": "data/Vietnam/National_Assembly/term-13.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0b1ecbb/data/Vietnam/National_Assembly/term-13.csv"
           }
-        ]
+        ],
+        "statement_count": 11800
       }
     ]
   },
@@ -10231,7 +10465,8 @@
             "csv": "data/Wales/Assembly/term-4.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/36614ee/data/Wales/Assembly/term-4.csv"
           }
-        ]
+        ],
+        "statement_count": 3929
       }
     ]
   },
@@ -10260,7 +10495,8 @@
             "csv": "data/Wallis_and_Futuna/Territorial_Assembly/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/59116d6/data/Wallis_and_Futuna/Territorial_Assembly/term-2012.csv"
           }
-        ]
+        ],
+        "statement_count": 327
       }
     ]
   },
@@ -10289,7 +10525,8 @@
             "csv": "data/Yemen/Majlis/term-2003.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bfcadfe/data/Yemen/Majlis/term-2003.csv"
           }
-        ]
+        ],
+        "statement_count": 5165
       }
     ]
   },
@@ -10318,7 +10555,8 @@
             "csv": "data/Zambia/Assembly/term-2011.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d423189/data/Zambia/Assembly/term-2011.csv"
           }
-        ]
+        ],
+        "statement_count": 2959
       }
     ]
   },
@@ -10347,7 +10585,8 @@
             "csv": "data/Zimbabwe/Assembly/term-8.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fb9382f/data/Zimbabwe/Assembly/term-8.csv"
           }
-        ]
+        ],
+        "statement_count": 5321
       },
       {
         "name": "Senate",
@@ -10368,7 +10607,8 @@
             "csv": "data/Zimbabwe/Senate/term-8.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/cd53360/data/Zimbabwe/Senate/term-8.csv"
           }
-        ]
+        ],
+        "statement_count": 1237
       }
     ]
   },
@@ -10406,7 +10646,8 @@
             "csv": "data/Aland/Lagting/term-2007.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/22acfeb/data/Aland/Lagting/term-2007.csv"
           }
-        ]
+        ],
+        "statement_count": 1994
       }
     ]
   }
