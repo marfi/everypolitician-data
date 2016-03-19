@@ -185,10 +185,10 @@ Christian Lüscher,733ec44e-b45f-4855-87a0-397df3a18267
 Christian Merz,530fc668-73bd-4907-a99c-308b8c3cb24a
 Christian Miesch,b24a1058-517d-4d13-b1d6-d2afc410d43c
 Christian Speck,362a06ce-dc9e-42e9-b2f7-15ff08b5ca1d
+Christian van Singer,7cd9ffd9-4d36-460c-a20e-7456efac3320
 Christian Waber,dbbac9c1-0804-47ba-a5d7-7a877cda4d9b
 Christian Wanner,cb9d1a94-7064-4c11-b4ba-d58c2d52047d
 Christian Wasserfallen,f5836f06-f19d-42a0-9175-d18293b3b117
-Christian van Singer,7cd9ffd9-4d36-460c-a20e-7456efac3320
 Christiane Brunner,d75bce8c-5e1f-4e1a-b40c-b8123707b154
 Christiane Jaquet-Berger,f02cc1f8-fb61-4253-b383-034461cc448e
 Christiane Langenberger,76ef8186-a548-4161-a4ec-2abf92aa5c80
@@ -209,8 +209,8 @@ Christoph Mörgeli,fba99682-d6d0-472e-b3ff-62a0cc229fc1
 Christoph von Rotz,b5ef9458-9cbf-4810-8ce4-1a9f8457b1d6
 Christophe Darbellay,4afa8ab5-52a3-4ad4-8006-b0325720d661
 Christophorus Blocher,46c507cf-ab19-4143-9b57-2aa9134eaaca
-Christophorus Mörgeli,fba99682-d6d0-472e-b3ff-62a0cc229fc1
 Christophorus de Rotz,b5ef9458-9cbf-4810-8ce4-1a9f8457b1d6
+Christophorus Mörgeli,fba99682-d6d0-472e-b3ff-62a0cc229fc1
 Claude Berger,66b58561-c93e-49fa-8011-dba94ffc539d
 Claude Bonnard,ac8089b2-2107-4771-b02f-4d0ca6739e19
 Claude Béglé,2ce64fd0-ada7-4aae-b983-4af6731c9724
@@ -247,8 +247,8 @@ Didier Burkhalter,b883aee3-b630-4cf8-abeb-446673c65c79
 Didier Wyler,c28ba7f1-fb36-4044-868e-966c1c9b6dba
 Dominicus Baettig,0458efad-eb95-4aab-95f2-1adeda60b001
 Dominique Baettig,0458efad-eb95-4aab-95f2-1adeda60b001
-Dominique Ducret,a2a91018-8b71-473f-af9b-0656bee56232
 Dominique de Buman,fc0f2d19-2859-442f-a9dc-ef6e42de5dbe
+Dominique Ducret,a2a91018-8b71-473f-af9b-0656bee56232
 Donat Cadruvi,68b5d4e5-0e43-4ee8-b011-c97dd87d6ccf
 Doris Fiala,002d4a49-2db3-47ce-889b-03cec1ed625d
 Doris Leuthard,7d1e5396-9618-4d7a-99de-73f4d15422e0
@@ -287,8 +287,8 @@ Eric Nussbaumer,ee2e6ea1-ca03-48b9-bb25-5894ed126433
 Eric Voruz,208a7235-cbf4-4840-a83c-60379754148d
 Erich Hess,73baa33e-99fc-4abf-9f0b-7c591008bee1
 Erich Müller,f8e10eaf-9806-4eb7-8e40-decf3e3c9388
-Erich Weisskopf,6baf3326-ab7b-439b-bc45-6fa4e2066330
 Erich von Siebenthal,9e8b7d7d-0390-4d79-9cbc-3ba6a2b2ce9a
+Erich Weisskopf,6baf3326-ab7b-439b-bc45-6fa4e2066330
 Ernest Pidoux,61a1bef0-208d-4ba7-8c49-612ee34dbff5
 Ernestus Schibli,b7599302-7b90-4d3b-a97a-31f0d94f7534
 Ernst Bieri,b9444db6-c2cb-469d-b6f5-c2e1db87eeac
@@ -711,8 +711,8 @@ Kurt Meyer,86aaad75-4a2a-46ca-97cb-8b789a7d6f2f
 Kurt Müller,b2cee071-c5ae-419a-bfa2-425bd7bf3aa9
 Kurt Reiniger,58208df5-4487-4732-b55e-32f63273b6a7
 Kurt Schüle,68ec8388-0f0f-4a2d-a868-7a92374f8ce8
-Kurt Wasserfallen,3b4018b1-362c-4802-9689-2a3ace1770cf
 Kurt von Arx,414c0c8d-448f-478a-b7db-6bf2618b352b
+Kurt Wasserfallen,3b4018b1-362c-4802-9689-2a3ace1770cf
 Käthi Bangerter,6a3089c0-2bc4-4ae8-aeec-8995ddfa5295
 Laura Sadis,a42ce0f2-b17b-402b-a943-45bb92dc2a6d
 Laurence Fehlmann Rielle,1c22dc62-3732-4df1-8f60-5f42395b4609
@@ -895,6 +895,7 @@ Paul Aebischer,41efd327-ee70-4d1e-abd0-cfbc112d131c
 Paul Biderbost,93d3543b-d4a9-44f7-9c72-8f4d16881db3
 Paul Burgdorfer,f7e2e8e7-3aed-4068-99e5-20b0d8dbce25
 Paul Bürgi,6da41aeb-58ec-44c9-8240-fa701a476f64
+Paul de Courten,b4570353-b44e-47e3-a2bf-b863fe6ce8ed
 Paul Eisenring,ba1b331d-05dd-4a7c-8ac5-e05fb1ec9dd6
 Paul Fäh,4c585df4-ee96-4002-856c-4a3da3118052
 Paul Gehler,5728f012-f5d9-42df-ac53-019bda18c877
@@ -912,7 +913,6 @@ Paul Tanner,fc938be3-6fc5-4f07-8fce-b793356eb1fa
 Paul Wagner,c3d04585-1e32-4244-8885-4bb44bf8897a
 Paul Wyss,02e98d6f-561d-4dcb-8842-07cf429aea7d
 Paul Zbinden,a70e988e-8605-4198-8b30-923d5aff0473
-Paul de Courten,b4570353-b44e-47e3-a2bf-b863fe6ce8ed
 Paul-André Roux,5fd87ed2-dcfa-4afa-838b-8aa8f605c057
 Paul-René Martin,2f98cdde-a4cf-4d69-a597-8177c5f0c3a9
 Paul-René Rosset,c091f175-869c-4bbb-8344-b77ff43d5559
@@ -951,6 +951,7 @@ Pia Hollenstein,5b1a1467-c5d1-46a2-b178-46355f49d362
 Pier Felice Barchi,f052e8cd-b54d-4730-ae05-311d8b58ce1d
 Pierre Aguet,01778c73-12f4-4122-9af2-4c462027fc82
 Pierre Chiffelle,5a530791-3715-43e8-9371-d0d11a27b304
+Pierre de Chastonay,b7eec750-ef60-4258-8447-92ac05a2cc05
 Pierre Duvanel,bb8de479-74ff-4a1f-a248-336192878889
 Pierre Duvoisin,b99425a5-d0df-4a39-b541-4f0688c6cd82
 Pierre Etique,caaf62ea-aab0-479b-84f2-fa12eafb282c
@@ -967,7 +968,6 @@ Pierre Teuscher,15de8c49-59fa-4c47-aa3c-980609783ca4
 Pierre Tillmanns,1ebb8362-a4fc-434c-b7ca-0001b9f18ebc
 Pierre Triponez,075dadb8-66ee-4c9c-b15f-1804dd73b34a
 Pierre Vanek,032ae993-94ab-4d0d-8e7b-0e4ab073b817
-Pierre de Chastonay,b7eec750-ef60-4258-8447-92ac05a2cc05
 Pierre-Alain Fridez,770974ff-23ab-4cd5-b6e7-defceef095cd
 Pierre-André Monnard,5ac8ee46-4d58-4db7-bae2-395c7e540eae
 Pierre-André Page,5a8c6cf6-0165-407a-9578-a53a381bf8e1
@@ -1057,6 +1057,7 @@ Rudolf Gnägi,d36a6ddf-ea4b-4cd7-86df-72b7d1eba418
 Rudolf Hafner,fa675241-6310-475c-b0f8-5ab4599a70b8
 Rudolf Imhof,c64441a3-5356-4066-afcd-ce3ca104e004
 Rudolf Joder,611aa472-ad1a-4ec1-921a-3a7ab64c6507
+Rudolf jun. Reichling,74bbea05-6d0f-49aa-892e-82ae030d9515
 Rudolf Keller,d115044a-5947-42e7-8fe3-3afd0880f58e
 Rudolf Ott,98a3ed72-ad60-40f4-9443-8e905736ae6e
 Rudolf Rechsteiner,0f4d8b8d-26c7-4b9b-9e31-2fe4006f2623
@@ -1068,7 +1069,6 @@ Rudolf Suter,66a70757-85f7-4c93-bc44-0f5b26e93838
 Rudolf Wartmann,e219927e-c5e0-46a8-978c-34d2885e62c8
 Rudolf Welter,5fc74a4b-8043-4456-81d1-e50460ac552b
 Rudolf Winkler,3e606148-da5d-4752-a75e-38bad800fef7
-Rudolf jun. Reichling,74bbea05-6d0f-49aa-892e-82ae030d9515
 Ruedi Aeschbacher,138abc42-fd7b-4ce6-9307-2f150d5e8f9a
 Ruedi Baumann,8ca3b254-8bb9-4b2f-9d9c-bab4dda678b6
 Ruedi Lustenberger,0ab8db6f-9d03-468d-aeb4-c7cf93739f57
@@ -1132,6 +1132,7 @@ Thomas Baerlocher,fe4db706-6d73-4e56-808f-519d8223e1d6
 Thomas Burgener,fb0bb9a8-8152-4aec-8dc9-850a2d249052
 Thomas Burgherr,cf809e64-809b-4381-b607-6d7348a62d3a
 Thomas Böhni,63f2cd30-4b99-444c-b3ec-898c5500708b
+Thomas de Courten,45901185-eecb-4e26-ad1b-41bf28c1afe9
 Thomas Fraefel,aa4ad50b-f1e8-454b-9e03-940764020d92
 Thomas Fuchs,6f467d83-7d32-4ef8-9a9a-61d10023000f
 Thomas Hardegger,932abfd3-013e-43d2-b278-6e9439964fa4
@@ -1140,7 +1141,6 @@ Thomas Maier,529eed4a-9a22-49b3-bbd9-b9738daf340e
 Thomas Matter,a0475243-84c7-4f8d-b65f-5bc818fa99a7
 Thomas Müller,fc3e4853-8910-42dc-a9ca-568702b712a0
 Thomas Weibel,ff7c5794-703c-4e0c-a086-e256c2ad83ee
-Thomas de Courten,45901185-eecb-4e26-ad1b-41bf28c1afe9
 Théo Christian Portmann,49fecc16-9dff-4ad1-826a-1cd71a802d22
 Thérèse Meyer-Kaelin,94772978-c82f-40b4-a4ba-e35e0d6f5b9a
 Tiana Angelina Moser,38fc4763-ebff-4012-9497-6c417b3380d6
