@@ -216,8 +216,12 @@
       "label": "Secretary of State"
     },
     {
-      "id": "Q30185",
-      "label": "mayor"
+      "id": "Q23253820",
+      "label": "Mayor of Tatabánya",
+      "qualifiers": {
+        "P580": "1990",
+        "P582": "2010"
+      }
     }
   ],
   "Q5005010": [
@@ -648,8 +652,8 @@
       "label": "Secretary of State"
     },
     {
-      "id": "Q83307",
-      "label": "minister"
+      "id": "Q12303322",
+      "label": "minister of Labour"
     }
   ],
   "Q7665270": [

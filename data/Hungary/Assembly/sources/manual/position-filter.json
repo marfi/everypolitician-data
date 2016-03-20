@@ -52,14 +52,24 @@
   "unknown": {
     "unknown": [
       {
+        "id": "Q23253820",
+        "name": "Mayor of Tatabánya",
+        "count": 1
+      },
+      {
         "id": "Q30185",
         "name": "mayor",
-        "count": 3
+        "count": 2
       },
       {
         "id": "Q83307",
         "name": "minister",
-        "count": 2
+        "count": 1
+      },
+      {
+        "id": "Q12303322",
+        "name": "minister of Labour",
+        "count": 1
       }
     ]
   }
