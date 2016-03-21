@@ -1,7 +1,14 @@
 {
   "persons": [
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.eggleston@aph.gov.au"
+        }
+      ],
       "email": "senator.eggleston@aph.gov.au",
+      "gender": "male",
       "id": "b6b705a5-0355-4f1c-8951-273aed19156d",
       "identifiers": [
         {
@@ -24,7 +31,14 @@
       "name": "Senator Alan Eggleston"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.gallacher@aph.gov.au"
+        }
+      ],
       "email": "senator.gallacher@aph.gov.au",
+      "gender": "male",
       "id": "35c3024e-a6a3-4ce3-837b-e849ff8c98e2",
       "identifiers": [
         {
@@ -41,7 +55,14 @@
       "name": "Senator Alex Gallacher"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.mcewen@aph.gov.au"
+        }
+      ],
       "email": "senator.mcewen@aph.gov.au",
+      "gender": "female",
       "id": "50bb2c37-2937-4120-9d5b-8fab706c09d6",
       "identifiers": [
         {
@@ -58,7 +79,14 @@
       "name": "Senator Anne McEwen"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.urquhart@aph.gov.au"
+        }
+      ],
       "email": "senator.urquhart@aph.gov.au",
+      "gender": "female",
       "id": "0eaac078-912d-492f-8f4a-c3cfaa50d6f9",
       "identifiers": [
         {
@@ -81,6 +109,7 @@
       "name": "Senator Anne Urquhart"
     },
     {
+      "gender": "male",
       "id": "c4341e91-11b2-42ea-9664-643fa32fb102",
       "identifiers": [
         {
@@ -99,11 +128,16 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "senator.day@aph.gov.au"
+        },
+        {
           "type": "twitter",
           "value": "senatorbobday"
         }
       ],
       "email": "senator.day@aph.gov.au",
+      "gender": "male",
       "id": "7ddaf281-92a1-4554-9aab-0f09f804af77",
       "identifiers": [
         {
@@ -134,7 +168,14 @@
       "name": "Senator Bob Day AO"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.mckenzie@aph.gov.au"
+        }
+      ],
       "email": "senator.mckenzie@aph.gov.au",
+      "gender": "female",
       "id": "0e0fb1ae-b324-4018-aebc-ff9ef55b16e0",
       "identifiers": [
         {
@@ -151,7 +192,14 @@
       "name": "Senator Bridget McKenzie"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.carol.brown@aph.gov.au"
+        }
+      ],
       "email": "senator.carol.brown@aph.gov.au",
+      "gender": "female",
       "id": "221d6348-d4a1-4406-b908-d45edd9327c7",
       "identifiers": [
         {
@@ -174,6 +222,7 @@
       "name": "Senator Carol Brown"
     },
     {
+      "gender": "female",
       "id": "f2d05b01-1472-4872-af70-7477dae18722",
       "identifiers": [
         {
@@ -196,6 +245,7 @@
       "name": "Senator Catryna Bilyk"
     },
     {
+      "gender": "male",
       "id": "e388765c-3863-4c00-8a68-8de159bd4bd0",
       "identifiers": [
         {
@@ -212,6 +262,7 @@
       "name": "Senator Chris Back"
     },
     {
+      "gender": "male",
       "id": "35fb4043-6d9f-4bfd-8130-1284b7ea8e02",
       "identifiers": [
         {
@@ -228,7 +279,14 @@
       "name": "Senator Chris Ketter"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.milne@aph.gov.au"
+        }
+      ],
       "email": "senator.milne@aph.gov.au",
+      "gender": "female",
       "id": "044c2835-1a7b-4652-9df4-189d26a458e1",
       "identifiers": [
         {
@@ -251,6 +309,7 @@
       "name": "Senator Christine Milne"
     },
     {
+      "gender": "female",
       "id": "4e6d719a-6717-4f0a-b738-5709f4c98b99",
       "identifiers": [
         {
@@ -273,6 +332,7 @@
       "name": "Senator Claire Moore"
     },
     {
+      "gender": "male",
       "id": "507def8c-f3fd-4be5-8937-4ceaa26520ae",
       "identifiers": [
         {
@@ -295,6 +355,7 @@
       "name": "Senator Cory Bernardi"
     },
     {
+      "gender": "male",
       "id": "4cf9b2ae-54c9-4fce-82a3-84e71ede51ca",
       "identifiers": [
         {
@@ -317,7 +378,14 @@
       "name": "Senator David Bushby"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.fawcett@aph.gov.au"
+        }
+      ],
       "email": "senator.fawcett@aph.gov.au",
+      "gender": "male",
       "id": "bb533f2a-e62d-4fae-acf7-cfe317d08cd6",
       "identifiers": [
         {
@@ -342,11 +410,16 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "senator.leyonhjelm@aph.gov.au"
+        },
+        {
           "type": "twitter",
           "value": "DavidLeyonhjelm"
         }
       ],
       "email": "senator.leyonhjelm@aph.gov.au",
+      "gender": "male",
       "id": "08d1256c-cb2d-4115-bca3-88d19a2bb414",
       "identifiers": [
         {
@@ -373,7 +446,14 @@
       "name": "Senator David Leyonhjelm"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.smith@aph.gov.au"
+        }
+      ],
       "email": "senator.smith@aph.gov.au",
+      "gender": "male",
       "id": "6fe2104d-e89f-4709-89eb-f5b9c78ffca4",
       "identifiers": [
         {
@@ -396,6 +476,7 @@
       "name": "Senator Dean Smith"
     },
     {
+      "gender": "female",
       "id": "d78e6905-f642-405e-991c-b81a8f8449ad",
       "identifiers": [
         {
@@ -412,7 +493,14 @@
       "name": "Senator Deborah O'Neill"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.marshall@aph.gov.au"
+        }
+      ],
       "email": "senator.marshall@aph.gov.au",
+      "gender": "male",
       "id": "f733205a-e6b5-466e-a111-87b773f576b6",
       "identifiers": [
         {
@@ -435,6 +523,7 @@
       "name": "Senator Gavin Marshall"
     },
     {
+      "gender": "male",
       "id": "2c087853-b69c-4677-adad-e8fc9b099d9f",
       "identifiers": [
         {
@@ -457,7 +546,14 @@
       "name": "Senator Glenn Lazarus"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.sterle@aph.gov.au"
+        }
+      ],
       "email": "senator.sterle@aph.gov.au",
+      "gender": "male",
       "id": "35c2098f-a631-4248-8c75-03f01efaac43",
       "identifiers": [
         {
@@ -474,6 +570,7 @@
       "name": "Senator Glenn Sterle"
     },
     {
+      "gender": "female",
       "id": "4c341988-b484-4e11-9383-11f3770a22d8",
       "identifiers": [
         {
@@ -490,7 +587,14 @@
       "name": "Senator Helen Kroger"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.polley@aph.gov.au"
+        }
+      ],
       "email": "senator.polley@aph.gov.au",
+      "gender": "female",
       "id": "8a8151a7-e7e7-4790-a763-2afe995d2a02",
       "identifiers": [
         {
@@ -513,6 +617,7 @@
       "name": "Senator Helen Polley"
     },
     {
+      "gender": "female",
       "id": "fc2d7e6d-55ef-41a8-9ea9-18e79b52dbca",
       "identifiers": [
         {
@@ -530,16 +635,27 @@
     },
     {
       "id": "32ca3a6f-c19d-465c-a1ad-a53564e7fade",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/144138/upload_ref_binary/144138.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/144138/upload_ref_binary/144138.jpg"
+        }
+      ],
       "name": "Senator James Paterson"
     },
     {
       "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.rice@aph.gov.au"
+        },
         {
           "type": "twitter",
           "value": "janet_rice"
         }
       ],
       "email": "senator.rice@aph.gov.au",
+      "gender": "female",
       "id": "bf2b14d0-d33a-481f-a165-1138b097f861",
       "identifiers": [
         {
@@ -570,7 +686,14 @@
       "name": "Senator Janet Rice"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jennifer.mcallister@aph.gov.au"
+        }
+      ],
       "email": "jennifer.mcallister@aph.gov.au",
+      "gender": "female",
       "id": "3f7e5adc-979c-418b-950b-4731079c2cf7",
       "identifiers": [
         {
@@ -587,6 +710,7 @@
       "name": "Senator Jenny McAllister"
     },
     {
+      "gender": "female",
       "id": "3812108f-9ee7-4972-948e-44e3d23a3982",
       "identifiers": [
         {
@@ -613,7 +737,14 @@
       "name": "Senator Joanna Lindgren"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.bullock@aph.gov.au"
+        }
+      ],
       "email": "senator.bullock@aph.gov.au",
+      "gender": "male",
       "id": "dd773e82-9df9-4d82-9b56-165af6a07f38",
       "identifiers": [
         {
@@ -630,7 +761,14 @@
       "name": "Senator Joe Bullock"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.madigan@aph.gov.au"
+        }
+      ],
       "email": "senator.madigan@aph.gov.au",
+      "gender": "male",
       "id": "8b0c6b42-84f5-4886-a026-0353b6a32cf4",
       "identifiers": [
         {
@@ -647,6 +785,7 @@
       "name": "Senator John Madigan"
     },
     {
+      "gender": "male",
       "id": "3375e2b5-b29f-48b4-a5c0-b30b6b703745",
       "identifiers": [
         {
@@ -669,7 +808,14 @@
       "name": "Senator John Williams"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.katy.gallagher@aph.gov.au"
+        }
+      ],
       "email": "senator.katy.gallagher@aph.gov.au",
+      "gender": "female",
       "id": "92c436dd-812d-4b8d-8e75-e810236027a8",
       "identifiers": [
         {
@@ -686,7 +832,14 @@
       "name": "Senator Katy Gallagher"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.waters@aph.gov.au"
+        }
+      ],
       "email": "senator.waters@aph.gov.au",
+      "gender": "female",
       "id": "bba7f0df-b8ab-43e5-97cd-a0dc8814adc3",
       "identifiers": [
         {
@@ -703,7 +856,14 @@
       "name": "Senator Larissa Waters"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.rhiannon@aph.gov.au"
+        }
+      ],
       "email": "senator.rhiannon@aph.gov.au",
+      "gender": "female",
       "id": "4d6a8209-95b4-481e-ac94-2d60743a59f4",
       "identifiers": [
         {
@@ -720,7 +880,14 @@
       "name": "Senator Lee Rhiannon"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.reynolds@aph.gov.au"
+        }
+      ],
       "email": "senator.reynolds@aph.gov.au",
+      "gender": "female",
       "id": "0010f971-580b-4161-a67e-7d5991e127fc",
       "identifiers": [
         {
@@ -737,6 +904,7 @@
       "name": "Senator Linda Reynolds CSC"
     },
     {
+      "gender": "female",
       "id": "f0fdc1b6-97cd-400e-9270-1d33dc92ed59",
       "identifiers": [
         {
@@ -753,7 +921,14 @@
       "name": "Senator Louise Pratt"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.bishop@aph.gov.au"
+        }
+      ],
       "email": "senator.bishop@aph.gov.au",
+      "gender": "male",
       "id": "092e4ca5-d575-4f04-9d1d-66f6ba1e8203",
       "identifiers": [
         {
@@ -776,6 +951,7 @@
       "name": "Senator Mark Bishop"
     },
     {
+      "gender": "male",
       "id": "bc3e14b5-ca1f-47cb-89ef-9f2d0febbb6d",
       "identifiers": [
         {
@@ -798,6 +974,7 @@
       "name": "Senator Mark Furner"
     },
     {
+      "gender": "male",
       "id": "5f5d2117-0942-4dca-841c-1720d1ace335",
       "identifiers": [
         {
@@ -814,6 +991,7 @@
       "name": "Senator Mehmet Tillem"
     },
     {
+      "gender": "male",
       "id": "3f2957c5-fe0a-45d5-b1ce-872b2bdc6d44",
       "identifiers": [
         {
@@ -830,7 +1008,14 @@
       "name": "Senator Nick McKim"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.xenophon@aph.gov.au"
+        }
+      ],
       "email": "senator.xenophon@aph.gov.au",
+      "gender": "male",
       "id": "d954072d-7cc3-4b81-81f7-124cf02695a1",
       "identifiers": [
         {
@@ -853,6 +1038,7 @@
       "name": "Senator Nick Xenophon"
     },
     {
+      "gender": "female",
       "id": "aba5ca15-f15d-4e27-8a42-efa664aa4c0c",
       "identifiers": [
         {
@@ -871,11 +1057,16 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "senator.wright@aph.gov.au"
+        },
+        {
           "type": "twitter",
           "value": "pennywrites"
         }
       ],
       "email": "senator.wright@aph.gov.au",
+      "gender": "female",
       "id": "237d09ec-a732-4191-b19b-8b4c7dd064b5",
       "identifiers": [
         {
@@ -904,11 +1095,16 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "senator.whish-wilson@aph.gov.au"
+        },
+        {
           "type": "twitter",
           "value": "SenatorSurfer"
         }
       ],
       "email": "senator.whish-wilson@aph.gov.au",
+      "gender": "male",
       "id": "6f4e7a8b-be1e-4176-97be-e411e4ddc6b5",
       "identifiers": [
         {
@@ -935,7 +1131,14 @@
       "name": "Senator Peter Whish-Wilson"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.siewert@aph.gov.au"
+        }
+      ],
       "email": "senator.siewert@aph.gov.au",
+      "gender": "female",
       "id": "b308602d-a4fa-4859-af3b-fa524e7dd228",
       "identifiers": [
         {
@@ -960,11 +1163,16 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "senator.dinatale@aph.gov.au"
+        },
+        {
           "type": "twitter",
           "value": "RichardDiNatale"
         }
       ],
       "email": "senator.dinatale@aph.gov.au",
+      "gender": "male",
       "id": "41e4f552-da12-45d9-b849-0bc36e1bb006",
       "identifiers": [
         {
@@ -997,6 +1205,7 @@
           "value": "Ricky_Muir"
         }
       ],
+      "gender": "male",
       "id": "4abf00d1-54c9-4396-9430-0d44e3f06866",
       "identifiers": [
         {
@@ -1029,11 +1238,16 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "senator.simms@aph.gov.au"
+        },
+        {
           "type": "twitter",
           "value": "SimmsRobert"
         }
       ],
       "email": "senator.simms@aph.gov.au",
+      "gender": "male",
       "id": "5beff085-580f-4893-8f58-ffd637b8cc1b",
       "identifiers": [
         {
@@ -1060,6 +1274,7 @@
       "name": "Senator Robert Simms"
     },
     {
+      "gender": "male",
       "id": "355601ad-54e5-4732-8388-fa8db4fb199f",
       "identifiers": [
         {
@@ -1076,7 +1291,14 @@
       "name": "Senator Sam Dastyari"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.hanson-young@aph.gov.au"
+        }
+      ],
       "email": "senator.hanson-young@aph.gov.au",
+      "gender": "female",
       "id": "3eb39a18-244c-4539-8dbd-be417ff3fa97",
       "identifiers": [
         {
@@ -1093,7 +1315,14 @@
       "name": "Senator Sarah Hanson-Young"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.ludlam@aph.gov.au"
+        }
+      ],
       "email": "senator.ludlam@aph.gov.au",
+      "gender": "male",
       "id": "986b86ca-13a6-4aad-8290-95bd9993b6b8",
       "identifiers": [
         {
@@ -1112,11 +1341,16 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "senator.edwards@aph.gov.au"
+        },
+        {
           "type": "twitter",
           "value": "SeanC_Edwards"
         }
       ],
       "email": "senator.edwards@aph.gov.au",
+      "gender": "male",
       "id": "8b96a7d6-f769-49d4-b577-1c6a76de1d88",
       "identifiers": [
         {
@@ -1147,6 +1381,7 @@
       "name": "Senator Sean Edwards"
     },
     {
+      "gender": "female",
       "id": "b5a7d866-6f2c-4cf6-a04e-d26e3213335d",
       "identifiers": [
         {
@@ -1169,6 +1404,7 @@
       "name": "Senator Sue Boyce"
     },
     {
+      "gender": "female",
       "id": "9cc86928-c79f-4c35-860b-671c72205585",
       "identifiers": [
         {
@@ -1187,11 +1423,16 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "senator.seselja@aph.gov.au"
+        },
+        {
           "type": "twitter",
           "value": "zedseselja"
         }
       ],
       "email": "senator.seselja@aph.gov.au",
+      "gender": "male",
       "id": "c43e89a3-e635-4eae-a186-1b0d4802e0fa",
       "identifiers": [
         {
@@ -1220,11 +1461,16 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "senator.wang@aph.gov.au"
+        },
+        {
           "type": "twitter",
           "value": "SenatorZWang"
         }
       ],
       "email": "senator.wang@aph.gov.au",
+      "gender": "male",
       "id": "2c029580-c7cf-4f76-99da-b0beb3f265f4",
       "identifiers": [
         {
@@ -1247,6 +1493,7 @@
       "name": "Senator Zhenya Wang"
     },
     {
+      "gender": "female",
       "id": "fbbaa6ca-68ea-4093-94c4-28fe8eb9a5e7",
       "identifiers": [
         {
@@ -1263,7 +1510,14 @@
       "name": "Senator the Hon Anne Ruston"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.sinodinos@aph.gov.au"
+        }
+      ],
       "email": "senator.sinodinos@aph.gov.au",
+      "gender": "male",
       "id": "800fed41-c946-4010-a910-41c820bf3ca2",
       "identifiers": [
         {
@@ -1286,6 +1540,7 @@
       "name": "Senator the Hon Arthur Sinodinos AO"
     },
     {
+      "gender": "male",
       "id": "143868a4-a562-4d3b-b50c-e134e4eb2b5b",
       "identifiers": [
         {
@@ -1308,7 +1563,14 @@
       "name": "Senator the Hon Bill Heffernan"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.mason@aph.gov.au"
+        }
+      ],
       "email": "senator.mason@aph.gov.au",
+      "gender": "male",
       "id": "2634d1ca-7e38-4458-a8f3-ae6da74a29b4",
       "identifiers": [
         {
@@ -1325,7 +1587,14 @@
       "name": "Senator the Hon Brett Mason"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Concetta.Fierravanti-Wells@dfat.gov.au"
+        }
+      ],
       "email": "Concetta.Fierravanti-Wells@dfat.gov.au",
+      "gender": "female",
       "id": "db131740-9538-4a24-8c83-9b0eab0bea22",
       "identifiers": [
         {
@@ -1348,6 +1617,7 @@
       "name": "Senator the Hon Concetta Fierravanti-Wells"
     },
     {
+      "gender": "male",
       "id": "fa6d6ed9-90d9-4225-a8c6-95cbe7528c39",
       "identifiers": [
         {
@@ -1364,6 +1634,7 @@
       "name": "Senator the Hon David Johnston"
     },
     {
+      "gender": "male",
       "id": "4d24a721-a2c3-411e-bf4b-6bcbdb9876ba",
       "identifiers": [
         {
@@ -1380,7 +1651,14 @@
       "name": "Senator the Hon Don Farrell"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.cameron@aph.gov.au"
+        }
+      ],
       "email": "senator.cameron@aph.gov.au",
+      "gender": "male",
       "id": "db4b072e-fcd2-48b6-a5f4-751f68b03eab",
       "identifiers": [
         {
@@ -1413,6 +1691,7 @@
           "value": "SenatorAbetz"
         }
       ],
+      "gender": "male",
       "id": "d4053204-d523-40fd-a661-b19e362ceccc",
       "identifiers": [
         {
@@ -1443,6 +1722,7 @@
       "name": "Senator the Hon Eric Abetz"
     },
     {
+      "gender": "female",
       "id": "f4009041-9614-4e28-bbaf-6f465093d887",
       "identifiers": [
         {
@@ -1465,7 +1745,14 @@
       "name": "Senator the Hon Fiona Nash"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.brandis@aph.gov.au"
+        }
+      ],
       "email": "senator.brandis@aph.gov.au",
+      "gender": "male",
       "id": "011f00b2-70b7-49c4-a55e-8cbda1ab3a38",
       "identifiers": [
         {
@@ -1482,6 +1769,7 @@
       "name": "Senator the Hon George Brandis QC"
     },
     {
+      "gender": "male",
       "id": "e79ae9c0-a9e1-45a0-a6d5-45d295169a10",
       "identifiers": [
         {
@@ -1504,6 +1792,7 @@
       "name": "Senator the Hon Ian Macdonald"
     },
     {
+      "gender": "female",
       "id": "798bb3bc-e9a4-4faa-9694-3a2ed4ce0bed",
       "identifiers": [
         {
@@ -1526,6 +1815,7 @@
           "value": "JamesMcGrathLNP"
         }
       ],
+      "gender": "male",
       "id": "fcff592e-b0d0-4fb2-a62b-056ded632c34",
       "identifiers": [
         {
@@ -1552,7 +1842,14 @@
       "name": "Senator the Hon James McGrath"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.mclucas@aph.gov.au"
+        }
+      ],
       "email": "senator.mclucas@aph.gov.au",
+      "gender": "female",
       "id": "2b2081df-2fe3-43d5-9886-c8d01bef443e",
       "identifiers": [
         {
@@ -1575,7 +1872,14 @@
       "name": "Senator the Hon Jan McLucas"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.faulkner@aph.gov.au"
+        }
+      ],
       "email": "senator.faulkner@aph.gov.au",
+      "gender": "male",
       "id": "91ed0aba-03e0-40df-a1bf-95b1c3128f48",
       "identifiers": [
         {
@@ -1598,7 +1902,14 @@
       "name": "Senator the Hon John Faulkner"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.hogg@aph.gov.au"
+        }
+      ],
       "email": "senator.hogg@aph.gov.au",
+      "gender": "male",
       "id": "6c2433de-08d7-402d-b2ac-d60b9f4d01df",
       "identifiers": [
         {
@@ -1615,6 +1926,7 @@
       "name": "Senator the Hon John Hogg"
     },
     {
+      "gender": "male",
       "id": "8b0eb988-e462-4b8a-a947-4970b143b8de",
       "identifiers": [
         {
@@ -1637,7 +1949,14 @@
       "name": "Senator the Hon Joseph Ludwig"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.lundy@aph.gov.au"
+        }
+      ],
       "email": "senator.lundy@aph.gov.au",
+      "gender": "female",
       "id": "a00901e6-0ecd-474a-bd0b-25e476fb6676",
       "identifiers": [
         {
@@ -1660,7 +1979,14 @@
       "name": "Senator the Hon Kate Lundy"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.carr@aph.gov.au"
+        }
+      ],
       "email": "senator.carr@aph.gov.au",
+      "gender": "male",
       "id": "e5965652-0ceb-4f21-a435-5883c8207885",
       "identifiers": [
         {
@@ -1677,7 +2003,14 @@
       "name": "Senator the Hon Kim Carr"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.thorp@aph.gov.au"
+        }
+      ],
       "email": "senator.thorp@aph.gov.au",
+      "gender": "female",
       "id": "cdbd90ad-9f19-4c7a-bf47-dc9bbda4367e",
       "identifiers": [
         {
@@ -1694,7 +2027,14 @@
       "name": "Senator the Hon Lin Thorp"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.singh@aph.gov.au"
+        }
+      ],
       "email": "senator.singh@aph.gov.au",
+      "gender": "female",
       "id": "fe076b5f-04a7-44c4-931f-de8aa2635f46",
       "identifiers": [
         {
@@ -1717,7 +2057,14 @@
       "name": "Senator the Hon Lisa Singh"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "minister@defence.gov.au"
+        }
+      ],
       "email": "minister@defence.gov.au",
+      "gender": "female",
       "id": "34b7af42-fa68-4e04-9a16-92a7cdd1082b",
       "identifiers": [
         {
@@ -1740,6 +2087,7 @@
       "name": "Senator the Hon Marise Payne"
     },
     {
+      "gender": "male",
       "id": "88876a8a-2909-4fc9-8211-047df1bc43ef",
       "identifiers": [
         {
@@ -1762,7 +2110,14 @@
       "name": "Senator the Hon Mathias Cormann"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "minister.canavan@industry.gov.au"
+        }
+      ],
       "email": "minister.canavan@industry.gov.au",
+      "gender": "male",
       "id": "59ae5aa3-637b-4d84-94cf-9609854dd6c8",
       "identifiers": [
         {
@@ -1791,6 +2146,7 @@
           "value": "senronno"
         }
       ],
+      "gender": "male",
       "id": "a263008a-ea71-4dd7-b348-8e73a6289b54",
       "identifiers": [
         {
@@ -1817,6 +2173,7 @@
       "name": "Senator the Hon Michael Ronaldson"
     },
     {
+      "gender": "female",
       "id": "26c73bfa-9bd8-43e0-99d7-9183da991280",
       "identifiers": [
         {
@@ -1839,6 +2196,7 @@
           "value": "SenatorFifield"
         }
       ],
+      "gender": "male",
       "id": "e930bdf9-1e7b-472b-adb2-9816c9f1cef8",
       "identifiers": [
         {
@@ -1869,7 +2227,14 @@
       "name": "Senator the Hon Mitch Fifield"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.scullion@aph.gov.au"
+        }
+      ],
       "email": "senator.scullion@aph.gov.au",
+      "gender": "male",
       "id": "aa4699f5-7e99-4b4e-9a86-aabeaa3af028",
       "identifiers": [
         {
@@ -1892,6 +2257,7 @@
       "name": "Senator the Hon Nigel Scullion"
     },
     {
+      "gender": "female",
       "id": "824ec8ce-676f-45fa-ace6-73503dd0ff20",
       "identifiers": [
         {
@@ -1914,7 +2280,14 @@
       "name": "Senator the Hon Penny Wong"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.colbeck@aph.gov.au"
+        }
+      ],
       "email": "senator.colbeck@aph.gov.au",
+      "gender": "male",
       "id": "a411ea63-c0a8-4df7-b88b-872390ceff4d",
       "identifiers": [
         {
@@ -1931,7 +2304,14 @@
       "name": "Senator the Hon Richard Colbeck"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.boswell@aph.gov.au"
+        }
+      ],
       "email": "senator.boswell@aph.gov.au",
+      "gender": "male",
       "id": "f93a480f-8e42-4a7b-99d7-20f9a5cc096a",
       "identifiers": [
         {
@@ -1954,6 +2334,7 @@
       "name": "Senator the Hon Ronald Boswell"
     },
     {
+      "gender": "male",
       "id": "1e2862d9-66e0-4d93-aea4-3927c14e5b8a",
       "identifiers": [
         {
@@ -1982,6 +2363,7 @@
           "value": "Birmo"
         }
       ],
+      "gender": "male",
       "id": "21da000d-f8ca-41a2-bcf8-0bbf45547fcb",
       "identifiers": [
         {
@@ -2012,7 +2394,14 @@
       "name": "Senator the Hon Simon Birmingham"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.conroy@aph.gov.au"
+        }
+      ],
       "email": "senator.conroy@aph.gov.au",
+      "gender": "male",
       "id": "9a016d4d-f26b-4b85-a026-f2eba23de3b8",
       "identifiers": [
         {
@@ -2029,7 +2418,14 @@
       "name": "Senator the Hon Stephen Conroy"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.parry@aph.gov.au"
+        }
+      ],
       "email": "senator.parry@aph.gov.au",
+      "gender": "male",
       "id": "39dd4c49-f329-4fb3-976d-fd8cbb563b9f",
       "identifiers": [
         {
@@ -2052,7 +2448,14 @@
       "name": "Senator the Hon Stephen Parry"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.stephens@aph.gov.au"
+        }
+      ],
       "email": "senator.stephens@aph.gov.au",
+      "gender": "female",
       "id": "72d03e5d-8c81-492e-8dfe-914f5889c62a",
       "identifiers": [
         {
