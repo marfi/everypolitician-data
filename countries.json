@@ -3271,11 +3271,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Ghana/Parliament/sources",
         "popolo": "data/Ghana/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c32596a/data/Ghana/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0b1fae8/data/Ghana/Parliament/ep-popolo-v1.0.json",
         "names": "data/Ghana/Parliament/names.csv",
-        "lastmod": "1457977387",
+        "lastmod": "1458590161",
         "person_count": 272,
-        "sha": "c32596a",
+        "sha": "0b1fae8",
         "legislative_periods": [
           {
             "id": "term/6",
@@ -3283,10 +3283,10 @@
             "start_date": "2013-01-07",
             "slug": "6",
             "csv": "data/Ghana/Parliament/term-6.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c32596a/data/Ghana/Parliament/term-6.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0b1fae8/data/Ghana/Parliament/term-6.csv"
           }
         ],
-        "statement_count": 5253
+        "statement_count": 5308
       }
     ]
   },
