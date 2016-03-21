@@ -1,7 +1,14 @@
 {
   "persons": [
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ccannionier@gov.bm"
+        }
+      ],
       "email": "ccannionier@gov.bm",
+      "gender": "male",
       "id": "da919d3c-7428-4060-8210-3f891d64a165",
       "identifiers": [
         {
@@ -17,7 +24,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dburt@parliament.bm"
+        }
+      ],
       "email": "dburt@parliament.bm",
+      "gender": "male",
       "id": "4e371e00-0bf3-4f5a-9169-4c5d1a4b7f3d",
       "identifiers": [
         {
@@ -33,7 +47,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dlister@parliament.bm"
+        }
+      ],
       "email": "dlister@parliament.bm",
+      "gender": "male",
       "id": "7bac9f33-a256-4d00-b23f-3034f47cd490",
       "identifiers": [
         {
@@ -49,7 +70,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dburgess@parliament.bm"
+        }
+      ],
       "email": "dburgess@parliament.bm",
+      "gender": "male",
       "id": "4b1d891c-465c-42c5-86dd-9915ff6d294e",
       "identifiers": [
         {
@@ -65,6 +93,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "brichards@parliament.bm"
+        }
+      ],
       "email": "brichards@parliament.bm",
       "id": "1b665795-e69c-45f0-85bc-e1a64757aeb5",
       "identifiers": [
@@ -81,7 +115,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gsmith@parliament.bm"
+        }
+      ],
       "email": "gsmith@parliament.bm",
+      "gender": "male",
       "id": "430e5466-2563-40f6-a83a-be8ae066f8b1",
       "identifiers": [
         {
@@ -97,7 +138,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gblakeney@parliament.bm"
+        }
+      ],
       "email": "gblakeney@parliament.bm",
+      "gender": "male",
       "id": "5bf62486-7511-4137-a4ff-af93a51c9663",
       "identifiers": [
         {
@@ -113,6 +161,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ggibbons@parliament.bm"
+        }
+      ],
       "email": "ggibbons@parliament.bm",
       "id": "22418002-d171-433d-88b0-6dec17be9b0e",
       "identifiers": [
@@ -129,6 +183,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jsimmons@parliament.bm"
+        }
+      ],
       "email": "jsimmons@parliament.bm",
       "id": "0347b0da-6105-4972-8e96-ba36ed868290",
       "identifiers": [
@@ -145,7 +205,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jatherden@parliament.bm"
+        }
+      ],
       "email": "jatherden@parliament.bm",
+      "gender": "female",
       "id": "473b3658-f9a2-4ca5-b184-b9c8e41e18ee",
       "identifiers": [
         {
@@ -161,7 +228,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jsousa@parliament.bm"
+        }
+      ],
       "email": "jsousa@parliament.bm",
+      "gender": "male",
       "id": "39757701-60ca-449e-afae-193dfa42960c",
       "identifiers": [
         {
@@ -177,7 +251,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "kbascome@parliament.bm"
+        }
+      ],
       "email": "kbascome@parliament.bm",
+      "gender": "male",
       "id": "9557ad39-254e-4cef-928d-517fc19eb1d8",
       "identifiers": [
         {
@@ -193,6 +274,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "kwilson@parliament.bm"
+        }
+      ],
       "email": "kwilson@parliament.bm",
       "id": "ad61ceea-0ab4-4b17-9b69-ea36c3cd6793",
       "identifiers": [
@@ -209,7 +296,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lwscott@parliament.bm"
+        }
+      ],
       "email": "lwscott@parliament.bm",
+      "gender": "male",
       "id": "8fa1ce62-470b-47ef-b113-a78f8f244bd8",
       "identifiers": [
         {
@@ -225,6 +319,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lkscott@gov.bm"
+        }
+      ],
       "email": "lkscott@gov.bm",
       "id": "ab4c0f57-0dd0-49f9-9bae-de7cfd30a4c7",
       "identifiers": [
@@ -241,6 +341,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lfoggo@parliament.bm"
+        }
+      ],
       "email": "lfoggo@parliament.bm",
       "id": "cceb16f2-0596-4908-a9e3-bd8bf12ac8c5",
       "identifiers": [
@@ -257,7 +363,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mbean@parliament.bm"
+        }
+      ],
       "email": "mbean@parliament.bm",
+      "gender": "male",
       "id": "81fd4be1-95c6-4d7c-baba-9d2143d9f040",
       "identifiers": [
         {
@@ -273,7 +386,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mpettingill@parliament.bm"
+        }
+      ],
       "email": "mpettingill@parliament.bm",
+      "gender": "male",
       "id": "be1278f3-94f4-455f-8516-4fe3613b6bf5",
       "identifiers": [
         {
@@ -289,7 +409,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mdunkley@parliament.bm"
+        }
+      ],
       "email": "mdunkley@parliament.bm",
+      "gender": "male",
       "id": "70b7b863-9aef-4e28-9294-8e976a71a724",
       "identifiers": [
         {
@@ -305,7 +432,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mscott@parliament.bm"
+        }
+      ],
       "email": "mscott@parliament.bm",
+      "gender": "male",
       "id": "0a362f73-62da-4b81-9a10-b35a808e2526",
       "identifiers": [
         {
@@ -321,7 +455,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mweeks@parliament.bm"
+        }
+      ],
       "email": "mweeks@parliament.bm",
+      "gender": "male",
       "id": "4a7638a6-dd24-4013-8259-bb3eb6694128",
       "identifiers": [
         {
@@ -337,6 +478,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "nsimons@parliament.bm"
+        }
+      ],
       "email": "nsimons@parliament.bm",
       "id": "d1daf36a-d8c4-4b5e-a422-f22c4d8241e1",
       "identifiers": [
@@ -353,6 +500,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "nouterbridge@parliament.bm"
+        }
+      ],
       "email": "nouterbridge@parliament.bm",
       "id": "bd859805-3665-4548-b0a6-34373a8799ae",
       "identifiers": [
@@ -369,7 +522,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ppamplin@parliament.bm"
+        }
+      ],
       "email": "ppamplin@parliament.bm",
+      "gender": "female",
       "id": "8692b367-895c-4114-8aba-fe698f97e823",
       "identifiers": [
         {
@@ -385,6 +545,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rhorton@parliament.bm"
+        }
+      ],
       "email": "rhorton@parliament.bm",
       "id": "5c41d231-4ace-4aa6-a1c4-aeb65619a9b1",
       "identifiers": [
@@ -401,6 +567,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rcommissiong@parliament.bm"
+        }
+      ],
       "email": "rcommissiong@parliament.bm",
       "id": "7a4fc9de-8e67-4793-aed4-22a645b06bb4",
       "identifiers": [
@@ -417,6 +589,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "scrockwell@parliament.bm"
+        }
+      ],
       "email": "scrockwell@parliament.bm",
       "id": "22db93c9-893b-4a2f-b2ad-b31dedfbcce7",
       "identifiers": [
@@ -433,7 +611,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "sjackson@parliament.bm"
+        }
+      ],
       "email": "sjackson@parliament.bm",
+      "gender": "female",
       "id": "b339af1d-3e35-46da-997d-131d8a615292",
       "identifiers": [
         {
@@ -449,7 +634,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "sholshouser@parliament.bm"
+        }
+      ],
       "email": "sholshouser@parliament.bm",
+      "gender": "female",
       "id": "194f7628-c994-49e5-aa2f-12565840e644",
       "identifiers": [
         {
@@ -465,6 +657,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "srichards@parliament.bm"
+        }
+      ],
       "email": "srichards@parliament.bm",
       "id": "48d0f14d-381c-496e-a935-f8386d3b8196",
       "identifiers": [
@@ -481,7 +679,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tmoniz@parliament.bm"
+        }
+      ],
       "email": "tmoniz@parliament.bm",
+      "gender": "male",
       "id": "e2a98a6e-ac6e-41d0-bc48-504037119dd4",
       "identifiers": [
         {
@@ -497,7 +702,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "wroban@parliament.bm"
+        }
+      ],
       "email": "wroban@parliament.bm",
+      "gender": "male",
       "id": "a4ff5cae-ffd7-4357-9e1c-9b9d434a6f63",
       "identifiers": [
         {
@@ -513,6 +725,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "wbrown@parliament.bm"
+        }
+      ],
       "email": "wbrown@parliament.bm",
       "id": "9b6f6fff-462b-4a68-bca0-ee78f5ec135f",
       "identifiers": [
@@ -529,7 +747,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "wfurbert@parliament.bm"
+        }
+      ],
       "email": "wfurbert@parliament.bm",
+      "gender": "male",
       "id": "a48c42b5-1b9a-400b-b1fc-0c66f9e7e024",
       "identifiers": [
         {
@@ -545,7 +770,14 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rwscott@parliament.bm"
+        }
+      ],
       "email": "rwscott@parliament.bm",
+      "gender": "male",
       "id": "285a14ff-3cc2-4fe7-a823-f0694083bb2a",
       "identifiers": [
         {
@@ -561,6 +793,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "zdesilva@parliament.bm"
+        }
+      ],
       "email": "zdesilva@parliament.bm",
       "id": "6e83663a-50b6-41aa-896c-5807a72f8a9e",
       "identifiers": [
