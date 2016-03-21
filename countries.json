@@ -261,11 +261,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Anguilla/Assembly/sources",
         "popolo": "data/Anguilla/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9dcf1ea/data/Anguilla/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7b8407c/data/Anguilla/Assembly/ep-popolo-v1.0.json",
         "names": "data/Anguilla/Assembly/names.csv",
-        "lastmod": "1453735279",
+        "lastmod": "1458574032",
         "person_count": 18,
-        "sha": "9dcf1ea",
+        "sha": "7b8407c",
         "legislative_periods": [
           {
             "end_date": "2020",
@@ -274,7 +274,7 @@
             "start_date": "2015",
             "slug": "2015",
             "csv": "data/Anguilla/Assembly/term-2015.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9dcf1ea/data/Anguilla/Assembly/term-2015.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7b8407c/data/Anguilla/Assembly/term-2015.csv"
           },
           {
             "end_date": "2015",
@@ -283,7 +283,7 @@
             "start_date": "2010",
             "slug": "2010",
             "csv": "data/Anguilla/Assembly/term-2010.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9dcf1ea/data/Anguilla/Assembly/term-2010.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7b8407c/data/Anguilla/Assembly/term-2010.csv"
           },
           {
             "end_date": "2010",
@@ -292,7 +292,7 @@
             "start_date": "2005",
             "slug": "2005",
             "csv": "data/Anguilla/Assembly/term-2005.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9dcf1ea/data/Anguilla/Assembly/term-2005.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7b8407c/data/Anguilla/Assembly/term-2005.csv"
           },
           {
             "end_date": "2005",
@@ -301,7 +301,7 @@
             "start_date": "2000",
             "slug": "2000",
             "csv": "data/Anguilla/Assembly/term-2000.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9dcf1ea/data/Anguilla/Assembly/term-2000.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7b8407c/data/Anguilla/Assembly/term-2000.csv"
           },
           {
             "end_date": "2000",
@@ -310,7 +310,7 @@
             "start_date": "1999",
             "slug": "1999",
             "csv": "data/Anguilla/Assembly/term-1999.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9dcf1ea/data/Anguilla/Assembly/term-1999.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7b8407c/data/Anguilla/Assembly/term-1999.csv"
           },
           {
             "end_date": "1999",
@@ -319,7 +319,7 @@
             "start_date": "1994",
             "slug": "1994",
             "csv": "data/Anguilla/Assembly/term-1994.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9dcf1ea/data/Anguilla/Assembly/term-1994.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7b8407c/data/Anguilla/Assembly/term-1994.csv"
           },
           {
             "end_date": "1994",
@@ -328,10 +328,10 @@
             "start_date": "1989",
             "slug": "1989",
             "csv": "data/Anguilla/Assembly/term-1989.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9dcf1ea/data/Anguilla/Assembly/term-1989.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7b8407c/data/Anguilla/Assembly/term-1989.csv"
           }
         ],
-        "statement_count": 748
+        "statement_count": 765
       }
     ]
   },
