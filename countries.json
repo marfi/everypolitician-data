@@ -5307,11 +5307,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Madagascar/Assembly/sources",
         "popolo": "data/Madagascar/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3b67ce8/data/Madagascar/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/495c608/data/Madagascar/Assembly/ep-popolo-v1.0.json",
         "names": "data/Madagascar/Assembly/names.csv",
-        "lastmod": "1457176942",
-        "person_count": 151,
-        "sha": "3b67ce8",
+        "lastmod": "1458565015",
+        "person_count": 201,
+        "sha": "495c608",
         "legislative_periods": [
           {
             "end_date": "2018",
@@ -5320,10 +5320,10 @@
             "start_date": "2013-12-20",
             "slug": "2013",
             "csv": "data/Madagascar/Assembly/term-2013.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3b67ce8/data/Madagascar/Assembly/term-2013.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/495c608/data/Madagascar/Assembly/term-2013.csv"
           }
         ],
-        "statement_count": 2444
+        "statement_count": 2956
       }
     ]
   },
@@ -7892,11 +7892,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Scotland/Parliament/sources",
         "popolo": "data/Scotland/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ef48ace/data/Scotland/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c56a341/data/Scotland/Parliament/ep-popolo-v1.0.json",
         "names": "data/Scotland/Parliament/names.csv",
-        "lastmod": "1458474056",
+        "lastmod": "1458563733",
         "person_count": 254,
-        "sha": "ef48ace",
+        "sha": "c56a341",
         "legislative_periods": [
           {
             "id": "term/4",
@@ -7904,7 +7904,7 @@
             "start_date": "2011-05-06",
             "slug": "4",
             "csv": "data/Scotland/Parliament/term-4.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ef48ace/data/Scotland/Parliament/term-4.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c56a341/data/Scotland/Parliament/term-4.csv"
           },
           {
             "end_date": "2011-05-04",
@@ -7913,7 +7913,7 @@
             "start_date": "2007-05-03",
             "slug": "3",
             "csv": "data/Scotland/Parliament/term-3.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ef48ace/data/Scotland/Parliament/term-3.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c56a341/data/Scotland/Parliament/term-3.csv"
           },
           {
             "end_date": "2007-04-02",
@@ -7922,7 +7922,7 @@
             "start_date": "2003-05-01",
             "slug": "2",
             "csv": "data/Scotland/Parliament/term-2.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ef48ace/data/Scotland/Parliament/term-2.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c56a341/data/Scotland/Parliament/term-2.csv"
           },
           {
             "end_date": "2003-03-31",
@@ -7931,10 +7931,10 @@
             "start_date": "1999-05-06",
             "slug": "1",
             "csv": "data/Scotland/Parliament/term-1.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ef48ace/data/Scotland/Parliament/term-1.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c56a341/data/Scotland/Parliament/term-1.csv"
           }
         ],
-        "statement_count": 15591
+        "statement_count": 15593
       }
     ]
   },
