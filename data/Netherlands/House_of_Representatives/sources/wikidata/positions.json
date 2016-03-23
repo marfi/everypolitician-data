@@ -1,156 +1,63 @@
 {
-  "Q2008535": [
+  "Q2578260": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1586909": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands",
       "qualifiers": {
-        "P580": "2010-06-17"
+        "P580": "1998"
       }
     }
   ],
-  "Q1396426": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q2523712": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q1907117": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q2552589": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q2048089": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q17351519": [
+  "Q94229": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands",
       "qualifiers": {
-        "P580": "2014-06-25"
+        "P580": "2012-09-20"
       }
     }
   ],
-  "Q507401": [
+  "Q510398": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands"
     }
   ],
-  "Q1950643": [
+  "Q2262545": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands"
     }
   ],
-  "Q2052110": [
+  "Q658258": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands"
     }
   ],
-  "Q2257536": [
+  "Q17428405": [
     {
       "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P155": "Cora van Nieuwenhuizen",
+        "P580": "2014-07-01"
+      }
     },
     {
-      "id": "Q21384866",
-      "label": "municipal executive of Rotterdam"
-    }
-  ],
-  "Q1532040": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q1532045": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q15709851": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q1994265": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q1284113": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q1285211": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q15060597": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q1397836": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q4363961": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q2348473": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q2472008": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q1194985": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q1960107": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
+      "id": "Q20748648",
+      "label": "municipal councillor",
+      "qualifiers": {
+        "P642": "Amsterdam-Zuid",
+        "P580": "2007-05",
+        "P582": "2014-04"
+      }
     }
   ],
   "Q868625": [
@@ -159,28 +66,40 @@
       "label": "member of the House of Representatives of the Netherlands"
     }
   ],
-  "Q2629616": [
+  "Q2595414": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1954200": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q82761": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands",
       "qualifiers": {
-        "P580": "2006"
+        "P580": "2012-09-20"
       }
     }
   ],
-  "Q19830701": [
+  "Q617451": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands"
     }
   ],
-  "Q560780": [
+  "Q94239": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands"
     }
   ],
-  "Q617677": [
+  "Q2125339": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands"
@@ -192,52 +111,19 @@
       "label": "member of the House of Representatives of the Netherlands"
     }
   ],
-  "Q15059632": [
+  "Q1532045": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands"
     }
   ],
-  "Q2347887": [
+  "Q2895887": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands"
     }
   ],
-  "Q1196000": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q502110": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q21004358": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P580": "2015-09-22"
-      }
-    }
-  ],
-  "Q510398": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q19839084": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q617451": [
+  "Q377266": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands"
@@ -252,28 +138,55 @@
       }
     }
   ],
-  "Q2010479": [
+  "Q467610": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands"
     }
   ],
-  "Q2343224": [
+  "Q501711": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands"
     }
   ],
-  "Q428538": [
+  "Q434842": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands"
     }
   ],
-  "Q13786091": [
+  "Q868648": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1375236": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1960107": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q502110": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q2150230": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2015-03-26"
+      }
     }
   ],
   "Q2456351": [
@@ -285,16 +198,477 @@
       }
     }
   ],
-  "Q2310534": [
+  "Q15059632": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1397836": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q2478764": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands",
       "qualifiers": {
+        "P580": "2006"
+      }
+    }
+  ],
+  "Q2354753": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1196006": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q5165280": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q545122": [
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament"
+    },
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q467982": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1196000": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1532558": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q2453751": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2010-10-26",
+        "P582": "2013-07-23"
+      }
+    }
+  ],
+  "Q1194985": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q428469": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q2523712": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1948934": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P582": "2016-01-20",
         "P580": "2010-06-17"
       }
     }
   ],
-  "Q1949438": [
+  "Q616635": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1841359": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1948085": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q2420642": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q21004358": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2015-09-22"
+      }
+    }
+  ],
+  "Q251781": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1950643": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q510705": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2003-01-30"
+      }
+    },
+    {
+      "id": "Q2588268",
+      "label": "Speaker of the House of Representatives (Netherlands)",
+      "qualifiers": {
+        "P580": "2012-09-25",
+        "P1365": "Gerdi Verbeet",
+        "P582": "2015-12-12"
+      }
+    }
+  ],
+  "Q2257536": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    },
+    {
+      "id": "Q21384866",
+      "label": "municipal executive of Rotterdam"
+    }
+  ],
+  "Q428538": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1532545": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q733208": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q2106896": [
+    {
+      "id": "Q486839",
+      "label": "member of parliament"
+    },
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1662099": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q3144489": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q2779827": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q428544": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P582": "2015-09-22",
+        "P580": "2012-09-20"
+      }
+    }
+  ],
+  "Q617677": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q2089254": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2006-11-22"
+      }
+    },
+    {
+      "id": "Q19305384",
+      "label": "member of the Senate of the Netherlands",
+      "qualifiers": {
+        "P580": "2003-06-10"
+      }
+    }
+  ],
+  "Q1396426": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q401383": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q18638463": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1915394": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q21473948": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2015-11-03"
+      }
+    }
+  ],
+  "Q2612472": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    },
+    {
+      "id": "Q19305384",
+      "label": "member of the Senate of the Netherlands"
+    }
+  ],
+  "Q4363961": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q94234": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1194942": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q21479701": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2015-12-02"
+      }
+    }
+  ],
+  "Q2508545": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1958936": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1994265": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q2797379": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q2007401": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q976442": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q463434": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2006-11-30"
+      }
+    }
+  ],
+  "Q3180577": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2006-11-30"
+      }
+    }
+  ],
+  "Q2348473": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q224585": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2012-09-20"
+      }
+    }
+  ],
+  "Q2343224": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q18692811": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q15709851": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q2851980": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q2481353": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1285211": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q3084300": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1824075": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1532040": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q14753258": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2014-02-06"
+      }
+    }
+  ],
+  "Q2798242": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q19839084": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q2472008": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands"
@@ -306,28 +680,304 @@
       "label": "member of the House of Representatives of the Netherlands"
     }
   ],
-  "Q14584262": [
+  "Q458066": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands",
       "qualifiers": {
-        "P580": "2013-06-18"
+        "P580": "1998",
+        "P582": "2006"
+      }
+    },
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2007"
+      }
+    },
+    {
+      "id": "Q2588268",
+      "label": "Speaker of the House of Representatives (Netherlands)",
+      "qualifiers": {
+        "P580": "2016-01-13"
       }
     }
   ],
-  "Q94239": [
+  "Q2552589": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands"
     }
   ],
-  "Q251781": [
+  "Q2010479": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q731640": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "1998-05-19"
+      }
+    }
+  ],
+  "Q560780": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q861657": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q19830701": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q2310534": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2010-06-17"
+      }
+    }
+  ],
+  "Q169515": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1815251": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2006-11-30"
+      }
+    }
+  ],
+  "Q1194971": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2012-09-20"
+      }
+    },
+    {
+      "id": "Q20872336",
+      "label": "municipal councillor of Woerden",
+      "qualifiers": {
+        "P580": "2001-01-01",
+        "P582": "2007-07-20"
+      }
+    },
+    {
+      "id": "Q20872336",
+      "label": "municipal councillor of Woerden",
+      "qualifiers": {
+        "P580": "2010-03-11",
+        "P582": "2010-05-27"
+      }
+    },
+    {
+      "id": "Q20872339",
+      "label": "municipal executive of Woerden",
+      "qualifiers": {
+        "P580": "2007-07-20",
+        "P582": "2010-05-27"
+      }
+    }
+  ],
+  "Q1397811": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q545023": [
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament"
+    },
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1397858": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1285219": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q875195": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q2048089": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q224863": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2012-09-20"
+      }
+    },
+    {
+      "id": "Q19305384",
+      "label": "member of the Senate of the Netherlands",
+      "qualifiers": {
+        "P580": "2011-06-07",
+        "P582": "2012-09-20"
+      }
+    }
+  ],
+  "Q2783559": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2012-10-30"
+      }
+    }
+  ],
+  "Q2052110": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q129718": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q7154615": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q507401": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands"
     }
   ],
   "Q2285105": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q12013388": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2014-04-15"
+      }
+    },
+    {
+      "id": "Q19305384",
+      "label": "member of the Senate of the Netherlands",
+      "qualifiers": {
+        "P580": "2007",
+        "P582": "2014-04-15"
+      }
+    }
+  ],
+  "Q2197145": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q868632": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q7192814": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q15060597": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q2429720": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    },
+    {
+      "id": "Q21384866",
+      "label": "municipal executive of Rotterdam"
+    }
+  ],
+  "Q17351519": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2014-06-25"
+      }
+    }
+  ],
+  "Q2629616": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2006"
+      }
+    }
+  ],
+  "Q2854502": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q1284113": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q5090363": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands"
@@ -358,556 +1008,10 @@
       }
     }
   ],
-  "Q12013388": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P580": "2014-04-15"
-      }
-    },
-    {
-      "id": "Q19305384",
-      "label": "member of the Senate of the Netherlands",
-      "qualifiers": {
-        "P580": "2007",
-        "P582": "2014-04-15"
-      }
-    }
-  ],
-  "Q18692811": [
+  "Q2347887": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q5165280": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q2420642": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q746203": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P580": "2006"
-      }
-    }
-  ],
-  "Q82761": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P580": "2012-09-20"
-      }
-    }
-  ],
-  "Q2478764": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P580": "2006"
-      }
-    }
-  ],
-  "Q1954200": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q2854502": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q2779827": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q18638463": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q129718": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q94229": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P580": "2012-09-20"
-      }
-    }
-  ],
-  "Q1958936": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q94234": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q7192814": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q2125339": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q224863": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P580": "2012-09-20"
-      }
-    },
-    {
-      "id": "Q19305384",
-      "label": "member of the Senate of the Netherlands",
-      "qualifiers": {
-        "P580": "2011-06-07",
-        "P582": "2012-09-20"
-      }
-    }
-  ],
-  "Q2501822": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P580": "2006-11-30"
-      }
-    }
-  ],
-  "Q2508545": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q2089254": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P580": "2006-11-22"
-      }
-    },
-    {
-      "id": "Q19305384",
-      "label": "member of the Senate of the Netherlands",
-      "qualifiers": {
-        "P580": "2003-06-10"
-      }
-    }
-  ],
-  "Q2379296": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P580": "2006"
-      }
-    }
-  ],
-  "Q2680236": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q2797379": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q14753258": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P580": "2014-02-06"
-      }
-    }
-  ],
-  "Q169515": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q2625041": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q196276": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q455186": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q2354753": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q1824075": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q731640": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P580": "1998-05-19"
-      }
-    }
-  ],
-  "Q2783559": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P580": "2012-10-30"
-      }
-    }
-  ],
-  "Q2262545": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q463434": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P580": "2006-11-30"
-      }
-    }
-  ],
-  "Q82771": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q7154615": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q2851980": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q2429720": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    },
-    {
-      "id": "Q21384866",
-      "label": "municipal executive of Rotterdam"
-    }
-  ],
-  "Q516335": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q2481353": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q3084300": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q2595414": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q1948934": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P582": "2016-01-20",
-        "P580": "2010-06-17"
-      }
-    }
-  ],
-  "Q5090363": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q224585": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P580": "2012-09-20"
-      }
-    }
-  ],
-  "Q976442": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q2578260": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q2197145": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q510705": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P580": "2003-01-30"
-      }
-    },
-    {
-      "id": "Q2588268",
-      "label": "Speaker of the House of Representatives (Netherlands)",
-      "qualifiers": {
-        "P580": "2012-09-25",
-        "P1365": "Gerdi Verbeet",
-        "P582": "2015-12-12"
-      }
-    }
-  ],
-  "Q1397811": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q467610": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q434842": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q1299042": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P580": "2010-06-17"
-      }
-    }
-  ],
-  "Q2895887": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q1532558": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q658258": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q1915394": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q377266": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q1397858": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q2251998": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P580": "2006"
-      }
-    }
-  ],
-  "Q1841359": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q129365": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q1662099": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q501711": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q16069986": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q3180577": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P580": "2006-11-30"
-      }
-    }
-  ],
-  "Q733208": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q2612472": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    },
-    {
-      "id": "Q19305384",
-      "label": "member of the Senate of the Netherlands"
-    }
-  ],
-  "Q545122": [
-    {
-      "id": "Q27169",
-      "label": "member of the European Parliament"
-    },
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q1285219": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q2150230": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P580": "2015-03-26"
-      }
-    }
-  ],
-  "Q1375236": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q1586909": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P580": "1998"
-      }
     }
   ],
   "Q105338": [
@@ -947,7 +1051,7 @@
       }
     }
   ],
-  "Q467982": [
+  "Q516335": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands"
@@ -959,213 +1063,136 @@
       "label": "member of the House of Representatives of the Netherlands"
     }
   ],
-  "Q3144489": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q545023": [
-    {
-      "id": "Q27169",
-      "label": "member of the European Parliament"
-    },
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q616635": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q428469": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q868632": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q2453751": [
+  "Q2379296": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands",
       "qualifiers": {
-        "P580": "2010-10-26",
-        "P582": "2013-07-23"
+        "P580": "2006"
       }
     }
   ],
-  "Q1948085": [
+  "Q16069986": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands"
     }
   ],
-  "Q2798242": [
+  "Q1949438": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands"
     }
   ],
-  "Q861657": [
+  "Q129365": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands"
     }
   ],
-  "Q1194942": [
+  "Q2625041": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands"
     }
   ],
-  "Q1532545": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q428544": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P582": "2015-09-22",
-        "P580": "2012-09-20"
-      }
-    }
-  ],
-  "Q875195": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q1194971": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P580": "2012-09-20"
-      }
-    },
-    {
-      "id": "Q20872336",
-      "label": "municipal councillor of Woerden",
-      "qualifiers": {
-        "P580": "2001-01-01",
-        "P582": "2007-07-20"
-      }
-    },
-    {
-      "id": "Q20872336",
-      "label": "municipal councillor of Woerden",
-      "qualifiers": {
-        "P580": "2010-03-11",
-        "P582": "2010-05-27"
-      }
-    },
-    {
-      "id": "Q20872339",
-      "label": "municipal executive of Woerden",
-      "qualifiers": {
-        "P580": "2007-07-20",
-        "P582": "2010-05-27"
-      }
-    }
-  ],
-  "Q458066": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P580": "1998",
-        "P582": "2006"
-      }
-    },
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P580": "2007"
-      }
-    },
-    {
-      "id": "Q2588268",
-      "label": "Speaker of the House of Representatives (Netherlands)",
-      "qualifiers": {
-        "P580": "2016-01-13"
-      }
-    }
-  ],
-  "Q1196006": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q2007401": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q17428405": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
-      "qualifiers": {
-        "P155": "Cora van Nieuwenhuizen",
-        "P580": "2014-07-01"
-      }
-    },
-    {
-      "id": "Q20748648",
-      "label": "municipal councillor",
-      "qualifiers": {
-        "P642": "Amsterdam-Zuid",
-        "P580": "2007-05",
-        "P582": "2014-04"
-      }
-    }
-  ],
-  "Q2106896": [
-    {
-      "id": "Q486839",
-      "label": "member of parliament"
-    },
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q401383": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q868648": [
-    {
-      "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands"
-    }
-  ],
-  "Q1815251": [
+  "Q2501822": [
     {
       "id": "Q18887908",
       "label": "member of the House of Representatives of the Netherlands",
       "qualifiers": {
         "P580": "2006-11-30"
       }
+    }
+  ],
+  "Q196276": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q455186": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q2008535": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2010-06-17"
+      }
+    }
+  ],
+  "Q13786091": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q2680236": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q14584262": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2013-06-18"
+      }
+    }
+  ],
+  "Q2251998": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2006"
+      }
+    }
+  ],
+  "Q82771": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
+    }
+  ],
+  "Q746203": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2006"
+      }
+    }
+  ],
+  "Q1299042": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2010-06-17"
+      }
+    }
+  ],
+  "Q22340717": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands",
+      "qualifiers": {
+        "P580": "2016-01-26"
+      }
+    }
+  ],
+  "Q1907117": [
+    {
+      "id": "Q18887908",
+      "label": "member of the House of Representatives of the Netherlands"
     }
   ]
 }
