@@ -37,8 +37,8 @@
   ],
   "Q4354530": [
     {
-      "id": "Q5689",
-      "label": "Åland Islands",
+      "id": "Q23375654",
+      "label": "Minister of Finance",
       "qualifiers": {
         "P580": "2003",
         "P1365": "Olof Erland",
@@ -57,6 +57,12 @@
     {
       "id": "Q20167466",
       "label": "Premier of the Åland Islands"
+    }
+  ],
+  "Q4354820": [
+    {
+      "id": "Q23375654",
+      "label": "Minister of Finance"
     }
   ]
 }
