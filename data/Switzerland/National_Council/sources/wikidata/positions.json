@@ -29,6 +29,12 @@
       "label": "Member of the Swiss National Council"
     }
   ],
+  "Q120616": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q120637": [
     {
       "id": "Q18510612",
@@ -42,6 +48,12 @@
     }
   ],
   "Q120883": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q120130": [
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
@@ -123,6 +135,12 @@
       "label": "Member of the Swiss National Council"
     }
   ],
+  "Q122915": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q119888": [
     {
       "id": "Q18510613",
@@ -134,6 +152,18 @@
     }
   ],
   "Q116891": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q117478": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q116131": [
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
@@ -171,6 +201,18 @@
       "label": "Member of the Swiss National Council"
     }
   ],
+  "Q118319": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q677663": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q3571733": [
     {
       "id": "Q18510612",
@@ -187,6 +229,44 @@
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q118310": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q121886": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q115513": [
+    {
+      "id": "Q11811941",
+      "label": "Member of the Swiss Federal Council",
+      "qualifiers": {
+        "P580": "1998-01-01",
+        "P582": "2009-11-01",
+        "P1365": "Jean-Pascal Delamuraz",
+        "P1366": "Didier Burkhalter"
+      }
+    },
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    },
+    {
+      "id": "Q688230",
+      "label": "President of the Swiss Confederation",
+      "qualifiers": {
+        "P580": "2008-01-01",
+        "P582": "2008-12-31",
+        "P1365": "Micheline Calmy-Rey",
+        "P1366": "Hans-Rudolf Merz"
+      }
     }
   ],
   "Q122099": [
@@ -226,6 +306,12 @@
       "label": "President of the Swiss National Council"
     }
   ],
+  "Q119955": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q81967": [
     {
       "id": "Q18510612",
@@ -260,6 +346,12 @@
       "label": "Member of the Swiss National Council"
     }
   ],
+  "Q3087758": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q118516": [
     {
       "id": "Q18510612",
@@ -273,6 +365,12 @@
     }
   ],
   "Q117149": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q15818580": [
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
@@ -302,6 +400,18 @@
       "label": "Member of the Swiss National Council"
     }
   ],
+  "Q121855": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q121172": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q117400": [
     {
       "id": "Q18510612",
@@ -309,6 +419,16 @@
     }
   ],
   "Q63453": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q119896": [
+    {
+      "id": "Q18510613",
+      "label": "Member of the Swiss Council of States"
+    },
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
@@ -371,13 +491,31 @@
       }
     }
   ],
+  "Q119410": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q116500": [
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
     }
   ],
+  "Q118362": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q2965316": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q120924": [
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
@@ -446,6 +584,12 @@
       "label": "Member of the Swiss National Council"
     }
   ],
+  "Q115891": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q120026": [
     {
       "id": "Q18510612",
@@ -474,6 +618,12 @@
       "label": "Member of the Swiss National Council"
     }
   ],
+  "Q1523927": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q118484": [
     {
       "id": "Q18510612",
@@ -487,6 +637,18 @@
     }
   ],
   "Q120934": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q120133": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q16266845": [
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
@@ -507,6 +669,12 @@
       "id": "Q18510613",
       "label": "Member of the Swiss Council of States"
     },
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q118148": [
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
@@ -553,6 +721,12 @@
     }
   ],
   "Q1901891": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q1332705": [
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
@@ -610,6 +784,28 @@
       "label": "Member of the Swiss National Council"
     }
   ],
+  "Q19502703": [
+    {
+      "id": "Q18510613",
+      "label": "Member of the Swiss Council of States"
+    },
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q120576": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q122862": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q1132782": [
     {
       "id": "Q18510612",
@@ -634,7 +830,19 @@
       "label": "Member of the Swiss National Council"
     }
   ],
+  "Q119077": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q118295": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q120736": [
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
@@ -652,10 +860,35 @@
       "label": "Member of the Swiss National Council"
     }
   ],
+  "Q3371296": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q120053": [
+    {
+      "id": "Q18510613",
+      "label": "Member of the Swiss Council of States"
+    },
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q16739430": [
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q119880": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council",
+      "qualifiers": {
+        "P580": "2007"
+      }
     }
   ],
   "Q120742": [
@@ -684,6 +917,16 @@
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q119869": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    },
+    {
+      "id": "Q2337229",
+      "label": "President of the Swiss National Council"
     }
   ],
   "Q122886": [
@@ -775,6 +1018,12 @@
       "label": "Member of the Swiss National Council"
     }
   ],
+  "Q120690": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q119414": [
     {
       "id": "Q18510612",
@@ -793,7 +1042,19 @@
       "label": "Member of the Swiss National Council"
     }
   ],
+  "Q3506086": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q690192": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q677684": [
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
@@ -803,6 +1064,38 @@
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q120021": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    },
+    {
+      "id": "Q2337229",
+      "label": "President of the Swiss National Council"
+    }
+  ],
+  "Q117552": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q119850": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q118667": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    },
+    {
+      "id": "Q2337229",
+      "label": "President of the Swiss National Council"
     }
   ],
   "Q1307186": [
@@ -848,6 +1141,16 @@
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q117793": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    },
+    {
+      "id": "Q2337229",
+      "label": "President of the Swiss National Council"
     }
   ],
   "Q125433": [
@@ -896,7 +1199,29 @@
       "label": "Member of the Swiss National Council"
     }
   ],
+  "Q2038696": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q3219084": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    },
+    {
+      "id": "Q2337229",
+      "label": "President of the Swiss National Council"
+    }
+  ],
   "Q119970": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q116847": [
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
@@ -926,7 +1251,25 @@
       "label": "Member of the Swiss National Council"
     }
   ],
+  "Q122860": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q1163549": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q117158": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q1583982": [
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
@@ -939,6 +1282,12 @@
     }
   ],
   "Q117109": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q867613": [
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
@@ -973,6 +1322,12 @@
       "qualifiers": {
         "P580": "2007"
       }
+    }
+  ],
+  "Q117136": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
     }
   ],
   "Q1083465": [
@@ -1084,6 +1439,12 @@
       "label": "Member of the Swiss National Council"
     }
   ],
+  "Q16267411": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q118316": [
     {
       "id": "Q18510612",
@@ -1131,6 +1492,43 @@
       }
     }
   ],
+  "Q58280": [
+    {
+      "id": "Q11811941",
+      "label": "Member of the Swiss Federal Council"
+    },
+    {
+      "id": "Q688230",
+      "label": "President of the Swiss Confederation",
+      "qualifiers": {
+        "P580": "2014-01-01"
+      }
+    },
+    {
+      "id": "Q18510613",
+      "label": "Member of the Swiss Council of States"
+    },
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q118201": [
+    {
+      "id": "Q11811941",
+      "label": "Member of the Swiss Federal Council"
+    },
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q120106": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q121837": [
     {
       "id": "Q18510612",
@@ -1148,6 +1546,12 @@
     }
   ],
   "Q422099": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q3092294": [
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
@@ -1187,6 +1591,18 @@
     {
       "id": "Q2337229",
       "label": "President of the Swiss National Council"
+    }
+  ],
+  "Q1817719": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q1673317": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
     }
   ],
   "Q2846461": [
@@ -1236,7 +1652,19 @@
       }
     }
   ],
+  "Q119103": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q1475381": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q3087940": [
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
@@ -1246,6 +1674,16 @@
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q119921": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    },
+    {
+      "id": "Q2337229",
+      "label": "President of the Swiss National Council"
     }
   ],
   "Q15820891": [
@@ -1273,6 +1711,16 @@
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q677887": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    },
+    {
+      "id": "Q2337229",
+      "label": "President of the Swiss National Council"
     }
   ],
   "Q119440": [
@@ -1306,10 +1754,26 @@
       "label": "Member of the Swiss National Council"
     }
   ],
+  "Q118380": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q118337": [
     {
       "id": "Q18510613",
       "label": "Member of the Swiss Council of States"
+    },
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q115533": [
+    {
+      "id": "Q11811941",
+      "label": "Member of the Swiss Federal Council"
     },
     {
       "id": "Q18510612",
@@ -1338,7 +1802,41 @@
       "label": "Member of the Swiss National Council"
     }
   ],
+  "Q125702": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q117064": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q118196": [
+    {
+      "id": "Q11811941",
+      "label": "Member of the Swiss Federal Council"
+    },
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q117363": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q122828": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q118641": [
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
@@ -1363,7 +1861,25 @@
       }
     }
   ],
+  "Q2850749": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q1029622": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q120728": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q116465": [
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
@@ -1413,6 +1929,16 @@
       "label": "Member of the Swiss National Council"
     }
   ],
+  "Q117173": [
+    {
+      "id": "Q18510613",
+      "label": "Member of the Swiss Council of States"
+    },
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q122935": [
     {
       "id": "Q18510612",
@@ -1431,7 +1957,23 @@
       "label": "Member of the Swiss National Council"
     }
   ],
+  "Q116356": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q3420956": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q2602315": [
+    {
+      "id": "Q18510613",
+      "label": "Member of the Swiss Council of States"
+    },
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
@@ -1443,7 +1985,19 @@
       "label": "Member of the Swiss National Council"
     }
   ],
+  "Q2834822": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q116834": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q2172835": [
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
@@ -1459,7 +2013,25 @@
       "label": "Member of the Swiss Council of States"
     }
   ],
+  "Q119843": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
   "Q117154": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q120733": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q1238363": [
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
@@ -1478,6 +2050,18 @@
     }
   ],
   "Q120917": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q120906": [
+    {
+      "id": "Q18510612",
+      "label": "Member of the Swiss National Council"
+    }
+  ],
+  "Q121273": [
     {
       "id": "Q18510612",
       "label": "Member of the Swiss National Council"
