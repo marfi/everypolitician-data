@@ -5952,11 +5952,11 @@
         "slug": "House",
         "sources_directory": "data/Morocco/House/sources",
         "popolo": "data/Morocco/House/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/af3b18a/data/Morocco/House/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c276e53/data/Morocco/House/ep-popolo-v1.0.json",
         "names": "data/Morocco/House/names.csv",
-        "lastmod": "1457175494",
-        "person_count": 395,
-        "sha": "af3b18a",
+        "lastmod": "1458916527",
+        "person_count": 401,
+        "sha": "c276e53",
         "legislative_periods": [
           {
             "end_date": "2016",
@@ -5965,10 +5965,10 @@
             "start_date": "2011",
             "slug": "9",
             "csv": "data/Morocco/House/term-9.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/af3b18a/data/Morocco/House/term-9.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c276e53/data/Morocco/House/term-9.csv"
           }
         ],
-        "statement_count": 4778
+        "statement_count": 4838
       }
     ]
   },
