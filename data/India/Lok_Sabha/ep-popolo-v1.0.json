@@ -49026,6 +49026,10 @@
           "scheme": "cantic"
         },
         {
+          "identifier": "shashitharoor",
+          "scheme": "cspan"
+        },
+        {
           "identifier": "4569",
           "scheme": "everypolitician_legacy"
         },
@@ -49068,6 +49072,10 @@
         {
           "identifier": "028432371",
           "scheme": "sudoc"
+        },
+        {
+          "identifier": "560",
+          "scheme": "ted"
         },
         {
           "identifier": "54161830",
@@ -51714,6 +51722,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "pa",
+          "name": "ਹੁਕਮਦੇਵ ਨਰਾਇਣ ਯਾਦਵ",
+          "note": "multilingual"
+        },
+        {
           "lang": "sa",
           "name": "हुकुमदेव नारायण यादव",
           "note": "multilingual"
@@ -52524,6 +52537,11 @@
         {
           "lang": "or",
           "name": "ଡିମ୍ପଲ ଯାଦବ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pa",
+          "name": "ਡਿੰਪਲ ਯਾਦਵ",
           "note": "multilingual"
         },
         {
