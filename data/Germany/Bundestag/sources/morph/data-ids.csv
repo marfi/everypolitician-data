@@ -28,6 +28,7 @@ adolf_ludwig,06eb063c-eede-4ed4-b9f1-d0e9aeb3e7fe
 adolf_mauk,8be7bb9c-ad9e-4e3c-88ce-a067509c07ec
 adolf_müller-emmert,41cf84b8-a02e-42f1-a70a-c0a613e6c8ad
 adolf_müller_(cdu),c371060d-ced3-4dc6-bf0e-48acd83f8d1d
+"adolf_müller_(politiker,_1916)",c371060d-ced3-4dc6-bf0e-48acd83f8d1d
 adolf_ostertag,9709c5ac-3b0b-4e43-b16d-bbfccfe4a62b
 adolf_roth,15a7fe06-8007-4ff0-9250-dc7917711b54
 adolf_scheu,017a223f-2064-4eab-82c7-45b426d10c34
@@ -212,6 +213,7 @@ anton_eberhard,53b8b32b-fd00-4a79-ac2c-ce5c76dd4da4
 anton_hilbert,87d84fa0-e536-45ac-8957-0ead80f94a56
 anton_hofreiter,875ec1db-bc7d-4c99-a472-1079c7d94e26
 anton_hoppe,60a5b0f1-4fb7-4d51-a50d-c6532fd4b9a3
+anton_hoppe_(politiker),60a5b0f1-4fb7-4d51-a50d-c6532fd4b9a3
 anton_miller,1c5a41a7-537c-40c0-946d-3fe3f8197313
 anton_ott,d32c578a-bc0d-4f81-b08d-13aef8848d34
 anton_pfeifer,365e04eb-8249-4f6f-aa4a-d52e1f5b3709
@@ -386,6 +388,7 @@ caren_marks,991ad67c-fcf7-417d-9b91-c672c70a6b35
 carl-christian_dressel,c5460ece-59dd-46e6-a0a0-43b6e4729ff8
 carl-christoph_schweitzer,d8409139-9772-4043-a796-66217a4ebf00
 carl-detlev_freiherr_von_hammerstein,b2c69ca6-25be-4fb3-82d2-eff6ca6c60c2
+carl-detlev_von_hammerstein,b2c69ca6-25be-4fb3-82d2-eff6ca6c60c2
 carl-dieter_spranger,3f5e38b3-b2a7-4363-a766-1aad7a2f8ae7
 carl-eduard_von_bismarck,694f2044-be45-4340-be9f-3303b17d83ba
 carl-ludwig_thiele,b97d421f-8e91-476e-a6f2-15865a39337f
@@ -692,6 +695,7 @@ ekin_deligöz,72e6ab22-2c19-4e5f-8de7-a5070ccd372d
 ekkehard_gries,9ec83848-feb6-4639-abef-4bb747cf6122
 ekkehard_voigt,b05cb0c5-ab26-4b93-a9bc-37c09f8f5904
 ekkehart_eymer,cb8d10fe-44c4-4518-89eb-53dd3ea66a05
+elfi_scho-antwerpes,d4f1f29f-95fb-4ca3-8915-c38357219525
 elfriede_eilers,f6a4672c-7c17-4a44-bf9a-7bb385d3e24c
 elfriede_jaeger,259a8183-995e-4315-b116-baea666bdc4e
 elfriede_klemmert,ae61c032-4eb9-47a3-a6d1-cf0a819f48dd
@@ -1397,6 +1401,7 @@ hans_friedrich_(fdp),63c618a7-39c2-491f-a3f9-33fea877881a
 hans_furler,31aea59d-f5a3-456a-8c6e-4d95ef54d7d8
 hans_geiger_(spd),86390f15-1b2e-46f9-906b-1bbf13ba5f9f
 hans_geisler,36c0f8e5-509c-42f8-a3e8-3deae6f8f29a
+hans_geisler_(politiker),36c0f8e5-509c-42f8-a3e8-3deae6f8f29a
 hans_georg_emde,b845eb20-ce4b-489c-8119-cd51457d80d0
 hans_georg_faust,78327a51-4d29-4b98-a752-7e692fb27c2d
 hans_georg_schachtschabel,27936bd8-9b0b-452b-bc50-f44e623321f9
@@ -1407,6 +1412,7 @@ hans_graf_huyn,2aa15ff8-0f52-434e-bb82-b82c080a6de1
 hans_griem_(politiker),0c15b1bf-699e-4110-b6e8-17ac3b4ae0e0
 hans_h._gattermann,d738cd77-bdf3-4cc6-9b23-68599ac7722f
 hans_henn,d30081a2-0ddd-41c0-8a9a-413c228ad9ec
+hans_henn_(politiker),d30081a2-0ddd-41c0-8a9a-413c228ad9ec
 hans_hermsdorf,a67a3f1c-72dc-446a-b61e-d62250ca75fb
 hans_hubrig,f268c801-2d73-41db-af04-66fea98e300e
 hans_hugo_klein,cc1c80d4-7ecd-4e7c-8bfb-7c49987e6129
@@ -1799,12 +1805,14 @@ horst_eylmann,a0426de9-562b-4051-a614-93ab2c6d04f0
 horst_friedrich_(politiker),b23b235a-9a0c-4105-a929-c1e60347143b
 horst_fritsch,71d3c566-2333-4b72-baea-05440922c9f3
 horst_gerlach,70341621-c8bd-48b8-9994-15179b83235c
+horst_gerlach_(politiker),70341621-c8bd-48b8-9994-15179b83235c
 horst_gibtner,d31d71e0-6485-4668-8b2a-21aacefe44ed
 horst_ginnuttis,04dae877-b92c-4900-9b50-7be1682b148f
 horst_gobrecht,388ff3f8-ac2f-4cbe-8c41-0f91cd19c9c8
 horst_grunenberg_(politiker),7bad97e4-c1c1-495f-84d6-980002cd772b
 horst_günther,22f945b7-a93f-49e5-b637-0db7977191db
 horst_haase,7ef7d87b-edd5-451d-8a55-205b4d95a2ff
+horst_haase_(politiker),7ef7d87b-edd5-451d-8a55-205b4d95a2ff
 horst_haasler,3a9530d7-2131-4e68-85ea-d650f30fc522
 horst_jaunich,9f04ec88-9ba3-4003-bfc2-480fa8d01f05
 horst_jungmann_(politiker),3659f545-c450-48ae-a431-e9cad250c3d7
@@ -1815,6 +1823,7 @@ horst_ludwig_riemer,b9ec9ac6-88ed-4f8e-aa47-a7111ec043f8
 horst_meierhofer,e64bd64d-4427-4ff7-bea1-8ea6b7c31c49
 horst_niggemeier,10d63fec-3b05-415c-ab0d-67c95216a6c3
 horst_peter,4c592bad-7b9c-401e-9cd1-e6b430cf9c29
+horst_peter_(politiker),4c592bad-7b9c-401e-9cd1-e6b430cf9c29
 horst_schild,59682c05-43a3-47b1-91c7-fdbc33d26f6f
 horst_schmidbauer_(politiker),9dc8a72e-548a-4c0a-9f3c-26b61e129e27
 horst_schmidt_(spd),a584be44-469e-479f-bac4-7c42edae04c7
@@ -1993,6 +2002,7 @@ johannes_hagge,1e2c96cc-aabe-4c50-962e-7fcdbe82de44
 johannes_handschumacher,e6053413-daba-40cb-89cb-af697ff6d459
 johannes_hoffmann_(zentrum),d11bf05b-a518-4508-b72e-839d2d4e943a
 johannes_jung_(politiker),71dc2c89-0e43-4b6e-afea-50dd4728cffe
+johannes_kahrs,9cf58140-906d-4a79-a683-2aad95155cc1
 johannes_kahrs_(politiker),9cf58140-906d-4a79-a683-2aad95155cc1
 johannes_kortmann,ea456063-5c0b-404f-a70f-cecbc7c6a7f2
 johannes_lücke,6bb13fa4-3f2e-4ddd-9e44-cb2c5aeed809
@@ -2216,6 +2226,7 @@ karl_lauterbach_(spd),97d6668f-fa05-4ef5-92cc-97a0bb23ef2c
 karl_liedtke,4673b16b-b46b-4e6c-9037-78a05aaca161
 karl_löbe,db647557-50a6-48e4-83fd-63ddbccb0f85
 karl_martin_grass,673a7982-2f79-4da7-b55f-ffe2161fb9cf
+karl_martin_graß,673a7982-2f79-4da7-b55f-ffe2161fb9cf
 karl_meitmann,035eea80-05a8-4953-8be3-70e25c6a6a84
 karl_miltner,2dc63810-3285-4249-89e9-30455da47395
 karl_mocker,9f5a59ff-00f8-446a-beea-4217885f0a7f
@@ -2378,6 +2389,7 @@ kurt_georg_kiesinger,ad44d3fd-95f9-42e4-bd42-13c6895211ef
 kurt_gscheidle,d09c8f37-9b76-4a56-b6a6-f7645c1b5e15
 kurt_härzschel,eff331f6-5b13-4529-80dc-120d7dc6ae47
 kurt_jung,5ba6a9e5-af1f-475f-a876-1e45b151257a
+kurt_jung_(politiker),5ba6a9e5-af1f-475f-a876-1e45b151257a
 kurt_koblitz,874cc427-0600-40cb-91e5-8c5d704be125
 kurt_leuschner,7d9dfb1c-189a-409f-adb0-bbcc0cc16dc8
 kurt_matthes,87461a2c-dc4b-448e-ac76-54201c098698
@@ -2860,6 +2872,7 @@ otto_wittenburg,b433db0f-d0c8-49b5-9eb2-6d6ee4dd6d01
 otto_wittmann_(politiker),fddf0348-d300-4722-bf70-896bbb17bfb5
 otto_wulff,0528a352-47fd-4096-a9ce-0a16c00c67b9
 otto_ziegler,2ce8547d-3a62-41af-887e-0791105b3992
+otto_ziegler_(politiker),2ce8547d-3a62-41af-887e-0791105b3992
 otto_zink,7f7b43c2-1848-430d-9f13-3a064fef5c44
 pascal_kober,7945afef-e6d7-4515-9cca-dc27a616568c
 pascual_jordan,3e9984fe-8be4-4ce8-b349-49a56c202e93
@@ -2978,6 +2991,7 @@ petra_kelly,5d6c626e-e5c9-4040-9169-00fafe1a9b33
 petra_merkel,617bd57b-83f4-43dc-b99f-7d19a0103890
 petra_müller_(politikerin),f6d3eee0-dac6-4a31-9524-363339ace0bb
 petra_pau,1f7abbe3-74bb-4dda-820d-7e11fea09231
+petra_rode-bosse,e5b9e213-5af9-4ee9-a0ea-3747dabb8ccf
 petra_selg,7e300aac-3d23-4eec-940d-af7e42d74c81
 petra_sitte,5fa98d37-7e6d-4712-a5c5-eaff7e30c78b
 petra_weis,fcabd60e-761c-47de-b973-22201a61c00b
@@ -3352,6 +3366,7 @@ thomas_hitschler,790178c6-55ed-409c-949b-e23c695caf6e
 thomas_jarzombek,d168d6a6-da54-445a-88aa-e3e6c5e5e0aa
 thomas_jurk,3c7aad6f-b7f0-4149-b824-1463e120f986
 thomas_klein,7fbbce8c-c5c2-44ab-b4ba-55462f54bdea
+thomas_klein_(bürgerrechtler),7fbbce8c-c5c2-44ab-b4ba-55462f54bdea
 thomas_kossendey,c8ec4c89-5df1-4d2d-bb01-2d68a22f7691
 thomas_lutze,d6b88f66-8836-4193-b981-88dfb5a0eaf9
 thomas_mahlberg,7022661a-ad58-4056-a566-bb0abadc9d8e
@@ -3808,3 +3823,23 @@ xaver_jung,8fa87dcf-7530-44b1-a44b-689f61056acf
 yvonne_magwas,2112288d-9866-4173-9aee-8f08e977de20
 yvonne_ploetz,4a2829c8-5b10-4814-a4d0-cf43a2b0467e
 Özcan_mutlu,dd1b3547-abfa-4d13-b5ca-6b36126692ba
+"aloys_lenz_(politiker,_1910)",3be4ed5b-7fb0-4968-94f9-8981537087c4
+"bernd_reuter_(politiker,_1940)",8bf7442a-d757-4239-abed-d036e802663e
+"hans_müller_(politiker,_1898)",3e39c849-5f41-4956-8233-441e088e2b54
+"heinrich_müller_(politiker,_1901)",497e0432-53d5-4cc3-8a31-c4da58694560
+"heinrich_müller_(politiker,_1919)",af57ed5c-7ff5-4675-a26f-c6bb659c73de
+"hermann_koch_(politiker,_1899)",c72d3e29-5919-411a-bad0-7a5ac2689afd
+"josef_wagner_(politiker,_1892)",5d6dc8c6-c3fb-47c3-bb5c-d5185e3b68db
+"karl_hoffmann_(politiker,_1901)",676b6904-2082-489d-8e12-8785640c8f79
+"karl_müller_(politiker,_1884)",94b47c7b-373e-46a7-99cd-6da90e86ec05
+"karl_müller_(politiker,_1896)",4f58724e-c287-4225-8e60-2baa5599791a
+"karl_müller_(politiker,_1897)",21e86d6b-c3ee-4cc8-a930-04fefd857b9a
+"karl_weber_(politiker,_1898)",8509b208-e1fe-4ad5-bfbe-934e7cb8f64a
+"karl_weber_(politiker,_1936)",e12a7dc0-39a6-45d3-b801-63cf3d8c284b
+"ludwig_schneider_(politiker,_1898)",617c4a86-8eba-4f79-adc2-fe6b5b571c5f
+"martin_schmidt_(politiker,_1914)",faac97eb-fee1-4af5-9d6d-05d0519d0dca
+"peter_dreßen_(politiker,_1943)",9a9487a2-37ea-4a21-b15e-62d0441a7711
+"thomas_dörflinger_(politiker,_1965)",777bbabe-3b36-4703-96b7-9f698ad56d15
+"willi_müller_(politiker,_1925)",54153ad1-4834-4234-a820-0beb44bf8d8e
+"willy_müller_(politiker,_1903)",c87faf68-8030-4dec-9e5b-0d8a43353517
+"wolfgang_schmidt_(politiker,_1934)",9c9d0a48-8ea9-40f6-a6e7-b8781d4531ad
