@@ -1,54 +1,11 @@
 {
-  "Q20179978": [
+  "Q12332288": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing"
     }
   ],
-  "Q20179290": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q12331581": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q20181359": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q12326819": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q12319515": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2014-01-01"
-      }
-    }
-  ],
-  "Q12341748": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q4992554": [
-    {
-      "id": "Q27169",
-      "label": "member of the European Parliament"
-    },
+  "Q20199803": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing",
@@ -57,21 +14,7 @@
       }
     }
   ],
-  "Q20177891": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2015-06-18",
-        "P768": "Q12329225"
-      }
-    }
-  ],
-  "Q747728": [
-    {
-      "id": "Q27169",
-      "label": "member of the European Parliament"
-    },
+  "Q20185694": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing"
@@ -86,23 +29,93 @@
       }
     }
   ],
-  "Q12331411": [
+  "Q20186502": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing",
       "qualifiers": {
-        "P580": "2011-09-15",
-        "P768": "Q12313230"
+        "P580": "2015-06-18",
+        "P768": "Q12329198"
       }
     }
   ],
-  "Q20175365": [
+  "Q952472": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing"
     }
   ],
-  "Q575363": [
+  "Q12321346": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q984181": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2011-09-15"
+      }
+    }
+  ],
+  "Q12337268": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2011-09-15"
+      }
+    }
+  ],
+  "Q12316325": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q20181143": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q12321318": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q20197705": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2015-06-18"
+      }
+    }
+  ],
+  "Q20197687": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2015-06-18"
+      }
+    }
+  ],
+  "Q20185798": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2015-06-18",
+        "P768": "Q12313230"
+      }
+    }
+  ],
+  "Q645613": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing"
@@ -111,8 +124,251 @@
       "id": "Q1815344",
       "label": "Defence Minister of Denmark",
       "qualifiers": {
-        "P1366": "Carl Holst",
-        "P1365": "Nick Hækkerup"
+        "P1366": "Nicolai Wammen",
+        "P1365": "Gitte Lillelund Bech"
+      }
+    },
+    {
+      "id": "Q18913275",
+      "label": "Minister of Health"
+    }
+  ],
+  "Q20186193": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q20186092": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q546215": [
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament"
+    }
+  ],
+  "Q12325752": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2011-09-15"
+      }
+    }
+  ],
+  "Q12324275": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q10853676": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2011-11-15"
+      }
+    }
+  ],
+  "Q1796195": [
+    {
+      "id": "Q679997",
+      "label": "Prime Minister of Greenland",
+      "qualifiers": {
+        "P580": "2013-04-05",
+        "P1365": "Kuupik Kleist"
+      }
+    }
+  ],
+  "Q438598": [
+    {
+      "id": "Q3544677",
+      "label": "Minister for Food, Agriculture and Fisheries",
+      "qualifiers": {
+        "P580": "2011-10-03",
+        "P582": "2013-08-09"
+      }
+    },
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2005-02-08"
+      }
+    }
+  ],
+  "Q20186168": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2015-06-18",
+        "P768": "Q12338097"
+      }
+    }
+  ],
+  "Q12311591": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2007-11-13",
+        "P768": "Q12329198"
+      }
+    }
+  ],
+  "Q20186297": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2015-06-18"
+      }
+    }
+  ],
+  "Q20197692": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2015-06-18"
+      }
+    }
+  ],
+  "Q1937560": [
+    {
+      "id": "Q6866144",
+      "label": "Minister of Foreign Affairs",
+      "qualifiers": {
+        "P580": "2000-12-21",
+        "P582": "2001-11-27",
+        "P1365": "Niels Helveg Petersen",
+        "P1366": "Per Stig Møller"
+      }
+    },
+    {
+      "id": "Q5449541",
+      "label": "Finance Minister of Denmark",
+      "qualifiers": {
+        "P580": "1993-01-25",
+        "P582": "2000-12-21",
+        "P1366": "Pia Gjellerup"
+      }
+    },
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    },
+    {
+      "id": "Q1161813",
+      "label": "President of the United Nations General Assembly",
+      "qualifiers": {
+        "P580": "2015-09-16",
+        "P1365": "Sam Kutesa"
+      }
+    }
+  ],
+  "Q12310298": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    },
+    {
+      "id": "Q30185",
+      "label": "mayor"
+    }
+  ],
+  "Q12331581": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q12324169": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2007-11-13",
+        "P768": "Q16325177"
+      }
+    }
+  ],
+  "Q20177891": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2015-06-18",
+        "P768": "Q12329225"
+      }
+    }
+  ],
+  "Q12325770": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2009-08-05",
+        "P768": "Q16325177",
+        "P1365": "Svend Auken"
+      }
+    }
+  ],
+  "Q20179978": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q20173705": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q12327462": [
+    {
+      "id": "Q12336940",
+      "label": "State auditor"
+    },
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2005-02-08"
+      }
+    }
+  ],
+  "Q20197707": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2015-06-18"
+      }
+    }
+  ],
+  "Q11983607": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2001-11-20",
+        "P582": "2007-11-13"
+      }
+    },
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2011-09-15",
+        "P582": ""
       }
     }
   ],
@@ -122,36 +378,58 @@
       "label": "member of the Folketing"
     }
   ],
-  "Q12326843": [
+  "Q3078007": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing"
     }
   ],
-  "Q11989087": [
+  "Q20200020": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing",
       "qualifiers": {
-        "P580": "2011-09-15"
+        "P580": "2015-06-18",
+        "P768": "Q12335449"
       }
     }
   ],
-  "Q12324922": [
+  "Q12319302": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing",
       "qualifiers": {
-        "P580": "2011-09-15"
+        "P580": "2011-11-15"
       }
     }
   ],
-  "Q20174096": [
+  "Q266035": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q912762": [
+    {
+      "id": "Q6317024",
+      "label": "Justice Minister of Denmark"
+    },
+    {
+      "id": "Q1030099",
+      "label": "Culture Minister of Denmark"
+    },
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q12331411": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing",
       "qualifiers": {
-        "P580": "2015-06-18"
+        "P580": "2011-09-15",
+        "P768": "Q12313230"
       }
     }
   ],
@@ -228,53 +506,21 @@
       }
     }
   ],
-  "Q266035": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q20188895": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q57652": [
-    {
-      "id": "Q795477",
-      "label": "Prime Minister of Denmark",
-      "qualifiers": {
-        "P580": "2011-10-03",
-        "P582": "2015-06-27",
-        "P1366": "Lars Løkke Rasmussen",
-        "P35": "Margrethe II of Denmark",
-        "P1365": "Lars Løkke Rasmussen"
-      }
-    },
-    {
-      "id": "Q27169",
-      "label": "member of the European Parliament",
-      "qualifiers": {
-        "P580": "1999",
-        "P582": "2004"
-      }
-    },
+  "Q20174096": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing",
       "qualifiers": {
-        "P580": "2005-02-08"
+        "P580": "2015-06-18"
       }
     }
   ],
-  "Q20185798": [
+  "Q12300936": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing",
       "qualifiers": {
-        "P580": "2015-06-18",
-        "P768": "Q12313230"
+        "P580": "2011-11-15"
       }
     }
   ],
@@ -284,276 +530,16 @@
       "label": "member of the Folketing"
     }
   ],
-  "Q491263": [
+  "Q463680": [
     {
-      "id": "Q27169",
-      "label": "member of the European Parliament",
-      "qualifiers": {
-        "P580": "2004-06-13",
-        "P582": "2007-11-28"
-      }
-    },
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2007-11-13",
-        "P102": "Liberal Alliance"
-      }
-    },
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P102": "Danish Social Liberal Party",
-        "P580": "2001-11-20",
-        "P582": "2004-06-30"
-      }
+      "id": "Q18913275",
+      "label": "Minister of Health"
     }
   ],
-  "Q6491442": [
+  "Q20179290": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing"
-    }
-  ],
-  "Q3080572": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q7827256": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q3078007": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q12336452": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q12336294": [
-    {
-      "id": "Q83307",
-      "label": "minister",
-      "qualifiers": {
-        "P580": "2014"
-      }
-    },
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2011-09-15"
-      }
-    }
-  ],
-  "Q12333971": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q12333679": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2015-06-18"
-      }
-    }
-  ],
-  "Q20197692": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2015-06-18"
-      }
-    }
-  ],
-  "Q20186168": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2015-06-18",
-        "P768": "Q12338097"
-      }
-    }
-  ],
-  "Q12330024": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q546215": [
-    {
-      "id": "Q27169",
-      "label": "member of the European Parliament"
-    }
-  ],
-  "Q1937560": [
-    {
-      "id": "Q6866144",
-      "label": "Minister of Foreign Affairs",
-      "qualifiers": {
-        "P580": "2000-12-21",
-        "P582": "2001-11-27",
-        "P1365": "Niels Helveg Petersen",
-        "P1366": "Per Stig Møller"
-      }
-    },
-    {
-      "id": "Q5449541",
-      "label": "Finance Minister of Denmark",
-      "qualifiers": {
-        "P580": "1993-01-25",
-        "P582": "2000-12-21",
-        "P1366": "Pia Gjellerup"
-      }
-    },
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    },
-    {
-      "id": "Q1161813",
-      "label": "President of the United Nations General Assembly",
-      "qualifiers": {
-        "P580": "2015-09-16",
-        "P1365": "Sam Kutesa"
-      }
-    }
-  ],
-  "Q20185694": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q20200020": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2015-06-18",
-        "P768": "Q12335449"
-      }
-    }
-  ],
-  "Q12325770": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2009-08-05",
-        "P768": "Q16325177",
-        "P1365": "Svend Auken"
-      }
-    }
-  ],
-  "Q12325752": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2011-09-15"
-      }
-    }
-  ],
-  "Q11983607": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2001-11-20",
-        "P582": "2007-11-13"
-      }
-    },
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2011-09-15",
-        "P582": ""
-      }
-    }
-  ],
-  "Q12322942": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2005-02-08"
-      }
-    }
-  ],
-  "Q12321450": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q362151": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2011-09-15"
-      }
-    }
-  ],
-  "Q12319657": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q12316446": [
-    {
-      "id": "Q12310252",
-      "label": "Danish commerce minister"
-    },
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q1358896": [
-    {
-      "id": "Q27169",
-      "label": "member of the European Parliament"
-    },
-    {
-      "id": "Q19185575",
-      "label": "President of the Nordic Council",
-      "qualifiers": {
-        "P580": "2011-01-01",
-        "P582": "2011-12-31",
-        "P1365": "Helgi Hjörvar",
-        "P1366": "Kimmo Sasi"
-      }
-    }
-  ],
-  "Q12311591": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2007-11-13",
-        "P768": "Q12329198"
-      }
     }
   ],
   "Q12310565": [
@@ -566,45 +552,7 @@
       "label": "Education and Research Minister"
     }
   ],
-  "Q12309819": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q17580253": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q20197687": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2015-06-18"
-      }
-    }
-  ],
-  "Q20197678": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2015-06-18"
-      }
-    }
-  ],
-  "Q912762": [
-    {
-      "id": "Q6317024",
-      "label": "Justice Minister of Denmark"
-    },
-    {
-      "id": "Q1030099",
-      "label": "Culture Minister of Denmark"
-    },
+  "Q3080572": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing"
@@ -616,199 +564,7 @@
       "label": "member of the Folketing"
     }
   ],
-  "Q463680": [
-    {
-      "id": "Q18913275",
-      "label": "Minister of Health"
-    }
-  ],
-  "Q20199803": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2015-06-18"
-      }
-    }
-  ],
-  "Q20197707": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2015-06-18"
-      }
-    }
-  ],
-  "Q1476255": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    },
-    {
-      "id": "Q1815344",
-      "label": "Defence Minister of Denmark",
-      "qualifiers": {
-        "P1365": "Svend Aage Jensby",
-        "P1366": "Gitte Lillelund Bech",
-        "P580": "2004-04-24",
-        "P582": "2010-02-22"
-      }
-    }
-  ],
-  "Q20197705": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2015-06-18"
-      }
-    }
-  ],
-  "Q10967294": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q12332288": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q272924": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "1984-01-10"
-      }
-    }
-  ],
-  "Q645613": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    },
-    {
-      "id": "Q1815344",
-      "label": "Defence Minister of Denmark",
-      "qualifiers": {
-        "P1366": "Nicolai Wammen",
-        "P1365": "Gitte Lillelund Bech"
-      }
-    },
-    {
-      "id": "Q18913275",
-      "label": "Minister of Health"
-    }
-  ],
-  "Q558865": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q12327462": [
-    {
-      "id": "Q12336940",
-      "label": "State auditor"
-    },
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2005-02-08"
-      }
-    }
-  ],
-  "Q1926743": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2005-02-08"
-      }
-    }
-  ],
-  "Q438598": [
-    {
-      "id": "Q3544677",
-      "label": "Minister for Food, Agriculture and Fisheries",
-      "qualifiers": {
-        "P580": "2011-10-03",
-        "P582": "2013-08-09"
-      }
-    },
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2005-02-08"
-      }
-    }
-  ],
-  "Q12326258": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q12326188": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q10853676": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2011-11-15"
-      }
-    }
-  ],
-  "Q454615": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q12325727": [
-    {
-      "id": "Q20069142",
-      "label": "Danish Minister of Transport"
-    },
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q12324169": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2007-11-13",
-        "P768": "Q16325177"
-      }
-    }
-  ],
-  "Q3110095": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q12321346": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q12321318": [
+  "Q12326819": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing"
@@ -823,13 +579,13 @@
       }
     }
   ],
-  "Q20181143": [
+  "Q7827256": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing"
     }
   ],
-  "Q12319014": [
+  "Q11989208": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing",
@@ -838,12 +594,43 @@
       }
     }
   ],
-  "Q12318947": [
+  "Q12342520": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing",
       "qualifiers": {
-        "P580": "2011-09-15"
+        "P580": "2007-11-13"
+      }
+    }
+  ],
+  "Q6491442": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q3560841": [
+    {
+      "id": "Q1815344",
+      "label": "Defence Minister of Denmark",
+      "qualifiers": {
+        "P580": "2015-06-28",
+        "P1365": "Nicolai Wammen"
+      }
+    },
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2015-06-18"
+      }
+    },
+    {
+      "id": "Q11991832",
+      "label": "Minister for Nordic Co-operation",
+      "qualifiers": {
+        "P580": "2015-06-28",
+        "P1365": "Carsten Hansen"
       }
     }
   ],
@@ -892,10 +679,41 @@
       }
     }
   ],
-  "Q20188888": [
+  "Q4992021": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing"
+    }
+  ],
+  "Q12319515": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2014-01-01"
+      }
+    }
+  ],
+  "Q454615": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q12336294": [
+    {
+      "id": "Q83307",
+      "label": "minister",
+      "qualifiers": {
+        "P580": "2014"
+      }
+    },
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2011-09-15"
+      }
     }
   ],
   "Q1159092": [
@@ -904,37 +722,34 @@
       "label": "member of the European Parliament"
     }
   ],
-  "Q20186297": [
+  "Q747728": [
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament"
+    },
     {
       "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2015-06-18"
-      }
+      "label": "member of the Folketing"
     }
   ],
-  "Q3560841": [
+  "Q12326258": [
     {
-      "id": "Q1815344",
-      "label": "Defence Minister of Denmark",
-      "qualifiers": {
-        "P580": "2015-06-28",
-        "P1365": "Nicolai Wammen"
-      }
-    },
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q12316339": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q12324973": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing",
       "qualifiers": {
-        "P580": "2015-06-18"
-      }
-    },
-    {
-      "id": "Q11991832",
-      "label": "Minister for Nordic Co-operation",
-      "qualifiers": {
-        "P580": "2015-06-28",
-        "P1365": "Carsten Hansen"
+        "P580": "2007-11-13"
       }
     }
   ],
@@ -948,58 +763,57 @@
       "label": "member of the Folketing"
     }
   ],
-  "Q12301637": [
+  "Q20175887": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing"
     }
   ],
-  "Q1796195": [
+  "Q12325727": [
     {
-      "id": "Q679997",
-      "label": "Prime Minister of Greenland",
-      "qualifiers": {
-        "P580": "2013-04-05",
-        "P1365": "Kuupik Kleist"
-      }
-    }
-  ],
-  "Q12319302": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2011-11-15"
-      }
-    }
-  ],
-  "Q264785": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2007",
-        "P582": "2011"
-      }
+      "id": "Q20069142",
+      "label": "Danish Minister of Transport"
     },
     {
       "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2014-10-21"
-      }
+      "label": "member of the Folketing"
     }
   ],
-  "Q12009842": [
+  "Q12333971": [
     {
       "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2008-09-01"
-      }
+      "label": "member of the Folketing"
     }
   ],
-  "Q984181": [
+  "Q3110095": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q558865": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q12326843": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q12316446": [
+    {
+      "id": "Q12310252",
+      "label": "Danish commerce minister"
+    },
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q362151": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing",
@@ -1008,41 +822,14 @@
       }
     }
   ],
-  "Q20186193": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q20186140": [
+  "Q20186338": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing",
       "qualifiers": {
         "P580": "2015-06-18",
-        "P768": "Q12338097"
+        "P768": "Q16324990"
       }
-    }
-  ],
-  "Q12337268": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2011-09-15"
-      }
-    }
-  ],
-  "Q952472": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q12333237": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
     }
   ],
   "Q531614": [
@@ -1070,74 +857,22 @@
       }
     }
   ],
-  "Q12331828": [
+  "Q272924": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing",
       "qualifiers": {
-        "P580": "2007-11-13"
+        "P580": "1984-01-10"
       }
     }
   ],
-  "Q20173705": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q20188899": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q11989208": [
+  "Q12321352": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing",
       "qualifiers": {
         "P580": "2011-09-15"
       }
-    }
-  ],
-  "Q12324973": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2007-11-13"
-      }
-    }
-  ],
-  "Q12342520": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2007-11-13"
-      }
-    }
-  ],
-  "Q20186502": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2015-06-18",
-        "P768": "Q12329198"
-      }
-    }
-  ],
-  "Q12324275": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q4992021": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
     }
   ],
   "Q12321950": [
@@ -1157,17 +892,7 @@
       }
     }
   ],
-  "Q20186338": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2015-06-18",
-        "P768": "Q16324990"
-      }
-    }
-  ],
-  "Q12321352": [
+  "Q12318947": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing",
@@ -1176,13 +901,176 @@
       }
     }
   ],
-  "Q20175887": [
+  "Q12319014": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2011-09-15"
+      }
+    }
+  ],
+  "Q11977892": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2013-08-15"
+      }
+    }
+  ],
+  "Q575363": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    },
+    {
+      "id": "Q1815344",
+      "label": "Defence Minister of Denmark",
+      "qualifiers": {
+        "P1366": "Carl Holst",
+        "P1365": "Nick Hækkerup"
+      }
+    }
+  ],
+  "Q12330024": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing"
     }
   ],
-  "Q20186092": [
+  "Q12333679": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2015-06-18"
+      }
+    }
+  ],
+  "Q12324922": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2011-09-15"
+      }
+    }
+  ],
+  "Q4992554": [
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament"
+    },
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2015-06-18"
+      }
+    }
+  ],
+  "Q12322942": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2005-02-08"
+      }
+    }
+  ],
+  "Q12341748": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q1476255": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    },
+    {
+      "id": "Q1815344",
+      "label": "Defence Minister of Denmark",
+      "qualifiers": {
+        "P1365": "Svend Aage Jensby",
+        "P1366": "Gitte Lillelund Bech",
+        "P580": "2004-04-24",
+        "P582": "2010-02-22"
+      }
+    }
+  ],
+  "Q17580253": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q491263": [
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament",
+      "qualifiers": {
+        "P580": "2004-06-13",
+        "P582": "2007-11-28"
+      }
+    },
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2007-11-13",
+        "P102": "Liberal Alliance"
+      }
+    },
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P102": "Danish Social Liberal Party",
+        "P580": "2001-11-20",
+        "P582": "2004-06-30"
+      }
+    }
+  ],
+  "Q12333237": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q10967294": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q12331828": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2007-11-13"
+      }
+    }
+  ],
+  "Q12009842": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2008-09-01"
+      }
+    }
+  ],
+  "Q12319657": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q20181359": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing"
@@ -1198,26 +1086,166 @@
       "label": "member of the Folketing"
     }
   ],
-  "Q12316339": [
+  "Q57652": [
     {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q12316325": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q12310298": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
+      "id": "Q795477",
+      "label": "Prime Minister of Denmark",
+      "qualifiers": {
+        "P580": "2011-10-03",
+        "P582": "2015-06-27",
+        "P1366": "Lars Løkke Rasmussen",
+        "P35": "Margrethe II of Denmark",
+        "P1365": "Lars Løkke Rasmussen"
+      }
     },
     {
-      "id": "Q30185",
-      "label": "mayor"
+      "id": "Q27169",
+      "label": "member of the European Parliament",
+      "qualifiers": {
+        "P580": "1999",
+        "P582": "2004"
+      }
+    },
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2005-02-08"
+      }
+    }
+  ],
+  "Q20186140": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2015-06-18",
+        "P768": "Q12338097"
+      }
+    }
+  ],
+  "Q879350": [
+    {
+      "id": "Q5449541",
+      "label": "Finance Minister of Denmark"
+    },
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q20197678": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2015-06-18"
+      }
+    }
+  ],
+  "Q20175365": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q20197574": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q1358896": [
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament"
+    },
+    {
+      "id": "Q19185575",
+      "label": "President of the Nordic Council",
+      "qualifiers": {
+        "P580": "2011-01-01",
+        "P582": "2011-12-31",
+        "P1365": "Helgi Hjörvar",
+        "P1366": "Kimmo Sasi"
+      }
+    }
+  ],
+  "Q12336452": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q12321450": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q11989087": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2011-09-15"
+      }
+    }
+  ],
+  "Q1926743": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2005-02-08"
+      }
+    }
+  ],
+  "Q264785": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2007",
+        "P582": "2011"
+      }
+    },
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "qualifiers": {
+        "P580": "2014-10-21"
+      }
+    }
+  ],
+  "Q20188895": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q12301637": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q12309819": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q20188888": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
+    }
+  ],
+  "Q12326188": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing"
     }
   ],
   "Q531054": [
@@ -1253,29 +1281,10 @@
       }
     }
   ],
-  "Q20197574": [
+  "Q20188899": [
     {
       "id": "Q12311817",
       "label": "member of the Folketing"
-    }
-  ],
-  "Q879350": [
-    {
-      "id": "Q5449541",
-      "label": "Finance Minister of Denmark"
-    },
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing"
-    }
-  ],
-  "Q12300936": [
-    {
-      "id": "Q12311817",
-      "label": "member of the Folketing",
-      "qualifiers": {
-        "P580": "2011-11-15"
-      }
     }
   ]
 }
