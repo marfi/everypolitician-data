@@ -102,13 +102,93 @@
   "unknown": {
     "unknown": [
       {
+        "id": "Q2661677",
+        "name": "European Commissioner",
+        "count": 1
+      },
+      {
+        "id": "Q957986",
+        "name": "European Commissioner for Agriculture and Rural Development",
+        "count": 1
+      },
+      {
+        "id": "Q2986316",
+        "name": "European Commissioner for Climate Action",
+        "count": 2
+      },
+      {
+        "id": "Q1476458",
+        "name": "European Commissioner for the Environment",
+        "count": 1
+      },
+      {
+        "id": "Q21034789",
+        "name": "Finance Minister of the Faroe Islands",
+        "count": 1
+      },
+      {
+        "id": "Q6865812",
+        "name": "Minister for Ecclesiastical Affairs of Denmark",
+        "count": 1
+      },
+      {
         "id": "Q3544677",
         "name": "Minister for Food, Agriculture and Fisheries",
         "count": 1
       },
       {
+        "id": "Q3430357",
+        "name": "Minister for Food, Agriculture and Fisheries",
+        "count": 1
+      },
+      {
+        "id": "Q12341969",
+        "name": "Minister of Economic and Business Affairs",
+        "count": 1
+      },
+      {
+        "id": "Q3437404",
+        "name": "Ministry of Business and Growth",
+        "count": 1
+      },
+      {
+        "id": "Q3359295",
+        "name": "Ministry of Climate and Energy",
+        "count": 1
+      },
+      {
+        "id": "Q21034786",
+        "name": "Prime Minister of the Faeroer",
+        "count": 3
+      },
+      {
+        "id": "Q4994741",
+        "name": "Q4994741",
+        "count": 1
+      },
+      {
+        "id": "Q167662",
+        "name": "Secretary General of NATO",
+        "count": 1
+      },
+      {
+        "id": "Q784084",
+        "name": "Special Representative of the Secretary-General for Kosovo",
+        "count": 1
+      },
+      {
         "id": "Q12336940",
         "name": "State auditor",
+        "count": 1
+      },
+      {
+        "id": "Q7689385",
+        "name": "Tax Minister of Denmark",
+        "count": 2
+      },
+      {
+        "id": "Q12313165",
+        "name": "attorney-in-fact",
         "count": 1
       },
       {
@@ -119,12 +199,17 @@
       {
         "id": "Q30185",
         "name": "mayor",
-        "count": 1
+        "count": 6
       },
       {
         "id": "Q83307",
         "name": "minister",
-        "count": 4
+        "count": 7
+      },
+      {
+        "id": "Q193364",
+        "name": "vicar",
+        "count": 1
       }
     ]
   }
