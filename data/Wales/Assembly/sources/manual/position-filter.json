@@ -48,14 +48,24 @@
   "unknown": {
     "unknown": [
       {
+        "id": "Q23602586",
+        "name": "Minister for Business, Enterprise, Technology and Science",
+        "count": 2
+      },
+      {
         "id": "Q23196598",
         "name": "Minister for Education and Skills",
-        "count": 1
+        "count": 3
+      },
+      {
+        "id": "Q6865862",
+        "name": "Minister for Health and Social Services",
+        "count": 2
       },
       {
         "id": "Q3112646",
         "name": "Welsh Government",
-        "count": 3
+        "count": 2
       },
       {
         "id": "Q7981939",

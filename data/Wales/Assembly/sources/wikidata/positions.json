@@ -9,6 +9,10 @@
     {
       "id": "Q3406079",
       "label": "Member of the National Assembly for Wales"
+    },
+    {
+      "id": "Q23196598",
+      "label": "Minister for Education and Skills"
     }
   ],
   "Q6662955": [
@@ -123,6 +127,10 @@
     {
       "id": "Q3406079",
       "label": "Member of the National Assembly for Wales"
+    },
+    {
+      "id": "Q6865862",
+      "label": "Minister for Health and Social Services"
     }
   ],
   "Q7917285": [
@@ -177,12 +185,26 @@
   ],
   "Q5346948": [
     {
-      "id": "Q3112646",
-      "label": "Welsh Government"
+      "id": "Q23602586",
+      "label": "Minister for Business, Enterprise, Technology and Science",
+      "qualifiers": {
+        "P580": "2011-05-13",
+        "P1365": "Ieuan Wyn Jones"
+      }
     },
     {
       "id": "Q3406079",
       "label": "Member of the National Assembly for Wales"
+    },
+    {
+      "id": "Q6865862",
+      "label": "Minister for Health and Social Services",
+      "qualifiers": {
+        "P580": "2007-05-04",
+        "P582": "2011-05-13",
+        "P1366": "Lesley Griffiths",
+        "P1365": "Brian Gibbons"
+      }
     }
   ],
   "Q3396810": [
@@ -212,6 +234,10 @@
         "P582": "2013-06-20",
         "P580": "1999-05-06"
       }
+    },
+    {
+      "id": "Q23602586",
+      "label": "Minister for Business, Enterprise, Technology and Science"
     }
   ],
   "Q6388501": [
@@ -296,6 +322,10 @@
     {
       "id": "Q3406079",
       "label": "Member of the National Assembly for Wales"
+    },
+    {
+      "id": "Q23196598",
+      "label": "Minister for Education and Skills"
     }
   ],
   "Q7321239": [
