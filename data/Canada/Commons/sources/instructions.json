@@ -11,6 +11,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/parlinfo.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/canada-parlinfo",
+        "query": "SELECT * FROM data WHERE term LIKE '41' ORDER BY id, term"
+      },
+      "source": "http://www.lop.parl.gc.ca/parlinfo",
+      "type": "membership",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/parlinfo.csv"
+      }
+    },
+    {
       "file": "morph/data-41.csv",
       "source": "https://scrapers.herokuapp.com/represent/ca",
       "type": "person",
