@@ -42,7 +42,11 @@
   "Q3574660": [
     {
       "id": "Q17619252",
-      "label": "Senator of Belgium"
+      "label": "Senator of Belgium",
+      "qualifiers": {
+        "P580": "2009-10-14",
+        "P582": "2014"
+      }
     }
   ],
   "Q17428035": [
