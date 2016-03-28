@@ -4756,13 +4756,7 @@
       ]
     },
     {
-      "id": "f0752a88-d65e-4edb-b6e0-e8c54428a1c9",
-      "identifiers": [
-        {
-          "identifier": "",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
+      "id": "e1a86ac8-64b7-4aa8-89ac-8605c4dc9067",
       "name": "Katoh, Angelina L.",
       "sources": [
         {
@@ -12408,6 +12402,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/16",
+      "on_behalf_of_id": "party/akbayan",
+      "organization_id": "legislature",
+      "person_id": "e1a86ac8-64b7-4aa8-89ac-8605c4dc9067",
+      "role": "member"
+    },
+    {
       "area_id": "area/bukidnon,_2nd_district",
       "legislative_period_id": "term/16",
       "on_behalf_of_id": "party/unknown",
@@ -12564,13 +12565,6 @@
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "efed4c3e-9779-4f4b-95af-efb38c8bb5ef",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/16",
-      "on_behalf_of_id": "party/akbayan",
-      "organization_id": "legislature",
-      "person_id": "f0752a88-d65e-4edb-b6e0-e8c54428a1c9",
       "role": "member"
     },
     {
