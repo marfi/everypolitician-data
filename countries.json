@@ -4672,11 +4672,11 @@
         "slug": "House-of-Representatives",
         "sources_directory": "data/Jamaica/House_of_Representatives/sources",
         "popolo": "data/Jamaica/House_of_Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f2c3a44/data/Jamaica/House_of_Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b711dcd/data/Jamaica/House_of_Representatives/ep-popolo-v1.0.json",
         "names": "data/Jamaica/House_of_Representatives/names.csv",
-        "lastmod": "1459058107",
+        "lastmod": "1459177345",
         "person_count": 63,
-        "sha": "f2c3a44",
+        "sha": "b711dcd",
         "legislative_periods": [
           {
             "id": "term/2011",
@@ -4684,7 +4684,7 @@
             "start_date": "2011",
             "slug": "2011",
             "csv": "data/Jamaica/House_of_Representatives/term-2011.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f2c3a44/data/Jamaica/House_of_Representatives/term-2011.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b711dcd/data/Jamaica/House_of_Representatives/term-2011.csv"
           }
         ],
         "statement_count": 2353
