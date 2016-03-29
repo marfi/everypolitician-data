@@ -139,6 +139,15 @@ class Source::Wikidata < Source::CSV
   def is_bios?
     true
   end
+
+  def fields
+    # add :identifier__wikidata to the existing fields
+
+    # but `super` fails in this context with:
+    #    TypeError: self has wrong type to call super in this context: Source::Wikidata (expected Binding)
+    #   
+    binding.pry
+  end
 end
 
 class Source::OCD < Source::CSV

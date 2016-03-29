@@ -108,7 +108,8 @@ namespace :merge_sources do
 
       # TODO add this to Source::Wikidata
       #   calling 'super' in that doesn't currently work as expected
-      all_headers |= [:identifier__wikidata] if pd.i(:type) == 'wikidata'
+      # all_headers |= [:identifier__wikidata] if pd.i(:type) == 'wikidata'
+      binding.pry unless all_headers.include? :identifier__wikidata
 
       incoming_data = pd.as_table
 
