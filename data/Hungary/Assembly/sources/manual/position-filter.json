@@ -57,19 +57,24 @@
         "count": 1
       },
       {
+        "id": "Q23645099",
+        "name": "Minister of Labour",
+        "count": 1
+      },
+      {
+        "id": "Q23644987",
+        "name": "Minister of Transport and Water Management",
+        "count": 1
+      },
+      {
+        "id": "Q23645104",
+        "name": "Secretary of State for Territorial Public Administration",
+        "count": 1
+      },
+      {
         "id": "Q30185",
         "name": "mayor",
         "count": 2
-      },
-      {
-        "id": "Q83307",
-        "name": "minister",
-        "count": 1
-      },
-      {
-        "id": "Q12303322",
-        "name": "minister of Labour",
-        "count": 1
       }
     ]
   }

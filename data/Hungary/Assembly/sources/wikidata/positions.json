@@ -240,8 +240,13 @@
       "label": "Secretary of State"
     },
     {
-      "id": "Q83307",
-      "label": "minister"
+      "id": "Q23644987",
+      "label": "Minister of Transport and Water Management",
+      "qualifiers": {
+        "P580": "2000-10-01",
+        "P582": "2002-05-27",
+        "P1366": "Csillag István"
+      }
     }
   ],
   "Q946121": [
@@ -436,15 +441,24 @@
   "Q1034272": [
     {
       "id": "Q17590876",
-      "label": "member of the National Assembly of Hungary"
+      "label": "member of the National Assembly of Hungary",
+      "qualifiers": {
+        "P580": "1998-06-18"
+      }
     },
     {
       "id": "Q30185",
-      "label": "mayor"
+      "label": "mayor",
+      "qualifiers": {
+        "P642": "Pápa"
+      }
     },
     {
-      "id": "Q736559",
-      "label": "Secretary of State"
+      "id": "Q23645104",
+      "label": "Secretary of State for Territorial Public Administration",
+      "qualifiers": {
+        "P580": "2014-06"
+      }
     }
   ],
   "Q1468102": [
@@ -655,8 +669,8 @@
       "label": "Secretary of State"
     },
     {
-      "id": "Q12303322",
-      "label": "minister of Labour"
+      "id": "Q23645099",
+      "label": "Minister of Labour"
     }
   ],
   "Q7665270": [
