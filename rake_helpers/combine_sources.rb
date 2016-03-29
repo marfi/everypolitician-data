@@ -59,7 +59,7 @@ namespace :merge_sources do
       raise "Missing `type` in #{no_type} file"
     end
 
-    sources = instructions(:sources).map { |s| Source.instantiate(s) }
+    sources = instructions(:sources).map { |s| Source::Base.instantiate(s) }
     all_headers = (%i(id uuid) + sources.map { |s| s.fields }).flatten.uniq
 
     merged_rows = []

@@ -1,6 +1,7 @@
 require 'csv'
 
-class Source
+module Source
+ class Base
 
   # Instantiate correct subclass based on instructions
   def self.instantiate(i)
@@ -79,7 +80,7 @@ class Source
   end
 end
 
-class Source::CSV < Source
+class Source::CSV < Source::Base
   def as_table
     rows = []
     ::CSV.table(filename, converters: nil).each do |row|
@@ -91,7 +92,7 @@ class Source::CSV < Source
   end
 end
 
-class Source::JSON < Source
+class Source::JSON < Source::Base
   def fields 
     []
   end
@@ -175,5 +176,7 @@ class Source::Area < Source::JSON
 end
 
 class Source::Positions < Source::JSON
+end
+
 end
 
