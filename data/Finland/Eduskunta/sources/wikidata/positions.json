@@ -10,6 +10,12 @@
       }
     }
   ],
+  "Q718650": [
+    {
+      "id": "Q2386529",
+      "label": "Minister for Foreign Affairs of Finland"
+    }
+  ],
   "Q11850151": [
     {
       "id": "Q17592486",
@@ -102,6 +108,12 @@
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland"
+    }
+  ],
+  "Q11866071": [
+    {
+      "id": "Q1294631",
+      "label": "Minister of Justice"
     }
   ],
   "Q11890217": [
@@ -419,12 +431,22 @@
     {
       "id": "Q22981850",
       "label": "Leader of the Centre Party"
+    },
+    {
+      "id": "Q1294631",
+      "label": "Minister of Justice"
     }
   ],
   "Q11893035": [
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland"
+    }
+  ],
+  "Q3497402": [
+    {
+      "id": "Q2367542",
+      "label": "Minister of Finance"
     }
   ],
   "Q11893623": [
@@ -709,6 +731,10 @@
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland"
+    },
+    {
+      "id": "Q1294631",
+      "label": "Minister of Justice"
     }
   ],
   "Q541499": [
@@ -1400,6 +1426,12 @@
       "label": "member of the Parliament of Finland"
     }
   ],
+  "Q6304972": [
+    {
+      "id": "Q11895091",
+      "label": "Minister of Education and Culture of Finland"
+    }
+  ],
   "Q456901": [
     {
       "id": "Q27169",
@@ -1676,6 +1708,12 @@
       "label": "member of the Parliament of Finland"
     }
   ],
+  "Q591312": [
+    {
+      "id": "Q2367542",
+      "label": "Minister of Finance"
+    }
+  ],
   "Q256001": [
     {
       "id": "Q27169",
@@ -1931,6 +1969,10 @@
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland"
+    },
+    {
+      "id": "Q2386529",
+      "label": "Minister for Foreign Affairs of Finland"
     }
   ],
   "Q11866372": [
@@ -1973,6 +2015,10 @@
     {
       "id": "Q392228",
       "label": "Speaker of the Parliament of Finland"
+    },
+    {
+      "id": "Q2367542",
+      "label": "Minister of Finance"
     }
   ],
   "Q16298352": [
@@ -2103,6 +2149,10 @@
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland"
+    },
+    {
+      "id": "Q2367542",
+      "label": "Minister of Finance"
     }
   ],
   "Q11898453": [
@@ -2288,6 +2338,12 @@
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland"
+    }
+  ],
+  "Q2613311": [
+    {
+      "id": "Q11895091",
+      "label": "Minister of Education and Culture of Finland"
     }
   ],
   "Q4357820": [
@@ -2488,12 +2544,22 @@
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland"
+    },
+    {
+      "id": "Q11895091",
+      "label": "Minister of Education and Culture of Finland"
     }
   ],
   "Q11880880": [
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland"
+    }
+  ],
+  "Q297829": [
+    {
+      "id": "Q1294631",
+      "label": "Minister of Justice"
     }
   ],
   "Q11870505": [
@@ -2598,6 +2664,10 @@
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland"
+    },
+    {
+      "id": "Q2367542",
+      "label": "Minister of Finance"
     }
   ],
   "Q2983767": [
@@ -2620,6 +2690,12 @@
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland"
+    }
+  ],
+  "Q3781266": [
+    {
+      "id": "Q1294631",
+      "label": "Minister of Justice"
     }
   ],
   "Q4349194": [
