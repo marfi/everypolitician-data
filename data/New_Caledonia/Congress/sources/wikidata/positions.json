@@ -2,7 +2,7 @@
   "Q3101372": [
     {
       "id": "Q3044918",
-      "label": "member of parliament in France",
+      "label": "member of the French National Assembly",
       "qualifiers": {
         "P768": "New Caledonia's 2nd constituency",
         "P580": "2012-06-20"
@@ -27,18 +27,14 @@
   ],
   "Q3099884": [
     {
-      "id": "Q1055894",
-      "label": "deputy",
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
       "qualifiers": {
         "P1366": "Sonia Lagarde",
         "P580": "2007",
         "P582": "2012",
         "P1365": "Jacques Lafleur"
       }
-    },
-    {
-      "id": "Q3044918",
-      "label": "member of parliament in France"
     }
   ],
   "Q3347018": [
