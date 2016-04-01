@@ -5,12 +5,6 @@
       "label": "Member of the Legislature of Guam"
     }
   ],
-  "Q16221559": [
-    {
-      "id": "Q19420755",
-      "label": "Member of the Legislature of Guam"
-    }
-  ],
   "Q4888444": [
     {
       "id": "Q19420755",
@@ -23,10 +17,20 @@
       "label": "Member of the Legislature of Guam"
     }
   ],
-  "": [
+  "Q16221559": [
     {
       "id": "Q19420755",
       "label": "Member of the Legislature of Guam"
+    }
+  ],
+  "Q7298187": [
+    {
+      "id": "Q19420755",
+      "label": "Member of the Legislature of Guam"
+    },
+    {
+      "id": "Q6544413",
+      "label": "Lieutenant Governor of Guam"
     }
   ],
   "Q888443": [
@@ -42,14 +46,10 @@
       }
     }
   ],
-  "Q7298187": [
+  "Q1711085": [
     {
       "id": "Q19420755",
       "label": "Member of the Legislature of Guam"
-    },
-    {
-      "id": "Q6544413",
-      "label": "Lieutenant Governor of Guam"
     }
   ]
 }
