@@ -808,14 +808,154 @@
       ]
     },
     {
+      "birth_date": "1951-03-15",
+      "gender": "male",
+      "given_name": "Sergei",
       "id": "9fd33b27-fd4c-4eba-9a8f-d4d23f603c63",
+      "identifiers": [
+        {
+          "identifier": "/m/03fqqs",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q737435",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlamentra.org/upload/iblock/e1f/shamba_sergei.jpg",
       "images": [
         {
           "url": "http://www.parlamentra.org/upload/iblock/e1f/shamba_sergei.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ab)",
+          "url": "https://ab.wikipedia.org/wiki/Сергеи_Шамба"
+        },
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Сяргей_Міронавіч_Шамба"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Sergei_Schamba"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sergei_Shamba"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Sergei_Šamba"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/セルゲイ・シャンバ"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/სერგეი_შამბა"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Siergiej_Szamba"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Шамба,_Сергей_Миронович"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Sergej_Sjamba"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Sergey_Şamba"
+        }
+      ],
       "name": "Шамба Сергей Миронович",
+      "other_names": [
+        {
+          "name": "Sergei Shamba",
+          "note": "alternate"
+        },
+        {
+          "lang": "ab",
+          "name": "Сергеи Шамба",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Сяргей Міронавіч Шамба",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sergei Schamba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sergei Shamba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sergei Shamba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Sergei Šamba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sergei Shamba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Sergei Shamba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "セルゲイ・シャンバ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "სერგეი შამბა",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sergei Shamba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Siergiej Szamba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Шамба, Сергей Миронович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Sergej Sjamba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Sergei Shamba",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.parlamentra.org/rus/officials/?ELEMENT_ID=1457"
