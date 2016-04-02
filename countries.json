@@ -8640,11 +8640,11 @@
         "slug": "Assembly",
         "sources_directory": "data/South_Sudan/Assembly/sources",
         "popolo": "data/South_Sudan/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e35a65d/data/South_Sudan/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/70714c7/data/South_Sudan/Assembly/ep-popolo-v1.0.json",
         "names": "data/South_Sudan/Assembly/names.csv",
-        "lastmod": "1457168530",
+        "lastmod": "1459615062",
         "person_count": 167,
-        "sha": "e35a65d",
+        "sha": "70714c7",
         "legislative_periods": [
           {
             "id": "term/1",
@@ -8652,10 +8652,10 @@
             "start_date": "2011-07-09",
             "slug": "1",
             "csv": "data/South_Sudan/Assembly/term-1.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e35a65d/data/South_Sudan/Assembly/term-1.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/70714c7/data/South_Sudan/Assembly/term-1.csv"
           }
         ],
-        "statement_count": 1889
+        "statement_count": 2608
       }
     ]
   },
