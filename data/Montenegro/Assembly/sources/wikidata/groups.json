@@ -157,6 +157,11 @@
         "lang": "sh",
         "name": "Demokratski front (Crna Gora)",
         "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "Демократски фронт Црне Горе",
+        "note": "multilingual"
       }
     ]
   },
@@ -211,6 +216,26 @@
       {
         "lang": "sr",
         "name": "Социјалистичка народна партија Црне Горе",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "Социјалистичка народна партија",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "СНП ЦГ",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "СНП",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "SNP CG",
         "note": "multilingual"
       }
     ],
@@ -278,6 +303,41 @@
         "lang": "ru",
         "name": "Социал-демократическая партия Черногории",
         "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Σοσιαλιστικό Δημοκρατικό Κόμμα του Μαυροβουνίου",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti social-democrate du Montenegro",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti Social-Démocrate de Monténégro",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "СДП ЦГ",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Socialdemocrata de Montenegro",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "SDP CG",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Socijaldemokratska partija Crne Gore",
+        "note": "multilingual"
       }
     ],
     "links": [
@@ -323,6 +383,11 @@
       {
         "lang": "ru",
         "name": "Позитивная Черногория",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Pozitivna Crna Gora",
         "note": "multilingual"
       }
     ],
@@ -411,6 +476,16 @@
         "lang": "uk",
         "name": "Ліберальна партія Чорногорії",
         "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "ЛП ЦГ",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "LPCG",
+        "note": "multilingual"
       }
     ]
   },
@@ -455,6 +530,36 @@
       {
         "lang": "ru",
         "name": "ФОРЦА",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Forca",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "New Democratic Power - FORCA",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Forca e Re Demokratike",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Nova Demokratska Snaga",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "FORCA",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Forca e Re Demokratike",
         "note": "multilingual"
       }
     ]
