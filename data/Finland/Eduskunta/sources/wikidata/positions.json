@@ -523,7 +523,12 @@
   "Q16990896": [
     {
       "id": "Q17592486",
-      "label": "member of the Parliament of Finland"
+      "label": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "1983-03-26",
+        "P582": "2003-03-18",
+        "P768": "Uusimaa"
+      }
     }
   ],
   "Q11861329": [
