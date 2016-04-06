@@ -1,8 +1,8 @@
 {
   "Q3090591": [
     {
-      "id": "Q128986",
-      "label": "Government of Gibraltar",
+      "id": "Q23697747",
+      "label": "Minister for Enterprise, Training, Employment and Health and Safety",
       "qualifiers": {
         "P580": "2011-12-08"
       }
@@ -58,8 +58,8 @@
   ],
   "Q5217120": [
     {
-      "id": "Q1413677",
-      "label": "justice ministry",
+      "id": "Q23697751",
+      "label": "Minister for Justice",
       "qualifiers": {
         "P580": "2007",
         "P582": "2011"
