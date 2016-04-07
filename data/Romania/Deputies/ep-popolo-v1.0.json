@@ -29970,11 +29970,17 @@
     },
     {
       "birth_date": "1973-10-24",
+      "gender": "male",
+      "given_name": "George",
       "id": "6c6428c1-e565-4a22-99b5-5481208c7b39",
       "identifiers": [
         {
           "identifier": "329",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5544386",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/ScutaruAdrianGeorge.jpg",
@@ -29983,7 +29989,48 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/ScutaruAdrianGeorge.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/George_Scutaru"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/George_Scutaru"
+        }
+      ],
       "name": "Scutaru Adrian George",
+      "other_names": [
+        {
+          "name": "George Scutaru",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "George Scutaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "George Scutaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "George Scutaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "George Scutaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "George Scutaru",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Adrian George SCUTARU",
       "sources": [
         {
