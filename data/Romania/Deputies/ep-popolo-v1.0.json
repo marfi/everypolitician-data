@@ -27036,6 +27036,10 @@
         {
           "note": "Wikipedia (ro)",
           "url": "https://ro.wikipedia.org/wiki/Florin_Aurelian_Popescu"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/弗洛林·奥勒扬·波佩斯库"
         }
       ],
       "name": "Popescu Florin Aurelian",
@@ -36800,7 +36804,7 @@
         },
         {
           "lang": "ro",
-          "name": "Politician independent",
+          "name": "politician independent",
           "note": "multilingual"
         },
         {
@@ -36951,6 +36955,11 @@
         {
           "lang": "sd",
           "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
           "note": "multilingual"
         },
         {
@@ -37156,11 +37165,6 @@
         {
           "lang": "tr",
           "name": "Serbest siyasetçi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Parteilos",
           "note": "multilingual"
         },
         {
@@ -40522,7 +40526,7 @@
     {
       "area_id": "9",
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/unpr",
+      "on_behalf_of_id": "party/psd",
       "organization_id": "legislature",
       "person_id": "fad92554-9359-4e9d-9f6c-e7a263b6901d",
       "role": "member"
