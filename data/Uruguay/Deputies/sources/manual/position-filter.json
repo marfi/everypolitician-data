@@ -1,0 +1,38 @@
+{
+  "exclude": {
+    "self": [
+      {
+        "id": "Q19930720",
+        "name": "Member of the Chamber of Deputies of Uruguay"
+      }
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+
+    ],
+    "other_legislatures": [
+      {
+        "id": "Q19930721",
+        "name": "Member of the Senate of Uruguay"
+      }
+    ],
+    "executive": [
+
+    ],
+    "party": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "unknown": {
+    "unknown": [
+
+    ]
+  }
+}
