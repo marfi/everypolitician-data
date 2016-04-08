@@ -1,0 +1,48 @@
+{
+  "exclude": {
+    "self": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "include": {
+    "self": [
+
+    ],
+    "other_legislatures": [
+
+    ],
+    "executive": [
+      {
+        "id": "Q6865949",
+        "name": "Minister for Security"
+      },
+      {
+        "id": "Q2462330",
+        "name": "Prime Minister of Uganda"
+      }
+    ],
+    "party": [
+
+    ],
+    "other": [
+
+    ]
+  },
+  "unknown": {
+    "unknown": [
+      {
+        "id": "Q5358201",
+        "name": "attorney general",
+        "count": 1
+      },
+      {
+        "id": "Q7330070",
+        "name": "foreign minister",
+        "count": 1
+      }
+    ]
+  }
+}
