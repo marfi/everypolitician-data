@@ -62,6 +62,14 @@
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
       }
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "create": {
+        "from": "wikidata-raw",
+        "source": "reconciliation/wikidata.csv"
+      }
     }
   ]
 }
