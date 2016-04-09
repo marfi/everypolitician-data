@@ -1590,7 +1590,38 @@
       "label": "Minister of the Interior",
       "qualifiers": {
         "P580": "2011-06-22",
-        "P1365": "Anne Holmlund"
+        "P1365": "Anne Holmlund",
+        "P582": "2014-06-23",
+        "P361": "Jyrki Katainen's cabinet"
+      }
+    },
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "1995-03-24",
+        "P768": "Tavastia"
+      }
+    },
+    {
+      "id": "Q1445938",
+      "label": "Minister of the Interior",
+      "qualifiers": {
+        "P580": "2014-06-24",
+        "P582": "2015-05-28",
+        "P361": "Alexander Stubb's cabinet",
+        "P1366": "Petteri Orpo"
+      }
+    },
+    {
+      "id": "Q140686",
+      "label": "chairperson",
+      "qualifiers": {
+        "P642": "Christian Democrats",
+        "P580": "2004",
+        "P582": "2015-08",
+        "P1365": "Bjarne Kallis",
+        "P1366": "Sari Essayah"
       }
     }
   ],
@@ -2060,15 +2091,26 @@
       "id": "Q17592486",
       "label": "member of the Parliament of Finland",
       "qualifiers": {
-        "P580": "2003",
-        "P582": "2006"
+        "P580": "2003-03-19",
+        "P582": "2007-03-20",
+        "P768": "Finland Proper"
       }
     },
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland",
       "qualifiers": {
-        "P580": "2015"
+        "P580": "2015-04-22",
+        "P768": "Savonia-Karelia"
+      }
+    },
+    {
+      "id": "Q140686",
+      "label": "chairperson",
+      "qualifiers": {
+        "P642": "Christian Democrats",
+        "P580": "2015-08",
+        "P1365": "Päivi Räsänen"
       }
     }
   ],
@@ -2629,6 +2671,36 @@
       "label": "Minister for European Affairs and Foreign Trade",
       "qualifiers": {
         "P580": "2014-06-24"
+      }
+    }
+  ],
+  "Q6029546": [
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "2007-03-21",
+        "P768": "Finland Proper"
+      }
+    },
+    {
+      "id": "Q1845777",
+      "label": "Q1845777",
+      "qualifiers": {
+        "P580": "2014-06-24",
+        "P582": "2015-05-28",
+        "P361": "Alexander Stubb's cabinet",
+        "P1365": "Jari Koskinen",
+        "P1366": "Kimmo Tiilikainen"
+      }
+    },
+    {
+      "id": "Q1445938",
+      "label": "Minister of the Interior",
+      "qualifiers": {
+        "P580": "2015-05-29",
+        "P361": "Juha Sipilä's cabinet",
+        "P1365": "Päivi Räsänen"
       }
     }
   ],
