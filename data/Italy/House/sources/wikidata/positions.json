@@ -753,7 +753,7 @@
   "Q3703642": [
     {
       "id": "Q1255921",
-      "label": "president",
+      "label": "president (of Province of Venice)",
       "qualifiers": {
         "P580": "2004-06-13",
         "P582": "2009-06-21",
@@ -762,7 +762,7 @@
     },
     {
       "id": "Q18558478",
-      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "label": "member of the Chamber of Deputies of the Italian Republic (of Legislature XVII of the Italian Republic)",
       "qualifiers": {
         "P642": "Legislature XVII of the Italian Republic"
       }
@@ -1045,7 +1045,7 @@
     },
     {
       "id": "Q6501749",
-      "label": "General Secretary",
+      "label": "General Secretary (of Young Democrats)",
       "qualifiers": {
         "P580": "2008-11-21",
         "P582": "2014-07-20",
@@ -3192,7 +3192,7 @@
     },
     {
       "id": "Q1553195",
-      "label": "party leader",
+      "label": "party leader (of Northern League)",
       "qualifiers": {
         "P642": "Northern League"
       }
