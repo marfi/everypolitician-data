@@ -2,7 +2,7 @@
   "Q845722": [
     {
       "id": "Q6566930",
-      "label": "List of Chief Ministers of Penang"
+      "label": "Chief Minister of Penang"
     }
   ],
   "Q6891328": [
@@ -29,6 +29,10 @@
         "P1365": "Abdullah Ahmad Badawi",
         "P1366": "Muhyiddin Yassin"
       }
+    },
+    {
+      "id": "Q20449744",
+      "label": "Minister of Defence"
     }
   ],
   "Q14917258": [
@@ -52,6 +56,14 @@
     {
       "id": "Q3527309",
       "label": "Ministry of Foreign Affairs of Malaysia"
+    },
+    {
+      "id": "Q20449744",
+      "label": "Minister of Defence"
+    },
+    {
+      "id": "Q7361931",
+      "label": "Minister of Foreign Affairs"
     }
   ],
   "Q7660415": [
@@ -66,10 +78,22 @@
       }
     }
   ],
+  "Q4198159": [
+    {
+      "id": "Q7361931",
+      "label": "Minister of Foreign Affairs"
+    }
+  ],
   "Q713971": [
     {
       "id": "Q6566930",
-      "label": "List of Chief Ministers of Penang"
+      "label": "Chief Minister of Penang"
+    }
+  ],
+  "Q707164": [
+    {
+      "id": "Q6566930",
+      "label": "Chief Minister of Penang"
     }
   ],
   "Q529391": [
@@ -125,6 +149,26 @@
         "P582": "1970-09-22",
         "P1366": "Ismail Abdul Rahman"
       }
+    },
+    {
+      "id": "Q20449744",
+      "label": "Minister of Defence"
+    },
+    {
+      "id": "Q7361931",
+      "label": "Minister of Foreign Affairs"
+    }
+  ],
+  "Q1521486": [
+    {
+      "id": "Q7361931",
+      "label": "Minister of Foreign Affairs"
+    }
+  ],
+  "Q4670201": [
+    {
+      "id": "Q7361931",
+      "label": "Minister of Foreign Affairs"
     }
   ],
   "Q717696": [
@@ -137,6 +181,10 @@
     {
       "id": "Q12689905",
       "label": "Ministry of Information, Communication and Culture"
+    },
+    {
+      "id": "Q7361931",
+      "label": "Minister of Foreign Affairs"
     }
   ],
   "Q2745305": [
@@ -147,6 +195,12 @@
     {
       "id": "Q16556694",
       "label": "member of the Lok Sabha"
+    }
+  ],
+  "Q4764583": [
+    {
+      "id": "Q7361931",
+      "label": "Minister of Foreign Affairs"
     }
   ],
   "Q7289724": [
@@ -185,10 +239,16 @@
       "label": "President of the United Nations General Assembly"
     }
   ],
+  "Q4695503": [
+    {
+      "id": "Q20449744",
+      "label": "Minister of Defence"
+    }
+  ],
   "Q5772615": [
     {
-      "id": "Q4294501",
-      "label": "Ministry of Defence"
+      "id": "Q20449744",
+      "label": "Minister of Defence"
     }
   ],
   "Q7660318": [
@@ -225,6 +285,14 @@
         "P1366": "Najib Razak",
         "P768": "Kepala Batas, Penang"
       }
+    },
+    {
+      "id": "Q20449744",
+      "label": "Minister of Defence"
+    },
+    {
+      "id": "Q7361931",
+      "label": "Minister of Foreign Affairs"
     }
   ],
   "Q181383": [
@@ -246,6 +314,10 @@
         "P582": "1981-07-16",
         "P1366": "Musa Hitam"
       }
+    },
+    {
+      "id": "Q20449744",
+      "label": "Minister of Defence"
     }
   ],
   "Q7682024": [
@@ -263,6 +335,10 @@
         "P582": "1970-09-22",
         "P1366": "Abdul Razak Hussein"
       }
+    },
+    {
+      "id": "Q7361931",
+      "label": "Minister of Foreign Affairs"
     }
   ]
 }
