@@ -805,7 +805,7 @@
     },
     {
       "id": "Q30185",
-      "label": "mayor",
+      "label": "mayor (of Prague 6)",
       "qualifiers": {
         "P642": "Prague 6",
         "P580": "1998",
@@ -1667,7 +1667,7 @@
     },
     {
       "id": "Q2501396",
-      "label": "Minister of Foreign Affairs",
+      "label": "Minister of Foreign Affairs (of Mirek Topolánek's Second Cabinet)",
       "qualifiers": {
         "P582": "2009-05-08",
         "P580": "2007-01-09",
@@ -1678,7 +1678,7 @@
     },
     {
       "id": "Q2501396",
-      "label": "Minister of Foreign Affairs",
+      "label": "Minister of Foreign Affairs (of Petr Nečas's Cabinet)",
       "qualifiers": {
         "P580": "2010-07-13",
         "P582": "2013-07-10",
@@ -1735,7 +1735,7 @@
   "Q133947": [
     {
       "id": "Q708492",
-      "label": "councillor",
+      "label": "councillor (of Prague 2)",
       "qualifiers": {
         "P642": "Prague 2",
         "P580": "1994-11-19",
@@ -1744,7 +1744,7 @@
     },
     {
       "id": "Q708492",
-      "label": "councillor",
+      "label": "councillor (of Prague 2)",
       "qualifiers": {
         "P642": "Prague 2",
         "P580": "2006-10-21",
@@ -1753,7 +1753,7 @@
     },
     {
       "id": "Q708492",
-      "label": "councillor",
+      "label": "councillor (of Prague)",
       "qualifiers": {
         "P642": "Prague",
         "P580": "2010-10-16",
@@ -1773,7 +1773,7 @@
     },
     {
       "id": "Q83307",
-      "label": "minister",
+      "label": "minister (of Bohuslav Sobotka's Cabinet)",
       "qualifiers": {
         "P642": "Bohuslav Sobotka's Cabinet",
         "P580": "2014-01-29",
@@ -1782,7 +1782,7 @@
     },
     {
       "id": "Q140686",
-      "label": "chairperson",
+      "label": "chairperson (of Q12032881)",
       "qualifiers": {
         "P642": "Q12032881",
         "P580": "2014-01-29",
@@ -5027,7 +5027,7 @@
   "Q12001809": [
     {
       "id": "Q19803234",
-      "label": "Member of the Chamber of Deputies of the Parliament of the Czech Republic",
+      "label": "Member of the Chamber of Deputies of the Parliament of the Czech Republic (of Chamber of Deputies of the Parliament of the Czech Republic)",
       "qualifiers": {
         "P642": "Chamber of Deputies of the Parliament of the Czech Republic"
       }
@@ -5042,7 +5042,7 @@
     },
     {
       "id": "Q2661677",
-      "label": "European Commissioner",
+      "label": "European Commissioner (of European Commission)",
       "qualifiers": {
         "P642": "European Commission",
         "P580": "2014-11-01"
@@ -5149,7 +5149,7 @@
     },
     {
       "id": "Q30185",
-      "label": "mayor",
+      "label": "mayor (of Moravské Budějovice)",
       "qualifiers": {
         "P642": "Moravské Budějovice",
         "P102": "Mayors and Independents",
@@ -5366,7 +5366,7 @@
     },
     {
       "id": "Q1055894",
-      "label": "deputy",
+      "label": "deputy (of Czech National Council)",
       "qualifiers": {
         "P642": "Czech National Council",
         "P580": "1992-06-06",
@@ -5375,7 +5375,7 @@
     },
     {
       "id": "Q17578116",
-      "label": "interior minister",
+      "label": "interior minister (of Q3112520)",
       "qualifiers": {
         "P642": "Q3112520",
         "P580": "2000-04-05",
@@ -5386,7 +5386,7 @@
     },
     {
       "id": "Q877955",
-      "label": "deputy prime minister",
+      "label": "deputy prime minister (of Q3112694)",
       "qualifiers": {
         "P642": "Q3112694",
         "P580": "2002-06-15",
@@ -5395,7 +5395,7 @@
     },
     {
       "id": "Q140686",
-      "label": "chairperson",
+      "label": "chairperson (of Czech Social Democratic Party)",
       "qualifiers": {
         "P642": "Czech Social Democratic Party",
         "P580": "2005-03-26",
@@ -5406,7 +5406,7 @@
     },
     {
       "id": "Q140686",
-      "label": "chairperson",
+      "label": "chairperson (of Q15639867)",
       "qualifiers": {
         "P642": "Q15639867",
         "P580": "1995-01-18",
@@ -5417,7 +5417,7 @@
     },
     {
       "id": "Q140686",
-      "label": "chairperson",
+      "label": "chairperson (of Young Social Democrats)",
       "qualifiers": {
         "P642": "Young Social Democrats",
         "P580": "1990",
@@ -5824,7 +5824,7 @@
   "Q3377548": [
     {
       "id": "Q1162163",
-      "label": "director",
+      "label": "director (of Q12036550)",
       "qualifiers": {
         "P642": "Q12036550",
         "P580": "1996",
@@ -5833,7 +5833,7 @@
     },
     {
       "id": "Q12047080",
-      "label": "Q12047080",
+      "label": "Q12047080 (of Masaryk University Faculty of Social Studies)",
       "qualifiers": {
         "P642": "Masaryk University Faculty of Social Studies",
         "P580": "2002",
@@ -5842,7 +5842,7 @@
     },
     {
       "id": "Q723682",
-      "label": "dean",
+      "label": "dean (of Masaryk University Faculty of Social Studies)",
       "qualifiers": {
         "P642": "Masaryk University Faculty of Social Studies",
         "P580": "2004",
@@ -5853,7 +5853,7 @@
     },
     {
       "id": "Q212071",
-      "label": "rector",
+      "label": "rector (of Masaryk University)",
       "qualifiers": {
         "P642": "Masaryk University",
         "P580": "2004-09-01",
@@ -5864,7 +5864,7 @@
     },
     {
       "id": "Q2113250",
-      "label": "Prorector",
+      "label": "Prorector (of Masaryk University)",
       "qualifiers": {
         "P642": "Masaryk University",
         "P580": "2011",
@@ -5883,7 +5883,7 @@
     },
     {
       "id": "Q140686",
-      "label": "chairperson",
+      "label": "chairperson (of Civic Democratic Party)",
       "qualifiers": {
         "P642": "Civic Democratic Party",
         "P580": "2014-01-18",
@@ -5894,7 +5894,7 @@
     },
     {
       "id": "Q140686",
-      "label": "chairperson",
+      "label": "chairperson (of Q11281981)",
       "qualifiers": {
         "P642": "Q11281981",
         "P580": "2009",
@@ -5907,7 +5907,7 @@
   "Q12025624": [
     {
       "id": "Q212071",
-      "label": "rector",
+      "label": "rector (of Masaryk University)",
       "qualifiers": {
         "P642": "Masaryk University",
         "P580": "1998-09-01",
@@ -5929,7 +5929,7 @@
     },
     {
       "id": "Q723682",
-      "label": "dean",
+      "label": "dean (of Masaryk University Faculty of Informatics)",
       "qualifiers": {
         "P642": "Masaryk University Faculty of Informatics",
         "P580": "1994",
@@ -5939,7 +5939,7 @@
     },
     {
       "id": "Q723682",
-      "label": "dean",
+      "label": "dean (of Masaryk University Faculty of Informatics)",
       "qualifiers": {
         "P642": "Masaryk University Faculty of Informatics",
         "P580": "2004",
@@ -5948,7 +5948,7 @@
     },
     {
       "id": "Q708492",
-      "label": "councillor",
+      "label": "councillor (of Brno)",
       "qualifiers": {
         "P642": "Brno",
         "P580": "2006-10-21",
@@ -5957,7 +5957,7 @@
     },
     {
       "id": "Q4657217",
-      "label": "municipal executive",
+      "label": "municipal executive (of Brno)",
       "qualifiers": {
         "P642": "Brno",
         "P580": "2006",
@@ -5966,7 +5966,7 @@
     },
     {
       "id": "Q2113250",
-      "label": "Prorector",
+      "label": "Prorector (of Masaryk University)",
       "qualifiers": {
         "P642": "Masaryk University",
         "P580": "1990",
@@ -6400,7 +6400,7 @@
     },
     {
       "id": "Q83307",
-      "label": "minister",
+      "label": "minister (of Ministry of Culture)",
       "qualifiers": {
         "P580": "1998",
         "P582": "2005",
