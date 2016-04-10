@@ -52,7 +52,7 @@
     },
     {
       "id": "Q20748648",
-      "label": "municipal councillor",
+      "label": "municipal councillor (of Amsterdam-Zuid)",
       "qualifiers": {
         "P642": "Amsterdam-Zuid",
         "P580": "2007-05",
@@ -992,7 +992,7 @@
     },
     {
       "id": "Q928764",
-      "label": "parliamentary group leader",
+      "label": "parliamentary group leader (of Socialist Party)",
       "qualifiers": {
         "P642": "Socialist Party",
         "P580": "2010-03-05"
@@ -1016,7 +1016,7 @@
   "Q105338": [
     {
       "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
+      "label": "member of the House of Representatives of the Netherlands (of People's Party for Freedom and Democracy)",
       "qualifiers": {
         "P580": "1998-08-25",
         "P582": "2002-05-23",
@@ -1025,7 +1025,7 @@
     },
     {
       "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
+      "label": "member of the House of Representatives of the Netherlands (of People's Party for Freedom and Democracy)",
       "qualifiers": {
         "P580": "2002-07-26",
         "P582": "2004-09-02",
@@ -1034,7 +1034,7 @@
     },
     {
       "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
+      "label": "member of the House of Representatives of the Netherlands (of Group Wilders)",
       "qualifiers": {
         "P580": "2004-09-02",
         "P582": "2006-02-22",
@@ -1043,7 +1043,7 @@
     },
     {
       "id": "Q18887908",
-      "label": "member of the House of Representatives of the Netherlands",
+      "label": "member of the House of Representatives of the Netherlands (of Party for Freedom)",
       "qualifiers": {
         "P580": "2006-02-22",
         "P642": "Party for Freedom"
