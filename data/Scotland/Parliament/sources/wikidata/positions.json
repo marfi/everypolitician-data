@@ -106,6 +106,13 @@
     {
       "id": "Q1711695",
       "label": "Member of the Scottish Parliament"
+    },
+    {
+      "id": "Q23766514",
+      "label": "Leader of the Scottish Labour Party",
+      "qualifiers": {
+        "P580": "2015-08-15"
+      }
     }
   ],
   "Q1200458": [
@@ -1173,8 +1180,13 @@
   ],
   "Q1421398": [
     {
-      "id": "Q3179541",
-      "label": "Scottish Labour Party"
+      "id": "Q23766514",
+      "label": "Leader of the Scottish Labour Party",
+      "qualifiers": {
+        "P580": "2015-06-13",
+        "P582": "2015-08-15",
+        "P1366": "Kezia Dugdale"
+      }
     },
     {
       "id": "Q1711695",
@@ -1409,8 +1421,8 @@
   ],
   "Q511689": [
     {
-      "id": "Q3179541",
-      "label": "Scottish Labour Party",
+      "id": "Q23766514",
+      "label": "Leader of the Scottish Labour Party",
       "qualifiers": {
         "P580": "2007-09-14",
         "P582": "2008-06-28",
@@ -1459,8 +1471,8 @@
       }
     },
     {
-      "id": "Q3179541",
-      "label": "Scottish Labour Party",
+      "id": "Q23766514",
+      "label": "Leader of the Scottish Labour Party",
       "qualifiers": {
         "P580": "2000-10-27",
         "P582": "2001-11-08",
@@ -1755,8 +1767,8 @@
       }
     },
     {
-      "id": "Q3179541",
-      "label": "Scottish Labour Party",
+      "id": "Q23766514",
+      "label": "Leader of the Scottish Labour Party",
       "qualifiers": {
         "P580": "2001-11-22",
         "P582": "2007-08-15",
@@ -2418,6 +2430,10 @@
         "P1365": "Bruce Millan",
         "P1366": "Tom Clarke"
       }
+    },
+    {
+      "id": "Q23766514",
+      "label": "Leader of the Scottish Labour Party"
     }
   ],
   "Q1710696": [
