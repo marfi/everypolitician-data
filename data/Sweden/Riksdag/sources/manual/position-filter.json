@@ -206,12 +206,17 @@
       },
       {
         "id": "Q140686",
-        "name": "chairperson",
+        "name": "chairperson (of IF Metall)",
+        "count": 1
+      },
+      {
+        "id": "Q484876",
+        "name": "chief executive officer",
         "count": 1
       },
       {
         "id": "Q1553195",
-        "name": "party leader",
+        "name": "party leader (of Centre Party)",
         "count": 2
       }
     ]

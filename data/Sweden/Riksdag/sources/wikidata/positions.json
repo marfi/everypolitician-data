@@ -75,6 +75,16 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q3496488": [
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament"
+    },
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q5945618": [
     {
       "id": "Q10655178",
@@ -86,6 +96,18 @@
       "id": "Q27169",
       "label": "member of the European Parliament"
     },
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q5603378": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4940228": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -156,7 +178,19 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q5603264": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q6180159": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4946998": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -169,6 +203,12 @@
     }
   ],
   "Q5915963": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4941476": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -226,6 +266,12 @@
     }
   ],
   "Q3375042": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q6175674": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -524,6 +570,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q5627932": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q6086417": [
     {
       "id": "Q10655178",
@@ -531,6 +583,24 @@
     }
   ],
   "Q18238235": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q5969402": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q1635136": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q5740872": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -636,6 +706,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q5714937": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q4935882": [
     {
       "id": "Q10655178",
@@ -666,6 +742,12 @@
     {
       "id": "Q18176984",
       "label": "Minister for Culture"
+    }
+  ],
+  "Q5737254": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
     }
   ],
   "Q2938797": [
@@ -792,6 +874,18 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q6235935": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q6042706": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q4945703": [
     {
       "id": "Q10655178",
@@ -849,6 +943,12 @@
       "id": "Q27169",
       "label": "member of the European Parliament"
     },
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4987718": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -928,6 +1028,22 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q5777951": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q5983177": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    },
+    {
+      "id": "Q484876",
+      "label": "chief executive officer"
+    }
+  ],
   "Q3373667": [
     {
       "id": "Q10655178",
@@ -983,6 +1099,12 @@
     }
   ],
   "Q6192010": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q6053983": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -1054,6 +1176,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q4991125": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q5588228": [
     {
       "id": "Q10655178",
@@ -1078,6 +1206,38 @@
       "label": "Member of the Riksdag",
       "qualifiers": {
         "P580": "2014"
+      }
+    }
+  ],
+  "Q5739826": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q208591": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    },
+    {
+      "id": "Q1749063",
+      "label": "Minister for Foreign Affairs",
+      "qualifiers": {
+        "P580": "1998-10-07",
+        "P582": "2003-09-11",
+        "P1365": "Lena Hjelm-Wallén",
+        "P1366": "Laila Freivalds"
+      }
+    },
+    {
+      "id": "Q10686216",
+      "label": "Minister for the Environment",
+      "qualifiers": {
+        "P580": "1994-10-07",
+        "P582": "1998-10-07",
+        "P1365": "Görel Thurdin",
+        "P1366": "Kjell Larsson"
       }
     }
   ],
@@ -1209,6 +1369,12 @@
     }
   ],
   "Q4944235": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q6009395": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -1445,6 +1611,18 @@
       }
     }
   ],
+  "Q6196170": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4895681": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q4988873": [
     {
       "id": "Q10655178",
@@ -1463,6 +1641,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q4991178": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q1357206": [
     {
       "id": "Q27169",
@@ -1474,6 +1658,12 @@
     }
   ],
   "Q5716511": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q6196690": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -1510,6 +1700,12 @@
     }
   ],
   "Q5388484": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q5774706": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -1577,6 +1773,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q6045607": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q4962937": [
     {
       "id": "Q10655178",
@@ -1614,6 +1816,12 @@
     }
   ],
   "Q432059": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4949486": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -1723,6 +1931,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q5218897": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q2934817": [
     {
       "id": "Q10655178",
@@ -1766,6 +1980,12 @@
     }
   ],
   "Q4938296": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4946369": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -1820,7 +2040,25 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q4981874": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q4981914": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q6207928": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4951588": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -1849,6 +2087,12 @@
     }
   ],
   "Q5563661": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q5969868": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -2058,6 +2302,18 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q4951954": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q5609574": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q5807574": [
     {
       "id": "Q10655178",
@@ -2144,6 +2400,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q4939177": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q3430022": [
     {
       "id": "Q10655178",
@@ -2183,7 +2445,7 @@
   "Q439393": [
     {
       "id": "Q1553195",
-      "label": "party leader",
+      "label": "party leader (of Centre Party)",
       "qualifiers": {
         "P642": "Centre Party",
         "P1365": "Maud Olofsson"
@@ -2224,6 +2486,16 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q4972614": [
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament"
+    },
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q5605493": [
     {
       "id": "Q10655178",
@@ -2237,6 +2509,12 @@
     }
   ],
   "Q18243244": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4936231": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -2259,6 +2537,12 @@
     }
   ],
   "Q1681740": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q5554160": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -2313,6 +2597,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q6000064": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q4755577": [
     {
       "id": "Q10655178",
@@ -2343,6 +2633,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q5768614": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q3375840": [
     {
       "id": "Q10655178",
@@ -2350,6 +2646,12 @@
     }
   ],
   "Q4960356": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q5886806": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -2392,6 +2694,12 @@
     }
   ],
   "Q3363834": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q6209165": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -2473,6 +2781,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q5555011": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q4768959": [
     {
       "id": "Q10655178",
@@ -2480,6 +2794,12 @@
     }
   ],
   "Q3357513": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4990983": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -2504,6 +2824,12 @@
     }
   ],
   "Q4969998": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4975858": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -2597,6 +2923,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q4967716": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q4980077": [
     {
       "id": "Q27169",
@@ -2663,6 +2995,12 @@
     }
   ],
   "Q4916299": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q5886933": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -2819,6 +3157,12 @@
       }
     }
   ],
+  "Q6010314": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q6039297": [
     {
       "id": "Q10655178",
@@ -2895,7 +3239,19 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q5938964": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q5778392": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4955378": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -2953,6 +3309,12 @@
       "label": "Minister for Culture"
     }
   ],
+  "Q5781951": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q1830351": [
     {
       "id": "Q10686263",
@@ -2974,6 +3336,12 @@
     }
   ],
   "Q4948276": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q6241402": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -3017,6 +3385,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q5571469": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q4942378": [
     {
       "id": "Q10655178",
@@ -3041,6 +3415,22 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q1346478": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    },
+    {
+      "id": "Q19185575",
+      "label": "President of the Nordic Council",
+      "qualifiers": {
+        "P580": "1994-01-01",
+        "P582": "1994-09",
+        "P1365": "Jan P. Syse",
+        "P1366": "Per Olof Håkansson"
+      }
+    }
+  ],
   "Q3372906": [
     {
       "id": "Q10655178",
@@ -3048,6 +3438,12 @@
     }
   ],
   "Q4948778": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q5859296": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -3098,7 +3494,19 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q517762": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q4960997": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q316519": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -3140,7 +3548,19 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q5577493": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q5799722": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q6079130": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -3187,6 +3607,12 @@
       "id": "Q27169",
       "label": "member of the European Parliament"
     },
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q6340136": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -3264,6 +3690,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q4991027": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q3218127": [
     {
       "id": "Q10655178",
@@ -3282,6 +3714,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q5954195": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q5737622": [
     {
       "id": "Q10655178",
@@ -3289,6 +3727,12 @@
     }
   ],
   "Q2990882": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q5909746": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -3353,6 +3797,12 @@
     }
   ],
   "Q5914483": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q5942609": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -3503,7 +3953,19 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q5546036": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q6092482": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q459226": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -3645,6 +4107,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q6019726": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q447542": [
     {
       "id": "Q2611987",
@@ -3666,6 +4134,12 @@
       "id": "Q27169",
       "label": "member of the European Parliament"
     },
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q6186253": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -3721,6 +4195,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q5956968": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q4768600": [
     {
       "id": "Q10655178",
@@ -3752,6 +4232,12 @@
     }
   ],
   "Q18202365": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4971355": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -3911,6 +4397,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q4971770": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q6043823": [
     {
       "id": "Q10655178",
@@ -3972,6 +4464,18 @@
     }
   ],
   "Q4990657": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4972780": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q5583890": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -4044,6 +4548,18 @@
     }
   ],
   "Q6255521": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q5556543": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4939801": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -4251,6 +4767,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q6228058": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q5939379": [
     {
       "id": "Q10655178",
@@ -4293,6 +4815,12 @@
     }
   ],
   "Q18237283": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4972485": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -4346,6 +4874,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q5560456": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q6033286": [
     {
       "id": "Q10655178",
@@ -4377,6 +4911,12 @@
     }
   ],
   "Q6234332": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q5740624": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -4524,6 +5064,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q5777699": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q4916267": [
     {
       "id": "Q10655178",
@@ -4569,6 +5115,12 @@
     }
   ],
   "Q4935739": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4953866": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -4624,6 +5176,12 @@
     }
   ],
   "Q3041165": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4989365": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -4690,6 +5248,12 @@
     }
   ],
   "Q5603637": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q6255984": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -4803,6 +5367,12 @@
     }
   ],
   "Q4962726": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4990303": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -4988,6 +5558,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q5577484": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q4958729": [
     {
       "id": "Q10655178",
@@ -5007,6 +5583,12 @@
     }
   ],
   "Q5954984": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q6157362": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -5091,6 +5673,12 @@
     }
   ],
   "Q4990369": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q5616762": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -5262,6 +5850,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q5713152": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q6333187": [
     {
       "id": "Q10655178",
@@ -5269,6 +5863,12 @@
     }
   ],
   "Q5571416": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4976518": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -5293,6 +5893,12 @@
     }
   ],
   "Q4952231": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q6197564": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -5386,7 +5992,27 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q6198076": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q4990247": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4356302": [
+    {
+      "id": "Q10686216",
+      "label": "Minister for the Environment"
+    },
+    {
+      "id": "Q1850749",
+      "label": "Speaker of the Parliament of Sweden"
+    },
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -5422,7 +6048,19 @@
       }
     }
   ],
+  "Q6172149": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q6221732": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4968703": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -5488,6 +6126,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q369024": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q4979095": [
     {
       "id": "Q10655178",
@@ -5542,7 +6186,19 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q6010899": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q4753726": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q5954333": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -5569,7 +6225,7 @@
   "Q2740012": [
     {
       "id": "Q140686",
-      "label": "chairperson",
+      "label": "chairperson (of IF Metall)",
       "qualifiers": {
         "P642": "IF Metall",
         "P580": "2006-01-01",
@@ -5589,7 +6245,7 @@
     },
     {
       "id": "Q1553195",
-      "label": "party leader",
+      "label": "party leader (of Swedish Social Democratic Party)",
       "qualifiers": {
         "P642": "Swedish Social Democratic Party",
         "P580": "2012-01-27",
@@ -5632,7 +6288,7 @@
     },
     {
       "id": "Q10655178",
-      "label": "Member of the Riksdag",
+      "label": "Member of the Riksdag (of Q10680603)",
       "qualifiers": {
         "P642": "Q10680603",
         "P580": "2002",
@@ -5718,7 +6374,19 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q6245387": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q10678024": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4953552": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -5839,7 +6507,7 @@
     },
     {
       "id": "Q10676649",
-      "label": "Q10676649",
+      "label": "Q10676649 (of Green Party)",
       "qualifiers": {
         "P642": "Green Party",
         "P580": "2011"
@@ -5927,6 +6595,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q5617414": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q944795": [
     {
       "id": "Q27169",
@@ -6008,6 +6682,12 @@
       "label": "member of the European Parliament"
     }
   ],
+  "Q6019721": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q5708979": [
     {
       "id": "Q10655178",
@@ -6033,6 +6713,12 @@
     }
   ],
   "Q5952656": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4947360": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -6101,6 +6787,12 @@
     }
   ],
   "Q6011035": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q4939882": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
@@ -6467,6 +7159,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q4957716": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q4919772": [
     {
       "id": "Q10655178",
@@ -6593,6 +7291,12 @@
       "label": "Member of the Riksdag"
     }
   ],
+  "Q4946536": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
   "Q264452": [
     {
       "id": "Q10655178",
@@ -6630,6 +7334,12 @@
     }
   ],
   "Q4956917": [
+    {
+      "id": "Q10655178",
+      "label": "Member of the Riksdag"
+    }
+  ],
+  "Q5743823": [
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag"
