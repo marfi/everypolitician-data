@@ -1072,14 +1072,16 @@
         "P580": "1997-05-01",
         "P582": "2013-01-02",
         "P1365": "William McCrea",
-        "P1366": "Francie Molloy"
+        "P1366": "Francie Molloy",
+        "P768": "Mid Ulster"
       }
     },
     {
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland",
       "qualifiers": {
-        "P580": "1998-06-25"
+        "P580": "1998-06-25",
+        "P768": "Mid Ulster"
       }
     },
     {
@@ -1089,10 +1091,6 @@
         "P580": "2007-05-08",
         "P582": "2011-09-20"
       }
-    },
-    {
-      "id": "Q23729452",
-      "label": "deputy First Minister"
     },
     {
       "id": "Q23729452",
@@ -2335,7 +2333,7 @@
   "Q691216": [
     {
       "id": "Q16707842",
-      "label": "Member of Parliament in the United Kingdom",
+      "label": "Member of Parliament in the United Kingdom (of Cambridge)",
       "qualifiers": {
         "P642": "Cambridge",
         "P580": "2010-05-06",
@@ -4736,6 +4734,10 @@
         "P1365": "Bruce Millan",
         "P1366": "Tom Clarke"
       }
+    },
+    {
+      "id": "Q23766514",
+      "label": "Leader of the Scottish Labour Party"
     }
   ],
   "Q5980502": [
@@ -5003,8 +5005,8 @@
       }
     },
     {
-      "id": "Q3179541",
-      "label": "Scottish Labour Party",
+      "id": "Q23766514",
+      "label": "Leader of the Scottish Labour Party",
       "qualifiers": {
         "P580": "2000-10-27",
         "P582": "2001-11-08",
@@ -7266,6 +7268,16 @@
     {
       "id": "Q3406079",
       "label": "Member of the National Assembly for Wales"
+    },
+    {
+      "id": "Q23766510",
+      "label": "Leader of Welsh Labour",
+      "qualifiers": {
+        "P580": "1999-05-12",
+        "P582": "2000-02-09",
+        "P1365": "",
+        "P1366": "Rhodri Morgan"
+      }
     }
   ],
   "Q580350": [
@@ -11565,8 +11577,8 @@
       }
     },
     {
-      "id": "Q832685",
-      "label": "Welsh Labour",
+      "id": "Q23766510",
+      "label": "Leader of Welsh Labour",
       "qualifiers": {
         "P580": "2000-02-09",
         "P582": "2009-12-09",
@@ -13992,8 +14004,8 @@
   ],
   "Q266000": [
     {
-      "id": "Q1143261",
-      "label": "Ministry of Defence",
+      "id": "Q23766504",
+      "label": "Shadow Minister for International Security Strategy",
       "qualifiers": {
         "P580": "2010-10",
         "P582": "2015-05-08"
@@ -15180,10 +15192,6 @@
     }
   ],
   "Q259961": [
-    {
-      "id": "Q7460474",
-      "label": "Shadow Cabinet of Michael Howard"
-    },
     {
       "id": "Q3858507",
       "label": "Secretary of State for Business, Innovation and Skills"
