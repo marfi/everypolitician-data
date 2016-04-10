@@ -4411,11 +4411,11 @@
         "slug": "Knesset",
         "sources_directory": "data/Israel/Knesset/sources",
         "popolo": "data/Israel/Knesset/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/343bdc7/data/Israel/Knesset/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/afcbdff/data/Israel/Knesset/ep-popolo-v1.0.json",
         "names": "data/Israel/Knesset/names.csv",
-        "lastmod": "1460288616",
+        "lastmod": "1460302127",
         "person_count": 931,
-        "sha": "343bdc7",
+        "sha": "afcbdff",
         "legislative_periods": [
           {
             "end_date": "2016-01-29",
@@ -4424,7 +4424,7 @@
             "start_date": "2015-03-31",
             "slug": "20",
             "csv": "data/Israel/Knesset/term-20.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/343bdc7/data/Israel/Knesset/term-20.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/afcbdff/data/Israel/Knesset/term-20.csv"
           },
           {
             "end_date": "2015-03-31",
@@ -4433,7 +4433,7 @@
             "start_date": "2013-02-05",
             "slug": "19",
             "csv": "data/Israel/Knesset/term-19.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/343bdc7/data/Israel/Knesset/term-19.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/afcbdff/data/Israel/Knesset/term-19.csv"
           },
           {
             "end_date": "2013-02-05",
@@ -4442,7 +4442,7 @@
             "start_date": "2009-02-24",
             "slug": "18",
             "csv": "data/Israel/Knesset/term-18.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/343bdc7/data/Israel/Knesset/term-18.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/afcbdff/data/Israel/Knesset/term-18.csv"
           },
           {
             "end_date": "2009-02-24",
@@ -4451,7 +4451,7 @@
             "start_date": "2006-04-17",
             "slug": "17",
             "csv": "data/Israel/Knesset/term-17.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/343bdc7/data/Israel/Knesset/term-17.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/afcbdff/data/Israel/Knesset/term-17.csv"
           },
           {
             "end_date": "2006-04-17",
@@ -4460,7 +4460,7 @@
             "start_date": "2003-02-17",
             "slug": "16",
             "csv": "data/Israel/Knesset/term-16.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/343bdc7/data/Israel/Knesset/term-16.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/afcbdff/data/Israel/Knesset/term-16.csv"
           },
           {
             "end_date": "2003-02-17",
@@ -4469,7 +4469,7 @@
             "start_date": "1999-06-07",
             "slug": "15",
             "csv": "data/Israel/Knesset/term-15.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/343bdc7/data/Israel/Knesset/term-15.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/afcbdff/data/Israel/Knesset/term-15.csv"
           },
           {
             "end_date": "1999-06-07",
@@ -4478,7 +4478,7 @@
             "start_date": "1996-06-17",
             "slug": "14",
             "csv": "data/Israel/Knesset/term-14.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/343bdc7/data/Israel/Knesset/term-14.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/afcbdff/data/Israel/Knesset/term-14.csv"
           },
           {
             "end_date": "1996-06-17",
@@ -4487,7 +4487,7 @@
             "start_date": "1992-07-13",
             "slug": "13",
             "csv": "data/Israel/Knesset/term-13.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/343bdc7/data/Israel/Knesset/term-13.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/afcbdff/data/Israel/Knesset/term-13.csv"
           },
           {
             "end_date": "1992-07-13",
@@ -4496,7 +4496,7 @@
             "start_date": "1988-11-21",
             "slug": "12",
             "csv": "data/Israel/Knesset/term-12.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/343bdc7/data/Israel/Knesset/term-12.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/afcbdff/data/Israel/Knesset/term-12.csv"
           },
           {
             "end_date": "1988-11-21",
@@ -4505,7 +4505,7 @@
             "start_date": "1984-08-13",
             "slug": "11",
             "csv": "data/Israel/Knesset/term-11.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/343bdc7/data/Israel/Knesset/term-11.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/afcbdff/data/Israel/Knesset/term-11.csv"
           },
           {
             "end_date": "1984-08-13",
@@ -4514,7 +4514,7 @@
             "start_date": "1981-07-20",
             "slug": "10",
             "csv": "data/Israel/Knesset/term-10.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/343bdc7/data/Israel/Knesset/term-10.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/afcbdff/data/Israel/Knesset/term-10.csv"
           },
           {
             "end_date": "1981-07-20",
@@ -4523,7 +4523,7 @@
             "start_date": "1977-06-13",
             "slug": "9",
             "csv": "data/Israel/Knesset/term-9.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/343bdc7/data/Israel/Knesset/term-9.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/afcbdff/data/Israel/Knesset/term-9.csv"
           },
           {
             "end_date": "1977-06-13",
@@ -4532,7 +4532,7 @@
             "start_date": "1974-01-21",
             "slug": "8",
             "csv": "data/Israel/Knesset/term-8.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/343bdc7/data/Israel/Knesset/term-8.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/afcbdff/data/Israel/Knesset/term-8.csv"
           },
           {
             "end_date": "1974-01-21",
@@ -4541,7 +4541,7 @@
             "start_date": "1969-11-17",
             "slug": "7",
             "csv": "data/Israel/Knesset/term-7.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/343bdc7/data/Israel/Knesset/term-7.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/afcbdff/data/Israel/Knesset/term-7.csv"
           },
           {
             "end_date": "1969-11-17",
@@ -4550,7 +4550,7 @@
             "start_date": "1965-11-22",
             "slug": "6",
             "csv": "data/Israel/Knesset/term-6.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/343bdc7/data/Israel/Knesset/term-6.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/afcbdff/data/Israel/Knesset/term-6.csv"
           },
           {
             "end_date": "1965-11-22",
@@ -4559,7 +4559,7 @@
             "start_date": "1961-09-04",
             "slug": "5",
             "csv": "data/Israel/Knesset/term-5.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/343bdc7/data/Israel/Knesset/term-5.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/afcbdff/data/Israel/Knesset/term-5.csv"
           },
           {
             "end_date": "1961-09-04",
@@ -4568,7 +4568,7 @@
             "start_date": "1959-11-30",
             "slug": "4",
             "csv": "data/Israel/Knesset/term-4.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/343bdc7/data/Israel/Knesset/term-4.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/afcbdff/data/Israel/Knesset/term-4.csv"
           },
           {
             "end_date": "1959-11-30",
@@ -4577,7 +4577,7 @@
             "start_date": "1955-08-15",
             "slug": "3",
             "csv": "data/Israel/Knesset/term-3.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/343bdc7/data/Israel/Knesset/term-3.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/afcbdff/data/Israel/Knesset/term-3.csv"
           },
           {
             "end_date": "1955-08-15",
@@ -4586,7 +4586,7 @@
             "start_date": "1951-08-20",
             "slug": "2",
             "csv": "data/Israel/Knesset/term-2.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/343bdc7/data/Israel/Knesset/term-2.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/afcbdff/data/Israel/Knesset/term-2.csv"
           },
           {
             "end_date": "1951-08-20",
@@ -4595,7 +4595,7 @@
             "start_date": "1949-02-14",
             "slug": "1",
             "csv": "data/Israel/Knesset/term-1.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/343bdc7/data/Israel/Knesset/term-1.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/afcbdff/data/Israel/Knesset/term-1.csv"
           }
         ],
         "statement_count": 75635
@@ -10057,11 +10057,11 @@
         "slug": "House",
         "sources_directory": "data/United_States_of_America/House/sources",
         "popolo": "data/United_States_of_America/House/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e65ad7d/data/United_States_of_America/House/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3d3b7d9/data/United_States_of_America/House/ep-popolo-v1.0.json",
         "names": "data/United_States_of_America/House/names.csv",
-        "lastmod": "1460236966",
+        "lastmod": "1460325211",
         "person_count": 1584,
-        "sha": "e65ad7d",
+        "sha": "3d3b7d9",
         "legislative_periods": [
           {
             "id": "term/114",
@@ -10070,7 +10070,7 @@
             "wikidata": "Q16146771",
             "slug": "114",
             "csv": "data/United_States_of_America/House/term-114.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e65ad7d/data/United_States_of_America/House/term-114.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3d3b7d9/data/United_States_of_America/House/term-114.csv"
           },
           {
             "end_date": "2015-01-03",
@@ -10080,7 +10080,7 @@
             "wikidata": "Q71871",
             "slug": "113",
             "csv": "data/United_States_of_America/House/term-113.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e65ad7d/data/United_States_of_America/House/term-113.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3d3b7d9/data/United_States_of_America/House/term-113.csv"
           },
           {
             "end_date": "2013-01-03",
@@ -10090,7 +10090,7 @@
             "wikidata": "Q170447",
             "slug": "112",
             "csv": "data/United_States_of_America/House/term-112.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e65ad7d/data/United_States_of_America/House/term-112.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3d3b7d9/data/United_States_of_America/House/term-112.csv"
           },
           {
             "end_date": "2011-01-03",
@@ -10100,7 +10100,7 @@
             "wikidata": "Q170375",
             "slug": "111",
             "csv": "data/United_States_of_America/House/term-111.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e65ad7d/data/United_States_of_America/House/term-111.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3d3b7d9/data/United_States_of_America/House/term-111.csv"
           },
           {
             "end_date": "2009-01-03",
@@ -10110,7 +10110,7 @@
             "wikidata": "Q170018",
             "slug": "110",
             "csv": "data/United_States_of_America/House/term-110.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e65ad7d/data/United_States_of_America/House/term-110.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3d3b7d9/data/United_States_of_America/House/term-110.csv"
           },
           {
             "end_date": "2007-01-03",
@@ -10120,7 +10120,7 @@
             "wikidata": "Q168778",
             "slug": "109",
             "csv": "data/United_States_of_America/House/term-109.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e65ad7d/data/United_States_of_America/House/term-109.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3d3b7d9/data/United_States_of_America/House/term-109.csv"
           },
           {
             "end_date": "2005-01-03",
@@ -10130,7 +10130,7 @@
             "wikidata": "Q168504",
             "slug": "108",
             "csv": "data/United_States_of_America/House/term-108.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e65ad7d/data/United_States_of_America/House/term-108.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3d3b7d9/data/United_States_of_America/House/term-108.csv"
           },
           {
             "end_date": "2003-01-03",
@@ -10140,7 +10140,7 @@
             "wikidata": "Q2057259",
             "slug": "107",
             "csv": "data/United_States_of_America/House/term-107.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e65ad7d/data/United_States_of_America/House/term-107.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3d3b7d9/data/United_States_of_America/House/term-107.csv"
           },
           {
             "end_date": "2001-01-03",
@@ -10150,7 +10150,7 @@
             "wikidata": "Q3596897",
             "slug": "106",
             "csv": "data/United_States_of_America/House/term-106.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e65ad7d/data/United_States_of_America/House/term-106.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3d3b7d9/data/United_States_of_America/House/term-106.csv"
           },
           {
             "end_date": "1999-01-03",
@@ -10160,7 +10160,7 @@
             "wikidata": "Q3596884",
             "slug": "105",
             "csv": "data/United_States_of_America/House/term-105.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e65ad7d/data/United_States_of_America/House/term-105.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3d3b7d9/data/United_States_of_America/House/term-105.csv"
           },
           {
             "end_date": "1997-01-03",
@@ -10170,7 +10170,7 @@
             "wikidata": "Q3596857",
             "slug": "104",
             "csv": "data/United_States_of_America/House/term-104.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e65ad7d/data/United_States_of_America/House/term-104.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3d3b7d9/data/United_States_of_America/House/term-104.csv"
           },
           {
             "end_date": "1995-01-03",
@@ -10180,7 +10180,7 @@
             "wikidata": "Q3556780",
             "slug": "103",
             "csv": "data/United_States_of_America/House/term-103.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e65ad7d/data/United_States_of_America/House/term-103.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3d3b7d9/data/United_States_of_America/House/term-103.csv"
           },
           {
             "end_date": "1993-01-03",
@@ -10190,7 +10190,7 @@
             "wikidata": "Q347346",
             "slug": "102",
             "csv": "data/United_States_of_America/House/term-102.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e65ad7d/data/United_States_of_America/House/term-102.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3d3b7d9/data/United_States_of_America/House/term-102.csv"
           },
           {
             "end_date": "1991-01-03",
@@ -10200,7 +10200,7 @@
             "wikidata": "Q4546373",
             "slug": "101",
             "csv": "data/United_States_of_America/House/term-101.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e65ad7d/data/United_States_of_America/House/term-101.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3d3b7d9/data/United_States_of_America/House/term-101.csv"
           },
           {
             "end_date": "1989-01-03",
@@ -10210,7 +10210,7 @@
             "wikidata": "Q4546248",
             "slug": "100",
             "csv": "data/United_States_of_America/House/term-100.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e65ad7d/data/United_States_of_America/House/term-100.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3d3b7d9/data/United_States_of_America/House/term-100.csv"
           },
           {
             "end_date": "1987-01-03",
@@ -10220,7 +10220,7 @@
             "wikidata": "Q4646349",
             "slug": "99",
             "csv": "data/United_States_of_America/House/term-99.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e65ad7d/data/United_States_of_America/House/term-99.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3d3b7d9/data/United_States_of_America/House/term-99.csv"
           },
           {
             "end_date": "1983-01-03",
@@ -10230,7 +10230,7 @@
             "wikidata": "Q4646254",
             "slug": "98",
             "csv": "data/United_States_of_America/House/term-98.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e65ad7d/data/United_States_of_America/House/term-98.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3d3b7d9/data/United_States_of_America/House/term-98.csv"
           },
           {
             "end_date": "1983-01-03",
@@ -10240,10 +10240,10 @@
             "wikidata": "Q4646187",
             "slug": "97",
             "csv": "data/United_States_of_America/House/term-97.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e65ad7d/data/United_States_of_America/House/term-97.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3d3b7d9/data/United_States_of_America/House/term-97.csv"
           }
         ],
-        "statement_count": 210959
+        "statement_count": 210968
       },
       {
         "name": "Senate",
