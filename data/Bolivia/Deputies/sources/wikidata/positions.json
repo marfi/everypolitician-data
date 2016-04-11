@@ -2,11 +2,13 @@
   "Q19545830": [
     {
       "id": "Q20081432",
-      "label": "deputy of Bolivia"
+      "label": "deputy of Bolivia",
+      "title": "deputy of Bolivia"
     },
     {
       "id": "Q20081427",
-      "label": "senator of Bolivia"
+      "label": "senator of Bolivia",
+      "title": "senator of Bolivia"
     }
   ]
 }
