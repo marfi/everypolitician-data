@@ -3,90 +3,108 @@
     {
       "id": "Q731830",
       "label": "Congregation for Bishops",
+      "title": "Congregation for Bishops",
       "qualifiers": {
         "P582": "2010-06-30"
       }
     },
     {
       "id": "Q45722",
-      "label": "cardinal"
+      "label": "cardinal",
+      "title": "cardinal"
     },
     {
       "id": "Q49476",
-      "label": "archbishop"
+      "label": "archbishop",
+      "title": "archbishop"
     },
     {
       "id": "Q29182",
-      "label": "bishop"
+      "label": "bishop",
+      "title": "bishop"
     }
   ],
   "Q712039": [
     {
       "id": "Q45722",
       "label": "cardinal",
+      "title": "cardinal",
       "qualifiers": {
         "P582": "2011-07-07"
       }
     },
     {
       "id": "Q49476",
-      "label": "archbishop"
+      "label": "archbishop",
+      "title": "archbishop"
     },
     {
       "id": "Q29182",
-      "label": "bishop"
+      "label": "bishop",
+      "title": "bishop"
     }
   ],
   "Q517279": [
     {
       "id": "Q49476",
-      "label": "archbishop"
+      "label": "archbishop",
+      "title": "archbishop"
     },
     {
       "id": "Q29182",
-      "label": "bishop"
+      "label": "bishop",
+      "title": "bishop"
     }
   ],
   "Q458202": [
     {
       "id": "Q49476",
-      "label": "archbishop"
+      "label": "archbishop",
+      "title": "archbishop"
     },
     {
       "id": "Q45722",
-      "label": "cardinal"
+      "label": "cardinal",
+      "title": "cardinal"
     },
     {
       "id": "Q29182",
-      "label": "bishop"
+      "label": "bishop",
+      "title": "bishop"
     }
   ],
   "Q654613": [
     {
       "id": "Q45722",
-      "label": "cardinal"
+      "label": "cardinal",
+      "title": "cardinal"
     },
     {
       "id": "Q49476",
-      "label": "archbishop"
+      "label": "archbishop",
+      "title": "archbishop"
     }
   ],
   "Q450310": [
     {
       "id": "Q49476",
-      "label": "archbishop"
+      "label": "archbishop",
+      "title": "archbishop"
     },
     {
       "id": "Q45722",
-      "label": "cardinal"
+      "label": "cardinal",
+      "title": "cardinal"
     },
     {
       "id": "Q29182",
-      "label": "bishop"
+      "label": "bishop",
+      "title": "bishop"
     },
     {
       "id": "Q339477",
       "label": "Camerlengo of the Holy Roman Church",
+      "title": "Camerlengo of the Holy Roman Church",
       "qualifiers": {
         "P580": "2014",
         "P1365": "Tarcisio Bertone"
@@ -94,13 +112,15 @@
     },
     {
       "id": "Q19823475",
-      "label": "prefect of the Vatican Library"
+      "label": "prefect of the Vatican Library",
+      "title": "prefect of the Vatican Library"
     }
   ],
   "Q543260": [
     {
       "id": "Q49476",
       "label": "archbishop",
+      "title": "archbishop",
       "qualifiers": {
         "P580": "1987-10-28"
       }
@@ -108,17 +128,20 @@
     {
       "id": "Q45722",
       "label": "cardinal",
+      "title": "cardinal",
       "qualifiers": {
         "P580": "2012-02-18"
       }
     },
     {
       "id": "Q29182",
-      "label": "bishop"
+      "label": "bishop",
+      "title": "bishop"
     },
     {
       "id": "Q2387238",
       "label": "President of the Pontifical Commission for Vatican City State",
+      "title": "President of the Pontifical Commission for Vatican City State",
       "qualifiers": {
         "P580": "2011-10-01"
       }
@@ -126,6 +149,7 @@
     {
       "id": "Q157037",
       "label": "nuncio",
+      "title": "nuncio (of Ghana)",
       "qualifiers": {
         "P642": "Ghana"
       }
