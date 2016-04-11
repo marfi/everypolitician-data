@@ -2,11 +2,13 @@
   "Q57421": [
     {
       "id": "Q756265",
-      "label": "President of Mongolia"
+      "label": "President of Mongolia",
+      "title": "President of Mongolia"
     },
     {
       "id": "Q903751",
       "label": "Prime Minister of Mongolia",
+      "title": "Prime Minister of Mongolia",
       "qualifiers": {
         "P580": "1998-04-23",
         "P582": "1998-12-09"
@@ -16,23 +18,27 @@
   "Q558683": [
     {
       "id": "Q903751",
-      "label": "Prime Minister of Mongolia"
+      "label": "Prime Minister of Mongolia",
+      "title": "Prime Minister of Mongolia"
     },
     {
       "id": "Q5532176",
-      "label": "General Secretary of the Central Committee of the Mongolian People's Party"
+      "label": "General Secretary of the Central Committee of the Mongolian People's Party",
+      "title": "General Secretary of the Central Committee of the Mongolian People's Party"
     }
   ],
   "Q20612062": [
     {
       "id": "Q21328637",
-      "label": "Member of the State Great Assembly of Mongolia"
+      "label": "Member of the State Great Assembly of Mongolia",
+      "title": "Member of the State Great Assembly of Mongolia"
     }
   ],
   "Q57888": [
     {
       "id": "Q903751",
       "label": "Prime Minister of Mongolia",
+      "title": "Prime Minister of Mongolia",
       "qualifiers": {
         "P580": "2012-08-10",
         "P582": "2014-11-04",
@@ -45,6 +51,7 @@
     {
       "id": "Q903751",
       "label": "Prime Minister of Mongolia",
+      "title": "Prime Minister of Mongolia",
       "qualifiers": {
         "P580": "2009-10-29",
         "P582": "2012-08-10",
