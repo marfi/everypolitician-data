@@ -2,13 +2,15 @@
   "Q4747917": [
     {
       "id": "Q83307",
-      "label": "minister"
+      "label": "minister",
+      "title": "minister"
     }
   ],
   "Q981736": [
     {
       "id": "Q4261844",
       "label": "Vice President of Zimbabwe",
+      "title": "Vice President of Zimbabwe",
       "qualifiers": {
         "P580": "2004-12-06",
         "P582": "2014-12-08"
@@ -16,7 +18,8 @@
     },
     {
       "id": "Q6867369",
-      "label": "Ministry of Media, Information and Publicity"
+      "label": "Ministry of Media, Information and Publicity",
+      "title": "Ministry of Media, Information and Publicity"
     }
   ]
 }
